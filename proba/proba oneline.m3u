@@ -12,3 +12,13 @@ http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1027.ts
 http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1028.ts
 #EXTINF:-1,Ziggo Sport Voetbal
 http://ghosttechuk.ddns.net:25461/live/carl1/carl1/734.ts
+#EXTINF:-1,Arena Sport 1
+rtmp://139.59.120.168:1935/live/arenasport1.stream
+#EXTINF:-1,Arena Sport 2
+rtmp://139.59.120.168:1935/live/arenasport2.stream
+#EXTINF:-1,Arena Sport 3
+rtmp://139.59.120.168:1935/live/arenasport3.stream
+#EXTINF:-1,Arena Sport 4
+rtmp://139.59.120.168:1935/live/arenasport4.stream
+#EXTINF:-1,Arena Sport 5
+rtmp://139.59.120.168:1935/live/arenasport5.stream
