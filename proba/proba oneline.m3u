@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Ziggo Sport Voetbal
-http://ghosttechuk.ddns.net:25461/live/carl1/carl1/734.ts
 #EXTINF:-1, SportKlub 1 HD
 http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1024.ts
 #EXTINF:-1, SportKlub 2 HD
@@ -12,5 +10,5 @@ http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1026.ts
 http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1027.ts
 #EXTINF:-1, SportKlub 5 HD
 http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1028.ts
-#EXTINF:-1, SportKlub 6 HD
-http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1029.ts
+#EXTINF:-1,Ziggo Sport Voetbal
+http://ghosttechuk.ddns.net:25461/live/carl1/carl1/734.ts
