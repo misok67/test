@@ -1,22 +1,140 @@
 #EXTM3U
 
-#EXTINF:-1, SportKlub 1 HD
-http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1024.ts
-#EXTINF:-1, SportKlub 2 HD
-http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1025.ts
-#EXTINF:-1, SportKlub 3 HD
-http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1026.ts
-#EXTINF:-1, SportKlub 4 HD
-http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1027.ts
-#EXTINF:-1, SportKlub 5 HD
-http://ghosttechuk.ddns.net:25461/live/carl1/carl1/1028.ts
-#EXTINF:-1,Ziggo Sport Voetbal
-http://ghosttechuk.ddns.net:25461/live/carl1/carl1/734.ts
-#EXTINF:-1, Футбол
-http://109.171.12.89:81/udp/239.54.6.153:1224
-#EXTINF:-1, Футбол 1 HD
-http://176.103.97.237:4022/udp/233.184.52.144:1234
-#EXTINF:-1, Футбол 2 HD
-http://176.103.97.237:4022/udp/233.184.52.145:1234
-#EXTINF:-1, Футбол 3 HD
-http://176.103.97.237:4022/udp/233.184.52.146:1234
+#EXTINF:0,SPORT KLUB 1
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/17.ts
+#EXTINF:0,Sport Klub 2
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/89.ts
+#EXTINF:0,Sport Klub 3
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/90.ts
+#EXTINF:0,SPORT KLUB 4 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/145.ts
+#EXTINF:0,SPORT KLUB 5 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1177.ts
+
+#EXTINF:0,ARENA SPORT 1
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/16.ts
+#EXTINF:0,ARENA SPORT 2
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/37.ts
+#EXTINF:0,ARENA SPORT 3 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/38.ts
+#EXTINF:0,Arena Sport 4 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/91.ts
+#EXTINF:0,ARENA SPORT 5 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1178.ts
+
+#EXTINF:0,SKY SPORTS ARENA UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1199.ts
+#EXTINF:0,SKY SPORTS FOOTBALL UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1200.ts
+#EXTINF:0,SKY SPORTS PREMIER LEAGUE UK 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1316.ts
+#EXTINF:0,SKY SPORTS ACTION UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/10.ts
+#EXTINF:0,SKY SPORTS F1 UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/321.ts
+#EXTINF:0,SKY SPORTS MAIN EVENT UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/8.ts
+#EXTINF:0,SKY SPORTS MIX UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/421.ts
+#EXTINF:0,SKY SPORTS NEWS UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/413.ts
+#EXTINF:0,BT SPORT 1 UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/12.ts
+#EXTINF:0,BT SPORT 2 UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/13.ts
+#EXTINF:0,BT SPORT 3 UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/102.ts
+#EXTINF:0,BT SPORT ESPN 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/400.ts
+#EXTINF:0,EUROSPORT 1 UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/419.ts
+#EXTINF:0,EUROSPORT 2 UK
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/420.ts
+#EXTINF:0,SKY SPORT 1 DE
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/412.ts
+#EXTINF:0,SKY SPORT 2 DE
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/67.ts
+#EXTINF:0,SPORTDIGITAL DE
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/816.ts
+#EXTINF:0,EUROSPORT DE
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/730.ts
+#EXTINF:0,EUROSPORT 2 DE
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/899.ts
+#EXTINF:0,Sky Sport News DE 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1150.ts
+
+#EXTINF:0,FOX SPORTS IT 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/285.ts
+#EXTINF:0,FOX SPORTS 2 IT 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1350.ts
+#EXTINF:0,SKY SPORT 1 IT 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/337.ts
+#EXTINF:0,Sky Sport 2 IT 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/274.ts
+#EXTINF:0,SKY SPORTS3 IT 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/335.ts
+#EXTINF:0,SKY CALCO 1 IT
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/825.ts
+#EXTINF:0,PREMIUM SPORT 2 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/896.ts
+#EXTINF:0,PREMIUM SPORT HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/23.ts
+
+#EXTINF:0,FOX SPORTS 1 NL
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/427.ts
+#EXTINF:0,FOX SPORTS 2 NL
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/127.ts
+#EXTINF:0,FOX SPORTS 3 NL
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1033.ts
+#EXTINF:0,FOX SPORTS 4 NL
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/555.ts
+#EXTINF:0,FOX SPORTS 5 NL
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/428.ts
+#EXTINF:0,FOX SPORTS 6 NL
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/626.ts
+#EXTINF:0,ZIGGO SPORT SELECT NL
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/617.ts
+
+#EXTINF:0,SLO: SPORT TV1 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1179.ts
+#EXTINF:0,SLO: SPORT TV2 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/815.ts
+
+#EXTINF:0,AR: BEIN SPORT 1 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/20.ts
+#EXTINF:0,AR: BEIN SPORT 2 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/21.ts
+#EXTINF:0,AR: BEIN SPORT 3 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/22.ts
+#EXTINF:0,AR: BEIN SPORT 4 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/34.ts
+#EXTINF:0,AR: BEIN SPORT 5 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/35.ts
+#EXTINF:0,AR: BEIN SPORT 6 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/75.ts
+#EXTINF:0,AR: BEIN SPORT 7 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/76.ts
+#EXTINF:0,AR: BEIN SPORT 8 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/77.ts
+#EXTINF:0,AR: BEINSPORT 10 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/82.ts
+#EXTINF:0,AR: BEINSPORT 11 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/83.ts
+#EXTINF:0,AR: BEIN SPORTS 12 HD 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/207.ts
+
+#EXTINF:0,SFR SPORT 1 (FR) 
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/152.ts
+#EXTINF:0,SFR SPORT 2 (FR)
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/216.ts
+#EXTINF:0,SFR SPORT 3 (FR)
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/407.ts
+#EXTINF:0,BEIN SPORT 1 (FR)
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/24.ts
+#EXTINF:0,BEIN SPORT 2 (FR)
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/73.ts
+#EXTINF:0,BEIN SPORT 3 (FR)
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/108.ts
+#EXTINF:0,CANAL + SPORT HD (FR)
+http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/74.ts
+
