@@ -1,29 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1 HD
-http://5.39.70.216:80/live/ricky123/ricky123/71.ts
-#EXTINF:-1,Sport Klub 2 HD
-http://5.39.70.216:80/live/ricky123/ricky123/72.ts
-#EXTINF:-1,Sport Klub 3 HD
-http://5.39.70.216:80/live/ricky123/ricky123/73.ts
-#EXTINF:0,SPORT KLUB 4 
-http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/145.ts
-#EXTINF:0,SPORT KLUB 5 
-http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1177.ts
+#EXTINF:-1,*Sport Klub 1 FHD
+http://ezhosting.xyz:80/live/curtis/curtis/36597.ts
+#EXTINF:-1,*Sport Klub 2 FHD
+http://ezhosting.xyz:80/live/curtis/curtis/36596.ts
+#EXTINF:-1,*Sport Klub 3 FHD
+http://ezhosting.xyz:80/live/curtis/curtis/36595.ts
+#EXTINF:-1,*Sport Klub 4 HR
+http://ezhosting.xyz:80/live/curtis/curtis/36594.ts
+#EXTINF:-1,*Sport Klub 5 HR
+http://ezhosting.xyz:80/live/curtis/curtis/36593.ts
+#EXTINF:-1,*Sport Klub 6 HR
+http://ezhosting.xyz:80/live/curtis/curtis/36592.ts
 
-#EXTINF:-1,Arena Sports 1 HD Croatian
-http://5.39.70.216:80/live/ricky123/ricky123/54.ts
-#EXTINF:-1,Arena Sports 2 HD Croatian
-http://5.39.70.216:80/live/ricky123/ricky123/55.ts
-#EXTINF:-1,Arena Sports 3 HD Croatian
-http://5.39.70.216:80/live/ricky123/ricky123/56.ts
-#EXTINF:-1,Arena Sports 4 HD Croatian
-http://5.39.70.216:80/live/ricky123/ricky123/57.ts
-#EXTINF:-1,Arena Sports 5 HD Croatian
-http://5.39.70.216:80/live/ricky123/ricky123/1747.ts
-#EXTINF:-1,Arena Sports 6 HD Croatian
-http://5.39.70.216:80/live/ricky123/ricky123/1746.ts
-
+#EXTINF:-1,Arena Sport 1
+http://ezhosting.xyz:80/live/curtis/curtis/34738.ts
+#EXTINF:-1,Arena Sport2
+http://ezhosting.xyz:80/live/curtis/curtis/34736.ts
+#EXTINF:-1,Arena Sport 3
+http://ezhosting.xyz:80/live/curtis/curtis/34734.ts
+#EXTINF:-1,Arena Sport 4
+http://ezhosting.xyz:80/live/curtis/curtis/34732.ts
+#EXTINF:-1,Arena Sport 5
+http://ezhosting.xyz:80/live/curtis/curtis/34731.ts
+#EXTINF:-1,Arena Sport 6
+http://ezhosting.xyz:80/live/curtis/curtis/43769.ts
 
 #EXTINF:0,SKY SPORTS ARENA UK
 http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1199.ts
