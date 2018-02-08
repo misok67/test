@@ -1,29 +1,28 @@
 #EXTM3U
 
-#EXTINF:0,SPORT KLUB 1
-http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/17.ts
-#EXTINF:0,Sport Klub 2
-http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/89.ts
-#EXTINF:0,Sport Klub 3
-http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/90.ts
+#EXTINF:-1,Sport Klub 1 HD
+http://5.39.70.216:80/live/ricky123/ricky123/71.ts
+#EXTINF:-1,Sport Klub 2 HD
+http://5.39.70.216:80/live/ricky123/ricky123/72.ts
+#EXTINF:-1,Sport Klub 3 HD
+http://5.39.70.216:80/live/ricky123/ricky123/73.ts
 #EXTINF:0,SPORT KLUB 4 
 http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/145.ts
 #EXTINF:0,SPORT KLUB 5 
 http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1177.ts
 
-#EXTINF:0,ARENA SPORT 1
-http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/16.ts
-#EXTINF:0,ARENA SPORT 2
-http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/37.ts
-#EXTINF:0,ARENA SPORT 3 
-http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/38.ts
-#EXTINF:0,Arena Sport 4 
-http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/91.ts
-#EXTINF:0,ARENA SPORT 5 
-http://ip.clientmarket.top:8080/live/mkermali99@gmail.com/mkermali99@gmail.com/1178.ts
-
-#EXTINF:0,ARENA SPORT 5 
-rtmp://139.59.120.168:1935/live/arenasport5.stream
+#EXTINF:-1,Arena Sports 1 HD Croatian
+http://5.39.70.216:80/live/ricky123/ricky123/54.ts
+#EXTINF:-1,Arena Sports 2 HD Croatian
+http://5.39.70.216:80/live/ricky123/ricky123/55.ts
+#EXTINF:-1,Arena Sports 3 HD Croatian
+http://5.39.70.216:80/live/ricky123/ricky123/56.ts
+#EXTINF:-1,Arena Sports 4 HD Croatian
+http://5.39.70.216:80/live/ricky123/ricky123/57.ts
+#EXTINF:-1,Arena Sports 5 HD Croatian
+http://5.39.70.216:80/live/ricky123/ricky123/1747.ts
+#EXTINF:-1,Arena Sports 6 HD Croatian
+http://5.39.70.216:80/live/ricky123/ricky123/1746.ts
 
 
 #EXTINF:0,SKY SPORTS ARENA UK
