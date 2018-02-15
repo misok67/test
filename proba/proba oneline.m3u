@@ -1,29 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1,*Sport Klub 1 FHD
-http://ezhosting.xyz:80/live/curtis/curtis/36597.ts
-#EXTINF:-1,*Sport Klub 2 FHD
-http://ezhosting.xyz:80/live/curtis/curtis/36596.ts
-#EXTINF:-1,*Sport Klub 3 FHD
-http://ezhosting.xyz:80/live/curtis/curtis/36595.ts
-#EXTINF:-1,*Sport Klub 4 HR
-http://ezhosting.xyz:80/live/curtis/curtis/36594.ts
-#EXTINF:-1,*Sport Klub 5 HR
-http://ezhosting.xyz:80/live/curtis/curtis/36593.ts
-#EXTINF:-1,*Sport Klub 6 HR
-http://ezhosting.xyz:80/live/curtis/curtis/36592.ts
-#EXTINF:-1,Arena Sport 1
-http://ezhosting.xyz:80/live/curtis/curtis/34738.ts
-#EXTINF:-1,Arena Sport2
-http://ezhosting.xyz:80/live/curtis/curtis/34736.ts
-#EXTINF:-1,Arena Sport 3
-http://ezhosting.xyz:80/live/curtis/curtis/34734.ts
-#EXTINF:-1,Arena Sport 4
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2199.ts
-#EXTINF:-1,Arena Sport 5
-http://ezhosting.xyz:80/live/curtis/curtis/34731.ts
-#EXTINF:-1,Arena Sport 6
-http://ezhosting.xyz:80/live/curtis/curtis/43769.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 1
+http://orbit-iptv.com:2500/live/777787777/777787777/1967.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 2" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 2
+http://orbit-iptv.com:2500/live/777787777/777787777/1968.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT KLUB 3" tvg-logo="" group-title="EX-YU",EX-YU: SPORT KLUB 3
+http://orbit-iptv.com:2500/live/777787777/777787777/2100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: SPORT KLUB 4 HD" tvg-logo="" group-title="EX-YU",Ex-Yu: SPORT KLUB 4 HD
+http://orbit-iptv.com:2500/live/777787777/777787777/3678.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: SPORT KLUB 5 HD" tvg-logo="" group-title="EX-YU",Ex-Yu: SPORT KLUB 5 HD
+http://orbit-iptv.com:2500/live/777787777/777787777/3679.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 1 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 1 HR
+http://orbit-iptv.com:2500/live/777787777/777787777/1543.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 2 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 2 HR
+http://orbit-iptv.com:2500/live/777787777/777787777/1544.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 3 HR" tvg-logo="" group-title="Albania",EX-YU: ARENA SPORT 3 HR
+http://orbit-iptv.com:2500/live/777787777/777787777/1545.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 4 HR" tvg-logo="" group-title="Albania",EX-YU: ARENA SPORT 4 HR
+http://orbit-iptv.com:2500/live/777787777/777787777/1546.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 5 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 5 HR
+http://orbit-iptv.com:2500/live/777787777/777787777/1547.ts
+
 #EXTINF:-1,UK| Eurosport 1 FHD
 http://ezhosting.xyz:80/live/curtis/curtis/44830.ts
 #EXTINF:-1,UK| Eurosport 2 FHD
@@ -200,10 +197,10 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
 #EXTINF:-1,MySports 3 HD
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
 
-#EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" HBO HD
+#EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png", HBO HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1151.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
 
-#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" HBO 2 HD
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png", HBO 2 HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1152.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
 
 #EXTINF:-1 tvg-id="HBO3" tvg-link="http://eog.nextgen-iptv.com/epg.xml" tvg-name="HBO 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Hbo_3_hd.png/revision/latest?cb=20160331174701" ,HBO 3 HD
