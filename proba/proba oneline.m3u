@@ -199,102 +199,196 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28316.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
 #EXTINF:-1,MySports 3 HD
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
-#EXTINF:-1,HBO HD
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/721.ts
-#EXTINF:-1,HBO 2 HD
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2194.ts
-#EXTINF:-1,HBO 3 HD
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2195.ts
-#EXTINF:-1,CINESTAR ACTION
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2045.ts
-#EXTINF:-1,CINESTAR PREMIERE 1 HD
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2046.ts
-#EXTINF:-1,CINESTAR PREMIERE 2 HD
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2047.ts
-#EXTINF:-1,CINEMANIA
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/500.ts
-#EXTINF:-1,Fox Movies
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2082.ts
-#EXTINF:-1,Fox Life
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2083.ts
-#EXTINF:-1,Fox Crime
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2081.ts
-#EXTINF:-1,Klasik TV.
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/1265.ts
 
-#EXTINF:-1,HBO ADRIA
-http://tv-rocket.com:8000/live/Paolo/Paolo/34300.ts
-#EXTINF:-1, HBO 2
-http://tv-rocket.com:8000/live/Paolo/Paolo/34299.ts
-#EXTINF:-1,HBO 3
-http://tv-rocket.com:8000/live/Paolo/Paolo/34296.ts
-#EXTINF:-1,HBO ADRIA
-http://tv-rocket.com:8000/live/Paolo/Paolo/34228.ts
-#EXTINF:-1,HBO COMEDY
-http://tv-rocket.com:8000/live/Paolo/Paolo/34301.ts
-#EXTINF:-1,HBO HD
-http://tv-rocket.com:8000/live/Paolo/Paolo/34295.ts
-#EXTINF:-1,HBO HD 2
-http://tv-rocket.com:8000/live/Paolo/Paolo/34298.ts
-#EXTINF:-1,HBO 2 SLO
-http://tv-rocket.com:8000/live/Paolo/Paolo/34297.ts
+#EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" HBO HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1151.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
 
-#EXTINF:-1, CINEMAX-1
-http://tv-rocket.com:8000/live/Paolo/Paolo/34308.ts
-#EXTINF:-1, CINEMAX-2
-http://tv-rocket.com:8000/live/Paolo/Paolo/34307.ts
-#EXTINF:-1,CINESTAR ACTION
-http://tv-rocket.com:8000/live/Paolo/Paolo/34305.ts
-#EXTINF:-1,CINESTAR PREMIER 1
-http://tv-rocket.com:8000/live/Paolo/Paolo/34312.ts
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://tv-rocket.com:8000/live/Paolo/Paolo/34313.ts
-#EXTINF:-1, CINESTAR PREMIERE 2
-http://tv-rocket.com:8000/live/Paolo/Paolo/34311.ts
-#EXTINF:-1,CINESTAR PREMIER 2
-http://tv-rocket.com:8000/live/Paolo/Paolo/34310.ts
-#EXTINF:-1,CINEMAX HD
-http://tv-rocket.com:8000/live/Paolo/Paolo/34309.ts
-#EXTINF:-1,FILMBOX EXTRA
-http://tv-rocket.com:8000/live/Paolo/Paolo/34303.ts
-#EXTINF:-1,FOX
-http://tv-rocket.com:8000/live/Paolo/Paolo/34317.ts
-#EXTINF:-1,FOX CRIME
-http://tv-rocket.com:8000/live/Paolo/Paolo/34314.ts
-#EXTINF:-1,FOX MOVIES
-http://tv-rocket.com:8000/live/Paolo/Paolo/34316.ts
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" HBO 2 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1152.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
 
-#EXTINF:-1, CINESTAR TV
-http://tv-rocket.com:8000/live/Paolo/Paolo/34306.ts
-#EXTINF:-1,EX-YU : KLASIK TV
-http://tv-rocket.com:8000/live/Paolo/Paolo/34253.ts
-#EXTINF:-1,KLASIK TV
-http://tv-rocket.com:8000/live/Paolo/Paolo/34254.ts
-#EXTINF:-1,KSPORT NOVI FILM 1
-http://tv-rocket.com:8000/live/Paolo/Paolo/34140.ts
-#EXTINF:-1,MGM
-http://tv-rocket.com:8000/live/Paolo/Paolo/34179.ts
-#EXTINF:-1,TV 1000
-http://tv-rocket.com:8000/live/Paolo/Paolo/34211.ts
+#EXTINF:-1 tvg-id="HBO3" tvg-link="http://eog.nextgen-iptv.com/epg.xml" tvg-name="HBO 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Hbo_3_hd.png/revision/latest?cb=20160331174701" ,HBO 3 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1153.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
 
+#EXTINF:-1 tvg-id="CinestarPremiere1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere1_HR.png" ,Cinestar Premiere 1
+http://orbit-iptv.com:2500/live/777787777/777787777/1948.ts
+
+#EXTINF:-1 tvg-id="CinestarPremiere2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere 2" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere2_HR.png" ,Cinestar Premiere 2
+http://orbit-iptv.com:2500/live/777787777/777787777/1949.ts
+
+#EXTINF:-1 tvg-id="CineStarAT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Action & Thriller" tvg-logo="http://nextgen-iptv.com/logo/CineStarAction_HR.png" ,Cinestar Action
+http://orbit-iptv.com:2500/live/777787777/777787777/1947.ts
+
+#EXTINF:-1 tvg-ID="CineStar Fantasy" tvg-name="Cinestar Fantasy" tvg-logo="https://sbb.rs/oec/images/tv_channels/b1496b6ff58fdc7d0b4cd6708c3ff89c.png" Cinestar Fantasy
+
+#EXTINF:-1 tvg-ID="Cinemax 1" tvg-name="Cinemax 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/web/AVD-4716_CINEMAX_logo_440x300._V529164443_.jpg" ,Cinemax 1 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1218.m3u8|User-Agent=Online TV Android Clients 
+#EXTINF:-1 tvg-ID="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Cinemax2_new_large.preview.jpg/revision/latest/scale-to-width-down/276?cb=20160721180356" ,Cinemax 2 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1219.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-ID="SciFi" tvg-name="Sci Fi" tvg-logo="http://onlyagame.typepad.com/.a/6a00d83452030269e2013488790d81970c-800wi" ,SciFi
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1171.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1 tvg-ID="M1 Film" tvg-name="M1 Film" tvg-logo="http://tvprofil.net/img/kanali-logo/m1film-logo.png" ,M1 Film
+http://en-joy.cc:8000/live/balz2/2eUgZZCv1A/80857.ts
+
+#EXTINF:-1 tvg-ID="FilmBox" tvg-name="FilmBox" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/FilmBox_Extra_HD.png/revision/latest?cb=20161213135724" FilmBox Extra HD
+http://46.40.5.99:8000/filmbox_extra_high
+#EXTINF:-1 tvg-ID="FilmBoxPlus" tvg-name="FilmBox Plus" tvg-logo="http://tvprofil.net/img/kanali-logo/filmbox_plus_cz.png" FilmBox Plus
+http://46.40.5.99:8000/filmbox_plus_high
+#EXTINF:-1 tvg-ID="Film Klub" tvg-name="Film Klub" tvg-logo="http://filmklub.rs/img/logo-fk.png" Film Klub
+#EXTINF:-1,Cinestar Tv
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: CINESTAR TV" tvg-logo="" group-title="EX-YU" CINESTAR TV
+http://orbit-iptv.com:2500/live/777787777/777787777/1950.ts
+
+
+
+#EXTINF:0,HBO
+http://cdn.iptv.amis.net/ts/HBO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,HBO 2
+http://cdn.iptv.amis.net/ts/HBOC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,HBO 3
+http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:0,Klasik TV
+http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,FOX (slo)
+http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,FOX LIFE (slo)
+http://cdn.iptv.amis.net/LIVE/FoxLife/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,FOX MOVIES (slo)
+http://cdn.iptv.amis.net/ts/FOXMOVIES/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,FOX Crime (slo)
+http://cdn.iptv.amis.net/LIVE/FoxCrime/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,AMC
+http://cdn.iptv.amis.net/LIVE/MGM/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:0,TV 1000
+http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:0,Sci-fi
+http://cdn.iptv.amis.net/ts/SCI_FI/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:0,HRT 1 
+http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,HRT 2
+http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Rtl
+http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
+#EXTINF:0,Rtl 2
+http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playlist.m3u8
+#EXTINF:0,SLO 1
+http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,SLO 2
+http://cdn.iptv.amis.net/LIVE/Slo2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia
+#EXTINF:0,POP TV
+http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Planet TV
+http://cdn.iptv.amis.net/ts/PlanetTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,POP Kino
+http://cdn.iptv.amis.net/ts/PopKino/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Brio
+http://cdn.iptv.amis.net/ts/Brio/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,TV3 Medias
+http://cdn.iptv.amis.net/ts/PinkTV3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Kanal A
+http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,DIVA
+http://cdn.iptv.amis.net/ts/Hallmark/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+
+
+#EXTINF:-1,RTS 1
+http://195.252.68.245:1935/KLIKTV_2/smil:pink81.mf.smil/playlist.m3u8
+#EXTINF:-1,RTS 2
+http://195.252.68.245:1935/KLIKTV_2/smil:pink82.mf.smil/playlist.m3u8
+#EXTINF:-1,RTS 3
+http://195.252.68.245:1935/KLIKTV_2/smil:pink105.mf.smil/playlist.m3u8
+#EXTINF:-1,Studio B
+http://195.252.68.245:1935/KLIKTV_2/smil:pink94.mf.smil/playlist.m3u8
+#EXTINF:-1,TV S
+http://195.252.68.245:1935/KLIKTV_2/smil:pink164.mf.smil/playlist.m3u8
+#EXTINF:-1,Vojvodina 1
+http://195.252.68.245:1935/KLIKTV_2/smil:pink79.mf.smil/playlist.m3u8
+#EXTINF:-1,Vojvodina 2
+http://195.252.68.245:1935/KLIKTV_2/smil:pink107.mf.smil/playlist.m3u8
 
 #EXTINF:-1,Pink Film
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/691.ts
-#EXTINF:-1,Pink Premium
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/681.ts
+http://195.252.68.245:1935/KLIKTV_2/smil:pink25.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Classic
+http://195.252.68.245:1935/KLIKTV_2/smil:pink41.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Film
+http://195.252.68.245:1935/KLIKTV_2/smil:pink25.mf.smil/playlist.m3u8
 #EXTINF:-1,Pink Movies
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/1775.ts
+http://195.252.68.245:1935/KLIKTV_2/smil:pink24.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink Romance
+http://195.252.68.245:1935/KLIKTV_2/smil:pink4.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink SCI Fantasy
+http://195.252.68.245:1935/KLIKTV_2/smil:pink5.mf.smil/playlist.m3u8
 #EXTINF:-1,Pink Thriller
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/689.ts
-#EXTINF:-1,Pink Comedy
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/684.ts
+http://195.252.68.245:1935/KLIKTV_2/smil:pink2.mf.smil/playlist.m3u8
 #EXTINF:-1,Pink Western
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/768.ts
-#EXTINF:-1,PINK ACTION
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/1773.ts
-#EXTINF:-1,RTCG
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/770.ts
-#EXTINF:-1,Novi Pazar
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2184.ts
-#EXTINF:-1,STUDIO B
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/676.ts
+http://195.252.68.245:1935/KLIKTV_2/smil:pink40.mf.smil/playlist.m3u8
+#EXTINF:-1,Pink World Cinema
+http://195.252.68.245:1935/KLIKTV_2/smil:pink49.mf.smil/playlist.m3u8
+
+
+
+#EXTINF:0,National Geographic (slo)
+http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:0,Nat Geo Wild (slo)
+http://cdn.iptv.amis.net/ts/NGCWild/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Nat Geo Wild (slo)
+http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,DISCOVERY (slo)
+http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,DISCOVERY ID (slo)
+http://cdn.iptv.amis.net/ts/DISCIDX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,E! (slo)
+http://cdn.iptv.amis.net/ts/EEUROPE/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Animal Planet (slo)
+http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Travel Channel (slo) 
+http://cdn.iptv.amis.net/ts/Travel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,History Channel (slo)
+http://cdn.iptv.amis.net/ts/HistoryChannel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Viasat History (slo)
+http://cdn.iptv.amis.net/ts/History/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+
+#EXTINF:-1,ORF1
+http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,ORF2
+http://cdn.iptv.amis.net/ts/ORF2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,ORF1 (vpn austria)
+http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1,ORF2 (vpn austria)
+http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1,ORF3 (vpn austria)
+http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1,PRO 7
+http://cdn.iptv.amis.net/ts/Pro7/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,RTL DE
+http://cdn.iptv.amis.net/ts/RTL/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,RTL 2 DE
+http://cdn.iptv.amis.net/ts/RTL2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,SAT1 DE
+http://cdn.iptv.amis.net/LIVE/SAT1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,ZDF DE
+http://cdn.iptv.amis.net/LIVE/ZDF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,VOX DE
+http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+
+#EXTINF:-1,==== Strani filnm =====
+
+#EXTINF:-1,US | CINEMAX HD
+http://p4.giffy.be:8080/live/dennis/dennis/20976.ts
+#EXTINF:-1,US | CINEMAX THRILLERMAX HD
+http://p4.giffy.be:8080/live/dennis/dennis/20974.ts
+#EXTINF:-1,US | HBO SIGNATURE HD
+http://p4.giffy.be:8080/live/dennis/dennis/20962.ts
+#EXTINF:-1,US | HBO ZONE HD
+http://p4.giffy.be:8080/live/dennis/dennis/20961.ts
+#EXTINF:-1,US | EPIX HD
+http://p4.giffy.be:8080/live/dennis/dennis/20969.ts
+#EXTINF:-1,US | HGTV HD
+http://p4.giffy.be:8080/live/dennis/dennis/25232.ts
