@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 1
+#EXTINF:-1 tvg-id="" tvg-name="  Sport Klub 1" tvg-logo="" group-title="",  Sport Klub 1
 http://orbit-iptv.com:2500/live/777787777/777787777/1967.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 2" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 2
+#EXTINF:-1 tvg-id="" tvg-name="  Sport Klub 2" tvg-logo="" group-title="",  Sport Klub 2
 http://orbit-iptv.com:2500/live/777787777/777787777/1968.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT KLUB 3" tvg-logo="" group-title="EX-YU",EX-YU: SPORT KLUB 3
+#EXTINF:-1 tvg-id="" tvg-name="  SPORT KLUB 3" tvg-logo="" group-title="",  SPORT KLUB 3
 http://orbit-iptv.com:2500/live/777787777/777787777/2100.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: SPORT KLUB 4 HD" tvg-logo="" group-title="EX-YU",Ex-Yu: SPORT KLUB 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="  SPORT KLUB 4 HD" tvg-logo="" group-title="",  SPORT KLUB 4 HD
 http://orbit-iptv.com:2500/live/777787777/777787777/3678.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: SPORT KLUB 5 HD" tvg-logo="" group-title="EX-YU",Ex-Yu: SPORT KLUB 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="  SPORT KLUB 5 HD" tvg-logo="" group-title="",  SPORT KLUB 5 HD
 http://orbit-iptv.com:2500/live/777787777/777787777/3679.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 1 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 1 HR
+#EXTINF:-1 tvg-id="" tvg-name="  ARENA SPORT 1 HR" tvg-logo="" group-title="",  ARENA SPORT 1 HR
 http://orbit-iptv.com:2500/live/777787777/777787777/1543.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 2 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 2 HR
+#EXTINF:-1 tvg-id="" tvg-name="  ARENA SPORT 2 HR" tvg-logo="" group-title="",  ARENA SPORT 2 HR
 http://orbit-iptv.com:2500/live/777787777/777787777/1544.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 3 HR" tvg-logo="" group-title="Albania",EX-YU: ARENA SPORT 3 HR
+#EXTINF:-1 tvg-id="" tvg-name="  ARENA SPORT 3 HR" tvg-logo="" group-title="",  ARENA SPORT 3 HR
 http://orbit-iptv.com:2500/live/777787777/777787777/1545.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 4 HR" tvg-logo="" group-title="Albania",EX-YU: ARENA SPORT 4 HR
+#EXTINF:-1 tvg-id="" tvg-name="  ARENA SPORT 4 HR" tvg-logo="" group-title="",  ARENA SPORT 4 HR
 http://orbit-iptv.com:2500/live/777787777/777787777/1546.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 5 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 5 HR
+#EXTINF:-1 tvg-id="" tvg-name="  ARENA SPORT 5 HR" tvg-logo="" group-title="",  ARENA SPORT 5 HR
 http://orbit-iptv.com:2500/live/777787777/777787777/1547.ts
 
 #EXTINF:-1,UK| Eurosport 1 FHD
@@ -192,9 +192,13 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28348.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,MySports 1 HD
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28316.ts
-#EXTINF:-1,MySports 2 HD
+#EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
-#EXTINF:-1,MySports 3 HD
+#EXTINF:-1,*****
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
+#EXTINF:-1,******
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
+#EXTINF:-1,*****
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
 
 #EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png", HBO HD
@@ -221,18 +225,14 @@ http://orbit-iptv.com:2500/live/777787777/777787777/1947.ts
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1218.m3u8|User-Agent=Online TV Android Clients 
 #EXTINF:-1 tvg-ID="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Cinemax2_new_large.preview.jpg/revision/latest/scale-to-width-down/276?cb=20160721180356" ,Cinemax 2 HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1219.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
-#EXTINF:-1 tvg-ID="SciFi" tvg-name="Sci Fi" tvg-logo="http://onlyagame.typepad.com/.a/6a00d83452030269e2013488790d81970c-800wi" ,SciFi
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1171.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
-#EXTINF:-1 tvg-ID="M1 Film" tvg-name="M1 Film" tvg-logo="http://tvprofil.net/img/kanali-logo/m1film-logo.png" ,M1 Film
-http://en-joy.cc:8000/live/balz2/2eUgZZCv1A/80857.ts
 
-#EXTINF:-1 tvg-ID="FilmBox" tvg-name="FilmBox" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/FilmBox_Extra_HD.png/revision/latest?cb=20161213135724" FilmBox Extra HD
+#EXTINF:-1 , FilmBox Extra HD
 http://46.40.5.99:8000/filmbox_extra_high
-#EXTINF:-1 tvg-ID="FilmBoxPlus" tvg-name="FilmBox Plus" tvg-logo="http://tvprofil.net/img/kanali-logo/filmbox_plus_cz.png" FilmBox Plus
+#EXTINF:-1 , FilmBox Plus
 http://46.40.5.99:8000/filmbox_plus_high
 #EXTINF:-1 tvg-ID="Film Klub" tvg-name="Film Klub" tvg-logo="http://filmklub.rs/img/logo-fk.png" Film Klub
 #EXTINF:-1,Cinestar Tv
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: CINESTAR TV" tvg-logo="" group-title="EX-YU" CINESTAR TV
+#EXTINF:-1 tvg-id="" tvg-name="  CINESTAR TV" tvg-logo="" group-title="" CINESTAR TV
 http://orbit-iptv.com:2500/live/777787777/777787777/1950.ts
 
 
