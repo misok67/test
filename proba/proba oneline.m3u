@@ -197,6 +197,8 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28316.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
+#EXTINF:-1,******
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
 
 #EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png", HBO HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1151.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
@@ -310,8 +312,6 @@ http://195.252.68.245:1935/KLIKTV_2/smil:pink107.mf.smil/playlist.m3u8
 http://195.252.68.245:1935/KLIKTV_2/smil:pink25.mf.smil/playlist.m3u8
 #EXTINF:-1,Pink Classic
 http://195.252.68.245:1935/KLIKTV_2/smil:pink41.mf.smil/playlist.m3u8
-#EXTINF:-1,Pink Film
-http://195.252.68.245:1935/KLIKTV_2/smil:pink25.mf.smil/playlist.m3u8
 #EXTINF:-1,Pink Movies
 http://195.252.68.245:1935/KLIKTV_2/smil:pink24.mf.smil/playlist.m3u8
 #EXTINF:-1,Pink Romance
