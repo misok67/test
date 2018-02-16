@@ -1,26 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="  Sport Klub 1" tvg-logo="" group-title="",  Sport Klub 1
-http://orbit-iptv.com:2500/live/777787777/777787777/1967.ts
-#EXTINF:-1 tvg-id="" tvg-name="  Sport Klub 2" tvg-logo="" group-title="",  Sport Klub 2
-http://orbit-iptv.com:2500/live/777787777/777787777/1968.ts
-#EXTINF:-1 tvg-id="" tvg-name="  SPORT KLUB 3" tvg-logo="" group-title="",  SPORT KLUB 3
-http://orbit-iptv.com:2500/live/777787777/777787777/2100.ts
-#EXTINF:-1 tvg-id="" tvg-name="  SPORT KLUB 4 HD" tvg-logo="" group-title="",  SPORT KLUB 4 HD
-http://orbit-iptv.com:2500/live/777787777/777787777/3678.ts
-#EXTINF:-1 tvg-id="" tvg-name="  SPORT KLUB 5 HD" tvg-logo="" group-title="",  SPORT KLUB 5 HD
-http://orbit-iptv.com:2500/live/777787777/777787777/3679.ts
-#EXTINF:-1 tvg-id="" tvg-name="  ARENA SPORT 1 HR" tvg-logo="" group-title="",  ARENA SPORT 1 HR
-http://orbit-iptv.com:2500/live/777787777/777787777/1543.ts
-#EXTINF:-1 tvg-id="" tvg-name="  ARENA SPORT 2 HR" tvg-logo="" group-title="",  ARENA SPORT 2 HR
-http://orbit-iptv.com:2500/live/777787777/777787777/1544.ts
-#EXTINF:-1 tvg-id="" tvg-name="  ARENA SPORT 3 HR" tvg-logo="" group-title="",  ARENA SPORT 3 HR
-http://orbit-iptv.com:2500/live/777787777/777787777/1545.ts
-#EXTINF:-1 tvg-id="" tvg-name="  ARENA SPORT 4 HR" tvg-logo="" group-title="",  ARENA SPORT 4 HR
-http://orbit-iptv.com:2500/live/777787777/777787777/1546.ts
-#EXTINF:-1 tvg-id="" tvg-name="  ARENA SPORT 5 HR" tvg-logo="" group-title="",  ARENA SPORT 5 HR
-http://orbit-iptv.com:2500/live/777787777/777787777/1547.ts
-
+#EXTINF:-1,Sport Klub 1
+http://ezhosting.xyz:80/live/eddie/eddie/36597.ts
+#EXTINF:-1,Sport Klub 2
+http://ezhosting.xyz:80/live/eddie/eddie/36596.ts
+#EXTINF:-1,Sport Klub 3
+http://ezhosting.xyz:80/live/eddie/eddie/36595.ts
+#EXTINF:-1,Sport Klub 4
+http://ezhosting.xyz:80/live/eddie/eddie/36594.ts
+#EXTINF:-1,Sport Klub 5
+http://ezhosting.xyz:80/live/eddie/eddie/36593.ts
+#EXTINF:-1,Sport Klub 6
+http://ezhosting.xyz:80/live/eddie/eddie/36592.ts
+#EXTINF:-1,Arena Sport 1
+http://ezhosting.xyz:80/live/eddie/eddie/34738.ts
+#EXTINF:-1,Arena Sport 2
+http://ezhosting.xyz:80/live/eddie/eddie/34736.ts
+#EXTINF:-1,Arena Sport 3
+http://ezhosting.xyz:80/live/eddie/eddie/34734.ts
+#EXTINF:-1,Arena Sport 4
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29722.ts
+#EXTINF:-1,Arena Sport 5
+http://ezhosting.xyz:80/live/eddie/eddie/34731.ts
+#EXTINF:-1,Arena Sport 6
+http://ezhosting.xyz:80/live/eddie/eddie/43769.ts
 #EXTINF:-1,UK| Eurosport 1 FHD
 http://ezhosting.xyz:80/live/curtis/curtis/44830.ts
 #EXTINF:-1,UK| Eurosport 2 FHD
@@ -188,18 +191,12 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/2513.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/26753.ts
 #EXTINF:-1,Mosaico MySports UPC
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28348.ts
-#EXTINF:-1,MySports HD
+#EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,MySports 1 HD
+#EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28316.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
-#EXTINF:-1,*****
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
-#EXTINF:-1,*****
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
 
 #EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png", HBO HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1151.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
@@ -211,15 +208,16 @@ http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1152.m3u8|User-Agent=O
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1153.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
 
 #EXTINF:-1 tvg-id="CinestarPremiere1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere1_HR.png" ,Cinestar Premiere 1
-http://orbit-iptv.com:2500/live/777787777/777787777/1950.ts
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29704.ts
 
 #EXTINF:-1 tvg-id="CinestarPremiere2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere 2" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere2_HR.png" ,Cinestar Premiere 2
-http://orbit-iptv.com:2500/live/777787777/777787777/1949.ts
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29701.ts
 
 #EXTINF:-1 tvg-id="CineStarAT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Action & Thriller" tvg-logo="http://nextgen-iptv.com/logo/CineStarAction_HR.png" ,Cinestar Action
-http://orbit-iptv.com:2500/live/777787777/777787777/1947.ts
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29702.ts
 
-#EXTINF:-1 tvg-ID="CineStar Fantasy" tvg-name="Cinestar Fantasy" tvg-logo="https://sbb.rs/oec/images/tv_channels/b1496b6ff58fdc7d0b4cd6708c3ff89c.png" Cinestar Fantasy
+#EXTINF:-1 tvg-ID="CineStar Fantasy" tvg-name="Cinestar Fantasy" tvg-logo="https://sbb.rs/oec/images/tv_channels/b1496b6ff58fdc7d0b4cd6708c3ff89c.png", Cinestar Fantasy
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29703.ts
 
 #EXTINF:-1 tvg-ID="Cinemax 1" tvg-name="Cinemax 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/web/AVD-4716_CINEMAX_logo_440x300._V529164443_.jpg" ,Cinemax 1 HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1218.m3u8|User-Agent=Online TV Android Clients 
@@ -265,6 +263,11 @@ http://cdn.iptv.amis.net/ts/SCI_FI/stream_wifi_1200k.m3u8|User-Agent="AppleCoreM
 http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,HRT 2
 http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:-1,HRT 3
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1157.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+
+
 #EXTINF:0,Rtl
 http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
 #EXTINF:0,Rtl 2
@@ -296,10 +299,6 @@ http://195.252.68.245:1935/KLIKTV_2/smil:pink81.mf.smil/playlist.m3u8
 http://195.252.68.245:1935/KLIKTV_2/smil:pink82.mf.smil/playlist.m3u8
 #EXTINF:-1,RTS 3
 http://195.252.68.245:1935/KLIKTV_2/smil:pink105.mf.smil/playlist.m3u8
-#EXTINF:-1,Studio B
-http://195.252.68.245:1935/KLIKTV_2/smil:pink94.mf.smil/playlist.m3u8
-#EXTINF:-1,TV S
-http://195.252.68.245:1935/KLIKTV_2/smil:pink164.mf.smil/playlist.m3u8
 #EXTINF:-1,Vojvodina 1
 http://195.252.68.245:1935/KLIKTV_2/smil:pink79.mf.smil/playlist.m3u8
 #EXTINF:-1,Vojvodina 2
@@ -372,18 +371,3 @@ http://cdn.iptv.amis.net/LIVE/ZDF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMe
 #EXTINF:0,VOX DE
 http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-
-#EXTINF:-1,==== Strani filnm =====
-
-#EXTINF:-1,US | CINEMAX HD
-http://p4.giffy.be:8080/live/dennis/dennis/20976.ts
-#EXTINF:-1,US | CINEMAX THRILLERMAX HD
-http://p4.giffy.be:8080/live/dennis/dennis/20974.ts
-#EXTINF:-1,US | HBO SIGNATURE HD
-http://p4.giffy.be:8080/live/dennis/dennis/20962.ts
-#EXTINF:-1,US | HBO ZONE HD
-http://p4.giffy.be:8080/live/dennis/dennis/20961.ts
-#EXTINF:-1,US | EPIX HD
-http://p4.giffy.be:8080/live/dennis/dennis/20969.ts
-#EXTINF:-1,US | HGTV HD
-http://p4.giffy.be:8080/live/dennis/dennis/25232.ts
