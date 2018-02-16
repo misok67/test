@@ -201,13 +201,13 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
 
 #EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png", HBO HD
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1151.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+http://iptv.iptvthebest.net:15000/live/tgsjkqxf/wl0s7e8S9C/21897.ts
 
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png", HBO 2 HD
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1152.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+http://iptv.iptvthebest.net:15000/live/tgsjkqxf/wl0s7e8S9C/21900.ts
 
 #EXTINF:-1 tvg-id="HBO3" tvg-link="http://eog.nextgen-iptv.com/epg.xml" tvg-name="HBO 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Hbo_3_hd.png/revision/latest?cb=20160331174701" ,HBO 3 HD
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1153.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+http://iptv.iptvthebest.net:15000/live/tgsjkqxf/wl0s7e8S9C/21898.ts
 
 #EXTINF:-1 tvg-ID="Cinemax 1" tvg-name="Cinemax 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/web/AVD-4716_CINEMAX_logo_440x300._V529164443_.jpg" ,Cinemax 1 HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1218.m3u8|User-Agent=Online TV Android Clients 
@@ -373,3 +373,12 @@ http://cdn.iptv.amis.net/LIVE/ZDF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMe
 #EXTINF:0,VOX DE
 http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
+
+#EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png", HBO HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1151.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png", HBO 2 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1152.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+
+#EXTINF:-1 tvg-id="HBO3" tvg-link="http://eog.nextgen-iptv.com/epg.xml" tvg-name="HBO 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Hbo_3_hd.png/revision/latest?cb=20160331174701" ,HBO 3 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1153.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
