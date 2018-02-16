@@ -207,22 +207,24 @@ http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1152.m3u8|User-Agent=O
 #EXTINF:-1 tvg-id="HBO3" tvg-link="http://eog.nextgen-iptv.com/epg.xml" tvg-name="HBO 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Hbo_3_hd.png/revision/latest?cb=20160331174701" ,HBO 3 HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1153.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
 
+#EXTINF:-1 tvg-ID="Cinemax 1" tvg-name="Cinemax 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/web/AVD-4716_CINEMAX_logo_440x300._V529164443_.jpg" ,Cinemax 1 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1218.m3u8|User-Agent=Online TV Android Clients 
+#EXTINF:-1 tvg-ID="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Cinemax2_new_large.preview.jpg/revision/latest/scale-to-width-down/276?cb=20160721180356" ,Cinemax 2 HD
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1219.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+
 #EXTINF:-1 tvg-id="CinestarPremiere1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere1_HR.png" ,Cinestar Premiere 1
-http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29704.ts
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29702.ts
 
 #EXTINF:-1 tvg-id="CinestarPremiere2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere 2" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere2_HR.png" ,Cinestar Premiere 2
 http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29701.ts
 
 #EXTINF:-1 tvg-id="CineStarAT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Action & Thriller" tvg-logo="http://nextgen-iptv.com/logo/CineStarAction_HR.png" ,Cinestar Action
-http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29702.ts
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29704.ts
 
 #EXTINF:-1 tvg-ID="CineStar Fantasy" tvg-name="Cinestar Fantasy" tvg-logo="https://sbb.rs/oec/images/tv_channels/b1496b6ff58fdc7d0b4cd6708c3ff89c.png", Cinestar Fantasy
 http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29703.ts
 
-#EXTINF:-1 tvg-ID="Cinemax 1" tvg-name="Cinemax 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/web/AVD-4716_CINEMAX_logo_440x300._V529164443_.jpg" ,Cinemax 1 HD
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1218.m3u8|User-Agent=Online TV Android Clients 
-#EXTINF:-1 tvg-ID="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Cinemax2_new_large.preview.jpg/revision/latest/scale-to-width-down/276?cb=20160721180356" ,Cinemax 2 HD
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1219.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+
 
 #EXTINF:-1 , FilmBox Extra HD
 http://46.40.5.99:8000/filmbox_extra_high
