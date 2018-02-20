@@ -1,58 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1
-http://ezhosting.xyz:80/live/eddie/eddie/36597.ts
-#EXTINF:-1,Sport Klub 2
-http://ezhosting.xyz:80/live/eddie/eddie/36596.ts
-#EXTINF:-1,Sport Klub 3
-http://ezhosting.xyz:80/live/eddie/eddie/36595.ts
-#EXTINF:-1,Sport Klub 4
-http://ezhosting.xyz:80/live/eddie/eddie/36594.ts
-#EXTINF:-1,Sport Klub 5
-http://ezhosting.xyz:80/live/eddie/eddie/36593.ts
-#EXTINF:-1,Sport Klub 6
-http://ezhosting.xyz:80/live/eddie/eddie/36592.ts
-#EXTINF:-1,Arena Sport 1
-http://ezhosting.xyz:80/live/eddie/eddie/34738.ts
-#EXTINF:-1,Arena Sport 2
-http://ezhosting.xyz:80/live/eddie/eddie/34736.ts
-#EXTINF:-1,Arena Sport 3
-http://ezhosting.xyz:80/live/eddie/eddie/34734.ts
-#EXTINF:-1,Arena Sport 4
-http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29722.ts
-#EXTINF:-1,Arena Sport 5
-http://ezhosting.xyz:80/live/eddie/eddie/34731.ts
-#EXTINF:-1,Arena Sport 6
-http://ezhosting.xyz:80/live/eddie/eddie/43769.ts
-#EXTINF:-1,UK| Eurosport 1 FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44830.ts
-#EXTINF:-1,UK| Eurosport 2 FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44829.ts
-#EXTINF:-1,UK| Sky Sports Premier League FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44817.ts
-#EXTINF:-1,UK| Sky Sports Football FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44822.ts
-#EXTINF:-1,UK| Sky Sports Action FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44826.ts
-#EXTINF:-1,UK| Sky Sports Arena FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44825.ts
-#EXTINF:-1,SS|Arena FHD
-#EXTINF:-1,UK| Sky Sports F1 FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44823.ts
-#EXTINF:-1,UK| Sky Sports Golf FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44821.ts
-#EXTINF:-1,UK| Sky Sports Main Event FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44820.ts
-#EXTINF:-1,UK| Sky Sports Mix FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44819.ts
-#EXTINF:-1,UK| BT Sports 1 FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44790.ts
-#EXTINF:-1,UK| BT Sports 2 FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44789.ts
-#EXTINF:-1,UK| BT Sports 3 FHD
-http://ezhosting.xyz:80/live/curtis/curtis/44788.ts
-#EXTINF:-1,UK| BT Sports ESPN FHD
-http://ezhosting.xyz:80/live/curt
+#EXTINF:-1,Sport Klub 1 
+rtmp://109.206.96.209:1935/sk1_tv_247 
+#EXTINF:-1,Sport Klub 2 
+rtmp://109.206.96.209:1935/sk2_tv_247 
+#EXTINF:-1,Sport Klub 3 
+rtmp://109.206.96.209:1935/sk3_tv_247
+#EXTINF:-1,Arena Sport 1 
+
+#EXTINF:-1,ARENA SPORT 1 HR
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1,ARENA SPORT 2 HR
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1,ARENA SPORT 3 HR
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1,ARENA SPORT 4 HR
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1,ARENA SPORT 5 HR
+http://ezhosting.xyz:80/live/funtime/funtime/34731.ts
+
+#EXTINF:-1,ARENA SPORT 1 SERBIA
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 SERBIA
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 SERBIA
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 4 SERBIA
+http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+
+
+##EXTINF:-1,Eurosport 1 FHD
+http://ezhosting.xyz:80/live/funtime/funtime/14479.ts
+#EXTINF:-1,Eurosport 2 FHD
+http://ezhosting.xyz:80/live/funtime/funtime/14480.ts
+#EXTINF:-1,Premier League FHD
+http://ezhosting.xyz:80/live/funtime/funtime/17660.ts
+#EXTINF:-1,Football FHD
+http://ezhosting.xyz:80/live/funtime/funtime/17657.ts
+#EXTINF:-1,Sky Sports Action FHD
+http://ezhosting.xyz:80/live/funtime/funtime/17645.ts
+#EXTINF:-1,Sky Sports Arena FHD
+http://ezhosting.xyz:80/live/funtime/funtime/17643.ts
+#EXTINF:-1,Sky Sports F1 FHD
+http://ezhosting.xyz:80/live/funtime/funtime/17648.ts
+#EXTINF:-1,Sky Sports Golf FHD
+http://ezhosting.xyz:80/live/funtime/funtime/17651.ts
+#EXTINF:-1,Sky Sports Main Event FHD
+http://ezhosting.xyz:80/live/funtime/funtime/17663.ts
+#EXTINF:-1,Sky Sports Mix FHD
+http://ezhosting.xyz:80/live/funtime/funtime/17637.ts
+#EXTINF:-1,Sky Sports News FHD
+http://ezhosting.xyz:80/live/funtime/funtime/17639.ts
+#EXTINF:-1,BT Sports 1 FHD
+http://ezhosting.xyz:80/live/funtime/funtime/14495.ts
+#EXTINF:-1,BT Sports 2 FHD
+http://ezhosting.xyz:80/live/funtime/funtime/14492.ts
+#EXTINF:-1,BT Sports 3 FHD
+http://ezhosting.xyz:80/live/funtime/funtime/14489.ts
+#EXTINF:-1,BT Sports ESPN FHD
+http://ezhosting.xyz:80/live/funtime/funtime/18826.ts
 #EXTINF:-1,AR: BEIN SPORTS HD 1
 http://ezhosting.xyz:80/live/curtis/curtis/44622.ts
 #EXTINF:-1,AR: BEIN SPORTS HD 2
@@ -177,14 +183,8 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28556.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/4156.ts
 #EXTINF:-1,Eurosport 2 HD
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/4157.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/13609.ts
 #EXTINF:-1,RedBull TV
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/26188.ts
-#EXTINF:-1,Sport Italia
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/7156.ts
-#EXTINF:-1,TOP Calcio 24 TV
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/26190.ts
 #EXTINF:-1,Supertennis HD
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/2513.ts
 #EXTINF:-1,WWE CHANNEL
@@ -200,32 +200,37 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
 
-#EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png", HBO HD
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/721.ts
-
-#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png", HBO 2 HD
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2194.ts
-
-#EXTINF:-1 tvg-id="HBO3" tvg-link="http://eog.nextgen-iptv.com/epg.xml" tvg-name="HBO 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Hbo_3_hd.png/revision/latest?cb=20160331174701" ,HBO 3 HD
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2195.ts
-
+#EXTINF:-1, HBO ADRIA
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29661.ts
+#EXTINF:-1, HBO HD
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29659.ts
+#EXTINF:-1, HBO 2
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29664.ts
+#EXTINF:-1, HBO 2 SLO
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29663.ts
+#EXTINF:-1, HBO HD 2
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29658.ts
+#EXTINF:-1, HBO Comedy
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29660.ts
+#EXTINF:-1, HBO 3
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29662.ts
 #EXTINF:-1 tvg-ID="Cinemax 1" tvg-name="Cinemax 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/web/AVD-4716_CINEMAX_logo_440x300._V529164443_.jpg" ,Cinemax 1 HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1218.m3u8|User-Agent=Online TV Android Clients 
 #EXTINF:-1 tvg-ID="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Cinemax2_new_large.preview.jpg/revision/latest/scale-to-width-down/276?cb=20160721180356" ,Cinemax 2 HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1219.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
 
-#EXTINF:-1 tvg-id="CinestarPremiere1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere1_HR.png" ,Cinestar Premiere 1
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2046.ts
-
-#EXTINF:-1 tvg-id="CinestarPremiere2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere 2" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere2_HR.png" ,Cinestar Premiere 2
-http://powertv5.dyndns.org:24715/live/dzemo/dzemo/2047.ts
-
-#EXTINF:-1 tvg-id="CineStarAT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Action & Thriller" tvg-logo="http://nextgen-iptv.com/logo/CineStarAction_HR.png" ,Cinestar Action
+#EXTINF:-1, Cinestar Premier 1
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29702.ts
+#EXTINF:-1, Cinestar Premiere 1
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29700.ts
+#EXTINF:-1, Cinestar Premiere 2
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29699.ts
+#EXTINF:-1, Cinestar Premier 2
+http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29701.ts
+#EXTINF:-1, Cinestar Action
 http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29704.ts
-
-#EXTINF:-1 tvg-ID="CineStar Fantasy" tvg-name="Cinestar Fantasy" tvg-logo="https://sbb.rs/oec/images/tv_channels/b1496b6ff58fdc7d0b4cd6708c3ff89c.png", Cinestar Fantasy
+#EXTINF:-1, Cinestar Fantasy HD
 http://telesuper.tv:23000/live/sergio.errichiello@alice.it/ww7SU9b9l7/29703.ts
-
 
 
 #EXTINF:-1 , FilmBox Extra HD
@@ -246,6 +251,8 @@ http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMed
 
 #EXTINF:0,Klasik TV
 http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,Pink Film
+http://195.252.68.245:1935/KLIKTV_2/smil:pink25.mf.smil/playlist.m3u8
 #EXTINF:0,FOX (slo)
 http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,FOX LIFE (slo)
@@ -308,8 +315,6 @@ http://195.252.68.245:1935/KLIKTV_2/smil:pink79.mf.smil/playlist.m3u8
 #EXTINF:-1,Vojvodina 2
 http://195.252.68.245:1935/KLIKTV_2/smil:pink107.mf.smil/playlist.m3u8
 
-#EXTINF:-1,Pink Film
-http://195.252.68.245:1935/KLIKTV_2/smil:pink25.mf.smil/playlist.m3u8
 #EXTINF:-1,Pink Classic
 http://195.252.68.245:1935/KLIKTV_2/smil:pink41.mf.smil/playlist.m3u8
 #EXTINF:-1,Pink Movies
