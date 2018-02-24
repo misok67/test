@@ -197,7 +197,8 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-
+#EXTINF:-1,******
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28319.ts
 
 #EXTINF:-1 tvg-name="HBO Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png", HBO HD
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1151.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
@@ -207,9 +208,8 @@ http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1152.m3u8|User-Agent=O
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1153.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
 #EXTINF:-1 ,Cinemax 1 HD
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34651.ts
-#EXTINF:-1 tvg-ID="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Cinemax2_new_large.preview.jpg/revision/latest/scale-to-width-down/276?cb=20160721180356" ,Cinemax 2 HD
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1219.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
-
+#EXTINF:-1  ,Cinemax 2 HD
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34650.ts
 #EXTINF:-1,Cinestar Premier 1
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34589.ts
 #EXTINF:-1,Cinestar Premier 2
