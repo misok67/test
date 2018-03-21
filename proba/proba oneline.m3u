@@ -1,32 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1,SPORT KLUB 1
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
-#EXTINF:-1,SPORT KLUB 2
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34663.ts
-#EXTINF:-1,SPORT KLUB 3
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34662.ts
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34500.ts
-#EXTINF:-1,SPORT KLUB 6
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34499.ts
-#EXTINF:-1,Sport Klub 1 SLO
-http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:-1,Sport Klub 2 SLO
-http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:-1,Sport Klub 3 SLO
-http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,Sport TV 1 (SLO)
-http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,Sport TV 2 (SLO)
-http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:-1,sport 1 (DSF)
-http://cdn.iptv.amis.net/ts/DSF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:-1,SPORTKLUB 1 HD
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34495.ts
-#EXTINF:-1,SPORTKLUB 2 HD
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34494.ts
-#EXTINF:-1,SPORTKLUB 3 HD
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34493.ts
+#EXTINF:-1,Sport Klub 1 Cro 
+http://omegastreams.pw:8080/live/ste1/ste1/30695.m3u8
+#EXTINF:-1,Sport Klub 2 Cro 
+http://omegastreams.pw:8080/live/ste1/ste1/30694.m3u8
+#EXTINF:-1,Sport Klub 3 Cro 
+http://omegastreams.pw:8080/live/ste1/ste1/30693.m3u8
+#EXTINF:-1,Sport Klub 4 SRB 
+http://omegastreams.pw:8080/live/ste1/ste1/30689.m3u8
+#EXTINF:-1,Sport Klub 5 SRB 
+http://omegastreams.pw:8080/live/ste1/ste1/30688.m3u8
+#EXTINF:-1,Sport Klub 6 SRB 
+http://omegastreams.pw:8080/live/ste1/ste1/30687.m3u8
+#EXTINF:-1,SLO: SPORTKLUB 1 
+http://omegastreams.pw:8080/live/ste1/ste1/30617.m3u8
+#EXTINF:-1,SLO: SPORTKLUB 2 
+http://omegastreams.pw:8080/live/ste1/ste1/30616.m3u8
 #EXTINF:-1, Arena_Sport 1 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4004.ts
 #EXTINF:-1, Arena_Sport 2 HD
@@ -37,6 +26,16 @@ http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3531.ts
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4003.ts
 #EXTINF:-1, Arena_Sport 5 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4002.ts
+#EXTINF:-1,Arena Sport 1 HR 
+http://omegastreams.pw:8080/live/ste1/ste1/30686.m3u8
+#EXTINF:-1,Arena Sport 2 HR 
+http://omegastreams.pw:8080/live/ste1/ste1/30685.m3u8
+#EXTINF:-1,Arena Sport 3 HR 
+http://omegastreams.pw:8080/live/ste1/ste1/30684.m3u8
+#EXTINF:-1,Arena Sport 4 HR 
+http://omegastreams.pw:8080/live/ste1/ste1/30683.m3u8
+#EXTINF:-1,Arena Sport 5 HR 
+http://omegastreams.pw:8080/live/ste1/ste1/30682.m3u8
 #EXTINF:-1,(UK) Premier Sports HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3330.ts
 #EXTINF:-1,(UK) Sky Sports F1 HD
@@ -131,12 +130,6 @@ http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2874.ts
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2921.ts
 #EXTINF:-1,(PL) Canal + Sport
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2867.ts
-#EXTINF:-1,(AL) Super_Sport 1 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1905.ts
-#EXTINF:-1,(AL) Super_Sport 3 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3551.ts
-#EXTINF:-1,(AL) Super_Sport 4 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1907.ts
 #EXTINF:-1,Bein_Sports 5 H265
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4047.ts
 #EXTINF:-1,Bein_Sports 6 H265
@@ -165,8 +158,6 @@ http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4195.ts
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4196.ts
 #EXTINF:-1,Bein_8 HD (local)
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4197.ts
-#EXTINF:-1,Bein_Sports NewsHD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2301.ts
 #EXTINF:-1,(IT) Sky Sport 1 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1500.ts
 #EXTINF:-1,(IT) Sky Sport 2 HD
@@ -190,33 +181,37 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
 
-#EXTINF:0,HBO
-http://cdn.iptv.amis.net/ts/HBO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,HBO 2
-http://cdn.iptv.amis.net/ts/HBOC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,HBO 3
-http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,HBO 
+http://omegastreams.pw:8080/live/ste1/ste1/30778.m3u8
+#EXTINF:-1,HBO 2 
+http://omegastreams.pw:8080/live/ste1/ste1/30777.m3u8
+#EXTINF:-1,HBO 3 
+http://omegastreams.pw:8080/live/ste1/ste1/30776.m3u8
+#EXTINF:-1,Cinemax 1 
+http://omegastreams.pw:8080/live/ste1/ste1/30754.m3u8
+#EXTINF:-1,Cinemax 2 
+http://omegastreams.pw:8080/live/ste1/ste1/30753.m3u8
+#EXTINF:-1,Cinestar TV Premiere 1 (RS) 
+http://omegastreams.pw:8080/live/ste1/ste1/30752.m3u8
+#EXTINF:-1,Cinestar TV Premiere 2 (RS) 
+http://omegastreams.pw:8080/live/ste1/ste1/30751.m3u8
+#EXTINF:-1,CineStar Action & Thriler 
+http://omegastreams.pw:8080/live/ste1/ste1/30755.m3u8
 
 #EXTINF:-1 , FilmBox Extra HD
 http://46.40.5.99:8000/filmbox_extra_high
 #EXTINF:-1 , FilmBox Plus
 http://46.40.5.99:8000/filmbox_plus_high
-#EXTINF:0,Klasik TV
-http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,FOX (slo)
-http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,FOX LIFE (slo)
-http://cdn.iptv.amis.net/LIVE/FoxLife/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,FOX MOVIES (slo)
-http://cdn.iptv.amis.net/ts/FOXMOVIES/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,FOX Crime (slo)
-http://cdn.iptv.amis.net/LIVE/FoxCrime/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,AMC
-http://cdn.iptv.amis.net/LIVE/MGM/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0,TV 1000
-http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
+#EXTINF:-1,FOX 
+http://omegastreams.pw:8080/live/ste1/ste1/30760.m3u8
+#EXTINF:-1,Fox Crime 
+http://omegastreams.pw:8080/live/ste1/ste1/30758.m3u8
+#EXTINF:-1,Fox Movies 
+http://omegastreams.pw:8080/live/ste1/ste1/30757.m3u8
+#EXTINF:-1,TV 1000 
+http://omegastreams.pw:8080/live/ste1/ste1/30772.m3u8
+#EXTINF:-1,Klasik TV 
+http://omegastreams.pw:8080/live/ste1/ste1/30761.m3u8
 #EXTINF:0,Sci-fi
 http://cdn.iptv.amis.net/ts/SCI_FI/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
@@ -224,7 +219,6 @@ http://cdn.iptv.amis.net/ts/SCI_FI/stream_wifi_1200k.m3u8|User-Agent="AppleCoreM
 http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,HRT 2
 http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
 #EXTINF:-1,HRT 3
 http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1157.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
 
@@ -233,6 +227,29 @@ http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1157.m3u8|User-Agent=O
 http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
 #EXTINF:0,Rtl 2
 http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playlist.m3u8
+
+#EXTINF:-1,RTL Crime 
+http://omegastreams.pw:8080/live/ste1/ste1/30800.m3u8
+#EXTINF:-1,RTL Living 
+http://omegastreams.pw:8080/live/ste1/ste1/30783.m3u8
+#EXTINF:-1,Nova TV (HR) 
+http://omegastreams.pw:8080/live/ste1/ste1/30787.m3u8
+#EXTINF:-1,Nova TV HD 
+http://omegastreams.pw:8080/live/ste1/ste1/30788.m3u8
+#EXTINF:-1,Doma TV 
+http://omegastreams.pw:8080/live/ste1/ste1/30786.m3u8
+#EXTINF:-1,Prva Plus 
+http://omegastreams.pw:8080/live/ste1/ste1/30809.m3u8
+#EXTINF:-1,Prva World 
+http://omegastreams.pw:8080/live/ste1/ste1/30808.m3u8
+#EXTINF:-1,Prva 
+http://omegastreams.pw:8080/live/ste1/ste1/30810.m3u8
+#EXTINF:-1,RTS 1 
+http://omegastreams.pw:8080/live/ste1/ste1/30817.m3u8
+#EXTINF:-1,RTS 2 
+http://omegastreams.pw:8080/live/ste1/ste1/30816.m3u8
+#EXTINF:-1,RTS 3 
+http://omegastreams.pw:8080/live/ste1/ste1/30815.m3u8
 #EXTINF:0,SLO 1
 http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,SLO 2
@@ -252,84 +269,26 @@ http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreM
 #EXTINF:0,DIVA
 http://cdn.iptv.amis.net/ts/Hallmark/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
-#EXTINF:-1,Pink Action
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34667.ts
-#EXTINF:-1,Pink Crime&Mystery
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34539.ts
-#EXTINF:-1,Pink Film
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34673.ts
-#EXTINF:-1,Pink Movies
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34678.ts
-#EXTINF:-1,Pink Premium
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34680.ts
-#EXTINF:-1,Pink Romance
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34682.ts
-#EXTINF:-1,Pink Sci-Fi & Fantasy
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34671.ts
-#EXTINF:-1,Pink Sci-Fi&Fantasy
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34528.ts
-#EXTINF:-1,Pink Thriller
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34684.ts
-#EXTINF:-1,Pink Western
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34526.ts
-
-#EXTINF:-1,RTS 1
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34612.ts
-#EXTINF:-1,RTS 2
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34611.ts
-#EXTINF:-1,RTV CG SAT
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34510.ts
-#EXTINF:-1,RTV VOJVODINA 1
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34508.ts
-#EXTINF:-1,RTV VOJVODINA 2
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34509.ts
-#EXTINF:-1,Slovenia TV 1 HD
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34503.ts
-#EXTINF:-1,Pop Brio
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34523.ts
-#EXTINF:-1,Pop Oto
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34522.ts
-#EXTINF:-1,Prva (local)
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34520.ts
-#EXTINF:-1,Prva Plus
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34519.ts
-#EXTINF:-1,Prva World TV
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34518.ts
-#EXTINF:-1,RT Vojvodina 1
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34516.ts
-#EXTINF:-1,RT Vojvodina 1 (local)
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34515.ts
-#EXTINF:-1,RTCG 1
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34514.ts
-#EXTINF:-1,RTCG 2
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34513.ts
-#EXTINF:-1,B92 O2 TV
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34620.ts
-#EXTINF:-1,BHT
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34619.ts
-
-#EXTINF:0,National Geographic (slo)
-http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0,Nat Geo Wild (slo)
-http://cdn.iptv.amis.net/ts/NGCWild/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,Nat Geo Wild (slo)
-http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,DISCOVERY (slo)
-http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,DISCOVERY ID (slo)
-http://cdn.iptv.amis.net/ts/DISCIDX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,E! (slo)
-http://cdn.iptv.amis.net/ts/EEUROPE/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,Animal Planet (slo)
-http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,Travel Channel (slo) 
-http://cdn.iptv.amis.net/ts/Travel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,History Channel (slo)
-http://cdn.iptv.amis.net/ts/HistoryChannel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,Viasat History (slo)
-http://cdn.iptv.amis.net/ts/History/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
+#EXTINF:-1,Pink Action 
+http://omegastreams.pw:8080/live/ste1/ste1/30721.m3u8
+#EXTINF:-1,Pink Classic 
+http://omegastreams.pw:8080/live/ste1/ste1/30713.m3u8
+#EXTINF:-1,Pink Comedy 
+http://omegastreams.pw:8080/live/ste1/ste1/30699.m3u8
+#EXTINF:-1,Pink Crime & Mistery 
+http://omegastreams.pw:8080/live/ste1/ste1/30700.m3u8
+#EXTINF:-1,Pink Extra 
+http://omegastreams.pw:8080/live/ste1/ste1/30701.m3u8
+#EXTINF:-1,Pink Premium 
+http://omegastreams.pw:8080/live/ste1/ste1/30709.m3u8
+#EXTINF:-1,Pink Romance 
+http://omegastreams.pw:8080/live/ste1/ste1/30711.m3u8
+#EXTINF:-1,Pink Sci-fi & Fantasy 
+http://omegastreams.pw:8080/live/ste1/ste1/30712.m3u8
+#EXTINF:-1,Pink Thriler 
+http://omegastreams.pw:8080/live/ste1/ste1/30717.m3u8
+#EXTINF:-1,Pink Western 
+http://omegastreams.pw:8080/live/ste1/ste1/30718.m3u8
 
 #EXTINF:-1,ORF1
 http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -379,3 +338,47 @@ http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36515.ts
 #EXTINF:-1,Sky Movies SyFi-Horror 
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36514.ts
 
+#EXTINF:0,HBO
+http://cdn.iptv.amis.net/ts/HBO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,HBO 2
+http://cdn.iptv.amis.net/ts/HBOC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,HBO 3
+http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:0,FOX (slo)
+http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,FOX LIFE (slo)
+http://cdn.iptv.amis.net/LIVE/FoxLife/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,FOX MOVIES (slo)
+http://cdn.iptv.amis.net/ts/FOXMOVIES/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,FOX Crime (slo)
+http://cdn.iptv.amis.net/LIVE/FoxCrime/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,AMC
+http://cdn.iptv.amis.net/LIVE/MGM/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:0,TV 1000
+http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Klasik TV
+http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:0,National Geographic (slo)
+http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:0,Nat Geo Wild (slo)
+http://cdn.iptv.amis.net/ts/NGCWild/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Nat Geo Wild (slo)
+http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,DISCOVERY (slo)
+http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,DISCOVERY ID (slo)
+http://cdn.iptv.amis.net/ts/DISCIDX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,E! (slo)
+http://cdn.iptv.amis.net/ts/EEUROPE/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Animal Planet (slo)
+http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Travel Channel (slo) 
+http://cdn.iptv.amis.net/ts/Travel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,History Channel (slo)
+http://cdn.iptv.amis.net/ts/HistoryChannel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Viasat History (slo)
+http://cdn.iptv.amis.net/ts/History/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
