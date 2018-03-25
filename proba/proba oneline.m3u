@@ -16,6 +16,24 @@ http://omegastreams.pw:8080/live/ste1/ste1/30687.m3u8
 http://omegastreams.pw:8080/live/ste1/ste1/30617.m3u8
 #EXTINF:-1,SLO: SPORTKLUB 2 
 http://omegastreams.pw:8080/live/ste1/ste1/30616.m3u8
+#EXTINF:-1,ARENA SPORT 1 
+http://omegastreams.pw:8080/live/ste1/ste1/19856.m3u8
+#EXTINF:-1,ARENA SPORT 2 
+http://omegastreams.pw:8080/live/ste1/ste1/19858.m3u8
+#EXTINF:-1,ARENA SPORT 3 
+http://omegastreams.pw:8080/live/ste1/ste1/19860.m3u8
+#EXTINF:-1,ARENA SPORT 4 
+http://omegastreams.pw:8080/live/ste1/ste1/19862.m3u8
+#EXTINF:-1,ARENA SPORT 5 
+http://omegastreams.pw:8080/live/ste1/ste1/19864.m3u8
+#EXTINF:-1,ARENA SPORT 1
+http://omegastreams.pw:8080/live/ste1/ste1/19857.m3u8
+#EXTINF:-1,ARENA SPORT 2
+http://omegastreams.pw:8080/live/ste1/ste1/19859.m3u8
+#EXTINF:-1,ARENA SPORT 3
+http://omegastreams.pw:8080/live/ste1/ste1/19861.m3u8
+#EXTINF:-1,ARENA SPORT 4
+http://omegastreams.pw:8080/live/ste1/ste1/19863.m3u8
 #EXTINF:-1, Arena_Sport 1 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4004.ts
 #EXTINF:-1, Arena_Sport 2 HD
@@ -26,54 +44,66 @@ http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3531.ts
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4003.ts
 #EXTINF:-1, Arena_Sport 5 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4002.ts
-#EXTINF:-1,Arena Sport 1 HR 
-http://omegastreams.pw:8080/live/ste1/ste1/30686.m3u8
-#EXTINF:-1,Arena Sport 2 HR 
-http://omegastreams.pw:8080/live/ste1/ste1/30685.m3u8
-#EXTINF:-1,Arena Sport 3 HR 
-http://omegastreams.pw:8080/live/ste1/ste1/30684.m3u8
-#EXTINF:-1,Arena Sport 4 HR 
-http://omegastreams.pw:8080/live/ste1/ste1/30683.m3u8
-#EXTINF:-1,Arena Sport 5 HR 
-http://omegastreams.pw:8080/live/ste1/ste1/30682.m3u8
-#EXTINF:-1,(UK) Premier Sports HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3330.ts
-#EXTINF:-1,(UK) Sky Sports F1 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3328.ts
-#EXTINF:-1,(UK) SKY SPORTS MAIN EVENT
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3333.ts
-#EXTINF:-1,(UK) Sky Sports Cricket 
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3332.ts
-#EXTINF:-1,(UK) eir2, SPORT
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3331.ts
-#EXTINF:-1,(UK) Sky Sports HD Action
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/626.ts
-#EXTINF:-1,(UK) Sky Sports HD Action
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/628.ts
-#EXTINF:-1,(UK) Sky Sports News HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3329.ts
-#EXTINF:-1,(UK) BT Sport 1
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/624.ts
-#EXTINF:-1,(UK) BT Sport 2
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/625.ts
+#EXTINF:-1,SKY SPORTS FHD PREMIER LEAGUE
+http://omegastreams.pw:8080/live/ste1/ste1/23372.ts
+#EXTINF:-1,SKY SPORTS FHD FOOTBALL
+http://omegastreams.pw:8080/live/ste1/ste1/23307.ts
+#EXTINF:-1,SKY SPORTS FHD ARENA
+http://omegastreams.pw:8080/live/ste1/ste1/23308.ts
+#EXTINF:-1,SKY SPORTS FHD F1
+http://omegastreams.pw:8080/live/ste1/ste1/23371.ts
+#EXTINF:-1,SKY SPORTS FHD MAIN EVENT
+http://omegastreams.pw:8080/live/ste1/ste1/23376.ts
+#EXTINF:-1,SKY SPORTS FHD GOLF
+http://omegastreams.pw:8080/live/ste1/ste1/23373.ts
+#EXTINF:-1,SKY SPORTS ACTION HD; 
+http://omegastreams.pw:8080/live/ste1/ste1/18801.ts
+#EXTINF:-1,SKY SPORTS MIX HD
+http://omegastreams.pw:8080/live/ste1/ste1/18815.ts
+#EXTINF:-1,BT SPORTS FHD 1
+http://omegastreams.pw:8080/live/ste1/ste1/15041.ts
+#EXTINF:-1,BT SPORTS FHD 2
+http://omegastreams.pw:8080/live/ste1/ste1/15040.ts
+#EXTINF:-1,BT SPORTS FHD 3
+http://omegastreams.pw:8080/live/ste1/ste1/15039.ts
+#EXTINF:-1,BT SPORTS ESPN HD 
+http://omegastreams.pw:8080/live/ste1/ste1/15047.m3u8
 #EXTINF:-1,(UK) British Eurosport HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1857.ts
 #EXTINF:-1,(UK) Eurosport 2 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2036.ts
+#EXTINF:-1,Bein_1 HD (local)
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3943.ts
+#EXTINF:-1,Bein_2 HD (local)
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3944.ts
+#EXTINF:-1,Bein_3 HD (local)
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3945.ts
+#EXTINF:-1,Bein_4 HD (local)
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3946.ts
+#EXTINF:-1,Bein_5 HD (local)
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4194.ts
+#EXTINF:-1,Bein_6 HD (local)
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4195.ts
+#EXTINF:-1,Bein_7 HD (local)
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4196.ts
+#EXTINF:-1,Bein_8 HD (local)
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4197.ts
+#EXTINF:-1,Bein_Sports 5 H265
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4047.ts
+#EXTINF:-1,Bein_Sports 6 H265
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4046.ts
+#EXTINF:-1,Bein_Sports 7 H265
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4045.ts
+#EXTINF:-1,Bein_Sports 8 H265
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4044.ts
+#EXTINF:-1,Bein_Sports 9 H265
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4043.ts
+#EXTINF:-1,Bein_Sports 10 H265
+http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4042.ts
 #EXTINF:-1,(USA) Fox Sport 1
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2431.ts
 #EXTINF:-1,(USA) TSN 1
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2423.ts
-#EXTINF:-1,Arena_Sport 1 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4004.ts
-#EXTINF:-1,Arena_Sport 2 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3530.ts
-#EXTINF:-1,Arena_Sport 3 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3531.ts
-#EXTINF:-1,Arena_Sport 4 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4003.ts
-#EXTINF:-1,Arena_Sport 5 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4002.ts
 #EXTINF:-1,Sfr Sport 1
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3072.ts
 #EXTINF:-1,Sfr Sport 2
@@ -94,12 +124,6 @@ http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/81.ts
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/82.ts
 #EXTINF:-1,Canal+Sport
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1226.ts
-#EXTINF:-1,Bein_Sport 1 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1444.ts
-#EXTINF:-1,Bein_Sport 2 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1445.ts
-#EXTINF:-1,Bein_Sport 3 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1446.ts
 #EXTINF:-1,(DE) Sky Sport 1 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1538.ts
 #EXTINF:-1,(DE) Sky Sport 2 HD
@@ -130,34 +154,6 @@ http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2874.ts
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2921.ts
 #EXTINF:-1,(PL) Canal + Sport
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2867.ts
-#EXTINF:-1,Bein_Sports 5 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4047.ts
-#EXTINF:-1,Bein_Sports 6 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4046.ts
-#EXTINF:-1,Bein_Sports 7 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4045.ts
-#EXTINF:-1,Bein_Sports 8 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4044.ts
-#EXTINF:-1,Bein_Sports 9 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4043.ts
-#EXTINF:-1,Bein_Sports 10 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4042.ts
-#EXTINF:-1,Bein_1 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3943.ts
-#EXTINF:-1,Bein_2 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3944.ts
-#EXTINF:-1,Bein_3 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3945.ts
-#EXTINF:-1,Bein_4 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3946.ts
-#EXTINF:-1,Bein_5 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4194.ts
-#EXTINF:-1,Bein_6 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4195.ts
-#EXTINF:-1,Bein_7 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4196.ts
-#EXTINF:-1,Bein_8 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4197.ts
 #EXTINF:-1,(IT) Sky Sport 1 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1500.ts
 #EXTINF:-1,(IT) Sky Sport 2 HD
@@ -196,6 +192,10 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28316.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
+#EXTINF:-1,******
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
+#EXTINF:-1,******
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
 
