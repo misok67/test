@@ -1,39 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1 Cro 
-http://omegastreams.pw:8080/live/ste1/ste1/30695.m3u8
-#EXTINF:-1,Sport Klub 2 Cro 
-http://omegastreams.pw:8080/live/ste1/ste1/30694.m3u8
-#EXTINF:-1,Sport Klub 3 Cro 
-http://omegastreams.pw:8080/live/ste1/ste1/30693.m3u8
-#EXTINF:-1,Sport Klub 4 SRB 
-http://omegastreams.pw:8080/live/ste1/ste1/30689.m3u8
-#EXTINF:-1,Sport Klub 5 SRB 
-http://omegastreams.pw:8080/live/ste1/ste1/30688.m3u8
-#EXTINF:-1,Sport Klub 6 SRB 
-http://omegastreams.pw:8080/live/ste1/ste1/30687.m3u8
-#EXTINF:-1,SLO: SPORTKLUB 1 
-http://omegastreams.pw:8080/live/ste1/ste1/30617.m3u8
-#EXTINF:-1,SLO: SPORTKLUB 2 
-http://omegastreams.pw:8080/live/ste1/ste1/30616.m3u8
-#EXTINF:-1,ARENA SPORT 1 
-http://omegastreams.pw:8080/live/ste1/ste1/19856.m3u8
-#EXTINF:-1,ARENA SPORT 2 
-http://omegastreams.pw:8080/live/ste1/ste1/19858.m3u8
-#EXTINF:-1,ARENA SPORT 3 
-http://omegastreams.pw:8080/live/ste1/ste1/19860.m3u8
-#EXTINF:-1,ARENA SPORT 4 
-http://omegastreams.pw:8080/live/ste1/ste1/19862.m3u8
-#EXTINF:-1,ARENA SPORT 5 
-http://omegastreams.pw:8080/live/ste1/ste1/19864.m3u8
-#EXTINF:-1,ARENA SPORT 1
-http://omegastreams.pw:8080/live/ste1/ste1/19857.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://omegastreams.pw:8080/live/ste1/ste1/19859.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://omegastreams.pw:8080/live/ste1/ste1/19861.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://omegastreams.pw:8080/live/ste1/ste1/19863.m3u8
+##EXTINF:-1,SPORT KLUB_1 
+http://main.cctvlive.org:8000/live/Amos/Amos/5072.ts
+#EXTINF:-1,SPORT KLUB_2 
+http://main.cctvlive.org:8000/live/Amos/Amos/5071.ts
+#EXTINF:-1,SPORT KLUB_3 
+http://main.cctvlive.org:8000/live/Amos/Amos/5070.ts
+#EXTINF:-1,SPORT KLUB_4 
+http://main.cctvlive.org:8000/live/Amos/Amos/5069.ts
+#EXTINF:-1,SPORT KLUB_5 
+http://main.cctvlive.org:8000/live/Amos/Amos/5068.ts
+#EXTINF:-1,ARENA 1 
+http://main.cctvlive.org:8000/live/Amos/Amos/5077.ts
+#EXTINF:-1,ARENA_2 
+http://main.cctvlive.org:8000/live/Amos/Amos/5076.ts
+#EXTINF:-1,ARENA_3 
+http://main.cctvlive.org:8000/live/Amos/Amos/5075.ts
+#EXTINF:-1,ARENA_4 
+http://main.cctvlive.org:8000/live/Amos/Amos/5074.ts
+#EXTINF:-1,ARENA_5 
+http://main.cctvlive.org:8000/live/Amos/Amos/5073.ts
+#EXTINF:-1,ARENA1 
+http://main.cctvlive.org:8000/live/Amos/Amos/3315.ts
+#EXTINF:-1,ARENA2 
+http://main.cctvlive.org:8000/live/Amos/Amos/3314.ts
+#EXTINF:-1,ARENA3 
+http://main.cctvlive.org:8000/live/Amos/Amos/3313.ts
+#EXTINF:-1,ARENA4 
+http://main.cctvlive.org:8000/live/Amos/Amos/3312.ts
 #EXTINF:-1, Arena_Sport 1 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4004.ts
 #EXTINF:-1, Arena_Sport 2 HD
@@ -44,152 +38,158 @@ http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3531.ts
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4003.ts
 #EXTINF:-1, Arena_Sport 5 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4002.ts
-#EXTINF:-1,SKY SPORTS FHD PREMIER LEAGUE
-http://omegastreams.pw:8080/live/ste1/ste1/23372.ts
-#EXTINF:-1,SKY SPORTS FHD FOOTBALL
-http://omegastreams.pw:8080/live/ste1/ste1/23307.ts
-#EXTINF:-1,SKY SPORTS FHD ARENA
-http://omegastreams.pw:8080/live/ste1/ste1/23308.ts
-#EXTINF:-1,SKY SPORTS FHD F1
-http://omegastreams.pw:8080/live/ste1/ste1/23371.ts
-#EXTINF:-1,SKY SPORTS FHD MAIN EVENT
-http://omegastreams.pw:8080/live/ste1/ste1/23376.ts
-#EXTINF:-1,SKY SPORTS FHD GOLF
-http://omegastreams.pw:8080/live/ste1/ste1/23373.ts
-#EXTINF:-1,SKY SPORTS ACTION HD; 
-http://omegastreams.pw:8080/live/ste1/ste1/18801.ts
-#EXTINF:-1,SKY SPORTS MIX HD
-http://omegastreams.pw:8080/live/ste1/ste1/18815.ts
-#EXTINF:-1,BT SPORTS FHD 1
-http://omegastreams.pw:8080/live/ste1/ste1/15041.ts
-#EXTINF:-1,BT SPORTS FHD 2
-http://omegastreams.pw:8080/live/ste1/ste1/15040.ts
-#EXTINF:-1,BT SPORTS FHD 3
-http://omegastreams.pw:8080/live/ste1/ste1/15039.ts
-#EXTINF:-1,BT SPORTS ESPN HD 
-http://omegastreams.pw:8080/live/ste1/ste1/15047.m3u8
-#EXTINF:-1,(UK) British Eurosport HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1857.ts
-#EXTINF:-1,(UK) Eurosport 2 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2036.ts
-#EXTINF:-1,Bein_1 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3943.ts
-#EXTINF:-1,Bein_2 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3944.ts
-#EXTINF:-1,Bein_3 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3945.ts
-#EXTINF:-1,Bein_4 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3946.ts
-#EXTINF:-1,Bein_5 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4194.ts
-#EXTINF:-1,Bein_6 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4195.ts
-#EXTINF:-1,Bein_7 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4196.ts
-#EXTINF:-1,Bein_8 HD (local)
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4197.ts
-#EXTINF:-1,Bein_Sports 5 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4047.ts
-#EXTINF:-1,Bein_Sports 6 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4046.ts
-#EXTINF:-1,Bein_Sports 7 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4045.ts
-#EXTINF:-1,Bein_Sports 8 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4044.ts
-#EXTINF:-1,Bein_Sports 9 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4043.ts
-#EXTINF:-1,Bein_Sports 10 H265
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4042.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HD V
+http://main.cctvlive.org:8000/live/Amos/Amos/562.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT SD
+http://main.cctvlive.org:8000/live/Amos/Amos/557.ts
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD V
+http://main.cctvlive.org:8000/live/Amos/Amos/9076.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER  LEAGUE  HD
+http://main.cctvlive.org:8000/live/Amos/Amos/9113.ts
+#EXTINF:-1,UK: SKY SPORTS  ACTION
+http://main.cctvlive.org:8000/live/Amos/Amos/4651.ts
+#EXTINF:-1,UK: SKY SPORTS ARENA V
+http://main.cctvlive.org:8000/live/Amos/Amos/9077.ts
+#EXTINF:-1,UK: SKY SPORTS F1 HD V
+http://main.cctvlive.org:8000/live/Amos/Amos/2760.ts
+#EXTINF:-1,UK: SKY SPORTS MIX HD V
+http://main.cctvlive.org:8000/live/Amos/Amos/555.ts
+#EXTINF:-1,UK: BT SPORT 1 HD V
+http://main.cctvlive.org:8000/live/Amos/Amos/2749.ts
+#EXTINF:-1,UK: BT SPORTS 2 HD V
+http://main.cctvlive.org:8000/live/Amos/Amos/2748.ts
+#EXTINF:-1,UK: BT SPORTS 3 HD V
+http://main.cctvlive.org:8000/live/Amos/Amos/2747.ts
+#EXTINF:-1,UK: BT SPORT ESPN
+http://main.cctvlive.org:8000/live/Amos/Amos/3596.ts
+#EXTINF:-1,UK: EUROSPORTS 1 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/549.ts
+#EXTINF:-1,UK: EUROSPORT 2 HD V
+http://main.cctvlive.org:8000/live/Amos/Amos/544.ts
+#EXTINF:-1,UK: EIR SPORTS 1
+http://main.cctvlive.org:8000/live/Amos/Amos/707.ts
+#EXTINF:-1,UK: EIR SPORTS 2
+http://main.cctvlive.org:8000/live/Amos/Amos/706.ts
+#EXTINF:-1,BEIN: SPORTS 1 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2057.ts
+#EXTINF:-1,BEIN: SPORTS  2 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2056.ts
+#EXTINF:-1,BEIN:  SPORTS 3 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2055.ts
+#EXTINF:-1,BEIN: SPORTS 4 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2054.ts
+#EXTINF:-1,BEIN: SPORTS 5 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2053.ts
+#EXTINF:-1,BEIN: SPORTS 6 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2052.ts
+#EXTINF:-1,BEIN: SPORTS 7 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2051.ts
+#EXTINF:-1,BEIN: SPORTS 8 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2050.ts
+#EXTINF:-1,BEIN: SPORTS 9 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2049.ts
+#EXTINF:-1,BEIN:  SPORTS 10 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2048.ts
+#EXTINF:-1,BEIN: SPORTS 11 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2047.ts
+#EXTINF:-1,BEIN: SPORTS 12 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2046.ts#EXTINF:-1,UK: SKY SPORTS NEWS HD V
+#EXTINF:-1,POLAND:  NSPORT
+http://main.cctvlive.org:8000/live/Amos/Amos/9737.ts
+#EXTINF:-1,POLAND: Canal  Sport
+http://main.cctvlive.org:8000/live/Amos/Amos/9776.ts
+#EXTINF:-1,POLAND: CANAL  SPORT 2  HD
+http://main.cctvlive.org:8000/live/Amos/Amos/9775.ts
+#EXTINF:-1,POLAND: Eleven Sports HD
+http://main.cctvlive.org:8000/live/Amos/Amos/9773.ts
+#EXTINF:-1,POLAND: EUROSPORT
+http://main.cctvlive.org:8000/live/Amos/Amos/9769.ts
+#EXTINF:-1,POLAND: EUROSPORT 2
+http://main.cctvlive.org:8000/live/Amos/Amos/9768.ts
+#EXTINF:-1,POLAND: NSport Plus
+http://main.cctvlive.org:8000/live/Amos/Amos/9760.ts
+#EXTINF:-1,POLAND: POLSAT SPORT
+http://main.cctvlive.org:8000/live/Amos/Amos/9771.ts
+#EXTINF:-1,POLAND: POLSAT SPORT EXTRA HD
+http://main.cctvlive.org:8000/live/Amos/Amos/9754.ts
+#EXTINF:-1,POLAND: Polsat Sport News
+http://main.cctvlive.org:8000/live/Amos/Amos/9753.ts
+#EXTINF:-1,POLAND: TVP SPORT
+http://main.cctvlive.org:8000/live/Amos/Amos/9778.ts
+#EXTINF:-1,DE: SKY SPORT 1
+http://main.cctvlive.org:8000/live/Amos/Amos/5811.ts
+#EXTINF:-1,DE: SKY SPORT 2 !
+http://main.cctvlive.org:8000/live/Amos/Amos/5810.ts
+#EXTINF:-1,DE: SKY SPORT NEWS !
+http://main.cctvlive.org:8000/live/Amos/Amos/5809.ts
+#EXTINF:-1,DE: EUROSPORT 1
+http://main.cctvlive.org:8000/live/Amos/Amos/6072.ts
+#EXTINF:-1,DE: EUROSPORT
+http://main.cctvlive.org:8000/live/Amos/Amos/8374.ts
+#EXTINF:-1,DE: SKY SPORT 1!
+http://main.cctvlive.org:8000/live/Amos/Amos/8372.ts
+#EXTINF:-1,DE: SKY SPORT AUSTRIA HD
+http://main.cctvlive.org:8000/live/Amos/Amos/4692.ts
+#EXTINF:-1,DE: SPORT 1
+http://main.cctvlive.org:8000/live/Amos/Amos/4700.ts
+#EXTINF:-1,NL: FOX SPORT 1 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/8779.ts
+#EXTINF:-1,NL: FOX SPORT 2 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/3332.ts
+#EXTINF:-1,NL: FOX SPORT 3 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/8781.ts
+#EXTINF:-1,NL: FOX SPORT 4 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/3330.ts
+#EXTINF:-1,NL: FOX SPORT 5 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/8783.ts
+#EXTINF:-1,NL: FOXSPORT 6 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/8784.ts
+#EXTINF:-1,NL: SPORT 1 SELECT
+http://main.cctvlive.org:8000/live/Amos/Amos/8761.ts
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1
+http://main.cctvlive.org:8000/live/Amos/Amos/3324.ts
+#EXTINF:-1,NL: ZIGGO SPORT RACING
+http://main.cctvlive.org:8000/live/Amos/Amos/8764.ts
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
+http://main.cctvlive.org:8000/live/Amos/Amos/18231.ts
+#EXTINF:-1,IT: FOX SPORT HD
+http://main.cctvlive.org:8000/live/Amos/Amos/4401.ts
+#EXTINF:-1,RO-Digi_Sport_1
+http://main.cctvlive.org:8000/live/Amos/Amos/3296.ts
+#EXTINF:-1,RO-Digi_Sport_2
+http://main.cctvlive.org:8000/live/Amos/Amos/3295.ts
+#EXTINF:-1,RO-Digi_Sport_3
+http://main.cctvlive.org:8000/live/Amos/Amos/3294.ts
+#EXTINF:-1,RO-Digi_Sport_4
+http://main.cctvlive.org:8000/live/Amos/Amos/3293.ts
+#EXTINF:-1,ALB-SUPER_SPORT1_HD
+http://main.cctvlive.org:8000/live/Amos/Amos/3302.ts
+#EXTINF:-1,ALB-SUPER_SPORT3_HD
+http://main.cctvlive.org:8000/live/Amos/Amos/3300.ts
+#EXTINF:-1,ALB-Supersport_2_HD
+http://main.cctvlive.org:8000/live/Amos/Amos/7431.ts
+#EXTINF:-1,ALB: TRING SPORT 3 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/7382.ts
 #EXTINF:-1,(USA) Fox Sport 1
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2431.ts
-#EXTINF:-1,(USA) TSN 1
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2423.ts
-#EXTINF:-1,Sfr Sport 1
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3072.ts
-#EXTINF:-1,Sfr Sport 2
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3073.ts
-#EXTINF:-1,Sfr Sport 3
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3074.ts
-#EXTINF:-1,Infosport+
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1238.ts
-#EXTINF:-1,Foot +24
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2521.ts
-#EXTINF:-1,Canal+Sport-FR-HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/79.ts
-#EXTINF:-1,Bein_Sports-FR-1-HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/80.ts
-#EXTINF:-1,Bein_Sports-FR-2-HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/81.ts
-#EXTINF:-1,Bein_Sports-FR-3-HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/82.ts
-#EXTINF:-1,Canal+Sport
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1226.ts
-#EXTINF:-1,(DE) Sky Sport 1 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1538.ts
-#EXTINF:-1,(DE) Sky Sport 2 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2031.ts
-#EXTINF:-1,(DE) Sport 1
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1556.ts
-#EXTINF:-1,(ES) Movistar  Deportes 1 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2839.ts
-#EXTINF:-1,(ES) M.Futbol HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2838.ts
-#EXTINF:-1,(ES) beIN Sports España HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2849.ts
-#EXTINF:-1,(ES) BeIN LaLiga HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2840.ts
-#EXTINF:-1,(NL) Fox_Sports 1
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4228.ts
-#EXTINF:-1,(NL) Fox_Sports 2
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4229.ts
-#EXTINF:-1,(NL) Fox_Sports 3
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4230.ts
-#EXTINF:-1,(NL) Fox_Sports 4
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4231.ts
-#EXTINF:-1,(NL) Fox_Sports 5
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4232.ts
-#EXTINF:-1,(PL) Tvp Sport
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2874.ts
-#EXTINF:-1,(PL) Canal + Sport HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2921.ts
-#EXTINF:-1,(PL) Canal + Sport
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2867.ts
-#EXTINF:-1,(IT) Sky Sport 1 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1500.ts
-#EXTINF:-1,(IT) Sky Sport 2 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1499.ts
-#EXTINF:-1,(IT) Sky Sport 3 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1497.ts
-#EXTINF:-1,(IT) Sky Sport MotoGP HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1502.ts
-#EXTINF:-1,Supertennis HD
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/2513.ts
-#EXTINF:-1,WWE CHANNEL
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/26753.ts
-#EXTINF:-1,Mosaico MySports UPC
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28348.ts
+#EXTINF:-1,FR: CANAL SPORT SD
+http://main.cctvlive.org:8000/live/Amos/Amos/5285.ts
+#EXTINF:-1,FR: SFR SPORT 1 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2163.ts
+#EXTINF:-1,FR: SFR SPORT 2 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2162.ts
+#EXTINF:-1,FR: SFR SPORT 3
+http://main.cctvlive.org:8000/live/Amos/Amos/8883.ts
+#EXTINF:-1,FR: SFR SPORT 4 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2305.ts
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2160.ts
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2159.ts
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+http://main.cctvlive.org:8000/live/Amos/Amos/2158.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28316.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28316.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28316.ts
-#EXTINF:-1,******
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
 #EXTINF:-1,******
@@ -199,75 +199,86 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28317.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28318.ts
 
-#EXTINF:-1,HBO 
-http://omegastreams.pw:8080/live/ste1/ste1/30778.m3u8
-#EXTINF:-1,HBO 2 
-http://omegastreams.pw:8080/live/ste1/ste1/30777.m3u8
-#EXTINF:-1,HBO 3 
-http://omegastreams.pw:8080/live/ste1/ste1/30776.m3u8
-#EXTINF:-1,Cinemax 1 
-http://omegastreams.pw:8080/live/ste1/ste1/30754.m3u8
-#EXTINF:-1,Cinemax 2 
-http://omegastreams.pw:8080/live/ste1/ste1/30753.m3u8
-#EXTINF:-1,Cinestar TV Premiere 1 (RS) 
-http://omegastreams.pw:8080/live/ste1/ste1/30752.m3u8
-#EXTINF:-1,Cinestar TV Premiere 2 (RS) 
-http://omegastreams.pw:8080/live/ste1/ste1/30751.m3u8
-#EXTINF:-1,CineStar Action & Thriler 
-http://omegastreams.pw:8080/live/ste1/ste1/30755.m3u8
+#EXTINF:-1,EX-YU: HBO ADRIA 
+http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3041.ts
+#EXTINF:-1,HBO HD 2
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34627.ts
+#EXTINF:-1,HBO 2
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34570.ts
+#EXTINF:-1,HBO 3
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34626.ts
+#EXTINF:-1,CINEMAX 1
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34651.ts
+#EXTINF:-1,CINEMAX 2
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34650.ts
+#EXTINF:-1,EX-YU: Cinestar Action 
+http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3055.ts
+#EXTINF:-1,EX-YU: Cinestar Premier 1 
+http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3054.ts
+#EXTINF:-1,EX-YU: Cinestar Premier 2 
+http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3053.ts
+#EXTINF:-1,EX-YU: FOX 
+http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3048.ts
+#EXTINF:-1,EX-YU: Fox Crime 
+http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3047.ts
 
 #EXTINF:-1 , FilmBox Extra HD
 http://46.40.5.99:8000/filmbox_extra_high
 #EXTINF:-1 , FilmBox Plus
 http://46.40.5.99:8000/filmbox_plus_high
-#EXTINF:-1,FOX 
-http://omegastreams.pw:8080/live/ste1/ste1/30760.m3u8
-#EXTINF:-1,Fox Crime 
-http://omegastreams.pw:8080/live/ste1/ste1/30758.m3u8
-#EXTINF:-1,Fox Movies 
-http://omegastreams.pw:8080/live/ste1/ste1/30757.m3u8
-#EXTINF:-1,TV 1000 
-http://omegastreams.pw:8080/live/ste1/ste1/30772.m3u8
-#EXTINF:-1,Klasik TV 
-http://omegastreams.pw:8080/live/ste1/ste1/30761.m3u8
-#EXTINF:0,Sci-fi
-http://cdn.iptv.amis.net/ts/SCI_FI/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0,HRT 1 
-http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0,HRT 2
-http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:-1,HRT 3
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1157.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+#EXTINF:-1,KLASIK TV
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34559.ts
+#EXTINF:-1,TV 1000
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34668.ts
 
 
-#EXTINF:0,Rtl
-http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
-#EXTINF:0,Rtl 2
-http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playlist.m3u8
+#EXTINF:-1,RS | HRT 1
+http://vip-src.com:8080/live/sedat29/sedat29/7383.ts
+#EXTINF:-1,RS | HRT 2
+http://vip-src.com:8080/live/sedat29/sedat29/7382.ts
+#EXTINF:-1,RS | HRT 3
+http://vip-src.com:8080/live/sedat29/sedat29/7384.ts
+#EXTINF:-1,RS | NOVA HR
+http://vip-src.com:8080/live/sedat29/sedat29/7364.ts
+#EXTINF:-1,RS | DOMA TV
+http://vip-src.com:8080/live/sedat29/sedat29/7367.ts
+#EXTINF:-1,RS | RTL
+http://vip-src.com:8080/live/sedat29/sedat29/7376.ts
+#EXTINF:-1,RS | RTL  2
+http://vip-src.com:8080/live/sedat29/sedat29/7377.ts
+#EXTINF:-1,RS | RTS1
+http://vip-src.com:8080/live/sedat29/sedat29/7371.ts
+#EXTINF:-1,RS | RTS2
+http://vip-src.com:8080/live/sedat29/sedat29/7366.ts
+#EXTINF:-1,RS | PINK  WESTERN
+http://vip-src.com:8080/live/sedat29/sedat29/7357.ts
+#EXTINF:-1,RS | PINK COMEDY
+http://vip-src.com:8080/live/sedat29/sedat29/7362.ts
+#EXTINF:-1,RS | PINK CRIME&MISTERY
+http://vip-src.com:8080/live/sedat29/sedat29/7385.ts
+#EXTINF:-1,RS | PINK FILM
+http://vip-src.com:8080/live/sedat29/sedat29/7369.ts
+#EXTINF:-1,RS | PINK FOLK 1
+http://vip-src.com:8080/live/sedat29/sedat29/7375.ts
+#EXTINF:-1,RS | PINK HORROR
+http://vip-src.com:8080/live/sedat29/sedat29/7373.ts
+#EXTINF:-1,RS | PINK PLUS
+http://vip-src.com:8080/live/sedat29/sedat29/7378.ts
+#EXTINF:-1,RS | Prva
+http://vip-src.com:8080/live/sedat29/sedat29/7360.ts
+#EXTINF:-1,RS | OBN
+http://vip-src.com:8080/live/sedat29/sedat29/7358.ts
+#EXTINF:-1,RS | Pink
+http://vip-src.com:8080/live/sedat29/sedat29/7363.ts
+#EXTINF:-1,RS | BHT HD
+http://vip-src.com:8080/live/sedat29/sedat29/7372.ts
+#EXTINF:-1,RS | BOSNATV1
+http://vip-src.com:8080/live/sedat29/sedat29/7356.ts
+#EXTINF:-1,RS | DISCOVERY CHANNEL
+http://vip-src.com:8080/live/sedat29/sedat29/7386.ts
+#EXTINF:-1,RS | KANAL 5
+http://vip-src.com:8080/live/sedat29/sedat29/7361.ts
 
-#EXTINF:-1,RTL Crime 
-http://omegastreams.pw:8080/live/ste1/ste1/30800.m3u8
-#EXTINF:-1,RTL Living 
-http://omegastreams.pw:8080/live/ste1/ste1/30783.m3u8
-#EXTINF:-1,Nova TV (HR) 
-http://omegastreams.pw:8080/live/ste1/ste1/30787.m3u8
-#EXTINF:-1,Nova TV HD 
-http://omegastreams.pw:8080/live/ste1/ste1/30788.m3u8
-#EXTINF:-1,Doma TV 
-http://omegastreams.pw:8080/live/ste1/ste1/30786.m3u8
-#EXTINF:-1,Prva Plus 
-http://omegastreams.pw:8080/live/ste1/ste1/30809.m3u8
-#EXTINF:-1,Prva World 
-http://omegastreams.pw:8080/live/ste1/ste1/30808.m3u8
-#EXTINF:-1,Prva 
-http://omegastreams.pw:8080/live/ste1/ste1/30810.m3u8
-#EXTINF:-1,RTS 1 
-http://omegastreams.pw:8080/live/ste1/ste1/30817.m3u8
-#EXTINF:-1,RTS 2 
-http://omegastreams.pw:8080/live/ste1/ste1/30816.m3u8
-#EXTINF:-1,RTS 3 
-http://omegastreams.pw:8080/live/ste1/ste1/30815.m3u8
 #EXTINF:0,SLO 1
 http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,SLO 2
@@ -287,27 +298,6 @@ http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreM
 #EXTINF:0,DIVA
 http://cdn.iptv.amis.net/ts/Hallmark/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
-#EXTINF:-1,Pink Action 
-http://omegastreams.pw:8080/live/ste1/ste1/30721.m3u8
-#EXTINF:-1,Pink Classic 
-http://omegastreams.pw:8080/live/ste1/ste1/30713.m3u8
-#EXTINF:-1,Pink Comedy 
-http://omegastreams.pw:8080/live/ste1/ste1/30699.m3u8
-#EXTINF:-1,Pink Crime & Mistery 
-http://omegastreams.pw:8080/live/ste1/ste1/30700.m3u8
-#EXTINF:-1,Pink Extra 
-http://omegastreams.pw:8080/live/ste1/ste1/30701.m3u8
-#EXTINF:-1,Pink Premium 
-http://omegastreams.pw:8080/live/ste1/ste1/30709.m3u8
-#EXTINF:-1,Pink Romance 
-http://omegastreams.pw:8080/live/ste1/ste1/30711.m3u8
-#EXTINF:-1,Pink Sci-fi & Fantasy 
-http://omegastreams.pw:8080/live/ste1/ste1/30712.m3u8
-#EXTINF:-1,Pink Thriler 
-http://omegastreams.pw:8080/live/ste1/ste1/30717.m3u8
-#EXTINF:-1,Pink Western 
-http://omegastreams.pw:8080/live/ste1/ste1/30718.m3u8
-
 #EXTINF:-1,ORF1
 http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1,ORF2
@@ -330,31 +320,6 @@ http://cdn.iptv.amis.net/LIVE/SAT1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreM
 http://cdn.iptv.amis.net/LIVE/ZDF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,VOX DE
 http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:-1,Sky Movies Action e Adventure 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36523.ts
-#EXTINF:-1,SKY MOVIES COMEDY 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36513.ts
-#EXTINF:-1,SKY MOVIES CRIME e THRILLER 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36522.ts
-#EXTINF:-1,SKY MOVIES DISNEY HD 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36512.ts
-#EXTINF:-1,SKY MOVIES DRAMA 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36521.ts
-#EXTINF:-1,Sky Movies Family 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36520.ts
-#EXTINF:-1,Sky Movies Living 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36519.ts
-#EXTINF:-1,Sky Movies Modern Grates 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36518.ts
-#EXTINF:-1,Sky Movies Premiere 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36517.ts
-#EXTINF:-1,SKY MOVIES SELECT 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36516.ts
-#EXTINF:-1,SKY MOVIES SHOWCASE 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36515.ts
-#EXTINF:-1,Sky Movies SyFi-Horror 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36514.ts
 
 #EXTINF:0,HBO
 http://cdn.iptv.amis.net/ts/HBO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -400,3 +365,17 @@ http://cdn.iptv.amis.net/ts/Travel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreM
 http://cdn.iptv.amis.net/ts/HistoryChannel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,Viasat History (slo)
 http://cdn.iptv.amis.net/ts/History/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:0,HRT 1 
+http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,HRT 2
+http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,HRT 3
+http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1157.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
+
+
+#EXTINF:0,Rtl
+http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
+#EXTINF:0,Rtl 2
+http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playlist.m3u8
+
