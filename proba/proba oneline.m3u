@@ -1,33 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1,SPORT KLUB_1 
-http://main.cctvlive.org:8000/live/Amos/Amos/5072.ts
-#EXTINF:-1,SPORT KLUB_2 
-http://main.cctvlive.org:8000/live/Amos/Amos/5071.ts
-#EXTINF:-1,SPORT KLUB_3 
-http://main.cctvlive.org:8000/live/Amos/Amos/5070.ts
-#EXTINF:-1,SPORT KLUB_4 
-http://main.cctvlive.org:8000/live/Amos/Amos/5069.ts
-#EXTINF:-1,SPORT KLUB_5 
-http://main.cctvlive.org:8000/live/Amos/Amos/5068.ts
-#EXTINF:-1,ARENA 1 
-http://main.cctvlive.org:8000/live/Amos/Amos/5077.ts
-#EXTINF:-1,ARENA_2 
-http://main.cctvlive.org:8000/live/Amos/Amos/5076.ts
-#EXTINF:-1,ARENA_3 
-http://main.cctvlive.org:8000/live/Amos/Amos/5075.ts
-#EXTINF:-1,ARENA_4 
-http://main.cctvlive.org:8000/live/Amos/Amos/5074.ts
-#EXTINF:-1,ARENA_5 
-http://main.cctvlive.org:8000/live/Amos/Amos/5073.ts
-#EXTINF:-1,ARENA1 
-http://main.cctvlive.org:8000/live/Amos/Amos/3315.ts
-#EXTINF:-1,ARENA2 
-http://main.cctvlive.org:8000/live/Amos/Amos/3314.ts
-#EXTINF:-1,ARENA3 
-http://main.cctvlive.org:8000/live/Amos/Amos/3313.ts
-#EXTINF:-1,ARENA4 
-http://main.cctvlive.org:8000/live/Amos/Amos/3312.ts
+#EXTINF:-1,SPORT KLUB 1 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
+#EXTINF:-1,SPORT KLUB 2 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34663.ts
+#EXTINF:-1,SPORT KLUB 3 
+http:////noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34662.ts
+#EXTINF:-1,SPORT KLUB 5 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34500.ts
+#EXTINF:-1,SPORT KLUB 6 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34499.ts
+#EXTINF:-1,SPORTKLUB 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34495.ts
+#EXTINF:-1,SPORTKLUB 2 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34494.ts
+#EXTINF:-1,SPORTKLUB 3 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34493.ts
+#EXTINF:-1,Arena Sport 1 HR 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34649.ts
+#EXTINF:-1,Arena Sport 2 HR 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34647.ts
+#EXTINF:-1,Arena Sport 3
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34645.ts
+#EXTINF:-1,ARENA SPORT 3
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34600.ts
+#EXTINF:-1,ARENA SPORT 4 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34599.ts
+#EXTINF:-1,Arena Sport 5 HR 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34641.ts
+#EXTINF:-1,SPORT TV 1 HD SLO 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34498.ts
+#EXTINF:-1,SPORT TV 2 HD SLO 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34497.ts
+#EXTINF:-1,SPORT TV 3 HD SLO 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34496.ts
 #EXTINF:-1, Arena_Sport 1 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4004.ts
 #EXTINF:-1, Arena_Sport 2 HD
@@ -38,156 +44,152 @@ http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3531.ts
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4003.ts
 #EXTINF:-1, Arena_Sport 5 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4002.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HD V
-http://main.cctvlive.org:8000/live/Amos/Amos/562.ts
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT SD
-http://main.cctvlive.org:8000/live/Amos/Amos/557.ts
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD V
-http://main.cctvlive.org:8000/live/Amos/Amos/9076.ts
-#EXTINF:-1,UK: SKY SPORTS PREMIER  LEAGUE  HD
-http://main.cctvlive.org:8000/live/Amos/Amos/9113.ts
-#EXTINF:-1,UK: SKY SPORTS  ACTION
-http://main.cctvlive.org:8000/live/Amos/Amos/4651.ts
-#EXTINF:-1,UK: SKY SPORTS ARENA V
-http://main.cctvlive.org:8000/live/Amos/Amos/9077.ts
-#EXTINF:-1,UK: SKY SPORTS F1 HD V
-http://main.cctvlive.org:8000/live/Amos/Amos/2760.ts
-#EXTINF:-1,UK: SKY SPORTS MIX HD V
-http://main.cctvlive.org:8000/live/Amos/Amos/555.ts
-#EXTINF:-1,UK: BT SPORT 1 HD V
-http://main.cctvlive.org:8000/live/Amos/Amos/2749.ts
-#EXTINF:-1,UK: BT SPORTS 2 HD V
-http://main.cctvlive.org:8000/live/Amos/Amos/2748.ts
-#EXTINF:-1,UK: BT SPORTS 3 HD V
-http://main.cctvlive.org:8000/live/Amos/Amos/2747.ts
-#EXTINF:-1,UK: BT SPORT ESPN
-http://main.cctvlive.org:8000/live/Amos/Amos/3596.ts
-#EXTINF:-1,UK: EUROSPORTS 1 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/549.ts
-#EXTINF:-1,UK: EUROSPORT 2 HD V
-http://main.cctvlive.org:8000/live/Amos/Amos/544.ts
-#EXTINF:-1,UK: EIR SPORTS 1
-http://main.cctvlive.org:8000/live/Amos/Amos/707.ts
-#EXTINF:-1,UK: EIR SPORTS 2
-http://main.cctvlive.org:8000/live/Amos/Amos/706.ts
-#EXTINF:-1,BEIN: SPORTS 1 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2057.ts
-#EXTINF:-1,BEIN: SPORTS  2 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2056.ts
-#EXTINF:-1,BEIN:  SPORTS 3 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2055.ts
-#EXTINF:-1,BEIN: SPORTS 4 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2054.ts
-#EXTINF:-1,BEIN: SPORTS 5 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2053.ts
-#EXTINF:-1,BEIN: SPORTS 6 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2052.ts
-#EXTINF:-1,BEIN: SPORTS 7 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2051.ts
-#EXTINF:-1,BEIN: SPORTS 8 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2050.ts
-#EXTINF:-1,BEIN: SPORTS 9 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2049.ts
-#EXTINF:-1,BEIN:  SPORTS 10 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2048.ts
-#EXTINF:-1,BEIN: SPORTS 11 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2047.ts
-#EXTINF:-1,BEIN: SPORTS 12 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2046.ts#EXTINF:-1,UK: SKY SPORTS NEWS HD V
-#EXTINF:-1,POLAND:  NSPORT
-http://main.cctvlive.org:8000/live/Amos/Amos/9737.ts
-#EXTINF:-1,POLAND: Canal  Sport
-http://main.cctvlive.org:8000/live/Amos/Amos/9776.ts
-#EXTINF:-1,POLAND: CANAL  SPORT 2  HD
-http://main.cctvlive.org:8000/live/Amos/Amos/9775.ts
-#EXTINF:-1,POLAND: Eleven Sports HD
-http://main.cctvlive.org:8000/live/Amos/Amos/9773.ts
-#EXTINF:-1,POLAND: EUROSPORT
-http://main.cctvlive.org:8000/live/Amos/Amos/9769.ts
-#EXTINF:-1,POLAND: EUROSPORT 2
-http://main.cctvlive.org:8000/live/Amos/Amos/9768.ts
-#EXTINF:-1,POLAND: NSport Plus
-http://main.cctvlive.org:8000/live/Amos/Amos/9760.ts
-#EXTINF:-1,POLAND: POLSAT SPORT
-http://main.cctvlive.org:8000/live/Amos/Amos/9771.ts
-#EXTINF:-1,POLAND: POLSAT SPORT EXTRA HD
-http://main.cctvlive.org:8000/live/Amos/Amos/9754.ts
-#EXTINF:-1,POLAND: Polsat Sport News
-http://main.cctvlive.org:8000/live/Amos/Amos/9753.ts
-#EXTINF:-1,POLAND: TVP SPORT
-http://main.cctvlive.org:8000/live/Amos/Amos/9778.ts
-#EXTINF:-1,DE: SKY SPORT 1
-http://main.cctvlive.org:8000/live/Amos/Amos/5811.ts
-#EXTINF:-1,DE: SKY SPORT 2 !
-http://main.cctvlive.org:8000/live/Amos/Amos/5810.ts
-#EXTINF:-1,DE: SKY SPORT NEWS !
-http://main.cctvlive.org:8000/live/Amos/Amos/5809.ts
-#EXTINF:-1,DE: EUROSPORT 1
-http://main.cctvlive.org:8000/live/Amos/Amos/6072.ts
-#EXTINF:-1,DE: EUROSPORT
-http://main.cctvlive.org:8000/live/Amos/Amos/8374.ts
-#EXTINF:-1,DE: SKY SPORT 1!
-http://main.cctvlive.org:8000/live/Amos/Amos/8372.ts
-#EXTINF:-1,DE: SKY SPORT AUSTRIA HD
-http://main.cctvlive.org:8000/live/Amos/Amos/4692.ts
-#EXTINF:-1,DE: SPORT 1
-http://main.cctvlive.org:8000/live/Amos/Amos/4700.ts
-#EXTINF:-1,NL: FOX SPORT 1 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/8779.ts
-#EXTINF:-1,NL: FOX SPORT 2 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/3332.ts
-#EXTINF:-1,NL: FOX SPORT 3 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/8781.ts
-#EXTINF:-1,NL: FOX SPORT 4 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/3330.ts
-#EXTINF:-1,NL: FOX SPORT 5 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/8783.ts
-#EXTINF:-1,NL: FOXSPORT 6 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/8784.ts
-#EXTINF:-1,NL: SPORT 1 SELECT
-http://main.cctvlive.org:8000/live/Amos/Amos/8761.ts
-#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1
-http://main.cctvlive.org:8000/live/Amos/Amos/3324.ts
-#EXTINF:-1,NL: ZIGGO SPORT RACING
-http://main.cctvlive.org:8000/live/Amos/Amos/8764.ts
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
-http://main.cctvlive.org:8000/live/Amos/Amos/18231.ts
-#EXTINF:-1,IT: FOX SPORT HD
-http://main.cctvlive.org:8000/live/Amos/Amos/4401.ts
-#EXTINF:-1,RO-Digi_Sport_1
-http://main.cctvlive.org:8000/live/Amos/Amos/3296.ts
-#EXTINF:-1,RO-Digi_Sport_2
-http://main.cctvlive.org:8000/live/Amos/Amos/3295.ts
-#EXTINF:-1,RO-Digi_Sport_3
-http://main.cctvlive.org:8000/live/Amos/Amos/3294.ts
-#EXTINF:-1,RO-Digi_Sport_4
-http://main.cctvlive.org:8000/live/Amos/Amos/3293.ts
-#EXTINF:-1,ALB-SUPER_SPORT1_HD
-http://main.cctvlive.org:8000/live/Amos/Amos/3302.ts
-#EXTINF:-1,ALB-SUPER_SPORT3_HD
-http://main.cctvlive.org:8000/live/Amos/Amos/3300.ts
-#EXTINF:-1,ALB-Supersport_2_HD
-http://main.cctvlive.org:8000/live/Amos/Amos/7431.ts
-#EXTINF:-1,ALB: TRING SPORT 3 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/7382.ts
-#EXTINF:-1,(USA) Fox Sport 1
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/2431.ts
-#EXTINF:-1,FR: CANAL SPORT SD
-http://main.cctvlive.org:8000/live/Amos/Amos/5285.ts
-#EXTINF:-1,FR: SFR SPORT 1 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2163.ts
-#EXTINF:-1,FR: SFR SPORT 2 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2162.ts
-#EXTINF:-1,FR: SFR SPORT 3
-http://main.cctvlive.org:8000/live/Amos/Amos/8883.ts
-#EXTINF:-1,FR: SFR SPORT 4 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2305.ts
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2160.ts
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2159.ts
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://main.cctvlive.org:8000/live/Amos/Amos/2158.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36466.ts
+#EXTINF:-1,Sky Sports Premier League 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36464.ts
+#EXTINF:-1,Sky Sports Action 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36474.ts
+#EXTINF:-1,Sky Sports Cricket 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36469.ts
+#EXTINF:-1,SKY SPORTS F1 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36462.ts
+#EXTINF:-1,Sky Sports Golf 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36461.ts
+#EXTINF:-1,Sky Sports Mix 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36472.ts
+#EXTINF:-1,Sky Sports news 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36475.ts
+#EXTINF:-1,EUROSPORT 1 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36506.ts
+#EXTINF:-1,EUROSPORT 2 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36505.ts
+#EXTINF:-1,FOX SPORTS 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36495.ts
+#EXTINF:-1,BT Sport 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36543.ts
+#EXTINF:-1,BT Sport 2 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36542.ts
+#EXTINF:-1,BT Sport 3 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36541.ts
+#EXTINF:-1,BT Sport ESPN 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36540.ts
+#EXTINF:-1,BT Sport Extra 1 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36539.ts
+#EXTINF:-1,SuperTennis
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/2110.ts
+#EXTINF:-1,Sky Sport 24 Full HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/24105.ts
+#EXTINF:-1,Sky Sport 1 Full HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/24108.ts
+#EXTINF:-1,Sky Sport 2 Full HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/24107.ts
+#EXTINF:-1,Sky Sport 3 Full HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/24106.ts
+#EXTINF:-1,Fox Sports Full HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/24153.ts
+#EXTINF:-1,Sky Sport Plus Full HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/24149.ts
+#EXTINF:-1,Sky Sport F1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/2109.ts
+#EXTINF:-1,EuroSport 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/2125.ts
+#EXTINF:-1,EuroSport 2 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/2126.ts
+#EXTINF:-1,Premium Sport Full HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/20647.ts
+#EXTINF:-1,Premium Sport 2 Full HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/24374.ts
+#EXTINF:-1,BEIN SPORTS NEWS 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34199.ts
+#EXTINF:-1,BeIN Sport 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34197.ts
+#EXTINF:-1,BeIN Sport 2 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34194.ts
+#EXTINF:-1,BeIN Sport 3 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34191.ts
+#EXTINF:-1,BeIN Sport 4 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34189.ts
+#EXTINF:-1,BeIN Sport 5 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34187.ts
+#EXTINF:-1,BeIN Sport 6 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34186.ts
+#EXTINF:-1,BeIN Sport 7 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34185.ts
+#EXTINF:-1,BeIN Sport 8 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34184.ts
+#EXTINF:-1,BeIN Sport 9 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34183.ts
+#EXTINF:-1,BeIN Sport 10 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34182.ts
+#EXTINF:-1,BeIN Sport 11 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34181.ts
+#EXTINF:-1,Sky Sport Austria 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32700.ts
+#EXTINF:-1,Sport 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32699.ts
+#EXTINF:-1,Sport 2 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32698.ts
+#EXTINF:-1,Sport 1 Plus HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36751.ts
+#EXTINF:-1,Eurosport 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32644.ts
+#EXTINF:-1,Eurosport 2 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32697.ts
+#EXTINF:-1,Eurosport 2 xtra HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32692.ts
+#EXTINF:-1,Sky Sport News HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32682.ts
+#EXTINF:-1,SFR SPORT 1 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/31706.ts
+#EXTINF:-1,SFR SPORT 2 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/31705.ts
+#EXTINF:-1,SFR SPORT 3 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/31704.ts
+#EXTINF:-1,SFR Sport 5 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36142.ts
+#EXTINF:-1,BeIN SPORTS 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36149.ts
+#EXTINF:-1,BeIN SPORTS 2 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36148.ts
+#EXTINF:-1,BeIN SPORTS 3 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/36147.ts
+#EXTINF:-1,CANAL SPORT 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32599.ts
+#EXTINF:-1,INFO SPORT 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32597.ts
+#EXTINF:-1,Movistar Deportes 1 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32777.ts
+#EXTINF:-1,Movistar DEPORTES 2 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32776.ts
+#EXTINF:-1,ES: Bein Sports HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32759.ts
+#EXTINF:-1,Movistar Futbol 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32761.ts
+#EXTINF:-1,Bein LaLiga HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32727.ts
+#EXTINF:-1,Tennis HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/33877.ts
+#EXTINF:-1,BEIN Sports HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/33980.ts
+#EXTINF:-1,FOX Sports 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/33986.ts
+#EXTINF:-1,FOX Sports 2 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/33987.ts
+#EXTINF:-1,NL: Eurosport 1 HD NL 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35845.ts
+#EXTINF:-1,NL: EUROSPORT 2 NL 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35844.ts
+#EXTINF:-1,NL: FOX Sports 2 HD int 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35881.ts
+#EXTINF:-1,NL: FOX SPORTS 3 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35836.ts
+#EXTINF:-1,NL: FOX SPORTS 4 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35879.ts
+#EXTINF:-1,NL: FOX SPORTS 5 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35878.ts
+#EXTINF:-1,NL: FOX SPORTS 6 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35877.ts
 #EXTINF:-1,******
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,******
@@ -211,16 +213,16 @@ http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34626.ts
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34651.ts
 #EXTINF:-1,CINEMAX 2
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34650.ts
-#EXTINF:-1,EX-YU: Cinestar Action 
-http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3055.ts
-#EXTINF:-1,EX-YU: Cinestar Premier 1 
-http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3054.ts
-#EXTINF:-1,EX-YU: Cinestar Premier 2 
-http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3053.ts
-#EXTINF:-1,EX-YU: FOX 
-http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3048.ts
-#EXTINF:-1,EX-YU: Fox Crime 
-http://hd.iptv-passion.com:8000/live/3oTDN2tu3j/7U56PsOHJP/3047.ts
+#EXTINF:-1,Cinestar Premier 1
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34589.ts
+#EXTINF:-1,Cinestar Premier 2
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34588.ts
+#EXTINF:-1,CINESTAR TV
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34653.ts
+#EXTINF:-1,Cinestar Action
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34591.ts
+#EXTINF:-1,Cinestar Fantasy HD
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34590.ts
 
 #EXTINF:-1 , FilmBox Extra HD
 http://46.40.5.99:8000/filmbox_extra_high
