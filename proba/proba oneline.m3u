@@ -1,47 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1
-http://premium-iptv.link:6969/live/Peevy/Peevy/3605.ts
-#EXTINF:-1,Sport Klub 2
-http://premium-iptv.link:6969/live/Peevy/Peevy/3604.ts
-#EXTINF:-1,Sport Klub 3
-http://premium-iptv.link:6969/live/Peevy/Peevy/3603.ts
-#EXTINF:-1,SPORTKLUB 4 SD
-http://premium-iptv.link:6969/live/Peevy/Peevy/3602.ts
-#EXTINF:-1,SPORTKLUB 5 SD
-http://premium-iptv.link:6969/live/Peevy/Peevy/3601.ts
-#EXTINF:-1,SPORTKLUB 6 SD
-http://premium-iptv.link:6969/live/Peevy/Peevy/3600.ts
-#EXTINF:-1,Arenasport 1 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/400.ts
-#EXTINF:-1, Arenasport 2 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/401.ts
-#EXTINF:-1, Arenasport 3 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/402.ts
-#EXTINF:-1, Arenasport 4 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/403.ts
-#EXTINF:-1, Arenasport 5 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/404.ts
-#EXTINF:-1, Supersport 1
-http://premium-iptv.link:6969/live/Peevy/Peevy/405.ts
-#EXTINF:-1, Supersport 2
-http://premium-iptv.link:6969/live/Peevy/Peevy/406.ts
-#EXTINF:-1, Supersport 3
-http://premium-iptv.link:6969/live/Peevy/Peevy/407.ts
-#EXTINF:-1,SLO: SPORT TV 1 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6842.ts
-#EXTINF:-1,SLO: SPORT TV 2 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6843.ts
-#EXTINF:-1,SLO: SPORT TV 3 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6844.ts
-#EXTINF:-1,SLO: SPORTKLUB 1 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6845.ts
-#EXTINF:-1,SLO: SPORTKLUB 2 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6846.ts
-#EXTINF:-1,SLO: SPORTKLUB 3 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6847.ts
-#EXTINF:-1,SLO: SPORTKLUB 4
-http://premium-iptv.link:6969/live/Peevy/Peevy/6848.ts
+##EXTINF:-1,SPORT KLUB 1 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
+#EXTINF:-1,SPORT KLUB 2 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34663.ts
+#EXTINF:-1,SPORT KLUB 3 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34662.ts
+#EXTINF:-1,SPORT KLUB 5 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34500.ts
+#EXTINF:-1,SPORT KLUB 6 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34499.ts
+#EXTINF:-1,SPORTKLUB 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34495.ts
+#EXTINF:-1,SPORTKLUB 2 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34494.ts
+#EXTINF:-1,SPORTKLUB 3 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34493.ts
+#EXTINF:-1,Arena Sport 1 HR 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34649.ts
+#EXTINF:-1,Arena Sport 2 HR 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34647.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34600.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34599.ts
+#EXTINF:-1,Arena Sport 5 HR 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34641.ts
+#EXTINF:-1,SPORT TV 1 HD SLO 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34498.ts
+#EXTINF:-1,SPORT TV 2 HD SLO 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34497.ts
+#EXTINF:-1,SPORT TV 3 HD SLO 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34496.ts
+#EXTINF:-1,EX-YU: HNTV
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34567.ts
 #EXTINF:-1, Arena_Sport 1 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4004.ts
 #EXTINF:-1, Arena_Sport 2 HD
@@ -238,52 +230,87 @@ http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34559.ts
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34668.ts
 
 
-#EXTINF:-1,RS | HRT 1
-http://vip-src.com:8080/live/sedat29/sedat29/7383.ts
-#EXTINF:-1,RS | HRT 2
-http://vip-src.com:8080/live/sedat29/sedat29/7382.ts
-#EXTINF:-1,RS | HRT 3
-http://vip-src.com:8080/live/sedat29/sedat29/7384.ts
-#EXTINF:-1,RS | NOVA HR
-http://vip-src.com:8080/live/sedat29/sedat29/7364.ts
-#EXTINF:-1,RS | DOMA TV
-http://vip-src.com:8080/live/sedat29/sedat29/7367.ts
-#EXTINF:-1,RS | RTL
-http://vip-src.com:8080/live/sedat29/sedat29/7376.ts
-#EXTINF:-1,RS | RTL  2
-http://vip-src.com:8080/live/sedat29/sedat29/7377.ts
-#EXTINF:-1,RS | RTS1
-http://vip-src.com:8080/live/sedat29/sedat29/7371.ts
-#EXTINF:-1,RS | RTS2
-http://vip-src.com:8080/live/sedat29/sedat29/7366.ts
-#EXTINF:-1,RS | PINK  WESTERN
-http://vip-src.com:8080/live/sedat29/sedat29/7357.ts
-#EXTINF:-1,RS | PINK COMEDY
-http://vip-src.com:8080/live/sedat29/sedat29/7362.ts
-#EXTINF:-1,RS | PINK CRIME&MISTERY
-http://vip-src.com:8080/live/sedat29/sedat29/7385.ts
-#EXTINF:-1,RS | PINK FILM
-http://vip-src.com:8080/live/sedat29/sedat29/7369.ts
-#EXTINF:-1,RS | PINK FOLK 1
-http://vip-src.com:8080/live/sedat29/sedat29/7375.ts
-#EXTINF:-1,RS | PINK HORROR
-http://vip-src.com:8080/live/sedat29/sedat29/7373.ts
-#EXTINF:-1,RS | PINK PLUS
-http://vip-src.com:8080/live/sedat29/sedat29/7378.ts
-#EXTINF:-1,RS | Prva
-http://vip-src.com:8080/live/sedat29/sedat29/7360.ts
-#EXTINF:-1,RS | OBN
-http://vip-src.com:8080/live/sedat29/sedat29/7358.ts
-#EXTINF:-1,RS | Pink
-http://vip-src.com:8080/live/sedat29/sedat29/7363.ts
-#EXTINF:-1,RS | BHT HD
-http://vip-src.com:8080/live/sedat29/sedat29/7372.ts
-#EXTINF:-1,RS | BOSNATV1
-http://vip-src.com:8080/live/sedat29/sedat29/7356.ts
-#EXTINF:-1,RS | DISCOVERY CHANNEL
-http://vip-src.com:8080/live/sedat29/sedat29/7386.ts
-#EXTINF:-1,RS | KANAL 5
-http://vip-src.com:8080/live/sedat29/sedat29/7361.ts
+#EXTINF:-1,HRT 1
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34632.ts
+#EXTINF:-1,HRT 2
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34631.ts
+#EXTINF:-1,HRT 3
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34630.ts
+#EXTINF:-1,RTL
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34625.ts
+#EXTINF:-1,Nova HR
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34614.ts
+#EXTINF:-1,RTL 2
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34624.ts
+#EXTINF:-1,RTL CRIME
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34623.ts
+#EXTINF:-1,RTL Living
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34621.ts
+#EXTINF:-1,Doma TV
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34616.ts
+
+#EXTINF:-1,Pink Action
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34667.ts
+#EXTINF:-1,Pink Crime&Mystery
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34539.ts
+#EXTINF:-1,Pink Film
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34673.ts
+#EXTINF:-1,Pink Movies
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34678.ts
+#EXTINF:-1,Pink Premium
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34680.ts
+#EXTINF:-1,Pink Romance
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34682.ts
+#EXTINF:-1,Pink Sci-Fi & Fantasy
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34671.ts
+#EXTINF:-1,Pink Sci-Fi&Fantasy
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34528.ts
+#EXTINF:-1,Pink Thriller
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34684.ts
+#EXTINF:-1,Pink Western
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34526.ts
+
+
+#EXTINF:-1,RTS 1
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34612.ts
+#EXTINF:-1,RTS 2
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34611.ts
+#EXTINF:-1,RTV CG SAT
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34510.ts
+#EXTINF:-1,RTV VOJVODINA 1
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34508.ts
+#EXTINF:-1,RTV VOJVODINA 2
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34509.ts
+#EXTINF:-1,Slovenia TV 1 HD
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34503.ts
+#EXTINF:-1,Pop Brio
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34523.ts
+#EXTINF:-1,Pop Oto
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34522.ts
+#EXTINF:-1,Prva (local)
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34520.ts
+#EXTINF:-1,Prva Plus
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34519.ts
+#EXTINF:-1,Prva World TV
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34518.ts
+#EXTINF:-1,RT Vojvodina 1
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34516.ts
+#EXTINF:-1,RT Vojvodina 1 (local)
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34515.ts
+#EXTINF:-1,RTCG 1
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34514.ts
+#EXTINF:-1,RTCG 2
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34513.ts
+#EXTINF:-1,B92 O2 TV
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34620.ts
+#EXTINF:-1,BHT
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34619.ts
+#EXTINF:-1,BHT 1
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34594.ts
+#EXTINF:-1,Bosna TV 1
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34593.ts
+#EXTINF:-1,OBN
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34633.ts
 
 #EXTINF:0,SLO 1
 http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
