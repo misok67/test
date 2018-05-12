@@ -1,39 +1,57 @@
 #EXTM3U
 
-#EXTINF:-1,SPORT OD 1 DO 99 TE 153 DO 290___EXYU DO 100 DO 152 TE 291 DO 399
+#EXTINF:-1,SPORT OD 1 DO 99 TE 185 DO 320___EXYU OO 100 DO 152 TE 320 DO 399
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
 #EXTINF:-1,Sport Klub 1
-http://premium-iptv.link:6969/live/Peevy/Peevy/3605.ts
+http://mypanel.tv:8080/live/malta/malta/9414.ts
 #EXTINF:-1,Sport Klub 2
-http://premium-iptv.link:6969/live/Peevy/Peevy/3604.ts
+http://mypanel.tv:8080/live/malta/malta/9413.ts
 #EXTINF:-1,Sport Klub 3
-http://premium-iptv.link:6969/live/Peevy/Peevy/3603.ts
-#EXTINF:-1,SPORTKLUB 4 SD
-http://premium-iptv.link:6969/live/Peevy/Peevy/3602.ts
-#EXTINF:-1,Arenasport 1 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/400.ts
-#EXTINF:-1, Arenasport 2 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/401.ts
-#EXTINF:-1, Arenasport 3 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/402.ts
-#EXTINF:-1, Arenasport 4 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/403.ts
-#EXTINF:-1, Arenasport 5 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/404.ts
-#EXTINF:-1,SLO: SPORT TV 1 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6842.ts
-#EXTINF:-1,SLO: SPORT TV 2 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6843.ts
-#EXTINF:-1,SLO: SPORT TV 3 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6844.ts
-#EXTINF:-1,SLO: SPORTKLUB 1 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6845.ts
-#EXTINF:-1,SLO: SPORTKLUB 2 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6846.ts
-#EXTINF:-1,SLO: SPORTKLUB 3 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6847.ts
-#EXTINF:-1,SLO: SPORTKLUB 4
-http://premium-iptv.link:6969/live/Peevy/Peevy/6848.ts
+http://mypanel.tv:8080/live/malta/malta/9412.ts
+#EXTINF:-1,Sport Klub 4
+http://mypanel.tv:8080/live/malta/malta/9411.ts
+#EXTINF:-1,Sport Klub 5
+http://mypanel.tv:8080/live/malta/malta/9410.ts
+#EXTINF:-1,Sport Klub 6
+http://mypanel.tv:8080/live/malta/malta/9409.ts
+#EXTINF:-1,Sport Klub HD RS
+http://mypanel.tv:8080/live/malta/malta/13337.ts
+#EXTINF:-1,Sport Klub HD 1 RS
+http://mypanel.tv:8080/live/malta/malta/9408.ts
+#EXTINF:-1,Sport Klub HD 2 RS
+http://mypanel.tv:8080/live/malta/malta/9407.ts
+#EXTINF:-1,Sport Klub HD 3 RS
+http://mypanel.tv:8080/live/malta/malta/9406.ts
+#EXTINF:-1,Sport Klub HD 4 RS
+http://mypanel.tv:8080/live/malta/malta/9405.ts
+#EXTINF:-1,Sport Klub HD 5 RS
+http://mypanel.tv:8080/live/malta/malta/9404.ts
+#EXTINF:-1,Sport Klub HD 6 RS
+http://mypanel.tv:8080/live/malta/malta/9403.ts
+#EXTINF:-1,Arena Sport 1 HR
+http://mypanel.tv:8080/live/malta/malta/5464.ts
+#EXTINF:-1,Arena Sport 2 HR
+http://mypanel.tv:8080/live/malta/malta/5462.ts
+#EXTINF:-1,Arena Sport 3 HR
+http://mypanel.tv:8080/live/malta/malta/5460.ts
+#EXTINF:-1,Arena Sport 4 HR
+http://mypanel.tv:8080/live/malta/malta/5458.ts
+#EXTINF:-1,Arena Sport 5 HR
+http://mypanel.tv:8080/live/malta/malta/5457.ts
+#EXTINF:-1,Arena Sport 6 HR
+http://mypanel.tv:8080/live/malta/malta/9415.ts
+#EXTINF:-1,Arena Sport 1 RS
+http://mypanel.tv:8080/live/malta/malta/5465.ts
+#EXTINF:-1,Arena Sport 2 RS
+http://mypanel.tv:8080/live/malta/malta/5463.ts
+#EXTINF:-1,Arena Sport 3 RS
+http://mypanel.tv:8080/live/malta/malta/5461.ts
+#EXTINF:-1,Arena Sport 4 RS
+http://mypanel.tv:8080/live/malta/malta/5459.ts
+#EXTINF:-1,Arena Sport 5 RS
+http://mypanel.tv:8080/live/malta/malta/5456.ts
+#EXTINF:-1,HNTV
+http://mypanel.tv:8080/live/malta/malta/11045.ts
 #EXTINF:-1, Arena_Sport 1 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4004.ts
 #EXTINF:-1, Arena_Sport 2 HD
@@ -174,191 +192,229 @@ http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/588.ts
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/589.ts
 #EXTINF:-1,Bein_Sports 10 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/590.ts
-#EXTINF:-1,(NL) Fox Sports1
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3283.ts
-#EXTINF:-1,(NL) Fox Sports2
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3287.ts
-#EXTINF:-1,(NL) Fox Sports3
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3288.ts
-#EXTINF:-1,(NL) FOX SPORTS4
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3280.ts
-#EXTINF:-1,(NL) FOX SPORTS5
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3279.ts
 #EXTINF:-1,*1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,*1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,*1
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/284.ts
-#EXTINF:-1,*1
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/285.ts
-#EXTINF:-1,*1
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/286.ts
-#EXTINF:-1,*1
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/287.ts
-#EXTINF:-1,*1
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/288.ts
-#EXTINF:-1,HBO Adria
-http://premium-iptv.link:6969/live/Peevy/Peevy/3544.ts
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1,HBO 1
+http://mypanel.tv:8080/live/malta/malta/5041.ts
 #EXTINF:-1,HBO 2
-http://premium-iptv.link:6969/live/Peevy/Peevy/3545.ts
+http://mypanel.tv:8080/live/malta/malta/5040.ts
 #EXTINF:-1,HBO 3
-http://premium-iptv.link:6969/live/Peevy/Peevy/4011.ts
-#EXTINF:-1,CINEMAX 1
-http://premium-iptv.link:6969/live/Peevy/Peevy/3551.ts
-#EXTINF:-1,CINEMAX-2
-http://premium-iptv.link:6969/live/Peevy/Peevy/3550.ts
-#EXTINF:-1,Cinestar Premiere 1
-http://premium-iptv.link:6969/live/Peevy/Peevy/3534.ts
-#EXTINF:-1,Cinestar Premier 2
-http://premium-iptv.link:6969/live/Peevy/Peevy/3556.ts
-#EXTINF:-1,Cinestar Action
-http://premium-iptv.link:6969/live/Peevy/Peevy/3555.ts
-#EXTINF:-1,FilmBox Extra
-http://premium-iptv.link:6969/live/Peevy/Peevy/3520.ts
+http://mypanel.tv:8080/live/malta/malta/5039.ts
+#EXTINF:-1,CineMax 1
+http://mypanel.tv:8080/live/malta/malta/5067.ts
+#EXTINF:-1,Cinemax 2
+http://mypanel.tv:8080/live/malta/malta/9375.ts
+#EXTINF:-1,Kino TV 
+http://mypanel.tv:8080/live/malta/malta/12396.ts
+#EXTINF:-1,CineStar Premiere 1
+http://mypanel.tv:8080/live/malta/malta/5065.ts
+#EXTINF:-1,CineStar Premiere 1 (Backup)
+http://mypanel.tv:8080/live/malta/malta/11490.ts
+#EXTINF:-1,CineStar Premiere 2
+http://mypanel.tv:8080/live/malta/malta/5064.ts
+#EXTINF:-1,CineStar Premiere 2 (Backup)
+http://mypanel.tv:8080/live/malta/malta/11489.ts
+#EXTINF:-1,Cinestar TV
+http://mypanel.tv:8080/live/malta/malta/5063.ts
+#EXTINF:-1,CineStar TV Action
+http://mypanel.tv:8080/live/malta/malta/5062.ts
+#EXTINF:-1,Cinestar Fantasy
+http://mypanel.tv:8080/live/malta/malta/11053.ts
+#EXTINF:-1,Klasik TV
+http://mypanel.tv:8080/live/malta/malta/5032.ts
+#EXTINF:-1,M1 Film
+http://mypanel.tv:8080/live/malta/malta/5031.ts
+#EXTINF:-1,M1 Film Gold
+http://mypanel.tv:8080/live/malta/malta/16423.ts
+#EXTINF:-1,DocuBox HD
+http://mypanel.tv:8080/live/malta/malta/23184.ts
+#EXTINF:-1,SciFi
+http://mypanel.tv:8080/live/malta/malta/11033.ts
+#EXTINF:-1,TV 1000
+http://mypanel.tv:8080/live/malta/malta/9372.ts
+#EXTINF:-1,OYO Cinema
+http://mypanel.tv:8080/live/malta/malta/13438.ts
+#EXTINF:-1,OYO Family
+http://mypanel.tv:8080/live/malta/malta/13436.ts
+#EXTINF:-1,Fox
+http://mypanel.tv:8080/live/malta/malta/5050.ts
+#EXTINF:-1,Fox Crime
+http://mypanel.tv:8080/live/malta/malta/5049.ts
+#EXTINF:-1,Fox Life
+http://mypanel.tv:8080/live/malta/malta/5048.ts
 #EXTINF:-1,Fox Movies
-http://premium-iptv.link:6969/live/Peevy/Peevy/3517.ts
-#EXTINF:-1,KLASIK TV
-http://premium-iptv.link:6969/live/Peevy/Peevy/3589.ts
-#EXTINF:-1,Pink Film 
-http://premium-iptv.link:6969/live/Peevy/Peevy/3566.ts
+http://mypanel.tv:8080/live/malta/malta/5047.ts
+#EXTINF:-1,Cinemania
+http://mypanel.tv:8080/live/malta/malta/13354.ts
+#EXTINF:-1,Comedy Central Extra
+http://mypanel.tv:8080/live/malta/malta/5060.ts
+#EXTINF:-1,MAX Action
+http://mypanel.tv:8080/live/malta/malta/13347.ts
+#EXTINF:-1,MAX Documentary
+http://mypanel.tv:8080/live/malta/malta/13332.ts
+#EXTINF:-1,FilmBox
+http://mypanel.tv:8080/live/malta/malta/23185.ts
+#EXTINF:-1,Film Klub
+http://mypanel.tv:8080/live/malta/malta/12395.ts
+#EXTINF:-1,Film Klub Extra
+http://mypanel.tv:8080/live/malta/malta/13437.ts
+#EXTINF:-1,Filmbox Plus
+http://mypanel.tv:8080/live/malta/malta/5051.ts
+#EXTINF:-1,Filmbox Extra
+http://mypanel.tv:8080/live/malta/malta/5052.ts
 #EXTINF:-1,HRT 1
-http://premium-iptv.link:6969/live/Peevy/Peevy/3542.ts
+http://mypanel.tv:8080/live/malta/malta/10416.ts
 #EXTINF:-1,HRT 2
-http://premium-iptv.link:6969/live/Peevy/Peevy/3541.ts
+http://mypanel.tv:8080/live/malta/malta/5036.ts
+#EXTINF:-1,HRT 2 (Backup) HR
+http://mypanel.tv:8080/live/malta/malta/10415.ts
 #EXTINF:-1,HRT 3
-http://premium-iptv.link:6969/live/Peevy/Peevy/3540.ts
-#EXTINF:-1,RTL 
-http://premium-iptv.link:6969/live/Peevy/Peevy/3559.ts
+http://mypanel.tv:8080/live/malta/malta/5035.ts
+#EXTINF:-1,HRT 3 (Backup) HR
+http://mypanel.tv:8080/live/malta/malta/10414.ts
+#EXTINF:-1,RTL HR
+http://mypanel.tv:8080/live/malta/malta/4985.ts
+#EXTINF:-1,RTL (Backup) HR
+http://mypanel.tv:8080/live/malta/malta/10412.ts
+#EXTINF:-1,Nova TV HD
+http://mypanel.tv:8080/live/malta/malta/5027.ts
+#EXTINF:-1,Nova TV
+http://mypanel.tv:8080/live/malta/malta/10411.ts
+#EXTINF:-1,Doma TV
+http://mypanel.tv:8080/live/malta/malta/5057.ts
+#EXTINF:-1,Doma TV HD
+http://mypanel.tv:8080/live/malta/malta/23193.ts
 #EXTINF:-1,RTL 2
-http://premium-iptv.link:6969/live/Peevy/Peevy/3558.ts
-#EXTINF:-1,NOVA TV HR
-http://premium-iptv.link:6969/live/Peevy/Peevy/3538.ts
-#EXTINF:-1,DOMA-TV
-http://premium-iptv.link:6969/live/Peevy/Peevy/3546.ts
-#EXTINF:-1,NOVA TV HR
-http://premium-iptv.link:6969/live/Peevy/Peevy/4342.ts
-#EXTINF:-1,RTL Crime
-http://premium-iptv.link:6969/live/Peevy/Peevy/8864.ts
-#EXTINF:-1,RTL Living
-http://premium-iptv.link:6969/live/Peevy/Peevy/8866.ts
-#EXTINF:-1,RTL Passion
-http://premium-iptv.link:6969/live/Peevy/Peevy/8865.ts
-#EXTINF:-1,Pink Action
-http://premium-iptv.link:6969/live/Peevy/Peevy/3563.ts
-#EXTINF:-1,Pink Crime  & Mistery
-http://premium-iptv.link:6969/live/Peevy/Peevy/3531.ts
-#EXTINF:-1,Pink Movies
-http://premium-iptv.link:6969/live/Peevy/Peevy/3568.ts
-#EXTINF:-1,Pink Premium
-http://premium-iptv.link:6969/live/Peevy/Peevy/3575.ts
-#EXTINF:-1,Pink Romance
-http://premium-iptv.link:6969/live/Peevy/Peevy/3572.ts
-#EXTINF:-1,Pink Sci-Fi & Fantasy
-http://premium-iptv.link:6969/live/Peevy/Peevy/3573.ts
-#EXTINF:-1,Pink Thriller
-http://premium-iptv.link:6969/live/Peevy/Peevy/3571.ts
-#EXTINF:-1,Pink Western
-http://premium-iptv.link:6969/live/Peevy/Peevy/3570.ts
-#EXTINF:-1,Pink World
-http://premium-iptv.link:6969/live/Peevy/Peevy/3496.ts
-#EXTINF:-1,Prva
-http://premium-iptv.link:6969/live/Peevy/Peevy/4341.ts
-#EXTINF:-1,Prva Plus
-http://premium-iptv.link:6969/live/Peevy/Peevy/3553.ts
-#EXTINF:-1,RTS 1 (local)
-http://premium-iptv.link:6969/live/Peevy/Peevy/3599.ts
-#EXTINF:-1,RTS 2 (local)
-http://premium-iptv.link:6969/live/Peevy/Peevy/3598.ts
-#EXTINF:-1,RTS 3
-http://premium-iptv.link:6969/live/Peevy/Peevy/3597.ts
-#EXTINF:-1,RTS HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/3596.ts
-#EXTINF:-1,B92
-http://premium-iptv.link:6969/live/Peevy/Peevy/8675.ts
-#EXTINF:-1,OBN
-http://premium-iptv.link:6969/live/Peevy/Peevy/4187.ts
-#EXTINF:-1,BHT 
-http://premium-iptv.link:6969/live/Peevy/Peevy/3552.ts
-#EXTINF:-1,ANIMAL PLANET
-http://premium-iptv.link:6969/live/Peevy/Peevy/3593.ts
-#EXTINF:-1,HISTORY CHANNEL
-http://premium-iptv.link:6969/live/Peevy/Peevy/3543.ts
-#EXTINF:-1,SLO: HBO
-http://premium-iptv.link:6969/live/Peevy/Peevy/6828.ts
-#EXTINF:-1,SLO: HBO 2
-http://premium-iptv.link:6969/live/Peevy/Peevy/6829.ts
-#EXTINF:-1,SLO: HBO 3
-http://premium-iptv.link:6969/live/Peevy/Peevy/6816.ts
-#EXTINF:-1,SLO: KANAL A HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6830.ts
-#EXTINF:-1,SLO: POP BRIO HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6835.ts
-#EXTINF:-1,SLO: POP KINO HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6836.ts
-#EXTINF:-1,SLO: POP OTO HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6837.ts
-#EXTINF:-1,SLO: SLO 1 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6839.ts
-#EXTINF:-1,SLO: SLO 2 HD
-http://premium-iptv.link:6969/live/Peevy/Peevy/6840.ts
+http://mypanel.tv:8080/live/malta/malta/4984.ts
+#EXTINF:-1,RTL Crime HR
+http://mypanel.tv:8080/live/malta/malta/4983.ts
+#EXTINF:-1,RTL Living HR
+http://mypanel.tv:8080/live/malta/malta/4982.ts
+#EXTINF:-1,RTL Passion HR
+http://mypanel.tv:8080/live/malta/malta/4981.ts
+#EXTINF:-1,Nova World HR
+http://mypanel.tv:8080/live/malta/malta/15448.ts
+#EXTINF:-1,RTL World HR
+http://mypanel.tv:8080/live/malta/malta/17333.ts
+#EXTINF:-1,N1 TV HD HR
+http://mypanel.tv:8080/live/malta/malta/9391.ts
+#EXTINF:-1,N1 Hrvatska HR
+http://mypanel.tv:8080/live/malta/malta/5029.ts
+#EXTINF:-1,RTS 1 HD RS
+http://mypanel.tv:8080/live/malta/malta/11047.ts
+#EXTINF:-1,RTS 1 RS
+http://mypanel.tv:8080/live/malta/malta/4979.ts
+#EXTINF:-1,RTS 1 (Backup) RS
+http://mypanel.tv:8080/live/malta/malta/10409.ts
+#EXTINF:-1,RTS 2 RS
+http://mypanel.tv:8080/live/malta/malta/4978.ts
+#EXTINF:-1,RTS 2 (Backup) RS
+http://mypanel.tv:8080/live/malta/malta/10408.ts
+#EXTINF:-1,RTS 3 RS
+http://mypanel.tv:8080/live/malta/malta/4977.ts
+#EXTINF:-1,RTS 3 (Backup) RS
+http://mypanel.tv:8080/live/malta/malta/10407.ts
+#EXTINF:-1,N1 TV HD Srb RS
+http://mypanel.tv:8080/live/malta/malta/9392.ts
+#EXTINF:-1,PRVA Max RS
+http://mypanel.tv:8080/live/malta/malta/4989.ts
+#EXTINF:-1,PRVA Plus RS
+http://mypanel.tv:8080/live/malta/malta/4990.ts
+#EXTINF:-1,PRVA World RS
+http://mypanel.tv:8080/live/malta/malta/4988.ts
+#EXTINF:-1,Prva RS
+http://mypanel.tv:8080/live/malta/malta/4991.ts
+#EXTINF:-1,Prva Kick RS
+http://mypanel.tv:8080/live/malta/malta/23187.ts
+#EXTINF:-1,Pink Action RS
+http://mypanel.tv:8080/live/malta/malta/5018.ts
+#EXTINF:-1,Pink Classic RS
+http://mypanel.tv:8080/live/malta/malta/9357.ts
+#EXTINF:-1,Pink Crime & Mystery RS
+http://mypanel.tv:8080/live/malta/malta/5015.ts
+#EXTINF:-1,Pink Film RS
+http://mypanel.tv:8080/live/malta/malta/5011.ts
+#EXTINF:-1,Pink Movies RS
+http://mypanel.tv:8080/live/malta/malta/9356.ts
+#EXTINF:-1,Pink Premium RS
+http://mypanel.tv:8080/live/malta/malta/5002.ts
+#EXTINF:-1,Pink Romance RS
+http://mypanel.tv:8080/live/malta/malta/5000.ts
+#EXTINF:-1,Pink SciFi Fantasy RS
+http://mypanel.tv:8080/live/malta/malta/4997.ts
+#EXTINF:-1,Pink Thriller RS
+http://mypanel.tv:8080/live/malta/malta/4995.ts
+#EXTINF:-1,Pink Western RS
+http://mypanel.tv:8080/live/malta/malta/4994.ts
+#EXTINF:-1,Pink World Cinema RS
+http://mypanel.tv:8080/live/malta/malta/9355.ts
+#EXTINF:-1,Pink World RS
+http://mypanel.tv:8080/live/malta/malta/9354.ts
+#EXTINF:-1,Cine Select 1 HD HR
+http://mypanel.tv:8080/live/malta/malta/20025.ts
+#EXTINF:-1,Cine Select 2 HD HR
+http://mypanel.tv:8080/live/malta/malta/20024.ts
+#EXTINF:-1,Cine Select 3 HD HR
+http://mypanel.tv:8080/live/malta/malta/20023.ts
+#EXTINF:-1,Cine Select 4 HD HR
+http://mypanel.tv:8080/live/malta/malta/20022.ts
+#EXTINF:-1,Cine Select 5 HD HR
+http://mypanel.tv:8080/live/malta/malta/30473.ts
+#EXTINF:-1,Cine Select 6 HD HR
+http://mypanel.tv:8080/live/malta/malta/20021.ts
+#EXTINF:-1,Cine Select 7 HD HR
+http://mypanel.tv:8080/live/malta/malta/20020.ts
+#EXTINF:-1,Cine Select 8 HD HR
+http://mypanel.tv:8080/live/malta/malta/20019.ts
+#EXTINF:-1,Cine Select 9 HD HR
+http://mypanel.tv:8080/live/malta/malta/20018.ts
 
-#EXTINF:-1,SPORT KLUB 1 (HR)
-http://landiptv.live:8080/live/alcino/alcino/89494.ts
-#EXTINF:-1,SPORT KLUB 1 (SRB)
-http://landiptv.live:8080/live/alcino/alcino/89499.ts
-#EXTINF:-1,SPORT KLUB 1 HDN
-http://landiptv.live:8080/live/alcino/alcino/65342.ts
-#EXTINF:-1,SPORT KLUB 2 (HR) 
-http://landiptv.live:8080/live/alcino/alcino/89495.ts
-#EXTINF:-1,SPORT KLUB 2 (SRB)
-http://landiptv.live:8080/live/alcino/alcino/89500.ts
-#EXTINF:-1,SPORT KLUB 2 HD
-http://landiptv.live:8080/live/alcino/alcino/65341.ts
-#EXTINF:-1,SPORT KLUB 3 (HR)
-http://landiptv.live:8080/live/alcino/alcino/89496.ts
-#EXTINF:-1,SPORT KLUB 3 HD
-http://landiptv.live:8080/live/alcino/alcino/65340.ts
+#EXTINF:-1,SPORT KLUB 1
+http://epictv.org:8080/live/Achim/Achim/20902.ts
+#EXTINF:-1,SPORT KLUB 2
+http://epictv.org:8080/live/Achim/Achim/20901.ts
+#EXTINF:-1,SPORT KLUB 3
+http://epictv.org:8080/live/Achim/Achim/20900.ts
 #EXTINF:-1,SPORT KLUB 4
-http://landiptv.live:8080/live/alcino/alcino/65352.ts
-#EXTINF:-1,SPORT KLUB 5 (HR)
-http://landiptv.live:8080/live/alcino/alcino/89497.ts
+http://epictv.org:8080/live/Achim/Achim/20903.ts
 #EXTINF:-1,SPORT KLUB 5
-http://landiptv.live:8080/live/alcino/alcino/65351.ts
-#EXTINF:-1,SPORT KLUB 6 (HR)
-http://landiptv.live:8080/live/alcino/alcino/89498.ts
+http://epictv.org:8080/live/Achim/Achim/20905.ts
 #EXTINF:-1,SPORT KLUB 6
-http://landiptv.live:8080/live/alcino/alcino/65350.ts
-#EXTINF:-1,SPORT TV 1 HD SLO
-http://landiptv.live:8080/live/alcino/alcino/65339.ts
-#EXTINF:-1,SPORT TV 2 HD SLO
-http://landiptv.live:8080/live/alcino/alcino/65338.ts
-#EXTINF:-1,SPORT TV 3 HD SLO
-http://landiptv.live:8080/live/alcino/alcino/65337.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://landiptv.live:8080/live/alcino/alcino/65367.ts
-#EXTINF:-1,Arena Sport 1 SRB
-http://landiptv.live:8080/live/alcino/alcino/65361.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://landiptv.live:8080/live/alcino/alcino/65366.ts
-#EXTINF:-1,Arena Sport 2 SRB
-http://landiptv.live:8080/live/alcino/alcino/65360.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://landiptv.live:8080/live/alcino/alcino/65365.ts
-#EXTINF:-1,Arena Sport 3 SRB
-http://landiptv.live:8080/live/alcino/alcino/65359.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://landiptv.live:8080/live/alcino/alcino/65364.ts
-#EXTINF:-1,Arena Sport 4 SRB
-http://landiptv.live:8080/live/alcino/alcino/65358.ts
-#EXTINF:-1,Arena Sport 5 HR
-http://landiptv.live:8080/live/alcino/alcino/65363.ts
-#EXTINF:-1,Arena Sport 5 SRB
-http://landiptv.live:8080/live/alcino/alcino/65357.ts
-#EXTINF:-1,ARENA SPORT 6 HR
-http://landiptv.live:8080/live/alcino/alcino/65362.ts
-#EXTINF:-1,HNTV
-http://landiptv.live:8080/live/alcino/alcino/65272.ts
+http://epictv.org:8080/live/Achim/Achim/20907.ts
+#EXTINF:-1,ARENA SPORT 1
+http://epictv.org:8080/live/Achim/Achim/20917.ts
+#EXTINF:-1,ARENA SPORT 2
+http://epictv.org:8080/live/Achim/Achim/20916.ts
+#EXTINF:-1,ARENA SPORT 3
+http://epictv.org:8080/live/Achim/Achim/20915.ts
+#EXTINF:-1,ARENA SPORT 4
+http://epictv.org:8080/live/Achim/Achim/20914.ts
+#EXTINF:-1,ARENA SPORT 5
+http://epictv.org:8080/live/Achim/Achim/20913.ts
+#EXTINF:-1,ARENA SPORT 6
+http://epictv.org:8080/live/Achim/Achim/20908.ts
+#EXTINF:-1,ARENA SPORT 1 (SRB)
+http://epictv.org:8080/live/Achim/Achim/20906.ts
+#EXTINF:-1,ARENA SPORT 2 (SRB)
+http://epictv.org:8080/live/Achim/Achim/20904.ts
+#EXTINF:-1,ARENA SPORT 3 (SRB)
+http://epictv.org:8080/live/Achim/Achim/20881.ts
+#EXTINF:-1,ARENA SPORT 4 (SRB)
+http://epictv.org:8080/live/Achim/Achim/20844.ts
+#EXTINF:-1,ARENA SPORT 5 (SRB)
+http://epictv.org:8080/live/Achim/Achim/21031.ts
+#EXTINF:-1,SPORT TV 1
+http://epictv.org:8080/live/Achim/Achim/20912.ts
+#EXTINF:-1,SPORT TV 2
+http://epictv.org:8080/live/Achim/Achim/20911.ts
+#EXTINF:-1,SPORT TV 3
+http://epictv.org:8080/live/Achim/Achim/20910.ts
+#EXTINF:-1,HR | HNTV
+http://epictv.org:8080/live/Achim/Achim/21037.ts
 #EXTINF:-1,Sky Sports HD Football FHD
 http://landiptv.live:8080/live/alcino/alcino/74491.ts
 #EXTINF:-1,Sky Sports HD F1 FHD
@@ -579,6 +635,7 @@ http://landiptv.live:8080/live/alcino/alcino/63855.ts
 http://landiptv.live:8080/live/alcino/alcino/87638.ts
 #EXTINF:-1,IT: Super Tennis HD
 http://landiptv.live:8080/live/alcino/alcino/62023.ts
+
 #EXTINF:-1,HBO Adria
 http://landiptv.live:8080/live/alcino/alcino/65376.ts
 #EXTINF:-1,HBO HD
@@ -633,133 +690,127 @@ http://landiptv.live:8080/live/alcino/alcino/65328.ts
 http://landiptv.live:8080/live/alcino/alcino/65405.ts
 #EXTINF:-1,Cinemania
 http://landiptv.live:8080/live/alcino/alcino/96076.ts
-
+#EXTINF:-1,HBO Adria
+http://epictv.org:8080/live/Achim/Achim/20895.ts
+#EXTINF:-1,HBO 2
+http://epictv.org:8080/live/Achim/Achim/20894.ts
+#EXTINF:-1,HBO 3
+http://epictv.org:8080/live/Achim/Achim/20893.ts
+#EXTINF:-1,CineMax 1
+http://epictv.org:8080/live/Achim/Achim/20892.ts
+#EXTINF:-1,CineMax 2
+http://epictv.org:8080/live/Achim/Achim/20891.ts
+#EXTINF:-1,CineStar Action TV
+http://epictv.org:8080/live/Achim/Achim/20887.ts
+#EXTINF:-1,CineStar Premiere 1
+http://epictv.org:8080/live/Achim/Achim/20886.ts
+#EXTINF:-1,CineStar Premiere 2
+http://epictv.org:8080/live/Achim/Achim/20885.ts
+#EXTINF:-1,Cinestart TV
+http://epictv.org:8080/live/Achim/Achim/20888.ts
+#EXTINF:-1,Fox Movies
+http://epictv.org:8080/live/Achim/Achim/20879.ts
+#EXTINF:-1,TV 1000
+http://epictv.org:8080/live/Achim/Achim/20883.ts
+#EXTINF:-1,Klasik TV
+http://epictv.org:8080/live/Achim/Achim/20884.ts
+#EXTINF:-1,Fox
+http://epictv.org:8080/live/Achim/Achim/20882.ts
+#EXTINF:-1,Fox Life
+http://epictv.org:8080/live/Achim/Achim/20880.ts
 #EXTINF:-1,HRT 1
-http://landiptv.live:8080/live/alcino/alcino/65444.ts
+http://epictv.org:8080/live/Achim/Achim/21050.ts
 #EXTINF:-1,HRT 2
-http://landiptv.live:8080/live/alcino/alcino/65245.ts
+http://epictv.org:8080/live/Achim/Achim/21049.ts
 #EXTINF:-1,HRT 3
-http://landiptv.live:8080/live/alcino/alcino/65246.ts
-#EXTINF:-1,Nova HR
-http://landiptv.live:8080/live/alcino/alcino/78449.ts
-#EXTINF:-1,Nova TV (HR)
-http://landiptv.live:8080/live/alcino/alcino/65247.ts
-#EXTINF:-1,RTL HR
-http://landiptv.live:8080/live/alcino/alcino/65424.ts
+http://epictv.org:8080/live/Achim/Achim/21048.ts
 #EXTINF:-1,RTL
-http://landiptv.live:8080/live/alcino/alcino/65248.ts
-#EXTINF:-1,RTL II
-http://landiptv.live:8080/live/alcino/alcino/65249.ts
+http://epictv.org:8080/live/Achim/Achim/21044.ts
+#EXTINF:-1,NOVA TV
+http://epictv.org:8080/live/Achim/Achim/21046.ts
+#EXTINF:-1,NOVA TV HD
+http://epictv.org:8080/live/Achim/Achim/29450.ts
+#EXTINF:-1,NOVA WORLD
+http://epictv.org:8080/live/Achim/Achim/20994.ts
+#EXTINF:-1,DOMA TV
+http://epictv.org:8080/live/Achim/Achim/21045.ts
+#EXTINF:-1,RTL 2
+http://epictv.org:8080/live/Achim/Achim/21043.ts
 #EXTINF:-1,RTL CRIME
-http://landiptv.live:8080/live/alcino/alcino/65421.ts
-#EXTINF:-1,RTL Living
-http://landiptv.live:8080/live/alcino/alcino/65420.ts
-#EXTINF:-1,RTL PASSION
-http://landiptv.live:8080/live/alcino/alcino/89492.ts
-#EXTINF:-1,RTL WORLD
-http://landiptv.live:8080/live/alcino/alcino/94386.ts
-#EXTINF:-1,Doma TV
-http://landiptv.live:8080/live/alcino/alcino/65415.ts
-#EXTINF:-1,Doma
-http://landiptv.live:8080/live/alcino/alcino/96081.ts
-
-#EXTINF:-1,MAX SELECT 01 HD
-http://landiptv.live:8080/live/alcino/alcino/94245.ts
-#EXTINF:-1,MAX SELECT 02 HD
-http://landiptv.live:8080/live/alcino/alcino/94246.ts
-#EXTINF:-1,MAX SELECT 03 HD
-http://landiptv.live:8080/live/alcino/alcino/94247.ts
-#EXTINF:-1,MAX SELECT 04 HD
-http://landiptv.live:8080/live/alcino/alcino/94248.ts
-#EXTINF:-1,MAX SELECT 05 HD
-http://landiptv.live:8080/live/alcino/alcino/94249.ts
-#EXTINF:-1,MAX SELECT 06 HD
-http://landiptv.live:8080/live/alcino/alcino/94250.ts
-#EXTINF:-1,MAX SELECT 07 HD
-http://landiptv.live:8080/live/alcino/alcino/94251.ts
-#EXTINF:-1,MAX SELECT 08 HD
-http://landiptv.live:8080/live/alcino/alcino/94252.ts
-#EXTINF:-1,MAX SELECT 09 HD
-http://landiptv.live:8080/live/alcino/alcino/94253.ts
-
-#EXTINF:-1,PINK CLASSIC
-http://landiptv.live:8080/live/alcino/alcino/89489.ts
-#EXTINF:-1,PINK CRIME&MISTERY
-http://landiptv.live:8080/live/alcino/alcino/89490.ts
-#EXTINF:-1,PINK CRIME-MISTERI
-http://landiptv.live:8080/live/alcino/alcino/97176.ts
-#EXTINF:-1,PINK PREMIYM
-http://landiptv.live:8080/live/alcino/alcino/97178.ts
-#EXTINF:-1,Pink Action
-http://landiptv.live:8080/live/alcino/alcino/65496.ts
-#EXTINF:-1,Pink Crime & Mystery
-http://landiptv.live:8080/live/alcino/alcino/65489.ts
-#EXTINF:-1,Pink Family
-http://landiptv.live:8080/live/alcino/alcino/94236.ts
-#EXTINF:-1,Pink Film
-http://landiptv.live:8080/live/alcino/alcino/65491.ts
-#EXTINF:-1,Pink Hits 2
-http://landiptv.live:8080/live/alcino/alcino/65474.ts
-#EXTINF:-1,Pink Hits
-http://landiptv.live:8080/live/alcino/alcino/96099.ts
-#EXTINF:-1,Pink Movies
-http://landiptv.live:8080/live/alcino/alcino/65493.ts
-#EXTINF:-1,Pink Premium
-http://landiptv.live:8080/live/alcino/alcino/65494.ts
-#EXTINF:-1,Pink Romance
-http://landiptv.live:8080/live/alcino/alcino/65486.ts
-#EXTINF:-1,Pink Sci-Fi & Fantasy
-http://landiptv.live:8080/live/alcino/alcino/65487.ts
-#EXTINF:-1,Pink Thriller
-http://landiptv.live:8080/live/alcino/alcino/65492.ts
-#EXTINF:-1,Pink Western
-http://landiptv.live:8080/live/alcino/alcino/65485.ts
-#EXTINF:-1,Pink World Cinema
-http://landiptv.live:8080/live/alcino/alcino/94239.ts
-
-#EXTINF:-1,RTS 1
-http://landiptv.live:8080/live/alcino/alcino/65439.ts
-#EXTINF:-1,RTS 2
-http://landiptv.live:8080/live/alcino/alcino/65438.ts
-#EXTINF:-1,RTS 3
-http://landiptv.live:8080/live/alcino/alcino/65437.ts
+http://epictv.org:8080/live/Achim/Achim/21042.ts
+#EXTINF:-1,RTL LIVING
+http://epictv.org:8080/live/Achim/Achim/21041.ts
+#EXTINF:-1,N1 TV
+http://epictv.org:8080/live/Achim/Achim/21032.ts
+#EXTINF:-1,HBO 1
+http://epictv.org:8080/live/Achim/Achim/20829.ts
+#EXTINF:-1,HBO 2
+http://epictv.org:8080/live/Achim/Achim/20828.ts
+#EXTINF:-1,HBO 3
+http://epictv.org:8080/live/Achim/Achim/20824.ts
+#EXTINF:-1,SLO 1
+http://epictv.org:8080/live/Achim/Achim/20827.ts
+#EXTINF:-1,SLO 2
+http://epictv.org:8080/live/Achim/Achim/20826.ts
+#EXTINF:-1,KANAL A
+http://epictv.org:8080/live/Achim/Achim/20825.ts
+#EXTINF:-1,POP KINO
+http://epictv.org:8080/live/Achim/Achim/20767.ts
+#EXTINF:-1,YOYO
+http://epictv.org:8080/live/Achim/Achim/20770.ts
+#EXTINF:-1,DIVA
+http://epictv.org:8080/live/Achim/Achim/20775.ts
 #EXTINF:-1,RTS HD
-http://landiptv.live:8080/live/alcino/alcino/65436.ts
-#EXTINF:-1,Prva Plus
-http://landiptv.live:8080/live/alcino/alcino/65428.ts
-#EXTINF:-1,Prva World TV
-http://landiptv.live:8080/live/alcino/alcino/65410.ts
-#EXTINF:-1,Prva
-http://landiptv.live:8080/live/alcino/alcino/65432.ts
-#EXTINF:-1,B92
-http://landiptv.live:8080/live/alcino/alcino/65409.ts
-#EXTINF:-1,BHT 1
-http://landiptv.live:8080/live/alcino/alcino/65406.ts
-#EXTINF:-1,BHT
-http://landiptv.live:8080/live/alcino/alcino/65407.ts
-#EXTINF:-1,OBN
-http://landiptv.live:8080/live/alcino/alcino/65426.ts
-#EXTINF:-1,Pop Brio
-http://landiptv.live:8080/live/alcino/alcino/65308.ts
-#EXTINF:-1,Pop Oto
-http://landiptv.live:8080/live/alcino/alcino/65309.ts
-#EXTINF:-1,EX-YU: ANIMAL PLANET
-http://landiptv.live:8080/live/alcino/alcino/65392.ts
-#EXTINF:-1,NAT GEO WILD
-http://landiptv.live:8080/live/alcino/alcino/65303.ts
-#EXTINF:-1,NAT GEO
-http://landiptv.live:8080/live/alcino/alcino/65387.ts
-#EXTINF:-1,HISTORY CHANNEL
-http://landiptv.live:8080/live/alcino/alcino/65243.ts
-#EXTINF:-1,History 2
-http://landiptv.live:8080/live/alcino/alcino/65271.ts
-#EXTINF:-1,DISCOVERY
-http://landiptv.live:8080/live/alcino/alcino/89482.ts
-#EXTINF:-1,Da Vinci Learning
-http://landiptv.live:8080/live/alcino/alcino/65263.ts
-#EXTINF:-1,Discovery Channel
-http://landiptv.live:8080/live/alcino/alcino/96079.ts
-#EXTINF:-1,Discovery Serbia
-http://landiptv.live:8080/live/alcino/alcino/65388.ts
-#EXTINF:-1,Docubox
-http://landiptv.live:8080/live/alcino/alcino/65264.ts
+http://epictv.org:8080/live/Achim/Achim/20991.ts
+#EXTINF:-1,RTS 1
+http://epictv.org:8080/live/Achim/Achim/20995.ts
+#EXTINF:-1,RTS 2
+http://epictv.org:8080/live/Achim/Achim/20993.ts
+#EXTINF:-1,RTS 3
+http://epictv.org:8080/live/Achim/Achim/20992.ts
+#EXTINF:-1,RTS DRAMA
+http://epictv.org:8080/live/Achim/Achim/20984.ts
+#EXTINF:-1,RTS TREZOR
+http://epictv.org:8080/live/Achim/Achim/20957.ts
+#EXTINF:-1,RTS SVET
+http://epictv.org:8080/live/Achim/Achim/20979.ts
+#EXTINF:-1,RTS ZIVOT
+http://epictv.org:8080/live/Achim/Achim/20983.ts
+#EXTINF:-1,PRVA
+http://epictv.org:8080/live/Achim/Achim/20990.ts
+#EXTINF:-1,PRVA TV
+http://epictv.org:8080/live/Achim/Achim/20977.ts
+#EXTINF:-1,PRVA PLUS
+http://epictv.org:8080/live/Achim/Achim/20989.ts
+#EXTINF:-1,PRVA MAX
+http://epictv.org:8080/live/Achim/Achim/20982.ts
+#EXTINF:-1,PRVA KICK
+http://epictv.org:8080/live/Achim/Achim/20988.ts
+#EXTINF:-1,PRVA WORLD
+http://epictv.org:8080/live/Achim/Achim/20987.ts
+#EXTINF:-1,Pink Action
+http://epictv.org:8080/live/Achim/Achim/20943.ts
+#EXTINF:-1,Pink Crime & Mystery
+http://epictv.org:8080/live/Achim/Achim/20940.ts
+#EXTINF:-1,Pink Fantasy
+http://epictv.org:8080/live/Achim/Achim/20938.ts
+#EXTINF:-1,Pink Film
+http://epictv.org:8080/live/Achim/Achim/20937.ts
+#EXTINF:-1,Pink Movies
+http://epictv.org:8080/live/Achim/Achim/20952.ts
+#EXTINF:-1,Pink Premium
+http://epictv.org:8080/live/Achim/Achim/20949.ts
+#EXTINF:-1,Pink SciFi & Fantasy
+http://epictv.org:8080/live/Achim/Achim/20948.ts
+#EXTINF:-1,Pink Thriller
+http://epictv.org:8080/live/Achim/Achim/20946.ts
+#EXTINF:-1,Pink Western
+http://epictv.org:8080/live/Achim/Achim/20929.ts
+#EXTINF:-1,Pink classic
+http://epictv.org:8080/live/Achim/Achim/20956.ts
+#EXTINF:-1,Pink Romance
+http://epictv.org:8080/live/Achim/Achim/20932.ts
+#EXTINF:-1,Pink World
+http://epictv.org:8080/live/Achim/Achim/20945.ts
+#EXTINF:-1,Pink World Cinema
+http://epictv.org:8080/live/Achim/Achim/20944.ts
