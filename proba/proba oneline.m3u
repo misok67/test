@@ -2,66 +2,78 @@
 
 #EXTINF:-1,SPORT OD 1 DO 99 TE 185 DO 320___EXYU OO 100 DO 152 TE 320 DO 399
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
-#EXTINF:-1,Sport Klub 1
-http://mypanel.tv:8080/live/malta/malta/9414.ts
-#EXTINF:-1,Sport Klub 2
-http://mypanel.tv:8080/live/malta/malta/9413.ts
-#EXTINF:-1,Sport Klub 3
-http://mypanel.tv:8080/live/malta/malta/9412.ts
-#EXTINF:-1,Sport Klub 4
-http://mypanel.tv:8080/live/malta/malta/9411.ts
-#EXTINF:-1,Sport Klub 5
-http://mypanel.tv:8080/live/malta/malta/9410.ts
-#EXTINF:-1,Sport Klub 6
-http://mypanel.tv:8080/live/malta/malta/9409.ts
-#EXTINF:-1,Sport Klub HD RS
-http://mypanel.tv:8080/live/malta/malta/13337.ts
-#EXTINF:-1,Sport Klub HD 1 RS
-http://mypanel.tv:8080/live/malta/malta/9408.ts
-#EXTINF:-1,Sport Klub HD 2 RS
-http://mypanel.tv:8080/live/malta/malta/9407.ts
-#EXTINF:-1,Sport Klub HD 3 RS
-http://mypanel.tv:8080/live/malta/malta/9406.ts
-#EXTINF:-1,Sport Klub HD 4 RS
-http://mypanel.tv:8080/live/malta/malta/9405.ts
-#EXTINF:-1,Sport Klub HD 5 RS
-http://mypanel.tv:8080/live/malta/malta/9404.ts
-#EXTINF:-1,Sport Klub HD 6 RS
-http://mypanel.tv:8080/live/malta/malta/9403.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://mypanel.tv:8080/live/malta/malta/5464.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://mypanel.tv:8080/live/malta/malta/5462.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://mypanel.tv:8080/live/malta/malta/5460.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://mypanel.tv:8080/live/malta/malta/5458.ts
-#EXTINF:-1,Arena Sport 5 HR
-http://mypanel.tv:8080/live/malta/malta/5457.ts
-#EXTINF:-1,Arena Sport 6 HR
-http://mypanel.tv:8080/live/malta/malta/9415.ts
-#EXTINF:-1,Arena Sport 1 RS
-http://mypanel.tv:8080/live/malta/malta/5465.ts
-#EXTINF:-1,Arena Sport 2 RS
-http://mypanel.tv:8080/live/malta/malta/5463.ts
-#EXTINF:-1,Arena Sport 3 RS
-http://mypanel.tv:8080/live/malta/malta/5461.ts
-#EXTINF:-1,Arena Sport 4 RS
-http://mypanel.tv:8080/live/malta/malta/5459.ts
-#EXTINF:-1,Arena Sport 5 RS
-http://mypanel.tv:8080/live/malta/malta/5456.ts
-#EXTINF:-1,HNTV
-http://mypanel.tv:8080/live/malta/malta/11045.ts
-#EXTINF:-1, Arena_Sport 1 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4004.ts
-#EXTINF:-1, Arena_Sport 2 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3530.ts
-#EXTINF:-1, Arena_Sport 3 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3531.ts
-#EXTINF:-1, Arena_Sport 4 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4003.ts
-#EXTINF:-1, Arena_Sport 5 HD
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/4002.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1" tvg-logo="" group-title="",SPORT KLUB 1
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14114.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1 HD" tvg-logo="" group-title="",SPORT KLUB 1 HD
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HR" tvg-logo="" group-title="",Sport Klub 1 HR
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14112.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2" tvg-logo="" group-title="",SPORT KLUB 2
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14111.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 HD" tvg-logo="" group-title="",SPORT KLUB 2 HD
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HR" tvg-logo="" group-title="",Sport Klub 2 HR
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14109.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3" tvg-logo="" group-title="",SPORT KLUB 3
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14108.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 HD" tvg-logo="" group-title="",SPORT KLUB 3 HD
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HR" tvg-logo="" group-title="",Sport Klub 3 HR
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14106.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4" tvg-logo="" group-title="",SPORT KLUB 4
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14105.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5" tvg-logo="" group-title="",SPORT KLUB 5
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14104.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 6" tvg-logo="" group-title="",SPORT KLUB 6
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14103.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD SLO" tvg-logo="" group-title="",SPORT TV 1 HD SLO
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14102.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD SLO" tvg-logo="" group-title="",SPORT TV 2 HD SLO
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14101.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD SLO" tvg-logo="" group-title="",SPORT TV 3 HD SLO
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sportal TV HD" tvg-logo="" group-title="",Sportal TV HD
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14099.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 1 HD SLO" tvg-logo="" group-title="",SPORTKLUB 1 HD SLO
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14098.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 2 HD SLO" tvg-logo="" group-title="",SPORTKLUB 2 HD SLO
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14097.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 3 HD SLO" tvg-logo="" group-title="",SPORTKLUB 3 HD SLO
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14096.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HR" tvg-logo="" group-title="",Arena Sport 1 HR
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14306.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 SRB" tvg-logo="" group-title="",Arena Sport 1 SRB
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14305.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 SRB (local)" tvg-logo="" group-title="",ARENA SPORT 1 SRB (local)
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14304.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HR" tvg-logo="" group-title="",Arena Sport 2 HR
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 SRB" tvg-logo="" group-title="",Arena Sport 2 SRB
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14302.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 SRB (local)" tvg-logo="" group-title="",ARENA SPORT 2 SRB (local)
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14301.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HR" tvg-logo="" group-title="",Arena Sport 3 HR
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 SRB" tvg-logo="" group-title="",Arena Sport 3 SRB
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14299.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SRB (reserve)" tvg-logo="" group-title="",ARENA SPORT 3 SRB (reserve)
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14298.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HR" tvg-logo="" group-title="",Arena Sport 4 HR
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14297.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 SRB" tvg-logo="" group-title="",Arena Sport 4 SRB
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14296.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 SRB (reserve)" tvg-logo="" group-title="",ARENA SPORT 4 SRB (reserve)
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14295.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HR" tvg-logo="" group-title="",Arena Sport 5 HR
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14294.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 SRB" tvg-logo="" group-title="",Arena Sport 5 SRB
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14293.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 SRB (reserve)" tvg-logo="" group-title="",ARENA SPORT 5 SRB (reserve)
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14292.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 6 HR" tvg-logo="" group-title="",ARENA SPORT 6 HR
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14291.ts
+#EXTINF:-1 tvg-id="" tvg-name="HNTV" tvg-logo="" group-title="",HNTV
+http://diamondhttps.dnsfor.me:15800/live/xdqkgypx/4Wov7nxI09/14230.ts
 #EXTINF:-1,(UK) Premier Sports HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3330.ts
 #EXTINF:-1,(UK) Sky Sports F1 HD
@@ -158,20 +170,6 @@ http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1499.ts
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1497.ts
 #EXTINF:-1,(IT) Sky Sport MotoGP HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/1502.ts
-#EXTINF:-1,Bein_Sport Max 4
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3954.ts
-#EXTINF:-1,Bein_Sport Max 5
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3953.ts
-#EXTINF:-1,Bein_Sport Max 6
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3952.ts
-#EXTINF:-1,Bein_Sport Max 7
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3951.ts
-#EXTINF:-1,Bein_Sport Max 8
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3950.ts
-#EXTINF:-1,Bein_Sport Max 9
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3949.ts
-#EXTINF:-1,Bein_Sport Max 10
-http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/3948.ts
 #EXTINF:-1,Bein_Sports 1 HD
 http://hbox.cdnss.me:80/live/6au1pej6/iecqwubm/553.ts
 #EXTINF:-1,Bein_Sports 2 HD
