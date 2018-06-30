@@ -14,56 +14,52 @@ http://nordstreamer.hopto.me:55875/live/Frggr_352dh/sdfjgg8dh/379.ts
 http://vip.iptv35.com:1958/live/ada104/1414ss/5703.ts
 #EXTINF:-1,ENG | ITV_1
 http://vip.iptv35.com:1958/live/ada104/1414ss/5699.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1" tvg-logo="" ,SPORT KLUB 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7329.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD" tvg-logo="" ,Sport Klub 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7330.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2" tvg-logo="" ,SPORT KLUB 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7328.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 HD" tvg-logo="" ,SPORT KLUB 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7331.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3" tvg-logo="" ,SPORT KLUB 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7327.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 HD" tvg-logo="" ,SPORT KLUB 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7332.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1" tvg-logo="" ,Sport Klub 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/232.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2" tvg-logo="" ,Sport Klub 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/231.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3" tvg-logo="" ,Sport Klub 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/230.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1" tvg-logo="" ,ARENA SPORT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7339.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2" tvg-logo="" ,ARENA SPORT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7338.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD" tvg-logo="" ,Arena Sport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7337.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3" tvg-logo="" ,ARENA SPORT 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7335.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD" tvg-logo="" ,Arena Sport 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7336.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD" tvg-logo="" ,Arena Sport 4 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7334.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA Sport 5 HD" tvg-logo="" ,ARENA Sport 5 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7333.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="" ,Arena Sport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/250.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="" ,Arena Sport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/251.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="" ,Arena Sport 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/252.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="" ,Arena Sport 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/253.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5" tvg-logo="" ,Arena Sport 5
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/249.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena 1 HR" tvg-logo="" ,Arena 1 HR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/257.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena 2 HR" tvg-logo="" ,Arena 2 HR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/256.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena 3 HR" tvg-logo="" ,Arena 3 HR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/255.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena 4 HR" tvg-logo="" ,Arena 4 HR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/254.ts
+#EXTINF:-1,SPORT | ARENA SPORT 1 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27997.ts
+#EXTINF:-1,SPORT | ARENA SPORT 1 SR
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27996.ts
+#EXTINF:-1,SPORT | ARENA SPORT 1 SR HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27995.ts
+#EXTINF:-1,SPORT | ARENA SPORT 2 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27994.ts
+#EXTINF:-1,SPORT | ARENA SPORT 2 SR
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27993.ts
+#EXTINF:-1,SPORT | ARENA SPORT 2 SR HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27992.ts
+#EXTINF:-1,SPORT | ARENA SPORT 3 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27991.ts
+#EXTINF:-1,SPORT | ARENA SPORT 3 SR
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27990.ts
+#EXTINF:-1,SPORT | ARENA SPORT 3 SR HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27989.ts
+#EXTINF:-1,SPORT | ARENA SPORT 4 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27988.ts
+#EXTINF:-1,SPORT | ARENA SPORT 4 SR
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27987.ts
+#EXTINF:-1,SPORT | ARENA SPORT 4 SR HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27986.ts
+#EXTINF:-1,SPORT | ARENA SPORT 5 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27985.ts
+#EXTINF:-1,SPORT | SPORT KLUB HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27982.ts
+#EXTINF:-1,SPORT | SPORT KLUB 1 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27981.ts
+#EXTINF:-1,SPORT | SPORT KLUB 1 SR
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27980.ts
+#EXTINF:-1,SPORT | SPORT KLUB 2 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27979.ts
+#EXTINF:-1,SPORT | SPORT KLUB 2 SR
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27978.ts
+#EXTINF:-1,SPORT | SPORT KLUB 3 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27977.ts
+#EXTINF:-1,SPORT | SPORT KLUB 3 SR
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27976.ts
+#EXTINF:-1,SPORT | SPORT KLUB 4
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28679.ts
+#EXTINF:-1,SPORT | SPORT KLUB 5
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28680.ts
+#EXTINF:-1,SPORT | SPORT KLUB 6
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28681.ts
 #EXTINF:-1,BeIN Sport 1 HD 
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34197.ts
 #EXTINF:-1,BeIN Sport 2 HD 
@@ -202,133 +198,107 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,*1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Adria" tvg-logo="" ,HBO Adria
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7320.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" ,HBO 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7321.ts
-#EXTINF:-1 tvg-id="" tvg-name="HD 2" tvg-logo="" ,HD 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7325.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-logo="" ,HBO Comedy
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/341.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3" tvg-logo="" ,HBO 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7228.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax 1" tvg-logo="" ,Cinemax 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7358.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2" tvg-logo="" ,Cinemax 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7359.ts
-#EXTINF:-1 tvg-id="" tvg-name="CineStar Premiere 1" tvg-logo="" ,CineStar Premiere 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7361.ts
-#EXTINF:-1 tvg-id="" tvg-name="CineStar Premiere 2" tvg-logo="" ,CineStar Premiere 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7362.ts
-#EXTINF:-1 tvg-id="" tvg-name="CineStar ACTION" tvg-logo="" ,CineStar ACTION
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7360.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" ,FOX
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7343.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME" tvg-logo="" ,FOX CRIME
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7258.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" ,FOX LIFE
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7259.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="" ,FOX MOVIES
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7344.ts
-#EXTINF:-1 tvg-id="" tvg-name="HRT 1" tvg-logo="" ,HRT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7251.ts
-#EXTINF:-1 tvg-id="" tvg-name="HRT 2" tvg-logo="" ,HRT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7252.ts
-#EXTINF:-1 tvg-id="" tvg-name="HRT 3" tvg-logo="" ,HRT 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7253.ts
-#EXTINF:-1 tvg-id="" tvg-name="HTV 1" tvg-logo="" ,HTV 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7263.ts
-#EXTINF:-1 tvg-id="" tvg-name="HTV 2" tvg-logo="" ,HTV 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7271.ts
-#EXTINF:-1 tvg-id="" tvg-name="HTV 3" tvg-logo="" ,HTV 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7264.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU - HRT 1" tvg-logo="" ,EX-YU - HRT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/687.ts
-#EXTINF:-1 tvg-id="" tvg-name="HRT 2" tvg-logo="" ,HRT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/340.ts
-#EXTINF:-1 tvg-id="" tvg-name="HRT 3" tvg-logo="" ,HRT 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/339.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="" ,RTL
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7294.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="" ,RTL 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7299.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTL HR" tvg-logo="" ,RTL HR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7365.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTL Living" tvg-logo="" ,RTL Living
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7300.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTL Pasion HD : BH" tvg-logo="" ,RTL Pasion HD : BH
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7233.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTL Televizija" tvg-logo="" ,RTL Televizija
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7301.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU - Nova TV" tvg-logo="" ,EX-YU - Nova TV
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/686.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOVA TV ( CRO )" tvg-logo="" ,NOVA TV ( CRO )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7227.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU Doma TV" tvg-logo="" ,EX-YU Doma TV
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/689.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOMA TV" tvg-logo="" ,DOMA TV
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7317.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTS 1" tvg-logo="" ,RTS 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7302.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTS 2" tvg-logo="" ,RTS 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7303.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTS HD" tvg-logo="" ,RTS HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7348.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prva Plus" tvg-logo="" ,Prva Plus
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/691.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTS 1" tvg-logo="" ,RTS 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/683.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU RTS 2" tvg-logo="" ,EX-YU RTS 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/684.ts
-#EXTINF:-1 tvg-id="" tvg-name="BHT" tvg-logo="" ,BHT
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/696.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prva" tvg-logo="" ,Prva
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/693.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prva Plus" tvg-logo="" ,Prva Plus
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7323.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRVA TV" tvg-logo="" ,PRVA TV
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7298.ts
-#EXTINF:-1 tvg-id="" tvg-name="B92" tvg-logo="" ,B92
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7256.ts
-#EXTINF:-1 tvg-id="" tvg-name="BHT 1" tvg-logo="" ,BHT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7340.ts
-#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="" ,BHTV
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7341.ts
-#EXTINF:-1 tvg-id="" tvg-name="PINK ACTION" tvg-logo="" ,PINK ACTION
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7272.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Comedy" tvg-logo="" ,Pink Comedy
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7307.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Crime & Mystery" tvg-logo="" ,Pink Crime & Mystery
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7352.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Film" tvg-logo="" ,Pink Film
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7309.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Movies" tvg-logo="" ,Pink Movies
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7356.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Music" tvg-logo="" ,Pink Music
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7313.ts
-#EXTINF:-1 tvg-id="" tvg-name="PINK Premium" tvg-logo="" ,PINK Premium
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7297.ts
-#EXTINF:-1 tvg-id="" tvg-name="PINK SCI-FI & FANTASY" tvg-logo="" ,PINK SCI-FI & FANTASY
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7266.ts
-#EXTINF:-1 tvg-id="" tvg-name="PINK THRILLER" tvg-logo="" ,PINK THRILLER
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7268.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Western" tvg-logo="" ,Pink Western
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7269.ts
-#EXTINF:-1 tvg-id="" tvg-name="PINK WORLD" tvg-logo="" ,PINK WORLD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7270.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink World" tvg-logo="" ,Pink World
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/317.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Western" tvg-logo="" ,Pink Western
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/318.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Premium" tvg-logo="" ,Pink Premium
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/320.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Movies 3" tvg-logo="" ,Pink Movies 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/325.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Movies 2" tvg-logo="" ,Pink Movies 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/326.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Film" tvg-logo="" ,Pink Film
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/332.ts
-#EXTINF:-1,*1
+#EXTINF:-1,EXYU | HBO HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28081.ts
+#EXTINF:-1,EXYU | HBO 2 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28080.ts
+#EXTINF:-1,EXYU | HBO 3
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28079.ts
+#EXTINF:-1,EXYU | CINEMAX 1
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28092.ts
+#EXTINF:-1,EXYU | CINEMAX 2
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28091.ts
+#EXTINF:-1,EXYU | CINESTAR ACTION TV
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28090.ts
+#EXTINF:-1,EXYU | CINESTAR FANTASY
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28089.ts
+#EXTINF:-1,EXYU | CINESTAR PREMIERE 1
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28088.ts
+#EXTINF:-1,EXYU | CINESTAR PREMIERE 2
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28087.ts
+#EXTINF:-1,EXYU | CINESTAR TV
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28086.ts
+#EXTINF:-1,EXYU | FOX
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28085.ts
+#EXTINF:-1,EXYU | FOX CRIME
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28084.ts
+#EXTINF:-1,EXYU | FOX LIFE
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28083.ts
+#EXTINF:-1,EXYU | FOX MOVIES
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28082.ts
+#EXTINF:-1,EXYU | KLASIK TV
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28002.ts
+#EXTINF:-1,EXYU | TV 1000
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28021.ts
+#EXTINF:-1,HRV | HRT 1
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28131.ts
+#EXTINF:-1,HRV | HRT 2
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28130.ts
+#EXTINF:-1,HRV | HRT 3
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28129.ts
+#EXTINF:-1,HRV | NOVA TV
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28125.ts
+#EXTINF:-1,HRV | RTL
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28123.ts
+#EXTINF:-1,HRV | DOMA TV
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28132.ts
+#EXTINF:-1,HRV | RTL 2
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28122.ts
+#EXTINF:-1,HRV | RTL CRIME
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28121.ts
+#EXTINF:-1,HRV | N1 HR
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28126.ts
+#EXTINF:-1,HRV | RTL LIVING
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28120.ts
+#EXTINF:-1,HRV | RTL PASSION
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28119.ts
+#EXTINF:-1,SRB | RTS 1
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28114.ts
+#EXTINF:-1,SRB | RTS 2
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28113.ts
+#EXTINF:-1,SRB | RTS 3
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28112.ts
+#EXTINF:-1,SRB | RTS HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28111.ts
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28106.ts
+#EXTINF:-1,SRB | PRVA MAX
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28105.ts
+#EXTINF:-1,SRB | PRVA PLUS
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28104.ts
+#EXTINF:-1,SRB | PRVA WORLD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28103.ts
+#EXTINF:-1,SLO | SLO 1 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27966.ts
+#EXTINF:-1,SLO | SLO 2 HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27965.ts
+#EXTINF:-1,SLO | HBO SLO
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27971.ts
+#EXTINF:-1,SLO | KANAL A
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27970.ts
+#EXTINF:-1,SLO | PLANET TV
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27969.ts
+#EXTINF:-1,SLO | POP KINO HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27968.ts
+#EXTINF:-1,SLO | POP TV HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27967.ts
+#EXTINF:-1,BIH | BHT
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28159.ts
+#EXTINF:-1,BIH | BHT HD
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28158.ts
+#EXTINF:-1,EXYU | PINK ACTION
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28074.ts
+#EXTINF:-1,EXYU | PINK CRIME & MYSTERY
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28071.ts
+#EXTINF:-1,EXYU | PINK FILM
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28069.ts
+#EXTINF:-1,EXYU | PINK PREMIUM
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28057.ts
+#EXTINF:-1,EXYU | PINK ROMANCE
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28055.ts
+#EXTINF:-1,EXYU | PINK SCI-FI-FANTASY
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28054.ts
+#EXTINF:-1,EXYU | PINK WESTERN
+http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28051.ts#EXTINF:-1,*1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,BG | SPORTAL HD
 http://vip.iptv35.com:1958/live/ada104/1414ss/17257.ts
