@@ -10,56 +10,48 @@ http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/379.ts
 http://nordstreamer.hopto.me:55875/live/Frggr_352dh/sdfjgg8dh/323.ts
 #EXTINF:-1,ZDF HD
 http://nordstreamer.hopto.me:55875/live/Frggr_352dh/sdfjgg8dh/379.ts
-#EXTINF:-1,ENG | BBC_One
-http://vip.iptv35.com:1958/live/ada104/1414ss/5703.ts
-#EXTINF:-1,ENG | ITV_1
-http://vip.iptv35.com:1958/live/ada104/1414ss/5699.ts
-#EXTINF:-1,SPORT | ARENA SPORT 1 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27997.ts
-#EXTINF:-1,SPORT | ARENA SPORT 1 SR
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27996.ts
-#EXTINF:-1,SPORT | ARENA SPORT 1 SR HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27995.ts
-#EXTINF:-1,SPORT | ARENA SPORT 2 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27994.ts
-#EXTINF:-1,SPORT | ARENA SPORT 2 SR
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27993.ts
-#EXTINF:-1,SPORT | ARENA SPORT 2 SR HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27992.ts
-#EXTINF:-1,SPORT | ARENA SPORT 3 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27991.ts
-#EXTINF:-1,SPORT | ARENA SPORT 3 SR
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27990.ts
-#EXTINF:-1,SPORT | ARENA SPORT 3 SR HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27989.ts
-#EXTINF:-1,SPORT | ARENA SPORT 4 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27988.ts
-#EXTINF:-1,SPORT | ARENA SPORT 4 SR
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27987.ts
-#EXTINF:-1,SPORT | ARENA SPORT 4 SR HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27986.ts
-#EXTINF:-1,SPORT | ARENA SPORT 5 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27985.ts
-#EXTINF:-1,SPORT | SPORT KLUB HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27982.ts
-#EXTINF:-1,SPORT | SPORT KLUB 1 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27981.ts
-#EXTINF:-1,SPORT | SPORT KLUB 1 SR
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27980.ts
-#EXTINF:-1,SPORT | SPORT KLUB 2 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27979.ts
-#EXTINF:-1,SPORT | SPORT KLUB 2 SR
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27978.ts
-#EXTINF:-1,SPORT | SPORT KLUB 3 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27977.ts
-#EXTINF:-1,SPORT | SPORT KLUB 3 SR
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27976.ts
-#EXTINF:-1,SPORT | SPORT KLUB 4
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28679.ts
-#EXTINF:-1,SPORT | SPORT KLUB 5
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28680.ts
-#EXTINF:-1,SPORT | SPORT KLUB 6
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28681.ts
+#EXTINF:-1,[UK] BBC ONE HD
+http://145.239.1.103:8000/live/Dogan4/Dogan4/687.ts
+#EXTINF:-1,[UK] ITV 1 HD
+http://145.239.1.103:8000/live/Dogan4/Dogan4/721.ts
+#EXTINF:-1,[EX-YU] SPORT KLUB 1 (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/2631.ts
+#EXTINF:-1,[EX-YU] SPORT KLUB 1 (SRB)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1045.ts
+#EXTINF:-1,[EX-YU] SPORT KLUB 2 (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/5199.ts
+#EXTINF:-1,[EX-YU] SPORT KLUB 2 (SRB)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1046.ts
+#EXTINF:-1,[EX-YU] SPORT KLUB 3 (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/5200.ts
+#EXTINF:-1,[EX-YU] SPORT KLUB 3 (SRB)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1047.ts
+#EXTINF:-1,[EX-YU] SPORT KLUB 4 (SRB)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1180.ts
+#EXTINF:-1,[EX-YU] SPORT KLUB 5 (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1181.ts
+#EXTINF:-1,[EX-YU] SPORT KLUB 6 (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/5201.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 1 (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1040.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 1 (SRB)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1098.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 2 (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1041.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 2 (SRB)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1099.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 3 (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1042.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 3 (SRB)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1100.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 4 (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1043.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 4 (SRB)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1101.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 5 (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1044.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 5 (SRB)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/5202.ts
 #EXTINF:-1,BeIN Sport 1 HD 
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34197.ts
 #EXTINF:-1,BeIN Sport 2 HD 
@@ -198,128 +190,66 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,*1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,EXYU | HBO HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28081.ts
-#EXTINF:-1,EXYU | HBO 2 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28080.ts
-#EXTINF:-1,EXYU | HBO 3
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28079.ts
-#EXTINF:-1,EXYU | CINEMAX 1
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28092.ts
-#EXTINF:-1,EXYU | CINEMAX 2
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28091.ts
-#EXTINF:-1,EXYU | CINESTAR ACTION TV
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28090.ts
-#EXTINF:-1,EXYU | CINESTAR FANTASY
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28089.ts
-#EXTINF:-1,EXYU | CINESTAR PREMIERE 1
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28088.ts
-#EXTINF:-1,EXYU | CINESTAR PREMIERE 2
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28087.ts
-#EXTINF:-1,EXYU | CINESTAR TV
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28086.ts
-#EXTINF:-1,EXYU | FOX
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28085.ts
-#EXTINF:-1,EXYU | FOX CRIME
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28084.ts
-#EXTINF:-1,EXYU | FOX LIFE
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28083.ts
-#EXTINF:-1,EXYU | FOX MOVIES
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28082.ts
-#EXTINF:-1,EXYU | KLASIK TV
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28002.ts
-#EXTINF:-1,EXYU | TV 1000
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28021.ts
-#EXTINF:-1,HRV | HRT 1
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28131.ts
-#EXTINF:-1,HRV | HRT 2
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28130.ts
-#EXTINF:-1,HRV | HRT 3
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28129.ts
-#EXTINF:-1,HRV | NOVA TV
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28125.ts
-#EXTINF:-1,HRV | RTL
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28123.ts
-#EXTINF:-1,HRV | DOMA TV
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28132.ts
-#EXTINF:-1,HRV | RTL 2
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28122.ts
-#EXTINF:-1,HRV | RTL CRIME
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28121.ts
-#EXTINF:-1,HRV | N1 HR
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28126.ts
-#EXTINF:-1,HRV | RTL LIVING
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28120.ts
-#EXTINF:-1,HRV | RTL PASSION
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28119.ts
-#EXTINF:-1,SRB | RTS 1
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28114.ts
-#EXTINF:-1,SRB | RTS 2
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28113.ts
-#EXTINF:-1,SRB | RTS 3
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28112.ts
-#EXTINF:-1,SRB | RTS HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28111.ts
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28106.ts
-#EXTINF:-1,SRB | PRVA MAX
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28105.ts
-#EXTINF:-1,SRB | PRVA PLUS
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28104.ts
-#EXTINF:-1,SRB | PRVA WORLD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28103.ts
-#EXTINF:-1,SLO | SLO 1 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27966.ts
-#EXTINF:-1,SLO | SLO 2 HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27965.ts
-#EXTINF:-1,SLO | HBO SLO
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27971.ts
-#EXTINF:-1,SLO | KANAL A
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27970.ts
-#EXTINF:-1,SLO | PLANET TV
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27969.ts
-#EXTINF:-1,SLO | POP KINO HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27968.ts
-#EXTINF:-1,SLO | POP TV HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/27967.ts
-#EXTINF:-1,BIH | BHT
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28159.ts
-#EXTINF:-1,BIH | BHT HD
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28158.ts
-#EXTINF:-1,EXYU | PINK ACTION
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28074.ts
-#EXTINF:-1,EXYU | PINK CRIME & MYSTERY
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28071.ts
-#EXTINF:-1,EXYU | PINK FILM
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28069.ts
-#EXTINF:-1,EXYU | PINK PREMIUM
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28057.ts
-#EXTINF:-1,EXYU | PINK ROMANCE
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28055.ts
-#EXTINF:-1,EXYU | PINK SCI-FI-FANTASY
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28054.ts
-#EXTINF:-1,EXYU | PINK WESTERN
-http://stb.first-class-portal.com:80/live/serviceline/servicelinecobra123/28051.ts#EXTINF:-1,*1
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,BG | SPORTAL HD
-http://vip.iptv35.com:1958/live/ada104/1414ss/17257.ts
-#EXTINF:-1,BG | SPORTKLUB 1
-http://vip.iptv35.com:1958/live/ada104/1414ss/17256.ts
-#EXTINF:-1,BG | SPORTKLUB 2
-http://vip.iptv35.com:1958/live/ada104/1414ss/17255.ts
-#EXTINF:-1,BG | SPORTKLUB 3
-http://vip.iptv35.com:1958/live/ada104/1414ss/17254.ts
-#EXTINF:-1,BG | SUPER TENIS HD
-http://vip.iptv35.com:1958/live/ada104/1414ss/17253.ts
-#EXTINF:-1,BG | ARENA SPORT 1 HD
-http://vip.iptv35.com:1958/live/ada104/1414ss/17267.ts
-#EXTINF:-1,BG | ARENA SPORT 2 HD
-http://vip.iptv35.com:1958/live/ada104/1414ss/17266.ts
-#EXTINF:-1,BG | ARENA SPORT 3 HD
-http://vip.iptv35.com:1958/live/ada104/1414ss/17265.ts
-#EXTINF:-1,BG | ARENA SPORT 4 HD
-http://vip.iptv35.com:1958/live/ada104/1414ss/17264.ts
-#EXTINF:-1,BG | ARENA SPORT 5 HD
-http://vip.iptv35.com:1958/live/ada104/1414ss/17263.ts
+#EXTINF:-1,[EX-YU] HBO ADRIA
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1055.ts
+#EXTINF:-1,[EX-YU] HBO COMEDY
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1056.ts
+#EXTINF:-1,[EX-YU] CINEMAX HD
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1074.ts
+#EXTINF:-1,[EX-YU] CINEMAX 2
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1126.ts
+#EXTINF:-1,[EX-YU] CINESTAR ACTION
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1075.ts
+#EXTINF:-1,[EX-YU] CINESTAR PREMIERE 1
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1077.ts
+#EXTINF:-1,[EX-YU] CINESTAR PREMIERE 2
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1076.ts
+#EXTINF:-1,[EX-YU] FOX
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1127.ts
+#EXTINF:-1,[EX-YU] FOX CRIME
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1128.ts
+#EXTINF:-1,[EX-YU] FOX LIFE
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1052.ts
+#EXTINF:-1,[EX-YU] FOX MOVIES
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1147.ts
+#EXTINF:-1,[EX-YU] TV 1000
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1182.ts
+#EXTINF:-1,[EX-YU] HRT 1
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1062.ts
+#EXTINF:-1,[EX-YU] HRT 2
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1063.ts
+#EXTINF:-1,[EX-YU] HRT 3
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1064.ts
+#EXTINF:-1,[EX-YU] NOVA TV (HR)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/5288.ts
+#EXTINF:-1,[EX-YU] RTL
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1057.ts
+#EXTINF:-1,[EX-YU] DOMA TV
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1068.ts
+#EXTINF:-1,[EX-YU] RTL 2
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1058.ts
+#EXTINF:-1,[EX-YU] N1
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1151.ts
+#EXTINF:-1,[EX-YU] RTL CRIME
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1177.ts
+#EXTINF:-1,[EX-YU] RTL LIVING
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1117.ts
+#EXTINF:-1,[EX-YU] RTL PASSION
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1154.ts
+#EXTINF:-1,[EX-YU] RTS 1
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1049.ts
+#EXTINF:-1,[EX-YU] RTS 2
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1050.ts
+#EXTINF:-1,[EX-YU] RTV 21
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1239.ts
+#EXTINF:-1,[EX-YU] B 92
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1051.ts
+#EXTINF:-1,[EX-YU] BHT
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1072.ts
+#EXTINF:-1,[EX-YU] BN BIH
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1070.ts
+
+
 #EXTINF:-1,SPORT KLUB 1 
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
 #EXTINF:-1,SPORT KLUB 2 
