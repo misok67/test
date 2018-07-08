@@ -4,14 +4,18 @@
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
 #EXTINF:-1,[DE] ARD HD [L]
 http://145.239.1.103:8000/live/Dogan4/Dogan4/443.ts
+#EXTINF:-1,[DE] ARD HD
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/289.ts
 #EXTINF:-1,[DE] ZDF HD [L]
 http://145.239.1.103:8000/live/Dogan4/Dogan4/465.ts
-#EXTINF:-1,BBC One HD
-http://ipsatpro.biz:8080/live/Majda/Majda/488.ts
+#EXTINF:-1,[DE] ZDF HD
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/281.ts
+#EXTINF:-1,[UK] BBC ONE HD
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/728.ts
 #EXTINF:-1,BBC ONE HD
 http://145.239.1.103:8000/live/Dogan4/Dogan4/687.ts
-#EXTINF:-1,ITV 1
-http://ipsatpro.biz:8080/live/Majda/Majda/471.ts
+#EXTINF:-1,[UK] ITV 1 HD
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/732.ts
 #EXTINF:-1,ITV 1 HD
 http://145.239.1.103:8000/live/Dogan4/Dogan4/721.ts
 #EXTINF:-1,SPORT KLUB 1 (HR)
@@ -248,32 +252,44 @@ http://145.239.1.103:8000/live/Dogan4/Dogan4/1051.ts
 http://145.239.1.103:8000/live/Dogan4/Dogan4/1072.ts
 #EXTINF:-1,BN BIH
 http://145.239.1.103:8000/live/Dogan4/Dogan4/1070.ts
-#EXTINF:-1,Sport Klub 1 HD
-http://ipsatpro.biz:8080/live/Majda/Majda/268.ts
-#EXTINF:-1,Sport Klub 2 HD
-http://ipsatpro.biz:8080/live/Majda/Majda/267.ts
-#EXTINF:-1,Sport Klub 3 HD
-http://ipsatpro.biz:8080/live/Majda/Majda/266.ts
-#EXTINF:-1,ArenaSport 1 HD Srb
-http://ipsatpro.biz:8080/live/Majda/Majda/271.ts
-#EXTINF:-1,ArenaSport 2 HD Srb
-http://ipsatpro.biz:8080/live/Majda/Majda/270.ts
-#EXTINF:-1,ArenaSport 3 HD Srb
-http://ipsatpro.biz:8080/live/Majda/Majda/269.ts
-#EXTINF:-1,ArenaSport 4 HD Srb
-http://ipsatpro.biz:8080/live/Majda/Majda/242.ts
-#EXTINF:-1,ArenaSport 5 HD Srb
-http://ipsatpro.biz:8080/live/Majda/Majda/265.ts
-#EXTINF:-1,ArenaSport 1 HD HR
-http://ipsatpro.biz:8080/live/Majda/Majda/283.ts
-#EXTINF:-1,ArenaSport 2 HD HR
-http://ipsatpro.biz:8080/live/Majda/Majda/282.ts
-#EXTINF:-1,ArenaSport 3 HD HR
-http://ipsatpro.biz:8080/live/Majda/Majda/281.ts
-#EXTINF:-1,ArenaSport 4 HD HR
-http://ipsatpro.biz:8080/live/Majda/Majda/280.ts
-#EXTINF:-1,HNTV
-http://ipsatpro.biz:8080/live/Majda/Majda/3471.ts
+#EXTINF:-1,SPORT KLUB 1 (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1324.ts
+#EXTINF:-1,SPORT KLUB 2 (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1325.ts
+#EXTINF:-1,SPORT KLUB 3 (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1326.ts
+#EXTINF:-1,SPORT KLUB 5 (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1327.ts
+#EXTINF:-1,SPORT KLUB 6 (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1328.ts
+#EXTINF:-1,SPORT KLUB 1 (SRB)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1329.ts
+#EXTINF:-1,SPORT KLUB 2 (SRB)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1330.ts
+#EXTINF:-1,SPORT KLUB 3 (SRB)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1331.ts
+#EXTINF:-1,SPORT KLUB 4 (SRB)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1332.ts
+#EXTINF:-1,ARENA SPORT 1 (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1314.ts
+#EXTINF:-1,ARENA SPORT 2 (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1315.ts
+#EXTINF:-1,ARENA SPORT 3 (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1316.ts
+#EXTINF:-1,ARENA SPORT 4 (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1317.ts
+#EXTINF:-1,ARENA SPORT 5 (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1318.ts
+#EXTINF:-1,ARENA SPORT 1 (SRB)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1319.ts
+#EXTINF:-1,ARENA SPORT 2 (SRB)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1320.ts
+#EXTINF:-1,ARENA SPORT 3 (SRB)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1321.ts
+#EXTINF:-1,ARENA SPORT 4 (SRB)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1322.ts
+#EXTINF:-1,ARENA SPORT 5 (SRB)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1323.ts
 
 #EXTINF:-1,NL: Eurosport 1 HD NL 
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35845.ts
@@ -392,76 +408,72 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,*1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,HBO 1
-http://ipsatpro.biz:8080/live/Majda/Majda/1403.ts
-#EXTINF:-1,HBO 2
-http://ipsatpro.biz:8080/live/Majda/Majda/1404.ts
-#EXTINF:-1,HBO 3
-http://ipsatpro.biz:8080/live/Majda/Majda/1405.ts
-#EXTINF:-1,Cinemax 1
-http://ipsatpro.biz:8080/live/Majda/Majda/212.ts
-#EXTINF:-1,Cinemax 2
-http://ipsatpro.biz:8080/live/Majda/Majda/211.ts
-#EXTINF:-1,Cine Star Premier 1
-http://ipsatpro.biz:8080/live/Majda/Majda/210.ts
-#EXTINF:-1,Cine Star Premier 2
-http://ipsatpro.biz:8080/live/Majda/Majda/232.ts
-#EXTINF:-1,Cine Star Action TV
-http://ipsatpro.biz:8080/live/Majda/Majda/3457.ts
-#EXTINF:-1,Cine Star Action
-http://ipsatpro.biz:8080/live/Majda/Majda/213.ts
-#EXTINF:-1,Cinestart TV
-http://ipsatpro.biz:8080/live/Majda/Majda/3456.ts
-#EXTINF:-1,Film Klub
-http://ipsatpro.biz:8080/live/Majda/Majda/3514.ts
-#EXTINF:-1,Film Klub Extra
-http://ipsatpro.biz:8080/live/Majda/Majda/3515.ts
-#EXTINF:-1,FilmBox Extra
-http://ipsatpro.biz:8080/live/Majda/Majda/3516.ts
-#EXTINF:-1,TV 1000
-http://ipsatpro.biz:8080/live/Majda/Majda/3458.ts
-#EXTINF:-1,Fox
-http://ipsatpro.biz:8080/live/Majda/Majda/249.ts
-#EXTINF:-1,Fox Life
-http://ipsatpro.biz:8080/live/Majda/Majda/248.ts
-#EXTINF:-1,Fox Crime
-http://ipsatpro.biz:8080/live/Majda/Majda/247.ts
-#EXTINF:-1,Fox Movies
-http://ipsatpro.biz:8080/live/Majda/Majda/3459.ts
+#EXTINF:-1,HBO ADRIA
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1277.ts
+#EXTINF:-1,HBO COMEDY
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1278.ts
+#EXTINF:-1,CINEMAX HD
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1268.ts
+#EXTINF:-1,CINEMAX 2
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1269.ts
+#EXTINF:-1,CINESTAR ACTION
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1270.ts
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1271.ts
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1272.ts
+#EXTINF:-1,FOX
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1273.ts
+#EXTINF:-1,FOX CRIME
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1275.ts
+#EXTINF:-1,FOX LIFE
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1274.ts
+#EXTINF:-1,FOX MOVIES
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1276.ts
+#EXTINF:-1,HBO ADRIA
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1277.ts
+#EXTINF:-1,HBO COMEDY
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1278.ts
 #EXTINF:-1,HRT 1
-http://ipsatpro.biz:8080/live/Majda/Majda/214.ts
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1285.ts
 #EXTINF:-1,HRT 2
-http://ipsatpro.biz:8080/live/Majda/Majda/243.ts
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1286.ts
 #EXTINF:-1,HRT 3
-http://ipsatpro.biz:8080/live/Majda/Majda/1327.ts
-#EXTINF:-1,RTL Televizija
-http://ipsatpro.biz:8080/live/Majda/Majda/239.ts
-#EXTINF:-1,Nova tv
-http://ipsatpro.biz:8080/live/Majda/Majda/278.ts
-#EXTINF:-1,Doma TV
-http://ipsatpro.biz:8080/live/Majda/Majda/274.ts
-#EXTINF:-1,Prva TV
-http://ipsatpro.biz:8080/live/Majda/Majda/217.ts
-#EXTINF:-1,Prva Plus
-http://ipsatpro.biz:8080/live/Majda/Majda/216.ts
-#EXTINF:-1,Prva Max
-http://ipsatpro.biz:8080/live/Majda/Majda/3510.ts
-#EXTINF:-1,Prva World
-http://ipsatpro.biz:8080/live/Majda/Majda/3511.ts
-#EXTINF:-1,RTS 1 HD
-http://ipsatpro.biz:8080/live/Majda/Majda/199.ts
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1287.ts
+#EXTINF:-1,NOVA TV (HR)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1296.ts
+#EXTINF:-1,DOMA TV
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1302.ts
+#EXTINF:-1,RTL
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1280.ts
+#EXTINF:-1,RTL 2
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1281.ts
+#EXTINF:-1,RTL CRIME
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1282.ts
+#EXTINF:-1,RTL LIVING
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1283.ts
+#EXTINF:-1,RTL PASSION
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1284.ts
+#EXTINF:-1,RTS 1
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1298.ts
 #EXTINF:-1,RTS 2
-http://ipsatpro.biz:8080/live/Majda/Majda/198.ts
-#EXTINF:-1,RTS 3
-http://ipsatpro.biz:8080/live/Majda/Majda/3504.ts
-#EXTINF:-1,RTS Drama
-http://ipsatpro.biz:8080/live/Majda/Majda/3502.ts
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1299.ts
+#EXTINF:-1,RTV 21
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1297.ts
 #EXTINF:-1,OBN
-http://ipsatpro.biz:8080/live/Majda/Majda/215.ts
-#EXTINF:-1,B92
-http://ipsatpro.biz:8080/live/Majda/Majda/279.ts
-#EXTINF:-1,Pop Oto
-http://ipsatpro.biz:808
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1309.ts
+#EXTINF:-1,B 92
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1305.ts
+#EXTINF:-1,BHT
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1306.ts
+#EXTINF:-1,BN BIH
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1307.ts
+#EXTINF:-1,B 92
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1305.ts
+#EXTINF:-1,BHT
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1306.ts
+#EXTINF:-1,BN BIH
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1307.ts
 
 
 #EXTINF:-1,HBO ADRIA
