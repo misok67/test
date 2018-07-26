@@ -1,76 +1,74 @@
 #EXTM3U
 
-#EXTINF:-1,SPORT OD 1 DO 99 TE 155 DO 279___EXYU OO 100 DO 154 TE 280 DO 399
+#EXTINF:-1,SPORT OD 1 DO 99 TE 200 DO 279___EXYU OO 100 DO 154 TE 280 DO 399
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
 
-#EXTINF:-1,Sportklub 1
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/149.ts
-#EXTINF:-1,Sportklub 1 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/371.ts
-#EXTINF:-1,Sportklub 1 Sr Backup
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/551.ts
-#EXTINF:-1,Sportklub 2
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/150.ts
-#EXTINF:-1,Sportklub 2 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/372.ts
-#EXTINF:-1,Sportklub 2 Sr Backup
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/550.ts
-#EXTINF:-1,Sportklub 3
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/151.ts
-#EXTINF:-1,Sportklub 3 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/373.ts
-#EXTINF:-1,Sportklub 3 Sr Backup
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/552.ts
-#EXTINF:-1,Sportklub 4 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/735.ts
-#EXTINF:-1,Sportklub 5 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/733.ts
-#EXTINF:-1,Sportklub 6 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/734.ts
-#EXTINF:-1,Sport TV 1 Slovenia HD
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/787.ts
-#EXTINF:-1,Sport TV 2 Slovenia HD
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/788.ts
-#EXTINF:-1,ARENA SPORT 1 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/95.ts
-#EXTINF:-1,ARENA SPORT 1 SRB
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/96.ts
-#EXTINF:-1,ARENA SPORT 1 SR BACKUP
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/680.ts
-#EXTINF:-1,ARENA SPORT 2 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/97.ts
-#EXTINF:-1,ARENA SPORT 2 SRB
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/98.ts
-#EXTINF:-1,Arena SPORT 2 SR BACKUP
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/681.ts
-#EXTINF:-1,ARENA SPORT 3 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/99.ts
-#EXTINF:-1,ARENA SPORT 3 SRB
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/100.ts
-#EXTINF:-1,Arena Sport 3 SR BACKUP
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/682.ts
-#EXTINF:-1,ARENA SPORT 4 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/101.ts
-#EXTINF:-1,ARENA SPORT 4 SRB
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/102.ts
-#EXTINF:-1,Arena SPORT 4 SR BACKUP
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/683.ts
-#EXTINF:-1,ARENA SPORT 5 HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/103.ts
-#EXTINF:-1,ARENA SPORT 5 SRB
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/255.ts
-#EXTINF:-1,Arena SPORT 5 SR BACKUP
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/684.ts
-#EXTINF:-1,BeIN Sport 1 HD 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34197.ts
-#EXTINF:-1,BeIN Sport 2 HD 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34194.ts
-#EXTINF:-1,BeIN Sport 3 HD 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34191.ts
-#EXTINF:-1,BeIN Sport 4 HD 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34189.ts
-#EXTINF:-1,Sky Sport Austria 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32700.ts
+#EXTINF:-1,Sport Klub 1
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/232.ts
+#EXTINF:-1,Sport Klub 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/231.ts
+#EXTINF:-1,Sport Klub 3
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/230.ts
+#EXTINF:-1,Sport Klub 1 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12271.ts
+#EXTINF:-1,SPORT KLUB 1 SR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12270.ts
+#EXTINF:-1,SPORT KLUB 2 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12269.ts
+#EXTINF:-1,SPORT KLUB 2 SR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12272.ts
+#EXTINF:-1,SPORT KLUB 3 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12268.ts
+#EXTINF:-1,SPORT KLUB 3 SR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12273.ts
+#EXTINF:-1,Sport Klub 4 CRO
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12026.ts
+#EXTINF:-1,Sport Klub 5
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12025.ts
+#EXTINF:-1,Sport Klub 6
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12024.ts
+#EXTINF:-1,Arena 1 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/257.ts
+#EXTINF:-1,Arena 2 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/256.ts
+#EXTINF:-1,Arena 3 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/255.ts
+#EXTINF:-1,Arena 4 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/254.ts
+#EXTINF:-1,Arena Sport 1
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/250.ts
+#EXTINF:-1,Arena Sport 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/251.ts
+#EXTINF:-1,Arena Sport 3
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/252.ts
+#EXTINF:-1,Arena Sport 4
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/253.ts
+#EXTINF:-1,Arena Sport 5
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/249.ts
+#EXTINF:-1,Arena Sport 1 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12122.ts
+#EXTINF:-1,ARENA SPORT 1 SR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12278.ts
+#EXTINF:-1,Arena Sport 2 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12121.ts
+#EXTINF:-1,ARENA SPORT 2 SR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12277.ts
+#EXTINF:-1,Arena Sport 3 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12120.ts
+#EXTINF:-1,ARENA SPORT 3 SR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12276.ts
+#EXTINF:-1,Arena Sport 4 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12275.ts
+#EXTINF:-1,Arena Sport 4 SR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12119.ts
+#EXTINF:-1,Arena Sport 5 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12118.ts
+#EXTINF:-1,ARENA Sport 5 SR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12274.ts
+#EXTINF:-1,Arena Sport 6 HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12117.ts
+#EXTINF:-1,EX-YU: HNTV
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34567.ts 
 #EXTINF:-1,Sport 1 HD 
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/32699.ts
 #EXTINF:-1,Sport 2 HD 
@@ -158,7 +156,29 @@ http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35791.ts
 #EXTINF:-1,NL: Ziggo Sport Select HD 
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35870.ts
 #EXTINF:-1,NL: Ziggo Sport Voetbal 
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35871.ts 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35871.ts
+#EXTINF:-1,BeIN Sport 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34197.ts
+#EXTINF:-1,BeIN Sport 2 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34194.ts
+#EXTINF:-1,BeIN Sport 3 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34191.ts
+#EXTINF:-1,BeIN Sport 4 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34189.ts
+#EXTINF:-1,BeIN Sport 5 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34187.ts
+#EXTINF:-1,BeIN Sport 6 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34186.ts
+#EXTINF:-1,BeIN Sport 7 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34185.ts
+#EXTINF:-1,BeIN Sport 8 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34184.ts
+#EXTINF:-1,BeIN Sport 9 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34183.ts
+#EXTINF:-1,BeIN Sport 10 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34182.ts
+#EXTINF:-1,BeIN Sport 11 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34181.ts 
 #EXTINF:-1,SKY SPORTS MAIN EVENT
 http://psiptv.uk:8080/live/Daboyz/Daboyz/102227.ts
 #EXTINF:-1,SKY SPORTS MIX
@@ -179,108 +199,235 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,*1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,HBO 1 HD
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/92.ts
-#EXTINF:-1,HBO 2 HD
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/93.ts
+#EXTINF:-1,HBO Adria
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12263.ts
+#EXTINF:-1,HBO 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12264.ts
+#EXTINF:-1,HBO 3
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12094.ts
+#EXTINF:-1,HR: HBO
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9946.ts
+#EXTINF:-1,HBO Comedy
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/341.ts
+#EXTINF:-1,HR HBO 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9947.ts
+#EXTINF:-1,Kino TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12083.ts
+#EXTINF:-1,Cinemax HD
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12295.ts
+#EXTINF:-1,Cinemax 2 HD
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12296.ts
+#EXTINF:-1,CineStar ACTION
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12297.ts
+#EXTINF:-1,CineStar Fantasy
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12110.ts
 #EXTINF:-1,CineStar Premiere 1
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/112.ts
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12298.ts
 #EXTINF:-1,CineStar Premiere 2
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/197.ts
-#EXTINF:-1,Cinestar TV
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/766.ts
-#EXTINF:-1,Cinemax 1
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/764.ts
-#EXTINF:-1,Cinemax 2
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/765.ts
-#EXTINF:-1,TV 1000
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/755.ts
-#EXTINF:-1,FOX TV
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/351.ts
-#EXTINF:-1,FOX Crime HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/349.ts
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12299.ts
+#EXTINF:-1,CineStar Premiere 3
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12109.ts
+#EXTINF:-1,HR: CINESTAR 1
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9945.ts
+#EXTINF:-1,Klasik TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12247.ts
+#EXTINF:-1,Film Klub
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12102.ts
+#EXTINF:-1,Film Klub Extra
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12101.ts
+#EXTINF:-1,FilmBox Arthouse
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12100.ts
+#EXTINF:-1,FilmBox Extra HD
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12099.ts
+#EXTINF:-1,FilmBox Plus
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12098.ts
+#EXTINF:-1,FOX CRIME
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12209.ts
+#EXTINF:-1,FOX HD
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12281.ts
+#EXTINF:-1,FOX LIFE
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12210.ts
 #EXTINF:-1,FOX MOVIES
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/222.ts
-#EXTINF:-1,FOX Life
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/117.ts
-#EXTINF:-1,AXN
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/754.ts
-EXTINF:-1,Klasik TV
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/105.ts
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12282.ts
+#EXTINF:-1, FOX
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9958.ts
+#EXTINF:-1, FOX CRIME
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9959.ts
+#EXTINF:-1, FOX MOVIES
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9960.ts
+#EXTINF:-1,Cinemania
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12111.ts
+#EXTINF:-1,City Play
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12108.ts
 #EXTINF:-1,HRT 1
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/81.ts
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12202.ts
+#EXTINF:-1,HRT 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12203.ts
 #EXTINF:-1,HRT 3
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/83.ts
-#EXTINF:-1,RTL HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/85.ts
-#EXTINF:-1,NOVA TV
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/86.ts
-#EXTINF:-1,RTL 2
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/87.ts
-#EXTINF:-1,RTL Crime HR
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/400.ts
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12204.ts
+#EXTINF:-1,HRT 1
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9954.ts
+#EXTINF:-1,HRT 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9953.ts
+#EXTINF:-1,HRT 3
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9952.ts
+#EXTINF:-1,HRT 1
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/687.ts
+#EXTINF:-1,HRT 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/340.ts
+#EXTINF:-1,HRT 3
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/339.ts
+#EXTINF:-1, Nova TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/686.ts
+#EXTINF:-1,HR: NOVA TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9950.ts
+#EXTINF:-1,NOVA TV ( CRO )
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12073.ts
+#EXTINF:-1,RTL HRVATSKA
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9949.ts
+#EXTINF:-1,RTL
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9987.ts
 #EXTINF:-1,Doma TV
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/88.ts
-#EXTINF:-1,RTS 1
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/133.ts
-#EXTINF:-1,RTS 1 Backup
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/360.ts
-#EXTINF:-1,RTS 2
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/134.ts
-#EXTINF:-1,RTS 3
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/771.ts
-#EXTINF:-1,O2 TV
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/109.ts
-#EXTINF:-1,O2 TV Backup
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/364.ts
-#EXTINF:-1,Prva
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/131.ts
-#EXTINF:-1,Prva TV Backup
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/407.ts
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/689.ts
+#EXTINF:-1,DOMA TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12260.ts
+#EXTINF:-1, RTL 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/694.ts
+#EXTINF:-1,HR: RTL 2 TELEVIZION
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9948.ts
+#EXTINF:-1, RTS 1
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9997.ts
+#EXTINF:-1, RTS 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9996.ts
+#EXTINF:-1, RTS 3
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9995.ts
+#EXTINF:-1, B92
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9926.ts
+#EXTINF:-1, BHT
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9928.ts
+#EXTINF:-1, BN
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9929.ts
+#EXTINF:-1, FACE
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9934.ts
+#EXTINF:-1,HR: PRVA PLUS
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9944.ts
+#EXTINF:-1, B92
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9963.ts
+#EXTINF:-1, PRVA TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9966.ts
+#EXTINF:-1, Prva
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/693.ts
 #EXTINF:-1,Prva Plus
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/158.ts
-#EXTINF:-1,BHT 1
-http://allgames.onlygames.co:43666/live/fadil1/fadil22/110.ts
-#EXTINF:-1,BHT 1 backup
-#EXTINF:-1,SPORT KLUB 1 (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1324.ts
-#EXTINF:-1,SPORT KLUB 2 (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1325.ts
-#EXTINF:-1,SPORT KLUB 3 (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1326.ts
-#EXTINF:-1,SPORT KLUB 5 (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1327.ts
-#EXTINF:-1,SPORT KLUB 6 (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1328.ts
-#EXTINF:-1,SPORT KLUB 1 (SRB)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1329.ts
-#EXTINF:-1,SPORT KLUB 2 (SRB)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1330.ts
-#EXTINF:-1,SPORT KLUB 3 (SRB)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1331.ts
-#EXTINF:-1,SPORT KLUB 4 (SRB)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1332.ts
-#EXTINF:-1,ARENA SPORT 1 (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1314.ts
-#EXTINF:-1,ARENA SPORT 2 (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1315.ts
-#EXTINF:-1,ARENA SPORT 3 (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1316.ts
-#EXTINF:-1,ARENA SPORT 4 (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1317.ts
-#EXTINF:-1,ARENA SPORT 5 (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1318.ts
-#EXTINF:-1,ARENA SPORT 1 (SRB)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1319.ts
-#EXTINF:-1,ARENA SPORT 2 (SRB)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1320.ts
-#EXTINF:-1,ARENA SPORT 3 (SRB)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1321.ts
-#EXTINF:-1,ARENA SPORT 4 (SRB)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1322.ts
-#EXTINF:-1,ARENA SPORT 5 (SRB)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1323.ts
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12266.ts
+#EXTINF:-1, Prva Plus
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/691.ts
+#EXTINF:-1,PRVA TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12242.ts
+#EXTINF:-1,Prva World
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12049.ts
+#EXTINF:-1,Prva Becka
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12052.ts
+#EXTINF:-1,Prva Kick
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12051.ts
+#EXTINF:-1,Prva Max
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12050.ts
+#EXTINF:-1, RTCG SAT
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/9986.ts
+#EXTINF:-1,BN BiH
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/346.ts
+#EXTINF:-1,B92
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/349.ts
+#EXTINF:-1, RTS 1
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/683.ts
+#EXTINF:-1,EX-YU RTS 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/684.ts
+#EXTINF:-1,EX-YU Face TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/682.ts
+#EXTINF:-1, BHT
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/696.ts
+#EXTINF:-1,RTCG
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12048.ts
+#EXTINF:-1,RTL
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12240.ts
+#EXTINF:-1,RTL 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12243.ts
+#EXTINF:-1,RTL Crime
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12047.ts
+#EXTINF:-1,RTL HR
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12302.ts
+#EXTINF:-1,RTL Living
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12244.ts
+#EXTINF:-1,RTL Passion
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12046.ts
+#EXTINF:-1,RTRS
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12045.ts
+#EXTINF:-1,RTRS Plus
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12044.ts
+#EXTINF:-1,RTS 1
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12245.ts
+#EXTINF:-1,RTS 2
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12246.ts
+#EXTINF:-1,RTS 3
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12043.ts
+#EXTINF:-1,RTS Drama
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12042.ts
+#EXTINF:-1,RTS HD
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12286.ts
+#EXTINF:-1,RTS Kolo
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12041.ts
+#EXTINF:-1,RTS Muzika
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12040.ts
+#EXTINF:-1,RTS SVET
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12039.ts
+#EXTINF:-1,RTS Trezor
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12038.ts
+#EXTINF:-1,RTS Zivot
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12037.ts
+#EXTINF:-1,SLO Tv
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12031.ts
+#EXTINF:-1,SLO TV 2 HD
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12030.ts
+#EXTINF:-1,OTO TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12069.ts
+#EXTINF:-1,Planeta tv
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12055.ts
+#EXTINF:-1,POP TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12054.ts
+#EXTINF:-1,POSAVINA TV
+http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12053.ts
 
+#EXTINF:-1,SPORT KLUB 1 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
+#EXTINF:-1,SPORT KLUB 2 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34663.ts
+#EXTINF:-1,SPORT KLUB 3 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34662.ts
+#EXTINF:-1,SPORT KLUB 5 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34500.ts
+#EXTINF:-1,SPORT KLUB 6 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34499.ts
+#EXTINF:-1,SPORTKLUB 1 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34495.ts
+#EXTINF:-1,SPORTKLUB 2 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34494.ts
+#EXTINF:-1,SPORTKLUB 3 HD 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34493.ts
+#EXTINF:-1,Arena Sport 1 HR 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34649.ts
+#EXTINF:-1,Arena Sport 2 HR 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34647.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34600.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34599.ts
+#EXTINF:-1,Arena Sport 5 HR 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34641.ts
+#EXTINF:-1,SPORT TV 1 HD SLO 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34498.ts
+#EXTINF:-1,SPORT TV 2 HD SLO 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34497.ts
+#EXTINF:-1,SPORT TV 3 HD SLO 
+http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34496.ts 
 #EXTINF:-1,NL: Eurosport 1 HD NL 
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/35845.ts
 #EXTINF:-1,NL: EUROSPORT 2 NL 
@@ -389,7 +536,6 @@ http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34008.ts
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34044.ts
 #EXTINF:-1,CZ: SPORT 2 
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34043.ts
-
 #EXTINF:-1,*1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,*1
@@ -398,73 +544,6 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,*1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,HBO ADRIA
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1277.ts
-#EXTINF:-1,HBO COMEDY
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1278.ts
-#EXTINF:-1,CINEMAX HD
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1268.ts
-#EXTINF:-1,CINEMAX 2
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1269.ts
-#EXTINF:-1,CINESTAR ACTION
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1270.ts
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1271.ts
-#EXTINF:-1,CINESTAR PREMIERE 2
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1272.ts
-#EXTINF:-1,FOX
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1273.ts
-#EXTINF:-1,FOX CRIME
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1275.ts
-#EXTINF:-1,FOX LIFE
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1274.ts
-#EXTINF:-1,FOX MOVIES
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1276.ts
-#EXTINF:-1,HBO ADRIA
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1277.ts
-#EXTINF:-1,HBO COMEDY
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1278.ts
-#EXTINF:-1,HRT 1
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1285.ts
-#EXTINF:-1,HRT 2
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1286.ts
-#EXTINF:-1,HRT 3
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1287.ts
-#EXTINF:-1,NOVA TV (HR)
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1296.ts
-#EXTINF:-1,DOMA TV
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1302.ts
-#EXTINF:-1,RTL
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1280.ts
-#EXTINF:-1,RTL 2
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1281.ts
-#EXTINF:-1,RTL CRIME
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1282.ts
-#EXTINF:-1,RTL LIVING
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1283.ts
-#EXTINF:-1,RTL PASSION
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1284.ts
-#EXTINF:-1,RTS 1
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1298.ts
-#EXTINF:-1,RTS 2
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1299.ts
-#EXTINF:-1,RTV 21
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1297.ts
-#EXTINF:-1,OBN
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1309.ts
-#EXTINF:-1,B 92
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1305.ts
-#EXTINF:-1,BHT
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1306.ts
-#EXTINF:-1,BN BIH
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1307.ts
-#EXTINF:-1,B 92
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1305.ts
-#EXTINF:-1,BHT
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1306.ts
-#EXTINF:-1,BN BIH
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1307.ts
-
 
 #EXTINF:-1,HBO ADRIA
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34660.ts
