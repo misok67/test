@@ -29,20 +29,32 @@ http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2280.ts
 http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13985.ts
 #EXTINF:-1, *** SPORT - LIGA PRVAKA STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-#EXTINF:-1,BT Sport 1 HD UK
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/369.ts
-#EXTINF:-1,BT Sport 2 HD UK
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/368.ts
-#EXTINF:-1,BT Sport 3 HD UK
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/366.ts
-#EXTINF:-1,BT Sport ESPN HD UK
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/1743.ts
-#EXTINF:-1,Sky Sport 1 HD DE
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/12697.ts
-#EXTINF:-1,Sky Sport 2 HD DE
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/12696.ts
-#EXTINF:-1,Sky Sport 3 HD (Live Event) DE
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/1323.ts
+#EXTINF:-1,BT Sport 1
+http://lunaruk.org:8080/live/floyd/floyd/20946.ts
+#EXTINF:-1,BT Sport 1 HD
+http://lunaruk.org:8080/live/floyd/floyd/20947.ts
+#EXTINF:-1,BT Sport 2
+http://lunaruk.org:8080/live/floyd/floyd/20948.ts
+#EXTINF:-1,BT Sport 2 HD
+http://lunaruk.org:8080/live/floyd/floyd/20949.ts
+#EXTINF:-1,BT Sport 3
+http://lunaruk.org:8080/live/floyd/floyd/20950.ts
+#EXTINF:-1,BT Sport 3 HD
+http://lunaruk.org:8080/live/floyd/floyd/20951.ts
+#EXTINF:-1,BT Sport ESPN
+http://lunaruk.org:8080/live/floyd/floyd/20952.ts
+#EXTINF:-1,BT Sport Extra 1
+http://lunaruk.org:8080/live/floyd/floyd/20954.ts
+#EXTINF:-1,BT Sport Extra 2
+http://lunaruk.org:8080/live/floyd/floyd/20955.ts
+#EXTINF:-1,BT Sport Extra 3
+http://lunaruk.org:8080/live/floyd/floyd/20956.ts
+#EXTINF:-1,BT Sport Extra 4
+http://lunaruk.org:8080/live/floyd/floyd/20957.ts
+#EXTINF:-1,DE::Sky Sport 1 HD (VIP).
+http://live.darkside-iptv.com:8080/live/MtTCYtlCdQ/UeLgdzlSWG/23614.ts
+#EXTINF:-1,DE::Sky Sport 2 HD (VIP).
+http://live.darkside-iptv.com:8080/live/MtTCYtlCdQ/UeLgdzlSWG/23611.ts
 #EXTINF:-1,beINSport 1 HD ARB
 http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/979.ts
 #EXTINF:-1,beINSport 11 HD ARB
