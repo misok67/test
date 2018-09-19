@@ -5,6 +5,12 @@ http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
 
 #EXTINF:-1,*** SPORT - LIGA PRVAKA EX-YU
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1,AL: ARENA SPORT 1 HD
+http://zerocube.co:8000/live/12345/54321/65403.ts
+#EXTINF:-1,AL: ARENA SPORT 2 HD
+http://zerocube.co:8000/live/12345/54321/65402.ts
+#EXTINF:-1,AL: ARENA SPORT 4 HD
+http://zerocube.co:8000/live/12345/54321/65401.ts
 #EXTINF:-1,Arena Sport 1
 http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/250.ts
 #EXTINF:-1,Arena Sport 2
@@ -13,20 +19,7 @@ http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/251.ts
 http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/252.ts
 #EXTINF:-1,Arena Sport 4
 http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/253.ts
-#EXTINF:-1,Arena Sport 5
-http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/249.ts
-#EXTINF:-1,Arena Sport 1 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2284.ts
-#EXTINF:-1,Arena Sport 2 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2283.ts
-#EXTINF:-1,Arena Sport 3 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2282.ts
-#EXTINF:-1,Arena Sport 4 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2281.ts
-#EXTINF:-1,Arena Sport 5 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2280.ts
-#EXTINF:-1,Kanal A SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13985.ts
+
 #EXTINF:-1, *** SPORT - LIGA PRVAKA STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 #EXTINF:-1,BT Sport 1
@@ -51,34 +44,40 @@ http://lunaruk.org:8080/live/floyd/floyd/20955.ts
 http://lunaruk.org:8080/live/floyd/floyd/20956.ts
 #EXTINF:-1,BT Sport Extra 4
 http://lunaruk.org:8080/live/floyd/floyd/20957.ts
+#EXTINF:-1,RO: Telekom Sport 1 HD
+http://lunaruk.org:8080/live/floyd/floyd/37369.ts
+#EXTINF:-1,RO: Telekom Sport 2 HD
+http://lunaruk.org:8080/live/floyd/floyd/37368.ts
+#EXTINF:-1,RO: TELEKOM SPORT 3 HD
+http://lunaruk.org:8080/live/floyd/floyd/37367.ts
+#EXTINF:-1,RO: TELEKOM SPORT 4 HD
+http://lunaruk.org:8080/live/floyd/floyd/37366.ts
+#EXTINF:-1,RO: Telekom Sport 5 HD
+http://lunaruk.org:8080/live/floyd/floyd/37365.ts
+#EXTINF:-1,RO: Telekom Sport 6 HD
+http://lunaruk.org:8080/live/floyd/floyd/37364.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://zerocube.co:8000/live/12345/54321/60811.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://zerocube.co:8000/live/12345/54321/60810.ts
 #EXTINF:-1,DE::Sky Sport 1 HD (VIP).
 http://live.darkside-iptv.com:8080/live/MtTCYtlCdQ/UeLgdzlSWG/23614.ts
 #EXTINF:-1,DE::Sky Sport 2 HD (VIP).
 http://live.darkside-iptv.com:8080/live/MtTCYtlCdQ/UeLgdzlSWG/23611.ts
-#EXTINF:-1,beINSport 1 HD ARB
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/979.ts
-#EXTINF:-1,beINSport 11 HD ARB
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/969.ts
-#EXTINF:-1,beINSport 12 ARB
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/984.ts
-#EXTINF:-1,beINSport 2 HD ARB
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/978.ts
-#EXTINF:-1,beINSport 3 HD ARB
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/977.ts
-#EXTINF:-1,beINSport 4 HD ARB
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/976.ts
-#EXTINF:-1,beINSport 5 HD ARB
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/975.ts
-#EXTINF:-1,beINSport 6 HD ARB
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/974.ts
 #EXTINF:-1,*** SPORT - EX-YU
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,Sport Klub 1
-http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/232.ts
-#EXTINF:-1,Sport Klub 2
-http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/231.ts
-#EXTINF:-1,Sport Klub 3
-http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/230.ts
+#EXTINF:-1,SPORT KLUB 1
+http://zerocube.co:8000/live/12345/54321/65841.ts
+#EXTINF:-1,SPORT KLUB 2
+http://zerocube.co:8000/live/12345/54321/65840.ts
+#EXTINF:-1,SPORT KLUB 3
+http://zerocube.co:8000/live/12345/54321/65839.ts
+#EXTINF:-1,SPORT KLUB 4
+http://zerocube.co:8000/live/12345/54321/65838.ts
+#EXTINF:-1,SPORT KLUB 5
+http://zerocube.co:8000/live/12345/54321/65837.ts
+#EXTINF:-1,SPORT KLUB 6
+http://zerocube.co:8000/live/12345/54321/65836.ts
 #EXTINF:-1,Arena Sport 1 HR HD 
 http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/589.ts
 #EXTINF:-1,Arena Sport 2 HR HD 
@@ -103,22 +102,6 @@ http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/10883.ts
 http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/10897.ts
 #EXTINF:-1,Sport Klub 1 SRB 
 http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/592.ts
-#EXTINF:-1,Sport Klub HD 1 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2279.ts
-#EXTINF:-1,Sport Klub 2 SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/591.ts
-#EXTINF:-1,Sport Klub HD 2 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2278.ts
-#EXTINF:-1,Sport Klub 3 SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/590.ts
-#EXTINF:-1,Sport Klub HD 3 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2277.ts
-#EXTINF:-1,Sport Klub 4 SR 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/1173.ts
-#EXTINF:-1,Sport Klub 5 SR 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/1172.ts
-#EXTINF:-1,Sport Klub 6 SR 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/1171.ts
 #EXTINF:-1,Sport Klub 1 SI
 http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13991.ts
 #EXTINF:-1,Sport Klub 2 SI
