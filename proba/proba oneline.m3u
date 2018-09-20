@@ -43,6 +43,25 @@ http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2282.ts
 http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2281.ts
 #EXTINF:-1,Arena Sport 5 Srb 
 http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2280.ts
+#EXTINF:-1,ARENA SPORT 1
+http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
+#EXTINF:-1,ARENA SPORT 1 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/319.ts
+#EXTINF:-1,ARENA SPORT 2
+http://190.2.142.13:25461/live/primera_android/1122334455/310.ts
+#EXTINF:-1,ARENA SPORT 2 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/318.ts
+#EXTINF:-1,ARENA SPORT 3
+http://190.2.142.13:25461/live/primera_android/1122334455/309.ts
+#EXTINF:-1,ARENA SPORT 3 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/317.ts
+#EXTINF:-1,ARENA SPORT 4
+http://190.2.142.13:25461/live/primera_android/1122334455/308.ts
+#EXTINF:-1,ARENA SPORT 4 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/316.ts
+#EXTINF:-1,ARENA SPORT 5 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/315.ts
+
 #EXTINF:-1, *** SPORT - LIGA PRVAKA STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 #EXTINF:-1,RO: Telekom Sport 1 HD
