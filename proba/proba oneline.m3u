@@ -5,6 +5,16 @@ http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
 
 #EXTINF:-1,*** SPORT - LIGA PRVAKA EX-YU
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1,Arena Sport 1 HR HD 
+http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/589.ts
+#EXTINF:-1,Arena Sport 2 HR HD 
+http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/588.ts
+#EXTINF:-1,Arena Sport 3 HR HD 
+http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/587.ts
+#EXTINF:-1,Arena Sport 4 HR HD 
+http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/586.ts
+#EXTINF:-1,Arena Sport 5 HR HD 
+http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/585.ts
 #EXTINF:-1,ARENA SPORT 1
 http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
 #EXTINF:-1,ARENA SPORT 1 HD HR
@@ -23,23 +33,50 @@ http://190.2.142.13:25461/live/primera_android/1122334455/308.ts
 http://190.2.142.13:25461/live/primera_android/1122334455/316.ts
 #EXTINF:-1,ARENA SPORT 5 HD HR
 http://190.2.142.13:25461/live/primera_android/1122334455/315.ts
-#EXTINF:-1,AL: ARENA SPORT 1 HD
-http://zerocube.co:8000/live/12345/54321/65403.ts
-#EXTINF:-1,AL: ARENA SPORT 2 HD
-http://zerocube.co:8000/live/12345/54321/65402.ts
-#EXTINF:-1,AL: ARENA SPORT 4 HD
-http://zerocube.co:8000/live/12345/54321/65401.ts
-#EXTINF:-1,Arena Sport 1
-http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/250.ts
-#EXTINF:-1,Arena Sport 2
-http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/251.ts
-#EXTINF:-1,Arena Sport 3
-http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/252.ts
-#EXTINF:-1,Arena Sport 4
-http://tv.smartal.net:25461/live/tP5O7XG8np/ZYnCowqhmb/253.ts
-
+#EXTINF:-1,Arena Sport 1 Srb 
+http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2284.ts
+#EXTINF:-1,Arena Sport 2 Srb 
+http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2283.ts
+#EXTINF:-1,Arena Sport 3 Srb 
+http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2282.ts
+#EXTINF:-1,Arena Sport 4 Srb 
+http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2281.ts
+#EXTINF:-1,Arena Sport 5 Srb 
+http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2280.ts
 #EXTINF:-1, *** SPORT - LIGA PRVAKA STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
+#EXTINF:-1,RO: Telekom Sport 1 HD
+http://lunaruk.org:8080/live/floyd/floyd/37369.ts
+#EXTINF:-1,RO: Telekom Sport 2 HD
+http://lunaruk.org:8080/live/floyd/floyd/37368.ts
+#EXTINF:-1,RO: TELEKOM SPORT 3 HD
+http://lunaruk.org:8080/live/floyd/floyd/37367.ts
+#EXTINF:-1,RO: TELEKOM SPORT 4 HD
+http://lunaruk.org:8080/live/floyd/floyd/37366.ts
+#EXTINF:-1,RO: Telekom Sport 5 HD
+http://lunaruk.org:8080/live/floyd/floyd/37365.ts
+#EXTINF:-1,RO: Telekom Sport 6 HD
+http://lunaruk.org:8080/live/floyd/floyd/37364.ts
+#EXTINF:-1,AR:BEIN SPORT 1 HD+
+http://zerocube.co:8000/live/12345/54321/22550.ts
+#EXTINF:-1,AR:BEIN SPORT 2 HD+
+http://zerocube.co:8000/live/12345/54321/22549.ts
+#EXTINF:-1,AR:BEIN SPORT 3 HD+
+http://zerocube.co:8000/live/12345/54321/22548.ts
+#EXTINF:-1,AR:BEIN SPORT 4 HD+
+http://zerocube.co:8000/live/12345/54321/22547.ts
+#EXTINF:-1,AR:BEIN SPORT 5 HD+
+http://zerocube.co:8000/live/12345/54321/22546.ts
+#EXTINF:-1,AR:BEIN SPORT 6 HD+
+http://zerocube.co:8000/live/12345/54321/22545.ts
+#EXTINF:-1,AR: BEIN SPORT 7 HD+
+http://zerocube.co:8000/live/12345/54321/22544.ts
+#EXTINF:-1,AR:BEIN SPORT 8 HD+
+http://zerocube.co:8000/live/12345/54321/22543.ts
+#EXTINF:-1,AR:BEIN SPORT 9 HD+
+http://zerocube.co:8000/live/12345/54321/22542.ts
+#EXTINF:-1,AR:BEIN SPORT 10 HD+
+http://zerocube.co:8000/live/12345/54321/22541.ts
 #EXTINF:-1,BT Sport 1
 http://lunaruk.org:8080/live/floyd/floyd/20946.ts
 #EXTINF:-1,BT Sport 1 HD
@@ -54,26 +91,8 @@ http://lunaruk.org:8080/live/floyd/floyd/20950.ts
 http://lunaruk.org:8080/live/floyd/floyd/20951.ts
 #EXTINF:-1,BT Sport ESPN
 http://lunaruk.org:8080/live/floyd/floyd/20952.ts
-#EXTINF:-1,BT Sport Extra 1
-http://lunaruk.org:8080/live/floyd/floyd/20954.ts
-#EXTINF:-1,BT Sport Extra 2
-http://lunaruk.org:8080/live/floyd/floyd/20955.ts
-#EXTINF:-1,BT Sport Extra 3
-http://lunaruk.org:8080/live/floyd/floyd/20956.ts
-#EXTINF:-1,BT Sport Extra 4
-http://lunaruk.org:8080/live/floyd/floyd/20957.ts
-#EXTINF:-1,RO: Telekom Sport 1 HD
-http://lunaruk.org:8080/live/floyd/floyd/37369.ts
-#EXTINF:-1,RO: Telekom Sport 2 HD
-http://lunaruk.org:8080/live/floyd/floyd/37368.ts
-#EXTINF:-1,RO: TELEKOM SPORT 3 HD
-http://lunaruk.org:8080/live/floyd/floyd/37367.ts
-#EXTINF:-1,RO: TELEKOM SPORT 4 HD
-http://lunaruk.org:8080/live/floyd/floyd/37366.ts
-#EXTINF:-1,RO: Telekom Sport 5 HD
-http://lunaruk.org:8080/live/floyd/floyd/37365.ts
-#EXTINF:-1,RO: Telekom Sport 6 HD
-http://lunaruk.org:8080/live/floyd/floyd/37364.ts
+
+
 #EXTINF:-1,DE: Sky Sport 1 HD
 http://zerocube.co:8000/live/12345/54321/60811.ts
 #EXTINF:-1,DE: Sky Sport 2 HD
