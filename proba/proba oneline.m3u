@@ -3,65 +3,32 @@
 #EXTINF:-1,SPORT OD 1 DO 99 TE 200 DO 279___EXYU OO 100 DO 154 TE 280 DO 399
 http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
 
-#EXTINF:-1,*** SPORT - LIGA PRVAKA EX-YU
+#EXTINF:-1,*** SPORT EX-YU
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,Arena Sport 1 HR HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/589.ts
-#EXTINF:-1,Arena Sport 2 HR HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/588.ts
-#EXTINF:-1,Arena Sport 3 HR HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/587.ts
-#EXTINF:-1,Arena Sport 4 HR HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/586.ts
-#EXTINF:-1,Arena Sport 5 HR HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/585.ts
-#EXTINF:-1,ARENA SPORT 1
-http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
-#EXTINF:-1,ARENA SPORT 1 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/319.ts
-#EXTINF:-1,ARENA SPORT 2
-http://190.2.142.13:25461/live/primera_android/1122334455/310.ts
-#EXTINF:-1,ARENA SPORT 2 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/318.ts
-#EXTINF:-1,ARENA SPORT 3
-http://190.2.142.13:25461/live/primera_android/1122334455/309.ts
-#EXTINF:-1,ARENA SPORT 3 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/317.ts
-#EXTINF:-1,ARENA SPORT 4
-http://190.2.142.13:25461/live/primera_android/1122334455/308.ts
-#EXTINF:-1,ARENA SPORT 4 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/316.ts
-#EXTINF:-1,ARENA SPORT 5 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/315.ts
-#EXTINF:-1,Arena Sport 1 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2284.ts
-#EXTINF:-1,Arena Sport 2 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2283.ts
-#EXTINF:-1,Arena Sport 3 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2282.ts
-#EXTINF:-1,Arena Sport 4 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2281.ts
-#EXTINF:-1,Arena Sport 5 Srb 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2280.ts
-#EXTINF:-1,ARENA SPORT 1
-http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
-#EXTINF:-1,ARENA SPORT 1 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/319.ts
-#EXTINF:-1,ARENA SPORT 2
-http://190.2.142.13:25461/live/primera_android/1122334455/310.ts
-#EXTINF:-1,ARENA SPORT 2 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/318.ts
-#EXTINF:-1,ARENA SPORT 3
-http://190.2.142.13:25461/live/primera_android/1122334455/309.ts
-#EXTINF:-1,ARENA SPORT 3 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/317.ts
-#EXTINF:-1,ARENA SPORT 4
-http://190.2.142.13:25461/live/primera_android/1122334455/308.ts
-#EXTINF:-1,ARENA SPORT 4 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/316.ts
-#EXTINF:-1,ARENA SPORT 5 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/315.ts
-
+#EXTINF:-1,Sport Klub 1
+http://1:7bc3d@164.132.162.91:9687/SportKlub1
+#EXTINF:-1,Sport Klub 2
+http://1:7bc3d@164.132.168.68:9687/SportKlub2
+#EXTINF:-1,Sport Klub 3
+http://1:7bc3d@164.132.168.68:9687/SportKlub3
+#EXTINF:-1,Arena 1 HR
+http://1:7bc3d@164.132.168.68:9687/Arena1HR
+#EXTINF:-1,Arena 2 HR
+http://1:7bc3d@164.132.168.68:9687/Arena2HR
+#EXTINF:-1,Arena 3 HR
+http://1:7bc3d@164.132.162.91:9687/Arena3HR
+#EXTINF:-1,Arena 4 HR
+http://1:7bc3d@164.132.162.91:9687/Arena4HR
+#EXTINF:-1,Arena Sport 1
+http://1:7bc3d@164.132.162.91:9687/ArenaSport1
+#EXTINF:-1,Arena Sport 2
+http://1:7bc3d@164.132.162.91:9687/ArenaSport2
+#EXTINF:-1,Arena Sport 3
+http://1:7bc3d@164.132.168.68:9687/ArenaSport3
+#EXTINF:-1,Arena Sport 4
+http://1:7bc3d@164.132.168.68:9687/ArenaSport4
+#EXTINF:-1,Arena Sport 5
+http://1:7bc3d@164.132.168.68:9687/ArenaSport5
 #EXTINF:-1, *** SPORT - LIGA PRVAKA STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 #EXTINF:-1,RO: Telekom Sport 1 HD
