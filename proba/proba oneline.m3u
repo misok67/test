@@ -1,10 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1,SPORT OD 1 DO 99 TE 200 DO 279___EXYU OO 100 DO 154 TE 280 DO 399
-http://noaccess.aysecurity.xyz:80/live/6m0502cris/Rosm9x2xKK/34664.ts
-
 #EXTINF:-1,*** SPORT EX-YU
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1,Sport Klub 1
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3605.ts
+#EXTINF:-1,Sport Klub 2
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3604.ts
+#EXTINF:-1,Sport Klub 3
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3603.ts
+#EXTINF:-1,SPORTKLUB 4 SD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3602.ts
+#EXTINF:-1,SPORTKLUB 5 SD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3601.ts
+#EXTINF:-1,SPORTKLUB 6 SD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3600.ts
+#EXTINF:-1,Arenasport 1 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/400.ts
+#EXTINF:-1,Arena sport 2 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/401.ts
+#EXTINF:-1,Arenasport 3 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/402.ts
+#EXTINF:-1,Arenasport 4 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/403.ts
+#EXTINF:-1,Arenasport 5 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/404.ts
+#EXTINF:-1,SLO: SPORTKLUB 1 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6845.ts
+#EXTINF:-1,SLO: SPORTKLUB 2 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6846.ts
+#EXTINF:-1,SLO: SPORTKLUB 3 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6847.ts
+#EXTINF:-1,SLO: SPORTKLUB 4
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6848.ts
+#EXTINF:-1,SLO: SPORT TV 1 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6842.ts
+#EXTINF:-1,SLO: SPORT TV 2 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6843.ts
+#EXTINF:-1,SLO: SPORT TV 3 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6844.ts
 #EXTINF:-1,Sport Klub 1
 http://1:7bc3d@164.132.162.91:9687/SportKlub1
 #EXTINF:-1,Sport Klub 2
@@ -29,6 +62,22 @@ http://1:7bc3d@164.132.168.68:9687/ArenaSport3
 http://1:7bc3d@164.132.168.68:9687/ArenaSport4
 #EXTINF:-1,Arena Sport 5
 http://1:7bc3d@164.132.168.68:9687/ArenaSport5
+#EXTINF:-1,SPORT KLUB 2
+http://zerocube.co:8000/live/12345/54321/65840.ts
+#EXTINF:-1,SPORT KLUB 3
+http://zerocube.co:8000/live/12345/54321/65839.ts
+#EXTINF:-1,SPORT KLUB 4
+http://zerocube.co:8000/live/12345/54321/65838.ts
+#EXTINF:-1,SPORT KLUB 5
+http://zerocube.co:8000/live/12345/54321/65837.ts
+#EXTINF:-1,SPORT KLUB 6
+http://zerocube.co:8000/live/12345/54321/65836.ts
+#EXTINF:-1,AL: ARENA SPORT 1 HD
+http://zerocube.co:8000/live/12345/54321/65403.ts
+#EXTINF:-1,AL: ARENA SPORT 2 HD
+http://zerocube.co:8000/live/12345/54321/65402.ts
+#EXTINF:-1,AL: ARENA SPORT 4 HD
+http://zerocube.co:8000/live/12345/54321/65401.ts
 #EXTINF:-1, *** SPORT - LIGA PRVAKA STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 #EXTINF:-1,RO: Telekom Sport 1 HD
@@ -77,8 +126,6 @@ http://lunaruk.org:8080/live/floyd/floyd/20950.ts
 http://lunaruk.org:8080/live/floyd/floyd/20951.ts
 #EXTINF:-1,BT Sport ESPN
 http://lunaruk.org:8080/live/floyd/floyd/20952.ts
-
-
 #EXTINF:-1,DE: Sky Sport 1 HD
 http://zerocube.co:8000/live/12345/54321/60811.ts
 #EXTINF:-1,DE: Sky Sport 2 HD
@@ -87,306 +134,179 @@ http://zerocube.co:8000/live/12345/54321/60810.ts
 http://live.darkside-iptv.com:8080/live/MtTCYtlCdQ/UeLgdzlSWG/23614.ts
 #EXTINF:-1,DE::Sky Sport 2 HD (VIP).
 http://live.darkside-iptv.com:8080/live/MtTCYtlCdQ/UeLgdzlSWG/23611.ts
-#EXTINF:-1,*** SPORT - EX-YU
+
+
+#EXTINF:-1,**  EX YU KANALI LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,SPORT KLUB 1
-http://zerocube.co:8000/live/12345/54321/65841.ts
-#EXTINF:-1,SPORT KLUB 2
-http://zerocube.co:8000/live/12345/54321/65840.ts
-#EXTINF:-1,SPORT KLUB 3
-http://zerocube.co:8000/live/12345/54321/65839.ts
-#EXTINF:-1,SPORT KLUB 4
-http://zerocube.co:8000/live/12345/54321/65838.ts
-#EXTINF:-1,SPORT KLUB 5
-http://zerocube.co:8000/live/12345/54321/65837.ts
-#EXTINF:-1,SPORT KLUB 6
-http://zerocube.co:8000/live/12345/54321/65836.ts
-#EXTINF:-1,SPORT KLUB 1
-http://190.2.142.13:25461/live/primera_android/1122334455/314.ts
-#EXTINF:-1,SPORT KLUB 2
-http://190.2.142.13:25461/live/primera_android/1122334455/313.ts
-#EXTINF:-1,SPORT KLUB 3
-http://190.2.142.13:25461/live/primera_android/1122334455/312.ts 
-#EXTINF:-1,Arena Sport 1 HR HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/589.ts
-#EXTINF:-1,Arena Sport 2 HR HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/588.ts
-#EXTINF:-1,Arena Sport 3 HR HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/587.ts
-#EXTINF:-1,Arena Sport 4 HR HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/586.ts
-#EXTINF:-1,Arena Sport 5 HR HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/585.ts
-#EXTINF:-1,Sport Klub 1 FHD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/10900.ts
-#EXTINF:-1,Sport Klub 1 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13966.ts
-#EXTINF:-1,Sport Klub 2 FHD SRB/HRV/SLO VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/10884.ts
-#EXTINF:-1,Sport Klub 2 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/10896.ts
-#EXTINF:-1,Sport Klub 3 FHD SRB/HRV/SLO VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/10883.ts
-#EXTINF:-1,Sport Klub 3 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/10897.ts
-#EXTINF:-1,Sport Klub 1 SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/592.ts
-#EXTINF:-1,Sport Klub 1 SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13991.ts
-#EXTINF:-1,Sport Klub 2 SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13992.ts
-#EXTINF:-1,Sport Klub 3 SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13993.ts
-#EXTINF:-1,Sport Klub 4 SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13994.ts
-#EXTINF:-1,Šport TV 1 HD SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13988.ts
-#EXTINF:-1,Šport TV 2 HD SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13989.ts
-#EXTINF:-1,Šport TV 3 HD SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13990.ts
-
-
-
-#EXTINF:-1,**  EX YU KANALI
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,HBO 1 SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4573.ts
-#EXTINF:-1,HBO 2 SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4572.ts
-#EXTINF:-1,HBO 3 SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4571.ts
-#EXTINF:-1,HBO Adria 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2317.ts
-#EXTINF:-1,HBO Comedy 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2316.ts
-#EXTINF:-1,Cinemax 1 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2315.ts
-#EXTINF:-1,Cinemax 2 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2314.ts
-#EXTINF:-1,Kino TV 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9032.ts
-#EXTINF:-1,Klasik TV 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2335.ts
-#EXTINF:-1,Pink Film 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2310.ts
-#EXTINF:-1,Cinestar Action SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4028.ts
-#EXTINF:-1,Cinestar Premiere 1 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2313.ts
-#EXTINF:-1,Cinestar Premiere 2 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2312.ts
-#EXTINF:-1,Cinestar TV SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4029.ts
-#EXTINF:-1,Film Klub 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9066.ts
-#EXTINF:-1,Film Klub Extra 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9065.ts
-#EXTINF:-1,Filmbox Extra SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4027.ts
-#EXTINF:-1,Filmbox Plus SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4026.ts
-#EXTINF:-1,M1 Film 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/227.ts
-#EXTINF:-1,Cinemania 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9036.ts
-#EXTINF:-1,TV1000 SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4025.ts
-#EXTINF:-1,SciFi SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4023.ts
-#EXTINF:-1,Fox TV 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2318.ts
-#EXTINF:-1,Fox Life 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2320.ts
-#EXTINF:-1,Fox Crime 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2321.ts
-#EXTINF:-1,Fox Movies 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2319.ts
-#EXTINF:-1,HRT 1 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/201.ts
-#EXTINF:-1,HRT 2 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/202.ts
-#EXTINF:-1,HRT 3 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/203.ts
-#EXTINF:-1,RTL 1 HR 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/217.ts
-#EXTINF:-1,RTL 2 HR 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/216.ts
-#EXTINF:-1,RTL Crime 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/184.ts
-#EXTINF:-1,RTL Living 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/219.ts
-#EXTINF:-1,RTL Passion 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/185.ts
-#EXTINF:-1,Doma TV 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/195.ts
-#EXTINF:-1,Nova TV HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9039.ts
-#EXTINF:-1,Nova World 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9038.ts
-#EXTINF:-1,Nova 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/3838.ts
-#EXTINF:-1,Diva TV 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9033.ts
-#EXTINF:-1,RTS 1 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/187.ts
-#EXTINF:-1,RTS 1 HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2346.ts
-#EXTINF:-1,RTS 2 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/186.ts
-#EXTINF:-1,RTS 3 SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4024.ts
-#EXTINF:-1,RTS Satelit 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/221.ts
-#EXTINF:-1,Prva 1 SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/212.ts
-#EXTINF:-1,RTV 1 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9062.ts
-#EXTINF:-1,RTV 2 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9061.ts
-#EXTINF:-1,B 92 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2345.ts
-#EXTINF:-1,O2.TV 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9067.ts
-#EXTINF:-1,Prva Max 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/181.ts
-#EXTINF:-1,Prva Plus SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/213.ts
-#EXTINF:-1,Palma Plus 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/9060.ts
-#EXTINF:-1,Studio B 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/5623.ts
-#EXTINF:-1,SOS Kanal SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4011.ts
-#EXTINF:-1,RTCG 1 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/183.ts
-#EXTINF:-1,RTCG 2 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/214.ts
-#EXTINF:-1,BH TV BH 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4565.ts
-#EXTINF:-1,BHT 1 HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/192.ts
-#EXTINF:-1,OBN 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2333.ts
-#EXTINF:-1,Animal Planet 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/190.ts
-#EXTINF:-1,Crime & Investigation HD 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2322.ts
-#EXTINF:-1,Discovery Channel 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2325.ts
-#EXTINF:-1,Discovery ID 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2324.ts
-#EXTINF:-1,Discovery Science SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4014.ts
-#EXTINF:-1,History 2 SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/199.ts
-#EXTINF:-1,History Channel 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/2323.ts
-#EXTINF:-1,Viasat Explorer 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/224.ts
-#EXTINF:-1,Viasat History 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/225.ts
-#EXTINF:-1,Viasat Nature 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/226.ts
-#EXTINF:-1,ID Xtra SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4013.ts
-#EXTINF:-1,Docu Box SRB 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/4569.ts
-#EXTINF:-1,Nat Geo Wild 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/209.ts
-#EXTINF:-1,Nat Geo 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/208.ts
-#EXTINF:-1,HBO SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/14229.ts
-#EXTINF:-1,HBO 2 SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/8934.ts
-#EXTINF:-1,HBO 3 SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/8935.ts
-#EXTINF:-1,Kanal A SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13985.ts
-#EXTINF:-1,Kino SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13984.ts
-#EXTINF:-1,SLO 1 SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13981.ts
-#EXTINF:-1,SLO 2 SI
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/13982.ts
-#EXTINF:-1,Max Select 1 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/12622.ts
-#EXTINF:-1,Max Select 2 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/12621.ts
-#EXTINF:-1,Max Select 3 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/12620.ts
-#EXTINF:-1,Max Select 5 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/12619.ts
-#EXTINF:-1,Max Select 6 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/12618.ts
-#EXTINF:-1,Max Select 7 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/12617.ts
-#EXTINF:-1,Max Select 8 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/12616.ts
-#EXTINF:-1,Max Select 9 HD VIP 
-http://portal2.geniptv.com:8080/live/FSSpKRwr0v/DmlSG9oDZe/12615.ts
-
-#EXTINF:-1,HBO
-http://190.2.142.13:25461/live/primera_android/1122334455/366.ts
+#EXTINF:-1,HBO Adria
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3544.ts
 #EXTINF:-1,HBO 2
-http://190.2.142.13:25461/live/primera_android/1122334455/365.ts
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3545.ts
 #EXTINF:-1,HBO 3
-http://190.2.142.13:25461/live/primera_android/1122334455/364.ts
-#EXTINF:-1,CINEMAX 2
-http://190.2.142.13:25461/live/primera_android/1122334455/342.ts
-#EXTINF:-1,CINESTAR
-http://190.2.142.13:25461/live/primera_android/1122334455/363.ts
-#EXTINF:-1,CINESTAR ACTION
-http://190.2.142.13:25461/live/primera_android/1122334455/362.ts
-#EXTINF:-1,FOX LIFE
-http://190.2.142.13:25461/live/primera_android/1122334455/369.ts
-#EXTINF:-1,FOX MOVIES
-http://190.2.142.13:25461/live/primera_android/1122334455/367.ts
-#EXTINF:-1,M1 FILM
-http://190.2.142.13:25461/live/primera_android/1122334455/368.ts
-
-
-
-#EXTINF:-1,HRT1
-http://190.2.142.13:25461/live/primera_android/1122334455/339.ts
-#EXTINF:-1,HRT2
-http://190.2.142.13:25461/live/primera_android/1122334455/338.ts
-#EXTINF:-1,HRT3
-http://190.2.142.13:25461/live/primera_android/1122334455/337.ts
-#EXTINF:-1,NOVA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/373.ts
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/4011.ts
+#EXTINF:-1,CINEMAX 1
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3551.ts
+#EXTINF:-1,CINEMAX-2
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3550.ts
+#EXTINF:-1,Cinestar Premier 2
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3556.ts
+#EXTINF:-1,Cinestar Premiere 1
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3534.ts
+#EXTINF:-1,Cinestar Action
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3555.ts
+#EXTINF:-1,KLASIK TV
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3589.ts
+#EXTINF:-1,Pink Film
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3566.ts
+#EXTINF:-1,FOX
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3519.ts
+#EXTINF:-1,Fox Crime
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3518.ts
+#EXTINF:-1,Fox Life
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3516.ts
+#EXTINF:-1,Fox Movies
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3517.ts
+#EXTINF:-1,FilmBox Extra
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3520.ts
+#EXTINF:-1,MGM
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3587.ts
+#EXTINF:-1,HRT 1
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3542.ts
+#EXTINF:-1,HRT 2
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3541.ts
+#EXTINF:-1,HRT 3
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3540.ts
 #EXTINF:-1,RTL
-http://190.2.142.13:25461/live/primera_android/1122334455/389.ts
-#EXTINF:-1,RTL LIVING
-http://190.2.142.13:25461/live/primera_android/1122334455/386.ts
-#EXTINF:-1,RTL MAH
-http://190.2.142.13:25461/live/primera_android/1122334455/388.ts
-#EXTINF:-1,RTL2
-http://190.2.142.13:25461/live/primera_android/1122334455/387.ts
-#EXTINF:-1,DIVA
-http://190.2.142.13:25461/live/primera_android/1122334455/361.ts
-#EXTINF:-1,DOMA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/374.ts
-#EXTINF:-1,RTRS PLUS
-http://190.2.142.13:25461/live/primera_android/1122334455/294.ts
-#EXTINF:-1,RTS SAT
-http://190.2.142.13:25461/live/primera_android/1122334455/211.ts
-#EXTINF:-1,RTRS
-http://190.2.142.13:25461/live/primera_android/1122334455/46.ts
-#EXTINF:-1,RTS1
-http://190.2.142.13:25461/live/primera_android/1122334455/128.ts
-#EXTINF:-1,RTV BN
-http://190.2.142.13:25461/live/primera_android/1122334455/278.ts
-#EXTINF:-1,B92 INFO
-http://190.2.142.13:25461/live/primera_android/1122334455/293.ts
-#EXTINF:-1,BHT1 HD
-http://190.2.142.13:25461/live/primera_android/1122334455/123.ts
-#EXTINF:-1,BHT1 SD
-http://190.2.142.13:25461/live/primera_android/1122334455/133.ts
-#EXTINF:-1,BNV TV Sandzak
-http://190.2.142.13:25461/live/primera_android/1122334455/26.ts
-#EXTINF:-1,RTCG1
-http://190.2.142.13:25461/live/primera_android/1122334455/125.ts
-#EXTINF:-1,RTCG2
-http://190.2.142.13:25461/live/primera_android/1122334455/126.ts
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3559.ts
+#EXTINF:-1,NOVA TV HR
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3538.ts
+#EXTINF:-1,NOVA TV HR
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/4342.ts
+#EXTINF:-1,DOMA-TV
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3546.ts
+#EXTINF:-1,RTL 2
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3558.ts
+#EXTINF:-1,RTL Crime
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/8864.ts
+#EXTINF:-1,RTL Living
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/8866.ts
+#EXTINF:-1,RTL Passion
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/8865.ts
+#EXTINF:-1,Nat Geo Wild
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3537.ts
+#EXTINF:-1,ANIMAL PLANET
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3593.ts
+#EXTINF:-1,HISTORY CHANNEL
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3543.ts
+#EXTINF:-1,Discovery
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3529.ts
+#EXTINF:-1,National Geographic
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3536.ts
+#EXTINF:-1,Viasat History
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/10178.ts
+#EXTINF:-1,Viasat nature
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/10179.ts
+#EXTINF:-1,SLO: HBO
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6828.ts
+#EXTINF:-1,SLO: HBO 2
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6829.ts
+#EXTINF:-1,SLO: HBO 3
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6816.ts
+#EXTINF:-1,SLO: KANAL A HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6830.ts
+#EXTINF:-1,SLO: POP BRIO HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6835.ts
+#EXTINF:-1,SLO: POP KINO HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6836.ts
+#EXTINF:-1,SLO: POP OTO HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6837.ts
+#EXTINF:-1,SLO: POP TV HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6838.ts
+#EXTINF:-1,SLO: SLO 1 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6839.ts
+#EXTINF:-1,SLO: SLO 2 HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6840.ts
+#EXTINF:-1,SLO: PLANET TV HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6834.ts
+#EXTINF:-1,RTS 1 (local)
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3599.ts
+#EXTINF:-1,RTS 2 (local)
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3598.ts
+#EXTINF:-1,RTS 3
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3597.ts
+#EXTINF:-1,RTS HD
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3596.ts
+#EXTINF:-1,B92
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/8675.ts
+#EXTINF:-1,N1 Bosna
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/4406.ts
+#EXTINF:-1,BHT H
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/4349.ts
+#EXTINF:-1,BN Music
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3549.ts
+#EXTINF:-1,OBN
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/4187.ts
+#EXTINF:-1,BHT
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3552.ts
+#EXTINF:-1,Pink Action
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3563.ts
+#EXTINF:-1,Pink Comedy
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3512.ts
+#EXTINF:-1,Pink Crime & Mystery
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3576.ts
+#EXTINF:-1,Pink Movies
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3568.ts
+#EXTINF:-1,Pink Premium
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3575.ts
+#EXTINF:-1,Pink Romance
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3572.ts
+#EXTINF:-1,Pink Sci-Fi & Fantasy
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3573.ts
+#EXTINF:-1,Pink Thriller
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3571.ts
+#EXTINF:-1,Pink Western
+http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3570.ts
+
+#EXTINF:-1,**  EX YU KANALI LISTA 2
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1,EX-YU - HRT 1
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/687.ts
+#EXTINF:-1,EX-YU - Nova TV
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/686.ts
+#EXTINF:-1,EX-YU Doma TV
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/689.ts
+#EXTINF:-1,EX-YU RTL Plus
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/685.ts
+#EXTINF:-1,EX-YU - RTL 2
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/694.ts
+#EXTINF:-1,EX-YU - Prva
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/693.ts
+#EXTINF:-1,EX-YU - Prva Plus
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/691.ts
+#EXTINF:-1,EX-YU - RTS 1
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/683.ts
+#EXTINF:-1,EX-YU RTS 2
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/684.ts
+#EXTINF:-1,OBN PLUS
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/345.ts
+#EXTINF:-1,ORF1
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/207.ts
+#EXTINF:-1,ORF2
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/206.ts
+#EXTINF:-1,EX-YU - BHT
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/696.ts
+#EXTINF:-1,EX-YU - FTV
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/680.ts
+#EXTINF:-1,Pink Film
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/332.ts
+#EXTINF:-1,Pink Movies 2
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/326.ts
+#EXTINF:-1,Pink Movies 3
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/325.ts
+#EXTINF:-1,Pink Premium
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/320.ts
+#EXTINF:-1,Pink Western
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/318.ts
+#EXTINF:-1,Pink World
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/317.ts 
+
