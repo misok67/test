@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,*** SPORT EX-YU
+#EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,Sport Klub 1
 http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3605.ts
@@ -38,6 +38,50 @@ http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6842.ts
 http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6843.ts
 #EXTINF:-1,SLO: SPORT TV 3 HD
 http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/6844.ts
+#EXTINF:-1,*** SPORT EX-YU LISTA 2
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1,SPORT KLUB 1 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/2448.ts
+#EXTINF:-1,SPORT KLUB 2 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/3306.ts
+#EXTINF:-1,SPORT KLUB 3 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/2450.ts
+#EXTINF:-1,SPORT KLUB 4 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5591.ts
+#EXTINF:-1,SPORT KLUB 5 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5990.ts
+#EXTINF:-1,SPORT KLUB 6 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5991.ts
+#EXTINF:-1,Sport Klub 1 SRB
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4552.ts
+#EXTINF:-1,Sport Klub 2 SRB
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4553.ts
+#EXTINF:-1,Sport Klub 3 SRB
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4554.ts
+#EXTINF:-1,ARENA SPORT 1 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/2147.ts
+#EXTINF:-1,ARENA SPORT 2 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/2254.ts
+#EXTINF:-1,ARENA SPORT 3 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/730.ts
+#EXTINF:-1,ARENA SPORT 4 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/3386.ts
+#EXTINF:-1,ARENA SPORT 5 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/2461.ts
+#EXTINF:-1,ARENA SPORT 6 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/6993.ts
+#EXTINF:-1,ARENA SPORT 1 SRB
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4548.ts
+#EXTINF:-1,ARENA SPORT 2 SRB
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4549.ts
+#EXTINF:-1,ARENA SPORT 3 SRB
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4550.ts
+#EXTINF:-1,ARENA SPORT 4 SRB
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4551.ts
+#EXTINF:-1,ARENA SPORT 5 SRB
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4712.ts
+#EXTINF:-1,*** SPORT EX-YU LISTA 3
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,Sport Klub 1
 http://1:7bc3d@164.132.162.91:9687/SportKlub1
 #EXTINF:-1,Sport Klub 2
@@ -62,6 +106,8 @@ http://1:7bc3d@164.132.168.68:9687/ArenaSport3
 http://1:7bc3d@164.132.168.68:9687/ArenaSport4
 #EXTINF:-1,Arena Sport 5
 http://1:7bc3d@164.132.168.68:9687/ArenaSport5
+#EXTINF:-1,*** SPORT EX-YU LISTA 4
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,SPORT KLUB 2
 http://zerocube.co:8000/live/12345/54321/65840.ts
 #EXTINF:-1,SPORT KLUB 3
@@ -72,11 +118,11 @@ http://zerocube.co:8000/live/12345/54321/65838.ts
 http://zerocube.co:8000/live/12345/54321/65837.ts
 #EXTINF:-1,SPORT KLUB 6
 http://zerocube.co:8000/live/12345/54321/65836.ts
-#EXTINF:-1,AL: ARENA SPORT 1 HD
+#EXTINF:-1,ARENA SPORT 1 HD
 http://zerocube.co:8000/live/12345/54321/65403.ts
-#EXTINF:-1,AL: ARENA SPORT 2 HD
+#EXTINF:-1,ARENA SPORT 2 HD
 http://zerocube.co:8000/live/12345/54321/65402.ts
-#EXTINF:-1,AL: ARENA SPORT 4 HD
+#EXTINF:-1,ARENA SPORT 4 HD
 http://zerocube.co:8000/live/12345/54321/65401.ts
 #EXTINF:-1, *** SPORT - LIGA PRVAKA STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
@@ -268,6 +314,123 @@ http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3571.ts
 http://premium-iptv.link:6969/live/rami__morad1/UXdBXr1ooY/3570.ts
 
 #EXTINF:-1,**  EX YU KANALI LISTA 2
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1,HBO
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7404.ts
+#EXTINF:-1,HBO 2 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7406.ts
+#EXTINF:-1,HBO COMEDY
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7405.ts
+#EXTINF:-1,CINEMAX 1
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7396.ts
+#EXTINF:-1,CINEMAX 2
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7397.ts
+#EXTINF:-1,CINESTAR TV
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7400.ts
+#EXTINF:-1,CINESTAR TV ACTION
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7401.ts
+#EXTINF:-1,CINESTAR TV PREMIERE 1
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7402.ts
+#EXTINF:-1,CINESTAR TV PREMIERE 2
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7403.ts
+#EXTINF:-1,FOX
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5326.ts
+#EXTINF:-1,FOX MOVIES
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4167.ts
+#EXTINF:-1,FOX LIFE
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5327.ts
+#EXTINF:-1,FOX CRIME
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5328.ts
+#EXTINF:-1,HRT 1
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/705.ts
+#EXTINF:-1,HRT 2
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/238.ts
+#EXTINF:-1,HRT 3
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/1140.ts
+#EXTINF:-1,RTL
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/6595.ts
+#EXTINF:-1,Nova HR
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/707.ts
+#EXTINF:-1,Doma TV
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5325.ts
+#EXTINF:-1,RTL 2
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/6596.ts
+#EXTINF:-1,RTL Living
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/6598.ts
+#EXTINF:-1,RTL Crime
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7395.ts
+#EXTINF:-1,RTS 1
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4034.ts
+#EXTINF:-1,RTS 2
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4035.ts
+#EXTINF:-1,RTRS
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4036.ts
+#EXTINF:-1,B92
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4145.ts
+#EXTINF:-1,BN
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/8293.ts
+#EXTINF:-1,OBN
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/3704.ts
+#EXTINF:-1,PRVA PLUS
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/3416.ts
+#EXTINF:-1,Prva
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4177.ts
+#EXTINF:-1,RTCG 2
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7000.ts
+#EXTINF:-1,RTCG 1
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/6999.ts
+#EXTINF:-1,Slovenia TV 1 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7445.ts
+#EXTINF:-1,Slovenia TV 2 HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7446.ts
+#EXTINF:-1,Hbo Slo
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/8476.ts
+#EXTINF:-1,Pop Brio
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/8061.ts
+#EXTINF:-1,Pop Kino HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/8470.ts
+#EXTINF:-1,Pop Oto HD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/8477.ts
+#EXTINF:-1,Pop Oto
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/8060.ts
+#EXTINF:-1,POP TV
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/8471.ts
+#EXTINF:-1,Viasat Nature
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5641.ts
+#EXTINF:-1, Viasat Explorer
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/7071.ts
+#EXTINF:-1,Viasat History
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5642.ts
+#EXTINF:-1,CRIME & INVESTIGATION
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4578.ts
+#EXTINF:-1,Animal Planet
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4171.ts
+#EXTINF:-1,National Geographic
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4161.ts
+#EXTINF:-1,Nat Geo WILD
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5323.ts
+#EXTINF:-1,Discovery Channel
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4170.ts
+#EXTINF:-1,HISTORY CHANNEL
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/4162.ts
+#EXTINF:-1,TLC
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/8296.ts
+#EXTINF:-1,PINK CRIME & MISTERY
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/5126.ts
+#EXTINF:-1,PINK WESTERN
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/3400.ts
+#EXTINF:-1,PINK THRILLER
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/3406.ts
+#EXTINF:-1,PINK PREMIUM
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/3408.ts
+#EXTINF:-1,PINK FILM
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/3399.ts
+#EXTINF:-1,PINK CRIME & MYSTERY
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/3405.ts
+#EXTINF:-1,PINK MOVIES
+http://skupi.club:8000/live/mexhitJHKLJ76*(*/WztD16Iitf/3419.ts
+
+#EXTINF:-1,**  EX YU KANALI LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,EX-YU - HRT 1
 http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/687.ts
