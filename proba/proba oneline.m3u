@@ -44,6 +44,10 @@ http://zerocube.co:8000/live/12345/54321/63830.ts
 http://zerocube.co:8000/live/12345/54321/22540.ts
 #EXTINF:-1,AR:BEIN SPORT 12 HD
 http://zerocube.co:8000/live/12345/54321/22539.ts
+#EXTINF:-1,Sky Sport 1 HD DE
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/1479.ts
+#EXTINF:-1,Sky Sport 2 HD DE
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/1480.ts
 
 #EXTINF:-1,BT Sport 1 UK
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/369.ts
@@ -65,6 +69,10 @@ http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/316.ts
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/969.ts
 #EXTINF:-1,beINSport 12 HD ARB
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/968.ts
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/7326.ts
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/7328.ts
 #EXTINF:-1,Sky Sport 1 HD DE
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/12697.ts
 #EXTINF:-1,Sky Sport 2 HD DE
@@ -72,20 +80,20 @@ http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/12696.ts
 
 #EXTINF:-1,BT Sport Extra 2 UK
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/1817.ts
+#EXTINF:-1,BT Sport Extra 3 UK
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/1816.ts
 #EXTINF:-1,BT Sport Extra 4 UK
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/1815.ts
 #EXTINF:-1,BT Sport Extra 5 UK
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/1814.ts
-#EXTINF:-1,beIN SPORTS 1 HD FR
-http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/418.ts
-#EXTINF:-1,beIN SPORTS 2 HD FR
-http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/416.ts
-#EXTINF:-1,beIN SPORTS 3 HD FR
-http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/414.ts
-#EXTINF:-1,beIN SPORTS MAX 4 HD FR
-http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/4090.ts
-#EXTINF:-1,beIN SPORTS MAX 5 HD FR
-http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/4089.ts
+#EXTINF:-1,Polsat Sport Premium 3 PPV FHD PL
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/23420.ts
+#EXTINF:-1,Polsat Sport Premium 4 PPV FHD PL
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/23421.ts
+#EXTINF:-1,Polsat Sport Premium 5 PPV FHD PL
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/23422.ts
+#EXTINF:-1,Polsat Sport Premium 6 PPV FHD PL
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/23423.ts
 #EXTINF:-1,AR:BEIN SPORT 1 HD+
 http://zerocube.co:8000/live/12345/54321/22550.ts
 #EXTINF:-1,AR:BEIN SPORT 2 HD+
