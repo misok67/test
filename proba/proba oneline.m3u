@@ -22,7 +22,7 @@ http://1:7bc3d@164.132.168.68:9687/ArenaSport4
 #EXTINF:-1,Arena Sport 5
 http://1:7bc3d@164.132.168.68:9687/ArenaSport5
 
-#EXTINF:-1,*** LIGA PRVAKA EY-YU
+#EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
 #EXTINF:-1,UK: BT Sport 1 HD
 http://zerocube.co:8000/live/12345/54321/63698.ts
@@ -40,6 +40,10 @@ http://zerocube.co:8000/live/12345/54321/66447.ts
 http://zerocube.co:8000/live/12345/54321/63831.ts
 #EXTINF:-1,NL: Ziggo Sport Voetbal HD
 http://zerocube.co:8000/live/12345/54321/63830.ts
+#EXTINF:-1,AR:BEIN SPORT 11 HD
+http://zerocube.co:8000/live/12345/54321/22540.ts
+#EXTINF:-1,AR:BEIN SPORT 12 HD
+http://zerocube.co:8000/live/12345/54321/22539.ts
 
 #EXTINF:-1,BT Sport 1 UK
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/369.ts
@@ -49,7 +53,51 @@ http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/367.ts
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/365.ts
 #EXTINF:-1,BT Sport ESPN HD UK
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/1743.ts
+#EXTINF:-1,Ziggo Sport Select FHD NL
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/6514.ts
+#EXTINF:-1,Ziggo Sport Voetbal NL
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/233.ts
+#EXTINF:-1,Sky Sport Football HD IT
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/315.ts
+#EXTINF:-1,Sky Sport Uno FHD IT
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/316.ts
+#EXTINF:-1,beINSport 11 HD ARB
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/969.ts
+#EXTINF:-1,beINSport 12 HD ARB
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/968.ts
+#EXTINF:-1,Sky Sport 1 HD DE
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/12697.ts
+#EXTINF:-1,Sky Sport 2 HD DE
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/12696.ts
 
+#EXTINF:-1,BT Sport Extra 2 UK
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/1817.ts
+#EXTINF:-1,BT Sport Extra 4 UK
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/1815.ts
+#EXTINF:-1,BT Sport Extra 5 UK
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/1814.ts
+#EXTINF:-1,beIN SPORTS 1 HD FR
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/418.ts
+#EXTINF:-1,beIN SPORTS 2 HD FR
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/416.ts
+#EXTINF:-1,beIN SPORTS 3 HD FR
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/414.ts
+#EXTINF:-1,beIN SPORTS MAX 4 HD FR
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/4090.ts
+#EXTINF:-1,beIN SPORTS MAX 5 HD FR
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/4089.ts
+#EXTINF:-1,AR:BEIN SPORT 1 HD+
+http://zerocube.co:8000/live/12345/54321/22550.ts
+#EXTINF:-1,AR:BEIN SPORT 2 HD+
+http://zerocube.co:8000/live/12345/54321/22549.ts
+#EXTINF:-1,AR:BEIN SPORT 3 HD+
+http://zerocube.co:8000/live/12345/54321/22548.ts
+#EXTINF:-1,AR:BEIN SPORT 4 HD+
+http://zerocube.co:8000/live/12345/54321/22547.ts
+#EXTINF:-1,AR:BEIN SPORT 5 HD+
+http://zerocube.co:8000/live/12345/54321/22546.ts
+#EXTINF:-1,AR:BEIN SPORT 6 HD+
+http://zerocube.co:8000/live/12345/54321/22545.ts
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 SRB " tvg-logo="" group-title="",Sport Klub 1 SRB 
