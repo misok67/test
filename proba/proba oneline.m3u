@@ -41,6 +41,15 @@ http://zerocube.co:8000/live/12345/54321/63831.ts
 #EXTINF:-1,NL: Ziggo Sport Voetbal HD
 http://zerocube.co:8000/live/12345/54321/63830.ts
 
+#EXTINF:-1,BT Sport 1 UK
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/369.ts
+#EXTINF:-1,BT Sport 2 UK
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/367.ts
+#EXTINF:-1,BT Sport 3 UK
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/365.ts
+#EXTINF:-1,BT Sport ESPN HD UK
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/1743.ts
+
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 SRB " tvg-logo="" group-title="",Sport Klub 1 SRB 
