@@ -1,5 +1,46 @@
 #EXTM3U
 
+#EXTINF:-1,*** LIGA PRVAKA EY-YU
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28319.ts
+#EXTINF:-1 tvg-id="Arena Sport 1 " tvg-name="Arena Sport 1 Srb " tvg-logo="" group-title="",Arena Sport 1 Srb 
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/2284.ts
+#EXTINF:-1 tvg-id="Arena Sport 2 " tvg-name="Arena Sport 2 Srb " tvg-logo="" group-title="",Arena Sport 2 Srb 
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/2283.ts
+#EXTINF:-1 tvg-id="Arena Sport 3 " tvg-name="Arena Sport 3 Srb " tvg-logo="" group-title="",Arena Sport 3 Srb 
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/2282.ts
+#EXTINF:-1 tvg-id="Arena Sport 4 " tvg-name="Arena Sport 4 Srb " tvg-logo="" group-title="",Arena Sport 4 Srb 
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/2281.ts
+#EXTINF:-1 tvg-id="Arena Sport 1 " tvg-name="Arena Sport 5 Srb " tvg-logo="" group-title="",Arena Sport 5 Srb 
+#EXTINF:-1,Arena Sport 1
+http://1:7bc3d@164.132.162.91:9687/ArenaSport1
+#EXTINF:-1,Arena Sport 2
+http://1:7bc3d@164.132.162.91:9687/ArenaSport2
+#EXTINF:-1,Arena Sport 3
+http://1:7bc3d@164.132.168.68:9687/ArenaSport3
+#EXTINF:-1,Arena Sport 4
+http://1:7bc3d@164.132.168.68:9687/ArenaSport4
+#EXTINF:-1,Arena Sport 5
+http://1:7bc3d@164.132.168.68:9687/ArenaSport5
+
+#EXTINF:-1,*** LIGA PRVAKA EY-YU
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://zerocube.co:8000/live/12345/54321/63698.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://zerocube.co:8000/live/12345/54321/63697.ts
+#EXTINF:-1,UK: BT SPORT 3 HD
+http://zerocube.co:8000/live/12345/54321/63696.ts
+#EXTINF:-1,UK: BT SPORT ESPN HD
+http://zerocube.co:8000/live/12345/54321/63695.ts
+#EXTINF:-1,IT: Sky Sport Uno HD
+http://zerocube.co:8000/live/12345/54321/66449.ts
+#EXTINF:-1,IT: Sky Sport Football HD
+http://zerocube.co:8000/live/12345/54321/66447.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://zerocube.co:8000/live/12345/54321/63831.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal HD
+http://zerocube.co:8000/live/12345/54321/63830.ts
+
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 SRB " tvg-logo="" group-title="",Sport Klub 1 SRB 
