@@ -11,6 +11,7 @@ http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/2282.ts
 #EXTINF:-1 tvg-id="Arena Sport 4 " tvg-name="Arena Sport 4 Srb " tvg-logo="" group-title="",Arena Sport 4 Srb 
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/2281.ts
 #EXTINF:-1 tvg-id="Arena Sport 1 " tvg-name="Arena Sport 5 Srb " tvg-logo="" group-title="",Arena Sport 5 Srb 
+http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/2280.ts
 #EXTINF:-1,Arena Sport 1
 http://1:7bc3d@164.132.162.91:9687/ArenaSport1
 #EXTINF:-1,Arena Sport 2
@@ -48,6 +49,10 @@ http://zerocube.co:8000/live/12345/54321/22539.ts
 http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/1479.ts
 #EXTINF:-1,Sky Sport 2 HD DE
 http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/1480.ts
+#EXTINF:-1,Polsat Sport Premium 1 FHD PL
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/23369.ts
+#EXTINF:-1,Polsat Sport Premium 2 FHD PL
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/23370.ts
 
 #EXTINF:-1,BT Sport 1 UK
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/369.ts
@@ -72,7 +77,7 @@ http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/968.ts
 #EXTINF:-1,Sky Sport 1 FHD DE
 http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/7326.ts
 #EXTINF:-1,Sky Sport 3 FHD DE
-http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/7328.ts
+http://mag.sharkiptv.hitv.one:80/live/DI8p0nK0Kq/1LQfin0eoS/7327.ts
 #EXTINF:-1,Sky Sport 1 HD DE
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/12697.ts
 #EXTINF:-1,Sky Sport 2 HD DE
