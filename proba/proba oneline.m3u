@@ -12,16 +12,16 @@ http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/2282.ts
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/2281.ts
 #EXTINF:-1 tvg-id="Arena Sport 1 " tvg-name="Arena Sport 5 Srb " tvg-logo="" group-title="",Arena Sport 5 Srb 
 http://mikesiptv.ddns.net:8080/live/WeberAmin-1/qNuCgBiN3O/2280.ts
-#EXTINF:-1,Arena Sport 1
-http://1:7bc3d@164.132.162.91:9687/ArenaSport1
-#EXTINF:-1,Arena Sport 2
-http://1:7bc3d@164.132.162.91:9687/ArenaSport2
-#EXTINF:-1,Arena Sport 3
-http://1:7bc3d@164.132.168.68:9687/ArenaSport3
-#EXTINF:-1,Arena Sport 4
-http://1:7bc3d@164.132.168.68:9687/ArenaSport4
-#EXTINF:-1,Arena Sport 5
-http://1:7bc3d@164.132.168.68:9687/ArenaSport5
+#EXTINF:-1,EXYU: ARENA SPORT 1 HD
+http://iptv.pro4hdtv.com:8000/live/sara/sara/7335.ts
+#EXTINF:-1,EXYU: Arena Sport 2 HD
+http://iptv.pro4hdtv.com:8000/live/sara/sara/7334.ts
+#EXTINF:-1,EXYU: Arena Sport 3 HD
+http://iptv.pro4hdtv.com:8000/live/sara/sara/7333.ts
+#EXTINF:-1,EXYU: Arena Sport 4 HD
+http://iptv.pro4hdtv.com:8000/live/sara/sara/7332.ts
+#EXTINF:-1,EXYU:Arena Sport 5
+http://iptv.pro4hdtv.com:8000/live/sara/sara/8165.ts
 
 #EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
