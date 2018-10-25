@@ -1,17 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,*** DINAMO, KUP UEFA
+#EXTINF:-1,*** DINAMO *** KUP UEFA
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28319.ts
-#EXTINF:-1,Arena Sport 1 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2284.ts
-#EXTINF:-1,Arena Sport 2 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2283.ts
-#EXTINF:-1,Arena Sport 3 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2282.ts
-#EXTINF:-1,Arena Sport 4 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2281.ts
-#EXTINF:-1,Arena Sport 5 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2280.ts
 #EXTINF:-1,Arena Sport 1 HR HD 
 http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/589.ts
 #EXTINF:-1,Arena Sport 2 HR HD 
@@ -22,6 +12,16 @@ http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/587.ts
 http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/586.ts
 #EXTINF:-1,Arena Sport 5 HR HD 
 http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/585.ts
+#EXTINF:-1,Arena Sport 1 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2284.ts
+#EXTINF:-1,Arena Sport 2 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2283.ts
+#EXTINF:-1,Arena Sport 3 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2282.ts
+#EXTINF:-1,Arena Sport 4 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2281.ts
+#EXTINF:-1,Arena Sport 5 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2280.ts
 #EXTINF:-1,Arena Sport 1 HR
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74606.ts
 #EXTINF:-1,Arena Sport 1 SRB
