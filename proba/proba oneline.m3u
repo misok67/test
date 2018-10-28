@@ -1,115 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1,*** DINAMO --- KUP UEFA
+#EXTINF:-1,*** BARCELONA - REAL
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28319.ts
-#EXTINF:-1,Arena Sport 1 HR HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/589.ts
-#EXTINF:-1,Arena Sport 2 HR HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/588.ts
-#EXTINF:-1,Arena Sport 3 HR HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/587.ts
-#EXTINF:-1,Arena Sport 4 HR HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/586.ts
-#EXTINF:-1,Arena Sport 5 HR HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/585.ts
-#EXTINF:-1,Arena Sport 1 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2284.ts
-#EXTINF:-1,Arena Sport 2 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2283.ts
-#EXTINF:-1,Arena Sport 3 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2282.ts
-#EXTINF:-1,Arena Sport 4 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2281.ts
-#EXTINF:-1,Arena Sport 5 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2280.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74606.ts
-#EXTINF:-1,Arena Sport 1 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74605.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74604.ts
-#EXTINF:-1,Arena Sport 2 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74603.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74602.ts
-#EXTINF:-1,Arena Sport 3 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74601.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74600.ts
-#EXTINF:-1,Arena Sport 4 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74599.ts
-#EXTINF:-1,Arena Sport 5 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74598.ts
-#EXTINF:-1,Arena Sport 5 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74597.ts
-#EXTINF:-1,ARENA SPORT 1 CRO
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2408.ts
-#EXTINF:-1,ARENA SPORT 1 SRB
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2413.ts
-#EXTINF:-1,ARENA SPORT 2 CRO
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2409.ts
-#EXTINF:-1,ARENA SPORT 2 SRB
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2414.ts
-#EXTINF:-1,ARENA SPORT 3 CRO
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2410.ts
-#EXTINF:-1,ARENA SPORT 3 SRB
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2415.ts
-#EXTINF:-1,ARENA SPORT 4 CRO
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2411.ts
-#EXTINF:-1,ARENA SPORT 4 SRB
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2416.ts
-#EXTINF:-1,ARENA SPORT 5 CRO
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2412.ts
-#EXTINF:-1,SPORTKLUB 1 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74391.ts
-#EXTINF:-1,SPORTKLUB 2 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74390.ts
-#EXTINF:-1,SPORTKLUB 3 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74389.ts
-
-
-#EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
-#EXTINF:-1,BT Sport 1 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
-#EXTINF:-1,BT Sport 1 HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1991.ts
-#EXTINF:-1,BT Sport 2 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14658.ts
-#EXTINF:-1,BT Sport 2 HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1992.ts
-#EXTINF:-1,BT Sport 3 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14659.ts
-#EXTINF:-1,BT Sport 3 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1965.ts
-#EXTINF:-1,BT Sport ESPN UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/2673.ts
-#EXTINF:-1,BT Sport ESPN HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1980.ts
-#EXTINF:-1,BT Sport Extra 1 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14778.ts
-#EXTINF:-1,BT Sport Extra 2 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
-#EXTINF:-1,BT Sport Extra 3 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
-#EXTINF:-1,BT Sport Extra 5 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
-#EXTINF:-1,BT Sport Mosaic 2 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14805.ts
-#EXTINF:-1,Sky Sport 1 HD DE
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/12697.ts
-#EXTINF:-1,Sky Sport 2 HD DE
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/12696.ts
+#EXTINF:-1,Sport Klub 1 FHD
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/10900.ts
+#EXTINF:-1,Sport Klub 1 HD
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/13966.ts
+#EXTINF:-1,Sport Klub 2 FHD SRB/HRV/SLO VIP ex-Yu
+#EXTINF:-1,Sport Klub 1 SRB 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/592.ts
+#EXTINF:-1,Sport Klub HD 1 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2279.ts
 #EXTINF:-1,Ziggo Sport Select FHD NL
 http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6514.ts
-#EXTINF:-1,Ziggo Sport Voetbal NL
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/233.ts
-#EXTINF:-1,beIN Sports 1 True Vision HD ID
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6186.ts
-#EXTINF:-1,beIN Sports 2 True Vision HD ID
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6187.ts
-#EXTINF:-1,beIN Sports 3 True Vision HD ID
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6188.ts
+#EXTINF:-1,beIN SPORTS 1 HD FR
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/418.ts
+#EXTINF:-1,beINSports HD US
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/506.ts
+#EXTINF:-1,Eleven Sports 1 FHD PL
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/932.ts
+#EXTINF:-1,beINSport 12 HD ARB
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/968.ts
+#EXTINF:-1,beINSport 1 HD VIP ARB
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6963.ts
+#EXTINF:-1,CRO: SPORT KLUB 1 HD
+http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2458.ts
+#EXTINF:-1,ELEVEN SPORTS 1 (UK)
+http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/63826.ts
+#EXTINF:-1,USA: BEIN SPORTS HD
+http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2574.ts
+
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
@@ -1204,3 +1124,46 @@ http://zerocube.co:8000/live/12345/54321/22547.ts
 http://zerocube.co:8000/live/12345/54321/22546.ts
 #EXTINF:-1,AR:BEIN SPORT 6 HD+
 http://zerocube.co:8000/live/12345/54321/22545.ts
+
+#EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
+#EXTINF:-1,BT Sport 1 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
+#EXTINF:-1,BT Sport 1 HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1991.ts
+#EXTINF:-1,BT Sport 2 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14658.ts
+#EXTINF:-1,BT Sport 2 HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1992.ts
+#EXTINF:-1,BT Sport 3 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14659.ts
+#EXTINF:-1,BT Sport 3 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1965.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/2673.ts
+#EXTINF:-1,BT Sport ESPN HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1980.ts
+#EXTINF:-1,BT Sport Extra 1 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14778.ts
+#EXTINF:-1,BT Sport Extra 2 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
+#EXTINF:-1,BT Sport Extra 3 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
+#EXTINF:-1,BT Sport Extra 5 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
+#EXTINF:-1,BT Sport Mosaic 2 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14805.ts
+#EXTINF:-1,Sky Sport 1 HD DE
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/12697.ts
+#EXTINF:-1,Sky Sport 2 HD DE
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/12696.ts
+#EXTINF:-1,Ziggo Sport Select FHD NL
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6514.ts
+#EXTINF:-1,Ziggo Sport Voetbal NL
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/233.ts
+#EXTINF:-1,beIN Sports 1 True Vision HD ID
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6186.ts
+#EXTINF:-1,beIN Sports 2 True Vision HD ID
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6187.ts
+#EXTINF:-1,beIN Sports 3 True Vision HD ID
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6188.ts
