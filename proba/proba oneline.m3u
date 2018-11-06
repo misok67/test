@@ -22,12 +22,28 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74601.ts
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74599.ts
 #EXTINF:-1,Arena Sport 5 SRB
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74597.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 SRB" tvg-logo="" group-title=,Arena Sport 1 SRB
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19073.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 SRB" tvg-logo="" group-title=,Arena Sport 2 SRB
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19070.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SRB (reserve)" tvg-logo="" group-title=,ARENA SPORT 3 SRB (reserve)
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19066.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 SRB" tvg-logo="" group-title=,Arena Sport 4 SRB
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19064.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 SRB" tvg-logo="" group-title=,Arena Sport 5 SRB
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19061.ts
 #EXTINF:-1,SPORTKLUB 1 HD SLO
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74391.ts
 #EXTINF:-1,SPORTKLUB 2 HD SLO
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74390.ts
 #EXTINF:-1,SPORTKLUB 3 HD SLO
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74389.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 1 HD SLO" tvg-logo="" group-title=,SPORTKLUB 1 HD SLO
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/18866.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 2 HD SLO" tvg-logo="" group-title=,SPORTKLUB 2 HD SLO
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/18865.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 3 HD SLO" tvg-logo="" group-title=,SPORTKLUB 3 HD SLO
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/18864.ts
 
 #EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
