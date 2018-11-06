@@ -65,6 +65,10 @@ http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/12696.ts
 http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6514.ts
 #EXTINF:-1,Ziggo Sport Voetbal NL
 http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/233.ts
+#EXTINF:-1 tvg-ID="" tvg-name="INT: BEIN HD 11 A" tvg-logo="https://archive.org/download/BeinSports11hd_201708/bein%20sports%2011hd.png" group-title="International Sport",INT: BEIN HD 11 A
+http://redalert1973.ddns.net:80/live/tPmm9h4GzO/eV88W3ud9V/11274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="INT: BEIN HD 12" tvg-logo="https://archive.org/download/BeinSports12hd/bein%20sports%2012hd.png" group-title="International Sport",INT: BEIN HD 12
+http://redalert1973.ddns.net:80/live/tPmm9h4GzO/eV88W3ud9V/438.ts
 #EXTINF:-1,beIN Sports 1 True Vision HD ID
 http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6186.ts
 #EXTINF:-1,beIN Sports 2 True Vision HD ID
