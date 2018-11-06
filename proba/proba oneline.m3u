@@ -1,5 +1,34 @@
 #EXTM3U
 
+#EXTINF:-1,*** LIGA PRVAKA EY-YU
+#EXTINF:-1,Arena Sport 1 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2284.ts
+#EXTINF:-1,Arena Sport 2 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2283.ts
+#EXTINF:-1,Arena Sport 3 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2282.ts
+#EXTINF:-1,Arena Sport 4 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2281.ts
+#EXTINF:-1,Arena Sport 5 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2280.ts
+#EXTINF:-1,Arena Sport 1 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74605.ts
+#EXTINF:-1,Arena Sport 2 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74603.ts
+#EXTINF:-1,Arena Sport 3 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74601.ts
+#EXTINF:-1,Arena Sport 4 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74599.ts
+#EXTINF:-1,Arena Sport 5 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74597.ts
+#EXTINF:-1,SPORTKLUB 1 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74391.ts
+#EXTINF:-1,SPORTKLUB 2 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74390.ts
+#EXTINF:-1,SPORTKLUB 3 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74389.ts
+
+
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,Sport Klub 1 SRB 
