@@ -1,142 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,*** LIGA PRVAKA EY-YU
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28319.ts
-#EXTINF:-1,Arena Sport 1 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2284.ts
-#EXTINF:-1,Arena Sport 2 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2283.ts
-#EXTINF:-1,Arena Sport 3 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2282.ts
-#EXTINF:-1,Arena Sport 4 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2281.ts
-#EXTINF:-1,Arena Sport 5 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2280.ts
-#EXTINF:-1,Arena Sport 1 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74605.ts
-#EXTINF:-1,Arena Sport 2 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74603.ts
-#EXTINF:-1,Arena Sport 3 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74601.ts
-#EXTINF:-1,Arena Sport 4 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74599.ts
-#EXTINF:-1,Arena Sport 5 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74597.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 SRB" tvg-logo="" group-title=,Arena Sport 1 SRB
-http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19073.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 SRB" tvg-logo="" group-title=,Arena Sport 2 SRB
-http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19070.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SRB (reserve)" tvg-logo="" group-title=,ARENA SPORT 3 SRB (reserve)
-http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19066.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 SRB" tvg-logo="" group-title=,Arena Sport 4 SRB
-http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19064.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 SRB" tvg-logo="" group-title=,Arena Sport 5 SRB
-http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19061.ts
-#EXTINF:-1,SPORTKLUB 1 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74391.ts
-#EXTINF:-1,SPORTKLUB 2 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74390.ts
-#EXTINF:-1,SPORTKLUB 3 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74389.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 1 HD SLO" tvg-logo="" group-title=,SPORTKLUB 1 HD SLO
-http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/18866.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 2 HD SLO" tvg-logo="" group-title=,SPORTKLUB 2 HD SLO
-http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/18865.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 3 HD SLO" tvg-logo="" group-title=,SPORTKLUB 3 HD SLO
-http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/18864.ts
-
-#EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
-#EXTINF:-1,BT Sport 1 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
-#EXTINF:-1,BT Sport 1 HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1991.ts
-#EXTINF:-1,BT Sport 2 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14658.ts
-#EXTINF:-1,BT Sport 2 HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1992.ts
-#EXTINF:-1,BT Sport 3 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14659.ts
-#EXTINF:-1,BT Sport 3 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1965.ts
-#EXTINF:-1,BT Sport ESPN UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/2673.ts
-#EXTINF:-1,BT Sport ESPN HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1980.ts
-#EXTINF:-1,BT Sport Extra 1 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14778.ts
-#EXTINF:-1,BT Sport Extra 2 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
-#EXTINF:-1,BT Sport Extra 3 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
-#EXTINF:-1,BT Sport Extra 5 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
-#EXTINF:-1,BT Sport Mosaic 2 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14805.ts
-#EXTINF:-1,Sky Sport 1 HD DE
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/12697.ts
-#EXTINF:-1,Sky Sport 2 HD DE
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/12696.ts
-#EXTINF:-1,Ziggo Sport Select FHD NL
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6514.ts
-#EXTINF:-1,Ziggo Sport Voetbal NL
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/233.ts
-#EXTINF:-1 tvg-ID="" tvg-name="INT: BEIN HD 11 A" tvg-logo="https://archive.org/download/BeinSports11hd_201708/bein%20sports%2011hd.png" group-title="International Sport",INT: BEIN HD 11 A
-http://redalert1973.ddns.net:80/live/tPmm9h4GzO/eV88W3ud9V/11274.ts
-#EXTINF:-1 tvg-ID="" tvg-name="INT: BEIN HD 12" tvg-logo="https://archive.org/download/BeinSports12hd/bein%20sports%2012hd.png" group-title="International Sport",INT: BEIN HD 12
-http://redalert1973.ddns.net:80/live/tPmm9h4GzO/eV88W3ud9V/438.ts
-#EXTINF:-1,beIN Sports 1 True Vision HD ID
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6186.ts
-#EXTINF:-1,beIN Sports 2 True Vision HD ID
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6187.ts
-#EXTINF:-1,beIN Sports 3 True Vision HD ID
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6188.ts
-
-
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,Sport Klub 1 SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/592.ts
-#EXTINF:-1,Sport Klub HD 1 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2279.ts
-#EXTINF:-1,Sport Klub 2 SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/591.ts
-#EXTINF:-1,Sport Klub HD 2 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2278.ts
-#EXTINF:-1,Sport Klub 3 SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/590.ts
-#EXTINF:-1,Sport Klub HD 3 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2277.ts
-#EXTINF:-1,Sport Klub 4 SR 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/1173.ts
-#EXTINF:-1,Sport Klub 5 SR 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/1172.ts
-#EXTINF:-1,Sport Klub 6 SR 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/1171.ts
-#EXTINF:-1,Arena Sport 1 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2284.ts
-#EXTINF:-1,Arena Sport 2 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2283.ts
-#EXTINF:-1,Arena Sport 3 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2282.ts
-#EXTINF:-1,Arena Sport 4 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2281.ts
-#EXTINF:-1,Arena Sport 5 Srb 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2280.ts
-#EXTINF:-1,Arena Sport 1 HR HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/589.ts
-#EXTINF:-1,Arena Sport 2 HR HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/588.ts
-#EXTINF:-1,Arena Sport 3 HR HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/587.ts
-#EXTINF:-1,Arena Sport 4 HR HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/586.ts
-#EXTINF:-1,Arena Sport 5 HR HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/585.ts
-#EXTINF:-1,HNTV 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/200.ts
-
-#EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 #EXTINF:-1,SPORT KLUB 1
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74405.ts
@@ -191,196 +55,199 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74597.ts
 #EXTINF:-1,HNTV
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74533.ts
 
+#EXTINF:-1,*** SPORT EX-YU LISTA 2
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1, Sport Klub 1 SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/592
+#EXTINF:-1, Sport Klub HD 1 Srb ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2279
+#EXTINF:-1, Sport Klub 2 SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/591
+#EXTINF:-1, Sport Klub HD 2 Srb ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2278
+#EXTINF:-1, Sport Klub 3 SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/590
+#EXTINF:-1, Sport Klub HD 3 Srb ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2277
+#EXTINF:-1, Sport Klub 4 SR ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/1173
+#EXTINF:-1, Sport Klub 5 SR ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/1172
+#EXTINF:-1, Sport Klub 6 SR ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/1171
+#EXTINF:-1, Arena Sport 1 HR HD ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/589
+#EXTINF:-1, Arena Sport 2 HR HD ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/588
+#EXTINF:-1, Arena Sport 3 HR HD ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/587
+#EXTINF:-1, Arena Sport 4 HR HD ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/586
+#EXTINF:-1, Arena Sport 5 HR HD ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/585
+#EXTINF:-1, Arena Sport 1 Srb ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2284
+#EXTINF:-1, Arena Sport 2 Srb ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2283
+#EXTINF:-1, Arena Sport 3 Srb ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2282
+#EXTINF:-1, Arena Sport 4 Srb ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2281
+#EXTINF:-1, Arena Sport 5 Srb ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2280
+#EXTINF:-1, HNTV ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/200
+
+
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1,CRO: SPORT KLUB 1 HD
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2458.ts
-#EXTINF:-1,CRO: SPORT KLUB 2 HD
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2459.ts
-#EXTINF:-1,CRO: SPORT KLUB 3 HD
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2460.ts
-#EXTINF:-1,CRO: SPORT KLUB 4 HD
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2461.ts
-#EXTINF:-1,CRO: SPORT KLUB 5 HD
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2462.ts
-#EXTINF:-1,CRO: SPORT KLUB 6 HD
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2463.ts
-#EXTINF:-1,ARENA SPORT 1 CRO
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2408.ts
-#EXTINF:-1,ARENA SPORT 1 SRB
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2413.ts
-#EXTINF:-1,ARENA SPORT 2 CRO
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2409.ts
-#EXTINF:-1,ARENA SPORT 2 SRB
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2414.ts
-#EXTINF:-1,ARENA SPORT 3 CRO
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2410.ts
-#EXTINF:-1,ARENA SPORT 3 SRB
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2415.ts
-#EXTINF:-1,ARENA SPORT 4 CRO
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2411.ts
-#EXTINF:-1,ARENA SPORT 4 SRB
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2416.ts
-#EXTINF:-1,ARENA SPORT 5 CRO
-http://supremacyiptv.ddns.net:8000/live/4HuYf2G5Zl/i1zmif2Cil/2412.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28324.ts
-#EXTINF:-1,SPORT KLUB 2
-http://zerocube.co:8000/live/12345/54321/65840.ts
-#EXTINF:-1,SPORT KLUB 3
-http://zerocube.co:8000/live/12345/54321/65839.ts
-#EXTINF:-1,SPORT KLUB 4
-http://zerocube.co:8000/live/12345/54321/65838.ts
-#EXTINF:-1,SPORT KLUB 5
-http://zerocube.co:8000/live/12345/54321/65837.ts
-#EXTINF:-1,SPORT KLUB 6
-http://zerocube.co:8000/live/12345/54321/65836.ts
-#EXTINF:-1,ARENA SPORT 1 HD
-http://zerocube.co:8000/live/12345/54321/65403.ts
-#EXTINF:-1,ARENA SPORT 2 HD
-http://zerocube.co:8000/live/12345/54321/65402.ts
-#EXTINF:-1,ARENA SPORT 4 HD
-http://zerocube.co:8000/live/12345/54321/65401.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 5
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
 
 #EXTINF:-1,**  EX YU KANALI LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-#EXTINF:-1,HBO Adria 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2317.ts
-#EXTINF:-1,HBO Comedy 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2316.ts
-#EXTINF:-1,HBO 1 SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4573.ts
-#EXTINF:-1,HBO 2 SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4572.ts
-#EXTINF:-1,HBO 3 SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4571.ts
-#EXTINF:-1,Kino TV 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/9032.ts
-#EXTINF:-1,Klasik TV 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2335.ts
-#EXTINF:-1,Cinemax 1 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2315.ts
-#EXTINF:-1,Cinemax 2 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2314.ts
-#EXTINF:-1,Cinestar Action SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4028.ts
-#EXTINF:-1,Cinestar Premiere 1 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2313.ts
-#EXTINF:-1,Cinestar Premiere 2 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2312.ts
-#EXTINF:-1,Cinestar TV SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4029.ts
-#EXTINF:-1,Film Klub 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/9066.ts
-#EXTINF:-1,Film Klub Extra 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/9065.ts
-#EXTINF:-1,Filmbox Extra SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4027.ts
-#EXTINF:-1,Filmbox Plus SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4026.ts
-#EXTINF:-1,M1 Film 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/227.ts
-#EXTINF:-1,TV1000 SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4025.ts
-#EXTINF:-1,Cinemania 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/9036.ts
-#EXTINF:-1,Fox TV 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2318.ts
-#EXTINF:-1,Fox Life 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2320.ts
-#EXTINF:-1,Fox Crime 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2321.ts
-#EXTINF:-1,Fox Movies 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2319.ts
-#EXTINF:-1,HRT 1 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/201.ts
-#EXTINF:-1,HRT 2 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/202.ts
-#EXTINF:-1,HRT 3 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/203.ts
-#EXTINF:-1,RTL 1 HR 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/217.ts
-#EXTINF:-1,RTL 2 HR 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/216.ts
-#EXTINF:-1,RTL Crime 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/184.ts
-#EXTINF:-1,RTL Passion 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/185.ts
-#EXTINF:-1,Doma TV 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/195.ts
-#EXTINF:-1,Nova TV HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/9039.ts
-#EXTINF:-1,Nova World 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/9038.ts
-#EXTINF:-1,Nova 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/3838.ts
-#EXTINF:-1,Diva TV 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/9033.ts
-#EXTINF:-1,RTS 1 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/187.ts
-#EXTINF:-1,RTS 1 HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2346.ts
-#EXTINF:-1,RTS 2 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/186.ts
-#EXTINF:-1,RTS 3 SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4024.ts
-#EXTINF:-1,RTS Satelit 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/221.ts
-#EXTINF:-1,Prva 1 SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/212.ts
-#EXTINF:-1,RTV 1 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/9062.ts
-#EXTINF:-1,RTV 2 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/9061.ts
-#EXTINF:-1,B 92 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2345.ts
-#EXTINF:-1,O2.TV 
-#EXTINF:-1,Prva Max 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/181.ts
-#EXTINF:-1,Prva Plus SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/213.ts
-#EXTINF:-1,BHT 1 HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/192.ts
-#EXTINF:-1,OBN 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2333.ts
-#EXTINF:-1,TV 1 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2332.ts
-#EXTINF:-1,RTCG 1 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/183.ts
-#EXTINF:-1,RTCG 2 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/214.ts
-#EXTINF:-1,Animal Planet 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/190.ts
-#EXTINF:-1,Crime & Investigation HD 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2322.ts
-#EXTINF:-1,Discovery Channel 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2325.ts
-#EXTINF:-1,Discovery ID 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2324.ts
-#EXTINF:-1,Discovery Science SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4014.ts
-#EXTINF:-1,History 2 SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/199.ts
-#EXTINF:-1,History Channel 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2323.ts
-#EXTINF:-1,Viasat Explorer 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/224.ts
-#EXTINF:-1,Viasat History 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/225.ts
-#EXTINF:-1,Viasat Nature 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/226.ts
-#EXTINF:-1,ID Xtra SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4013.ts
-#EXTINF:-1,Docu Box SRB 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/4569.ts
-#EXTINF:-1,Nat Geo Wild 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/209.ts
-#EXTINF:-1,Nat Geo 
-http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/208.ts
+#EXTINF:-1, HBO 1 SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4573
+#EXTINF:-1, HBO 2 SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4572
+#EXTINF:-1, HBO 3 SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4571
+#EXTINF:-1, HBO Adria ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2317
+#EXTINF:-1, HBO Comedy ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2316
+#EXTINF:-1, Cinemax 1 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2315
+#EXTINF:-1, Cinemax 2 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2314
+#EXTINF:-1, Cinestar Action SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4028
+#EXTINF:-1, Cinestar Premiere 1 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2313
+#EXTINF:-1, Cinestar Premiere 2 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2312
+#EXTINF:-1, Cinestar TV SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4029
+#EXTINF:-1, Pink Film ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2310
+#EXTINF:-1, Klasik TV ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2335
+#EXTINF:-1, Film Klub ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/9066
+#EXTINF:-1, Film Klub Extra ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/9065
+#EXTINF:-1, Filmbox Extra SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4027
+#EXTINF:-1, Filmbox Plus SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4026
+#EXTINF:-1, M1 Film ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/227
+#EXTINF:-1, Cinemania ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/9036
+#EXTINF:-1, TV1000 SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4025
+#EXTINF:-1, Fox TV ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2318
+#EXTINF:-1, Fox Life ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2320
+#EXTINF:-1, Fox Crime ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2321
+#EXTINF:-1, Fox Movies ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2319
+
+#EXTINF:-1, HRT 1 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/201
+#EXTINF:-1, HRT 2 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/202
+#EXTINF:-1, HRT 3 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/203
+#EXTINF:-1, RTL 1 HR ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/217
+#EXTINF:-1, RTL 2 HR ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/216
+#EXTINF:-1, RTL Crime ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/184
+#EXTINF:-1, Nova TV HD ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/9039
+#EXTINF:-1, Nova World ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/9038
+#EXTINF:-1, Nova ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/3838
+#EXTINF:-1, Doma TV ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/195
+#EXTINF:-1, Z1 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/3837
+#EXTINF:-1, RTL Living ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/219
+#EXTINF:-1, RTL Passion ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/185
+#EXTINF:-1, Diva TV ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/9033
+
+#EXTINF:-1, RTS 1 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/187
+#EXTINF:-1, RTS 1 HD ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2346
+#EXTINF:-1, RTS 2 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/186
+#EXTINF:-1, RTS 3 SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4024
+#EXTINF:-1, RTS Satelit ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/221
+#EXTINF:-1, Prva 1 SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/212
+#EXTINF:-1, Nova RS SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/210
+#EXTINF:-1, RTV 1 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/9062
+#EXTINF:-1, RTV 2 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/9061
+#EXTINF:-1, B 92 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2345
+#EXTINF:-1, O2.TV ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/9067
+#EXTINF:-1, RTV Vojvodina SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4019
+#EXTINF:-1, Prva Plus SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/213
+#EXTINF:-1, Prva World ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/182
+#EXTINF:-1, RTCG 1 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/183
+#EXTINF:-1, RTCG 2 ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/214
+
+#EXTINF:-1, Animal Planet ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/190
+#EXTINF:-1, Crime & Investigation HD ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2322
+#EXTINF:-1, Discovery Channel ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2325
+#EXTINF:-1, Discovery ID ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2324
+#EXTINF:-1, Discovery Science SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4014
+#EXTINF:-1, History 2 SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/199
+#EXTINF:-1, History Channel ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/2323
+#EXTINF:-1, Viasat Explorer ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/224
+#EXTINF:-1, Viasat History ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/225
+#EXTINF:-1, Viasat Nature ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/226
+#EXTINF:-1, Docu Box SRB ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/4569
+#EXTINF:-1, Nat Geo Wild ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/209
+#EXTINF:-1, Nat Geo ex-Yu
+http://iptvkosova.ml.gentv.to:8080/2IlKBVhDXU/LYUHp3Lv49/208
+
 
 #EXTINF:-1,**  EX YU KANALI LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28327.ts
@@ -1232,3 +1099,95 @@ http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6188.ts
 
 #EXTINF:-1,*** BARCELONA - REAL
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28319.ts
+
+#EXTINF:-1,*** LIGA PRVAKA EY-YU
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28319.ts
+#EXTINF:-1,Arena Sport 1 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2284.ts
+#EXTINF:-1,Arena Sport 2 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2283.ts
+#EXTINF:-1,Arena Sport 3 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2282.ts
+#EXTINF:-1,Arena Sport 4 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2281.ts
+#EXTINF:-1,Arena Sport 5 Srb 
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/2280.ts
+#EXTINF:-1,Arena Sport 1 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74605.ts
+#EXTINF:-1,Arena Sport 2 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74603.ts
+#EXTINF:-1,Arena Sport 3 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74601.ts
+#EXTINF:-1,Arena Sport 4 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74599.ts
+#EXTINF:-1,Arena Sport 5 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74597.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 SRB" tvg-logo="" group-title=,Arena Sport 1 SRB
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19073.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 SRB" tvg-logo="" group-title=,Arena Sport 2 SRB
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19070.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SRB (reserve)" tvg-logo="" group-title=,ARENA SPORT 3 SRB (reserve)
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19066.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 SRB" tvg-logo="" group-title=,Arena Sport 4 SRB
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19064.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 SRB" tvg-logo="" group-title=,Arena Sport 5 SRB
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/19061.ts
+#EXTINF:-1,SPORTKLUB 1 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74391.ts
+#EXTINF:-1,SPORTKLUB 2 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74390.ts
+#EXTINF:-1,SPORTKLUB 3 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74389.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 1 HD SLO" tvg-logo="" group-title=,SPORTKLUB 1 HD SLO
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/18866.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 2 HD SLO" tvg-logo="" group-title=,SPORTKLUB 2 HD SLO
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/18865.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 3 HD SLO" tvg-logo="" group-title=,SPORTKLUB 3 HD SLO
+http://mondial.cybergroup.top:8000/live/buongiorno/buongiorno/18864.ts
+
+#EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
+#EXTINF:-1,BT Sport 1 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
+#EXTINF:-1,BT Sport 1 HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1991.ts
+#EXTINF:-1,BT Sport 2 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14658.ts
+#EXTINF:-1,BT Sport 2 HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1992.ts
+#EXTINF:-1,BT Sport 3 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14659.ts
+#EXTINF:-1,BT Sport 3 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1965.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/2673.ts
+#EXTINF:-1,BT Sport ESPN HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1980.ts
+#EXTINF:-1,BT Sport Extra 1 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14778.ts
+#EXTINF:-1,BT Sport Extra 2 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
+#EXTINF:-1,BT Sport Extra 3 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
+#EXTINF:-1,BT Sport Extra 5 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
+#EXTINF:-1,BT Sport Mosaic 2 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14805.ts
+#EXTINF:-1,Sky Sport 1 HD DE
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/12697.ts
+#EXTINF:-1,Sky Sport 2 HD DE
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/12696.ts
+#EXTINF:-1,Ziggo Sport Select FHD NL
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6514.ts
+#EXTINF:-1,Ziggo Sport Voetbal NL
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/233.ts
+#EXTINF:-1 tvg-ID="" tvg-name="INT: BEIN HD 11 A" tvg-logo="https://archive.org/download/BeinSports11hd_201708/bein%20sports%2011hd.png" group-title="International Sport",INT: BEIN HD 11 A
+http://redalert1973.ddns.net:80/live/tPmm9h4GzO/eV88W3ud9V/11274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="INT: BEIN HD 12" tvg-logo="https://archive.org/download/BeinSports12hd/bein%20sports%2012hd.png" group-title="International Sport",INT: BEIN HD 12
+http://redalert1973.ddns.net:80/live/tPmm9h4GzO/eV88W3ud9V/438.ts
+#EXTINF:-1,beIN Sports 1 True Vision HD ID
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6186.ts
+#EXTINF:-1,beIN Sports 2 True Vision HD ID
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6187.ts
+#EXTINF:-1,beIN Sports 3 True Vision HD ID
+http://restream.geniptv.com:8080/live/Ive8isGoUo/esGkKFA7PP/6188.ts
