@@ -101,6 +101,23 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74533.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD" tvg-logo="" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 1 HD
+http://iptv.iptvserver365.com:8080/faruk67/faruk67/515
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/SportKlub.png/300px-SportKlub.png" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 2 HD
+http://iptv.iptvserver365.com:8080/faruk67/faruk67/517
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/SportKlub.png/300px-SportKlub.png" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 3 HD
+http://iptv.iptvserver365.com:8080/faruk67/faruk67/516
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 HD" tvg-logo="" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 4 HD
+http://iptv.iptvserver365.com:8080/faruk67/faruk67/2268
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 HD" tvg-logo="" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 5 HD
+http://iptv.iptvserver365.com:8080/faruk67/faruk67/2269
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 HD" tvg-logo="" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 6 HD
+http://iptv.iptvserver365.com:8080/faruk67/faruk67/2270
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sky_Sports_logo_2015.svg/250px-Sky_Sports_logo_2015.svg.png" group-title="YABANCI (FOREIGN) SPOR",UK: SKY SPORT 1 HD
+http://iptv.iptvserver365.com:8080/faruk67/faruk67/94
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sky_Sports_logo_2015.svg/250px-Sky_Sports_logo_2015.svg.png" group-title="YABANCI (FOREIGN) SPOR",UK: SKY SPORT 2 HD
+http://iptv.iptvserver365.com:8080/faruk67/faruk67/95
+
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28324.ts
