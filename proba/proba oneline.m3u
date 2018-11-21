@@ -1,6 +1,50 @@
 #EXTM3U
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 1 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 1 SRB ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23860.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 2 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 2 SRB ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23858.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 3 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 3 SRB ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23856.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 4 SR ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 4 SR ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 5 SR ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 5 SR ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23853.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 6 SR ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 6 SR ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23852.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub HD 1 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub HD 1 Srb ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23859.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub HD 2 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub HD 2 Srb ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23857.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub HD 3 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub HD 3 Srb ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23855.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 1 HR HD ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 1 Srb ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23870.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 2 HR HD ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23864.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 2 Srb ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23869.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 3 HR HD ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23863.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 3 Srb ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23868.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 4 HR HD ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23862.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 4 Srb ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23867.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 5 HR HD ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23861.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 5 Srb ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23866.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HNTV ex-Yu" tvg-logo="" group-title="Ex-Yugo",HNTV ex-Yu
+http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24025.ts
+
+
+#EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 #EXTINF:-1,SPORT KLUB 1
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74405.ts
@@ -54,50 +98,6 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74598.ts
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74597.ts
 #EXTINF:-1,HNTV
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74533.ts
-
-#EXTINF:-1,*** SPORT EX-YU LISTA 2
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 1 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 1 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23860.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 2 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 2 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23858.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 3 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 3 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23856.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 4 SR ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 4 SR ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23854.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 5 SR ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 5 SR ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23853.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 6 SR ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 6 SR ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23852.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub HD 1 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub HD 1 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23859.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub HD 2 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub HD 2 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23857.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub HD 3 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub HD 3 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23855.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 1 HR HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23865.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 1 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23870.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 2 HR HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23864.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 2 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23869.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 3 HR HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23863.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 3 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23868.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 4 HR HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23862.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 4 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23867.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 5 HR HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23861.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 5 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23866.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HNTV ex-Yu" tvg-logo="" group-title="Ex-Yugo",HNTV ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24025.ts
-
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
