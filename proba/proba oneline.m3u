@@ -2,7 +2,6 @@
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-<<<<<<< HEAD
 EXTINF:-1 ,Sport Klub 1
 http://iptv.pro4hdtv.com:8000/cumhur06/06cumhur/2174
 #EXTINF:-1 ,Sport Klub 2
@@ -36,49 +35,6 @@ http://iptv.pro4hdtv.com:8000/cumhur06/06cumhur/7911
 http://iptv.pro4hdtv.com:8000/cumhur06/06cumhur/7912
 #EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 3 HD (SLO)" tvg-logo="" group-title="Yugoslav -EXYU",SPORT TV 3 HD (SLO)
 http://iptv.pro4hdtv.com:8000/cumhur06/06cumhur/7913
-=======
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 1 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 1 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23860.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 2 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 2 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23858.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 3 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 3 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23856.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 4 SR ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 4 SR ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23854.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 5 SR ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 5 SR ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23853.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 6 SR ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub 6 SR ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23852.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub HD 1 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub HD 1 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23859.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub HD 2 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub HD 2 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23857.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub HD 3 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Sport Klub HD 3 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23855.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 1 HR HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23865.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 1 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23870.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 2 HR HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23864.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 2 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23869.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 3 HR HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23863.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 3 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23868.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 4 HR HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23862.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 4 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23867.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5 HR HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 5 HR HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23861.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5 Srb ex-Yu" tvg-logo="" group-title="Ex-Yugo",Arena Sport 5 Srb ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23866.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HNTV ex-Yu" tvg-logo="" group-title="Ex-Yugo",HNTV ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24025.ts
-
->>>>>>> 75b919d45049a2b09a1a53cbb2c54ddfa7c3497b
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
@@ -137,23 +93,6 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74533.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD" tvg-logo="" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 1 HD
-http://iptv.iptvserver365.com:8080/faruk67/faruk67/515
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/SportKlub.png/300px-SportKlub.png" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 2 HD
-http://iptv.iptvserver365.com:8080/faruk67/faruk67/517
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/SportKlub.png/300px-SportKlub.png" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 3 HD
-http://iptv.iptvserver365.com:8080/faruk67/faruk67/516
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 HD" tvg-logo="" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 4 HD
-http://iptv.iptvserver365.com:8080/faruk67/faruk67/2268
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 HD" tvg-logo="" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 5 HD
-http://iptv.iptvserver365.com:8080/faruk67/faruk67/2269
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 HD" tvg-logo="" group-title="YABANCI (FOREIGN) SPOR",Sport Klub 6 HD
-http://iptv.iptvserver365.com:8080/faruk67/faruk67/2270
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sky_Sports_logo_2015.svg/250px-Sky_Sports_logo_2015.svg.png" group-title="YABANCI (FOREIGN) SPOR",UK: SKY SPORT 1 HD
-http://iptv.iptvserver365.com:8080/faruk67/faruk67/94
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sky_Sports_logo_2015.svg/250px-Sky_Sports_logo_2015.svg.png" group-title="YABANCI (FOREIGN) SPOR",UK: SKY SPORT 2 HD
-http://iptv.iptvserver365.com:8080/faruk67/faruk67/95
-
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28324.ts
@@ -163,7 +102,6 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
 
 #EXTINF:-1,**  EX YU KANALI LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-<<<<<<< HEAD
 #EXTINF:-1 tvg-ID="" tvg-name="RO:HBO 2" tvg-logo="" group-title="România - RO",RO:HBO 2
 http://iptv.pro4hdtv.com:8000/cumhur06/06cumhur/2152
 #EXTINF:-1 tvg-ID="" tvg-name="CINEMAX 1 HD" tvg-logo="" group-title="Yugoslav -EXYU",CINEMAX 1 HD
@@ -225,142 +163,6 @@ http://iptv.pro4hdtv.com:8000/cumhur06/06cumhur/8212
 #EXTINF:-1 tvg-ID="" tvg-name="EXYU:ANIMAL PLANET" tvg-logo="" group-title="Yugoslav -EXYU",EXYU:ANIMAL PLANET
 http://iptv.pro4hdtv.com:8000/cumhur06/06cumhur/8206
 
-=======
-#EXTINF:-1 tvg-ID="" tvg-name="HBO 1 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",HBO 1 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24030.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",HBO 2 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24029.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO 3 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",HBO 3 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24028.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Adria ex-Yu" tvg-logo="" group-title="Ex-Yugo",HBO Adria ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24027.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Comedy ex-Yu" tvg-logo="" group-title="Ex-Yugo",HBO Comedy ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24026.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Kino TV ex-Yu" tvg-logo="" group-title="Ex-Yugo",Kino TV ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24003.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Klasik TV ex-Yu" tvg-logo="" group-title="Ex-Yugo",Klasik TV ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24002.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Pink Film ex-Yu" tvg-logo="" group-title="Ex-Yugo",Pink Film ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23963.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinemax 1 ex-Yu" tvg-logo="" group-title="Ex-Yugo",Cinemax 1 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24062.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinemax 2 ex-Yu" tvg-logo="" group-title="Ex-Yugo",Cinemax 2 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24061.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinestar Action SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Cinestar Action SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24060.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinestar Premiere 1 ex-Yu" tvg-logo="" group-title="Ex-Yugo",Cinestar Premiere 1 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24059.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinestar Premiere 2 ex-Yu" tvg-logo="" group-title="Ex-Yugo",Cinestar Premiere 2 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24058.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinestar TV SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Cinestar TV SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24057.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M1 Film ex-Yu" tvg-logo="" group-title="Ex-Yugo",M1 Film ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24000.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Film Klub ex-Yu" tvg-logo="" group-title="Ex-Yugo",Film Klub ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24041.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Film Klub Extra ex-Yu" tvg-logo="" group-title="Ex-Yugo",Film Klub Extra ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24042.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Filmbox Extra SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Filmbox Extra SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24040.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Filmbox Plus SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Filmbox Plus SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24039.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Crime ex-Yu" tvg-logo="" group-title="Ex-Yugo",Fox Crime ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24037.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Life ex-Yu" tvg-logo="" group-title="Ex-Yugo",Fox Life ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24036.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Movies ex-Yu" tvg-logo="" group-title="Ex-Yugo",Fox Movies ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24035.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox TV ex-Yu" tvg-logo="" group-title="Ex-Yugo",Fox TV ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24034.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinemania ex-Yu" tvg-logo="" group-title="Ex-Yugo",Cinemania ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24063.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TV1000 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",TV1000 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23884.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HRT 1 ex-Yu" tvg-logo="" group-title="Ex-Yugo",HRT 1 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24024.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HRT 2 ex-Yu" tvg-logo="" group-title="Ex-Yugo",HRT 2 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24023.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HRT 3 ex-Yu" tvg-logo="" group-title="Ex-Yugo",HRT 3 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24022.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTL 1 HR ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTL 1 HR ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23926.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nova ex-Yu" tvg-logo="" group-title="Ex-Yugo",Nova ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23985.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nova TV HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",Nova TV HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23987.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nova World ex-Yu" tvg-logo="" group-title="Ex-Yugo",Nova World ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23986.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Doma TV ex-Yu" tvg-logo="" group-title="Ex-Yugo",Doma TV ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24049.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTL 2 HR ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTL 2 HR ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23925.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTL Crime ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTL Crime ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23924.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTL Living ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTL Living ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23922.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTL Passion ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTL Passion ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23921.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTL World ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTL World ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23920.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Diva TV ex-Yu" tvg-logo="" group-title="Ex-Yugo",Diva TV ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24051.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTRS ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTRS ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23919.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTS 1 ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTS 1 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23917.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTS 1 HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTS 1 HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23918.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTS 2 ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTS 2 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23916.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTS 3 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTS 3 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23915.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTS Satelit ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTS Satelit ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23914.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Prva 1 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Prva 1 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23933.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Prva Max ex-Yu" tvg-logo="" group-title="Ex-Yugo",Prva Max ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23932.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Prva Plus SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Prva Plus SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23931.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Prva World ex-Yu" tvg-logo="" group-title="Ex-Yugo",Prva World ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23930.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTV 1 ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTV 1 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23913.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTV 2 ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTV 2 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23912.ts
-#EXTINF:-1 tvg-ID="" tvg-name="B 92 ex-Yu" tvg-logo="" group-title="Ex-Yugo",B 92 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24073.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BHT 1 HD ex-Yu" tvg-logo="" group-title="Ex-Yugo",BHT 1 HD ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24071.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OBN ex-Yu" tvg-logo="" group-title="Ex-Yugo",OBN ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23982.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTCG 1 ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTCG 1 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23929.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTCG 2 ex-Yu" tvg-logo="" group-title="Ex-Yugo",RTCG 2 ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23928.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Viasat Explorer ex-Yu" tvg-logo="" group-title="Ex-Yugo",Viasat Explorer ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23876.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Viasat History ex-Yu" tvg-logo="" group-title="Ex-Yugo",Viasat History ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23875.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Viasat Nature ex-Yu" tvg-logo="" group-title="Ex-Yugo",Viasat Nature ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23874.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet ex-Yu" tvg-logo="" group-title="Ex-Yugo",Animal Planet ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24074.ts
-#EXTINF:-1 tvg-ID="" tvg-name="History 2 SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",History 2 SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24013.ts
-#EXTINF:-1 tvg-ID="" tvg-name="History Channel ex-Yu" tvg-logo="" group-title="Ex-Yugo",History Channel ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24012.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel ex-Yu" tvg-logo="" group-title="Ex-Yugo",Discovery Channel ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24054.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery ID ex-Yu" tvg-logo="" group-title="Ex-Yugo",Discovery ID ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24053.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science SRB ex-Yu" tvg-logo="" group-title="Ex-Yugo",Discovery Science SRB ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/24052.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo ex-Yu" tvg-logo="" group-title="Ex-Yugo",Nat Geo ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23990.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild ex-Yu" tvg-logo="" group-title="Ex-Yugo",Nat Geo Wild ex-Yu
-http://supervip.mine.nu:80/live/Enricoacbn/crsJszpMk8/23991.ts
->>>>>>> 75b919d45049a2b09a1a53cbb2c54ddfa7c3497b
 
 
 #EXTINF:-1,**  EX YU KANALI LISTA 2
