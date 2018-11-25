@@ -2,31 +2,33 @@
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1 tvg-ID="5198" tvg-name="EXYU*= SPORT KLUB 1" tvg-logo="" group-title="SPORT CHANNEL",EXYU*= SPORT KLUB 1
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5198.ts
-#EXTINF:-1 tvg-ID="5197" tvg-name="EXYU*= SPORT KLUB 2" tvg-logo="" group-title="SPORT CHANNEL",EXYU*= SPORT KLUB 2
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5197.ts
-#EXTINF:-1 tvg-ID="5196" tvg-name="EXYU*= SPORT KLUB 3" tvg-logo="" group-title="SPORT CHANNEL",EXYU*= SPORT KLUB 3
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5196.ts
-#EXTINF:-1 tvg-ID="5189" tvg-name="EXYU*= SPORT KLUB 4" tvg-logo="" group-title="SPORT CHANNEL",EXYU*= SPORT KLUB 4
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5189.ts
-#EXTINF:-1 tvg-ID="5195" tvg-name="EXYU= SPORT TV 1 HD (SLO)" tvg-logo="" group-title="SPORT CHANNEL",EXYU= SPORT TV 1 HD (SLO)
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5195.ts
-#EXTINF:-1 tvg-ID="5194" tvg-name="EXYU= SPORT TV 2 HD (SLO)" tvg-logo="" group-title="SPORT CHANNEL",EXYU= SPORT TV 2 HD (SLO)
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5194.ts
-#EXTINF:-1 tvg-ID="5193" tvg-name="EXYU= SPORT TV 3 HD (SLO)" tvg-logo="" group-title="SPORT CHANNEL",EXYU= SPORT TV 3 HD (SLO)
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5193.ts
-#EXTINF:-1 tvg-ID="5205" tvg-name="CRO*= ARENA SPORT 1 HD" tvg-logo="" group-title="SPORT CHANNEL",CRO*= ARENA SPORT 1 HD
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5205.ts
-#EXTINF:-1 tvg-ID="5204" tvg-name="CRO*= ARENA SPORT 2 HD" tvg-logo="" group-title="SPORT CHANNEL",CRO*= ARENA SPORT 2 HD
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5204.ts
-#EXTINF:-1 tvg-ID="5203" tvg-name="CRO*= ARENA SPORT 3 HD" tvg-logo="" group-title="SPORT CHANNEL",CRO*= ARENA SPORT 3 HD
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5203.ts
-#EXTINF:-1 tvg-ID="5202" tvg-name="CRO*= ARENA SPORT 4 HD" tvg-logo="" group-title="SPORT CHANNEL",CRO*= ARENA SPORT 4 HD
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5202.ts
-#EXTINF:-1 tvg-ID="5201" tvg-name="CRO*= ARENA SPORT 5 HD" tvg-logo="" group-title="SPORT CHANNEL",CRO*= ARENA SPORT 5 HD
-http://tsippro.mine.nu:5487/live/memoali/yUPv342M5v/5201.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Sport Klub 1 HD" tvg-logo="" group-title="ROMANIA",RO: Sport Klub 1 HD
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2387.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Sport Klub 2 HD" tvg-logo="" group-title="ROMANIA",RO: Sport Klub 2 HD
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2386.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Sport Klub 3 HD" tvg-logo="" group-title="ROMANIA",RO: Sport Klub 3 HD
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2385.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KLUB 1 HD" tvg-logo="" group-title="ALBANIA",AL: SPORT KLUB 1 HD
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3443.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KLUB 2" tvg-logo="" group-title="ALBANIA",AL: SPORT KLUB 2
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3442.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KLUB 3" tvg-logo="" group-title="ALBANIA",AL: SPORT KLUB 3
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3441.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1 HD HR" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 1 HD HR
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2609.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 1 HD
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2365.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 2 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 2 HD
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2364.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 3 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 3 HD
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2363.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 4 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 4 HD
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2362.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 5 HD
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2361.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 HR" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 5 HR
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2603.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
@@ -85,33 +87,7 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74533.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1 tvg-id="" tvg-name="RO: Sport Klub 1 HD" tvg-logo="" group-title="ROMANIA",RO: Sport Klub 1 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2387.ts
-#EXTINF:-1 tvg-id="" tvg-name="RO: Sport Klub 2 HD" tvg-logo="" group-title="ROMANIA",RO: Sport Klub 2 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2386.ts
-#EXTINF:-1 tvg-id="" tvg-name="RO: Sport Klub 3 HD" tvg-logo="" group-title="ROMANIA",RO: Sport Klub 3 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2385.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KLUB 1 HD" tvg-logo="" group-title="ALBANIA",AL: SPORT KLUB 1 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3443.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KLUB 2" tvg-logo="" group-title="ALBANIA",AL: SPORT KLUB 2
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3442.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KLUB 3" tvg-logo="" group-title="ALBANIA",AL: SPORT KLUB 3
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3441.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1 HD HR" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 1 HD HR
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2609.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 1 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2365.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 2 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 2 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2364.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 3 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 3 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2363.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 4 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 4 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2362.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 5 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2361.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 HR" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 5 HR
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2603.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28324.ts
@@ -597,35 +573,35 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74453.ts
 #EXTINF:-1,**  EX YU KANALI LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28328.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: HBO 2 HD" tvg-logo="" group-title="EX-YU",EX-YU: HBO 2 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3404.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3404.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: PINK FILM" tvg-logo="" group-title="EX-YU",EX-YU: PINK FILM
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3408.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3408.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: HRT 1" tvg-logo="" group-title="EX-YU",EX-YU: HRT 1
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3440.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3440.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: HRT 2" tvg-logo="" group-title="EX-YU",EX-YU: HRT 2
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3439.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3439.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: HRT 3" tvg-logo="" group-title="EX-YU",EX-YU: HRT 3
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3438.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3438.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: NOVA" tvg-logo="" group-title="EX-YU",EX-YU: NOVA
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3434.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3434.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTL 2 HR" tvg-logo="" group-title="EX-YU",EX-YU: RTL 2 HR
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3431.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3431.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTL HR" tvg-logo="" group-title="EX-YU",EX-YU: RTL HR
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3432.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3432.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV DOMA" tvg-logo="" group-title="EX-YU",EX-YU: TV DOMA
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3430.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3430.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: B92" tvg-logo="" group-title="EX-YU",EX-YU: B92
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2615.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2615.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: FOX" tvg-logo="" group-title="EX-YU",EX-YU: FOX
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2617.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/2617.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: BH TV 1" tvg-logo="" group-title="EX-YU",EX-YU: BH TV 1
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3436.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3436.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: OBN" tvg-logo="" group-title="EX-YU",EX-YU: OBN
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/3435.ts
+http://daddyiptv.com:8000/live/tamirci1/tamirci1/3435.ts
 
 
 
