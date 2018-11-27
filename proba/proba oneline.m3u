@@ -4,24 +4,14 @@
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,Arena Sport 1 (BH)
 http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12263
-#EXTINF:-1,Arena Sport 1 HR
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12257
 #EXTINF:-1,Arena Sport 2
 http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12261
-#EXTINF:-1,Arena Sport 2 HR
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12256
 #EXTINF:-1,Arena Sport 3
 http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12260
-#EXTINF:-1,Arena Sport 3 HR
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12255
 #EXTINF:-1,Arena Sport 4
 http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12259
-#EXTINF:-1,Arena Sport 4 HR
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12254
 #EXTINF:-1,Arena Sport 5
 http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12258
-#EXTINF:-1,Arena Sport 5 HR
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12253
 #EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
 http://formen1.com:8080/live/hdiptv74/7400/16850.ts
 #EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
@@ -61,6 +51,24 @@ http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
 http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
 #EXTINF:-1,BT Sport Mosaic 2 UK
 http://clientportal.link:80/live/Nikki/XG1eeu6/14805.ts
+#EXTINF:-1,DAZN1
+http://iptv-safe.ddns.net:25461/live/qehvixxp/n5S84tp1Fq/1317.ts
+#EXTINF:-1,DAZN2
+http://iptv-safe.ddns.net:25461/live/qehvixxp/n5S84tp1Fq/1316.ts
+#EXTINF:-1,De | Dazn 1 Hd
+http://formen1.com:8080/live/hdiptv74/7400/15950.ts
+#EXTINF:-1,De | Dazn 2 Hd
+http://formen1.com:8080/live/hdiptv74/7400/15951.ts
+#EXTINF:-1,DE:DAZN BAR 1 HD
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/18756
+#EXTINF:-1,DE:DAZN BAR 2 HD
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/18757
+#EXTINF:-1 tvg-id="DAZN1BarHD.de" tvg-name="De- DAZN  1 FHD" tvg-logo="" group-title="Germany",De- DAZN  1 FHD
+http://194.88.107.95:6204/mamadou/123/12339
+#EXTINF:-1 tvg-id="" tvg-name="De- DAZN  2 FHD" tvg-logo="" group-title="Germany",De- DAZN  2 FHD
+http://194.88.107.95:6204/mamadou/123/12338
+
+
 #EXTINF:-1,DAZN Bar 1 HD
 http://62.210.169.196:8090/live/user/pass/1145.ts
 #EXTINF:-1,DAZN Bar 2 HD
