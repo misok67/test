@@ -12,16 +12,17 @@ http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12260
 http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12259
 #EXTINF:-1,Arena Sport 5
 http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12258
-#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
-http://formen1.com:8080/live/hdiptv74/7400/16850.ts
-#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
-http://formen1.com:8080/live/hdiptv74/7400/16824.ts
-#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
-http://formen1.com:8080/live/hdiptv74/7400/16823.ts
-#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
-http://formen1.com:8080/live/hdiptv74/7400/16822.ts
-#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
-http://formen1.com:8080/live/hdiptv74/7400/16821.ts
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 1 HD" tvg-logo="http://newcccam.club/arenas.jpg" group-title="SPORTS",SRB: Arena Sport 1 HD
+http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/48935
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 2 HD" tvg-logo="http://newcccam.club/arenas.jpg" group-title="SPORTS",SRB: Arena Sport 2 HD
+http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/48936
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 3 HD" tvg-logo="http://newcccam.club/arenas.jpg" group-title="SPORTS",SRB: Arena Sport 3 HD
+http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/48937
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 4 HD" tvg-logo="http://newcccam.club/arenas.jpg" group-title="SPORTS",SRB: Arena Sport 4 HD
+http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/48938
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 5 HD" tvg-logo="http://newcccam.club/arenas.jpg" group-title="SPORTS",SRB: Arena Sport 5 HD
+http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/48939
+
 
 #EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
