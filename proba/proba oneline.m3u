@@ -1,5 +1,5 @@
 #EXTM3U
-
+	
 #EXTINF:-1,*** SPORT EX-YU LIGA PRVAKA
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 #EXTINF:-1,Arena Sport 1 (BH)
@@ -69,6 +69,11 @@ http://62.210.169.196:8090/live/user/pass/1146.ts
 http://62.210.169.196:8090/live/user/pass/898.ts
 #EXTINF:-1,Sky Sport 1 HD Backup
 http://62.210.169.196:8090/live/user/pass/1144.ts
+#EXTINF:-1,NL:Ziggo Sport Select
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/3139
+#EXTINF:-1,NL:Ziggo Sport Voetbal
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/3138
+
 
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
