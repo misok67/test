@@ -50,6 +50,16 @@ http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
 http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
 #EXTINF:-1,BT Sport Extra 5 UK
 http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
+#EXTINF:-1 tvg-id="TCSport3.ch" tvg-name="DE: Sky Sports 1 HD" tvg-logo="http://epg4you.com/logos/skysport1.png" group-title="SPORTS",DE: Sky Sports 1 HD
+http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/2811
+#EXTINF:-1 tvg-id="TCSport2.ch" tvg-name="DE: Sky Sports 2 HD" tvg-logo="http://epg4you.com/logos/skysport2.png" group-title="SPORTS",DE: Sky Sports 2 HD
+http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/2813
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="http://newcccam.club/skydazn.jpg" group-title="SPORTS",DE: DAZN 1 Bar HD
+http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/74060
+#EXTINF:-1 tvg-id="" tvg-name="DE:DAZN 2 Bar HD" tvg-logo="http://newcccam.club/skydazn.jpg" group-title="SPORTS",DE:DAZN 2 Bar HD
+http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/74061
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD" tvg-logo="https://www.optasports.com/media/1728/dazn-logo-resized.png" group-title="GERMANY | OTT",|DE| DAZN 1 FHD
 http://dream-ott.com:25461/Manu/Manu/16320
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 FHD" tvg-logo="https://www.optasports.com/media/1728/dazn-logo-resized.png" group-title="GERMANY | OTT",|DE| DAZN 2 FHD
