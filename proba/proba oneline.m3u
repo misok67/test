@@ -1,34 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1,*** SPORT EX-YU LISTA 1
+#EXTINF:-1,*** SPORT EX-YU LIGA PRVAKA
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1 tvg-id="" tvg-name="RO: Sport Klub 1 HD" tvg-logo="" group-title="ROMANIA",RO: Sport Klub 1 HD
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/2387.ts
-#EXTINF:-1 tvg-id="" tvg-name="RO: Sport Klub 2 HD" tvg-logo="" group-title="ROMANIA",RO: Sport Klub 2 HD
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/2386.ts
-#EXTINF:-1 tvg-id="" tvg-name="RO: Sport Klub 3 HD" tvg-logo="" group-title="ROMANIA",RO: Sport Klub 3 HD
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/2385.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KLUB 1 HD" tvg-logo="" group-title="ALBANIA",AL: SPORT KLUB 1 HD
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/3443.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KLUB 2" tvg-logo="" group-title="ALBANIA",AL: SPORT KLUB 2
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/3442.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KLUB 3" tvg-logo="" group-title="ALBANIA",AL: SPORT KLUB 3
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/3441.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1 HD HR" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 1 HD HR
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/2609.ts
+#EXTINF:-1,Arena Sport 1 (BH)
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12263
+#EXTINF:-1,Arena Sport 1 HR
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12257
+#EXTINF:-1,Arena Sport 2
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12261
+#EXTINF:-1,Arena Sport 2 HR
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12256
+#EXTINF:-1,Arena Sport 3
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12260
+#EXTINF:-1,Arena Sport 3 HR
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12255
+#EXTINF:-1,Arena Sport 4
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12259
+#EXTINF:-1,Arena Sport 4 HR
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12254
+#EXTINF:-1,Arena Sport 5
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12258
+#EXTINF:-1,Arena Sport 5 HR
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12253
+#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
+http://formen1.com:8080/live/hdiptv74/7400/16850.ts
+#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
+http://formen1.com:8080/live/hdiptv74/7400/16824.ts
+#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
+http://formen1.com:8080/live/hdiptv74/7400/16823.ts
+#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
+http://formen1.com:8080/live/hdiptv74/7400/16822.ts
+#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
+http://formen1.com:8080/live/hdiptv74/7400/16821.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 1 HD
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/2365.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 2 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 2 HD
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/2364.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 3 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 3 HD
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/2363.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 4 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 4 HD
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/2362.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 HD" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 5 HD
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/2361.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 HR" tvg-logo="" group-title="EX-YU",EX-YU: Arena Sport 5 HR
-http://daddyiptv.com:8000/live/tamirci1/tamirci1/2603.ts
+#EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
+#EXTINF:-1,BT Sport 1 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
+#EXTINF:-1,BT Sport 1 HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1991.ts
+#EXTINF:-1,BT Sport 2 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14658.ts
+#EXTINF:-1,BT Sport 2 HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1992.ts
+#EXTINF:-1,BT Sport 3 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14659.ts
+#EXTINF:-1,BT Sport 3 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1965.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/2673.ts
+#EXTINF:-1,BT Sport ESPN HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1980.ts
+#EXTINF:-1,BT Sport Extra 1 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14778.ts
+#EXTINF:-1,BT Sport Extra 2 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
+#EXTINF:-1,BT Sport Extra 3 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
+#EXTINF:-1,BT Sport Extra 5 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
+#EXTINF:-1,BT Sport Mosaic 2 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14805.ts
+#EXTINF:-1,DAZN Bar 1 HD
+http://62.210.169.196:8090/live/user/pass/1145.ts
+#EXTINF:-1,DAZN Bar 2 HD
+http://62.210.169.196:8090/live/user/pass/1146.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://62.210.169.196:8090/live/user/pass/898.ts
+#EXTINF:-1,Sky Sport 1 HD Backup
+http://62.210.169.196:8090/live/user/pass/1144.ts
+
+
+#EXTINF:-1,*** SPORT EX-YU LISTA 1
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
+#EXTINF:-1,Arena Sport 1
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12262
+#EXTINF:-1,Arena Sport 1 (BH)
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12263
+#EXTINF:-1,Arena Sport 1 HR
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12257
+#EXTINF:-1,Arena Sport 1 HR Full HD
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12252
+#EXTINF:-1,Arena Sport 2
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12261
+#EXTINF:-1,Arena Sport 2 HR
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12256
+#EXTINF:-1,Arena Sport 2 HR Full HD
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12251
+#EXTINF:-1,Arena Sport 3
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12260
+#EXTINF:-1,Arena Sport 3 HR
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12255
+#EXTINF:-1,Arena Sport 3 HR Full HD
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12250
+#EXTINF:-1,Arena Sport 4
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12259
+#EXTINF:-1,Arena Sport 4 HR
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12254
+#EXTINF:-1,Arena Sport 4 HR Full HD
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12249
+#EXTINF:-1,Arena Sport 5
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12258
+#EXTINF:-1,Arena Sport 5 HR
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12253
+#EXTINF:-1,Arena Sport 5 HR Full HD
+http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12248
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
@@ -639,7 +715,7 @@ http://62.210.169.196:8090/live/user/pass/1082.ts
 http://62.210.169.196:8090/live/user/pass/1083.ts
 
 
-#EXTINF:-1,*** EY-YU test1
+#EXTINF:-1,*** EY-YU test1 ok
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28319.ts
 #EXTINF:-1 tvg-ID="" tvg-name="WSPORT EX-YU: SPORT KLUB 1 HD" tvg-logo="" group-title="WORLD SPORTS",WSPORT EX-YU: SPORT KLUB 1 HD
 http://selling-team.net:80/live/yZwYOlGEPf/UkHARvjbKl/80622.ts
