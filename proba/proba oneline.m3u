@@ -2,16 +2,18 @@
 	
 #EXTINF:-1,*** SPORT EX-YU LIGA PRVAKA
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,Arena Sport 1 (BH)
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12263
-#EXTINF:-1,Arena Sport 2
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12261
-#EXTINF:-1,Arena Sport 3
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12260
-#EXTINF:-1,Arena Sport 4
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12259
-#EXTINF:-1,Arena Sport 5
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12258
+#EXTINF:-1,HR: Arena Sport 5 HD
+http://tidotv.com:80/live/miro/mirodrug/807.ts
+#EXTINF:-1,SR: Arena Sport 1 HD
+http://tidotv.com:80/live/miro/mirodrug/29.ts
+#EXTINF:-1,SR: Arena Sport 2 HD
+http://tidotv.com:80/live/miro/mirodrug/30.ts
+#EXTINF:-1,SR: Arena Sport 3 HD
+http://tidotv.com:80/live/miro/mirodrug/31.ts
+#EXTINF:-1,SR: Arena Sport 4 HD
+http://tidotv.com:80/live/miro/mirodrug/32.ts
+#EXTINF:-1,SR: Arena Sport 5 HD
+http://tidotv.com:80/live/miro/mirodrug/33.ts
 #EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 1 HD" tvg-logo="http://newcccam.club/arenas.jpg" group-title="SPORTS",SRB: Arena Sport 1 HD
 http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/48935
 #EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 2 HD" tvg-logo="http://newcccam.club/arenas.jpg" group-title="SPORTS",SRB: Arena Sport 2 HD
