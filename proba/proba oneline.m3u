@@ -2,6 +2,14 @@
 	
 #EXTINF:-1,*** SPORT EX-YU LIGA PRVAKA
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1,SR: RTS 1
+http://tidotv.com:80/live/miro/mirodrug/177.ts
+#EXTINF:-1,EXYU: RTS 1
+http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/7503
+#EXTINF:-1 tvg-id="RTS 1 ex-Yu" tvg-name="RTS 1 ex-Yu" tvg-logo="" group-title="ex-Yu",RTS 1 ex-Yu
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/187
+#EXTINF:-1 tvg-id="RTS 1 ex-Yu" tvg-name="RTS 1 HD ex-Yu" tvg-logo="" group-title="ex-Yu",RTS 1 HD ex-Yu
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2346
 #EXTINF:-1,SR: Arena Sport 1 HD
 http://tidotv.com:80/live/miro/mirodrug/29.ts
 #EXTINF:-1,SR: Arena Sport 2 HD
@@ -12,16 +20,6 @@ http://tidotv.com:80/live/miro/mirodrug/31.ts
 http://tidotv.com:80/live/miro/mirodrug/32.ts
 #EXTINF:-1,SR: Arena Sport 5 HD
 http://tidotv.com:80/live/miro/mirodrug/33.ts
-#EXTINF:-1,EXYU: ARENA SPORT 1 HD
-http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/7335
-#EXTINF:-1,EXYU: Arena Sport 2 HD
-http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/7334
-#EXTINF:-1,EXYU: Arena Sport 3 HD
-http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/7333
-#EXTINF:-1,EXYU: Arena Sport 4 HD
-http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/7332
-#EXTINF:-1,EXYU:Arena Sport 5
-http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/8165
 #EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-name="Arena Sport 1 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 1 Srb ex-Yu
 http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2284
 #EXTINF:-1 tvg-id="Arena Sport 2 ex-Yu" tvg-name="Arena Sport 2 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 2 Srb ex-Yu
@@ -58,9 +56,6 @@ http://tidotv.com:80/live/miro/mirodrug/137.ts
 http://tidotv.com:80/live/miro/mirodrug/988.ts
 #EXTINF:-1,UK: BT ESPN
 http://tidotv.com:80/live/miro/mirodrug/1003.ts
-
-
-
 
 #EXTINF:-1,BT Sport 1 FHD UK
 http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
