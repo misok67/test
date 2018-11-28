@@ -2,8 +2,6 @@
 	
 #EXTINF:-1,*** SPORT EX-YU LIGA PRVAKA
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,HR: Arena Sport 5 HD
-http://tidotv.com:80/live/miro/mirodrug/807.ts
 #EXTINF:-1,SR: Arena Sport 1 HD
 http://tidotv.com:80/live/miro/mirodrug/29.ts
 #EXTINF:-1,SR: Arena Sport 2 HD
@@ -177,58 +175,32 @@ http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/12248
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-#EXTINF:-1,SPORT KLUB 1
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74405.ts
-#EXTINF:-1,Sport Klub 1 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74404.ts
-#EXTINF:-1,SPORT KLUB 2
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74403.ts
-#EXTINF:-1,Sport Klub 2 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74402.ts
-#EXTINF:-1,SPORT KLUB 3
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74401.ts
-#EXTINF:-1,Sport Klub 3 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74400.ts
-#EXTINF:-1,SPORT KLUB 4
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74399.ts
-#EXTINF:-1,SPORT KLUB 5
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74398.ts
-#EXTINF:-1,SPORT KLUB 6
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74397.ts
-#EXTINF:-1,SPORT TV 1 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74394.ts
-#EXTINF:-1,SPORT TV 2 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74393.ts
-#EXTINF:-1,SPORT TV 3 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74392.ts
-#EXTINF:-1,SPORTKLUB 1 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74391.ts
-#EXTINF:-1,SPORTKLUB 2 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74390.ts
-#EXTINF:-1,SPORTKLUB 3 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74389.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74606.ts
-#EXTINF:-1,Arena Sport 1 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74605.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74604.ts
-#EXTINF:-1,Arena Sport 2 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74603.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74602.ts
-#EXTINF:-1,Arena Sport 3 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74601.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74600.ts
-#EXTINF:-1,Arena Sport 4 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74599.ts
-#EXTINF:-1,Arena Sport 5 HR
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74598.ts
-#EXTINF:-1,Arena Sport 5 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74597.ts
-#EXTINF:-1,HNTV
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74533.ts
+#EXTINF:-1,SR: Sport Klub 1
+http://tidotv.com:80/live/miro/mirodrug/86.ts
+#EXTINF:-1,SR: Sport Klub 2
+http://tidotv.com:80/live/miro/mirodrug/87.ts
+#EXTINF:-1,SR: Sport Klub 3
+http://tidotv.com:80/live/miro/mirodrug/88.ts
+#EXTINF:-1,HR: Arena Sport 1 HD
+http://tidotv.com:80/live/miro/mirodrug/803.ts
+#EXTINF:-1,HR: Arena Sport 2 HD
+http://tidotv.com:80/live/miro/mirodrug/804.ts
+#EXTINF:-1,HR: Arena Sport 3 HD
+http://tidotv.com:80/live/miro/mirodrug/805.ts
+#EXTINF:-1,HR: Arena Sport 4 HD
+http://tidotv.com:80/live/miro/mirodrug/806.ts
+#EXTINF:-1,HR: Arena Sport 5 HD
+http://tidotv.com:80/live/miro/mirodrug/807.ts
+#EXTINF:-1,SR: Arena Sport 1 HD
+http://tidotv.com:80/live/miro/mirodrug/29.ts
+#EXTINF:-1,SR: Arena Sport 2 HD
+http://tidotv.com:80/live/miro/mirodrug/30.ts
+#EXTINF:-1,SR: Arena Sport 3 HD
+http://tidotv.com:80/live/miro/mirodrug/31.ts
+#EXTINF:-1,SR: Arena Sport 4 HD
+http://tidotv.com:80/live/miro/mirodrug/32.ts
+#EXTINF:-1,SR: Arena Sport 5 HD
+http://tidotv.com:80/live/miro/mirodrug/33.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
@@ -242,6 +214,74 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28324.ts
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
 
 #EXTINF:-1,**  EX YU KANALI LISTA 1
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
+#EXTINF:-1,SR: HBO Adria HD
+http://tidotv.com:80/live/miro/mirodrug/254.ts
+#EXTINF:-1,SR: HBO 2 HD
+http://tidotv.com:80/live/miro/mirodrug/794.ts
+#EXTINF:-1,HR: Cinestar Premiere 2
+http://tidotv.com:80/live/miro/mirodrug/260.ts
+#EXTINF:-1,HR: Cinestar Premiere 1
+http://tidotv.com:80/live/miro/mirodrug/259.ts
+#EXTINF:-1,HR: Cinemax 2 HD
+http://tidotv.com:80/live/miro/mirodrug/1095.ts
+#EXTINF:-1,HR: Cinemax 1 HD
+http://tidotv.com:80/live/miro/mirodrug/904.ts
+#EXTINF:-1,SR: Cinestar TV
+http://tidotv.com:80/live/miro/mirodrug/906.ts
+#EXTINF:-1,HR: Klasik TV
+http://tidotv.com:80/live/miro/mirodrug/252.ts
+#EXTINF:-1,SR: Cinemania
+http://tidotv.com:80/live/miro/mirodrug/802.ts
+#EXTINF:-1,SR: TV 1000
+http://tidotv.com:80/live/miro/mirodrug/1293.ts
+#EXTINF:-1,HR: Fox Movies
+http://tidotv.com:80/live/miro/mirodrug/903.ts
+#EXTINF:-1,SR: FOX Life HD
+http://tidotv.com:80/live/miro/mirodrug/256.ts
+#EXTINF:-1,SR: FOX Crime
+http://tidotv.com:80/live/miro/mirodrug/257.ts
+#EXTINF:-1,HR: FOX
+http://tidotv.com:80/live/miro/mirodrug/255.ts
+#EXTINF:-1,HR: HRT 1
+http://tidotv.com:80/live/miro/mirodrug/162.ts
+#EXTINF:-1,HR: HRT 2
+http://tidotv.com:80/live/miro/mirodrug/160.ts
+#EXTINF:-1,HR: HRT 3
+http://tidotv.com:80/live/miro/mirodrug/1096.ts
+#EXTINF:-1,HR: RTL Televizija
+http://tidotv.com:80/live/miro/mirodrug/163.ts
+#EXTINF:-1,HR: RTL Living
+http://tidotv.com:80/live/miro/mirodrug/901.ts
+#EXTINF:-1,HR: RTL Crime
+http://tidotv.com:80/live/miro/mirodrug/1284.ts
+#EXTINF:-1,HR: RTL 2
+http://tidotv.com:80/live/miro/mirodrug/161.ts
+#EXTINF:-1,HR: Nova
+http://tidotv.com:80/live/miro/mirodrug/158.ts
+#EXTINF:-1,HR: Doma TV
+http://tidotv.com:80/live/miro/mirodrug/592.ts
+#EXTINF:-1,SR: RTS 1
+http://tidotv.com:80/live/miro/mirodrug/177.ts
+#EXTINF:-1,SR: RTS 2
+http://tidotv.com:80/live/miro/mirodrug/176.ts
+#EXTINF:-1,SR: RTRS
+http://tidotv.com:80/live/miro/mirodrug/783.ts
+#EXTINF:-1,SR: Prva
+http://tidotv.com:80/live/miro/mirodrug/164.ts
+#EXTINF:-1,SR: Prva Plus
+http://tidotv.com:80/live/miro/mirodrug/597.ts
+#EXTINF:-1,SR: History Channel
+http://tidotv.com:80/live/miro/mirodrug/1297.ts
+#EXTINF:-1,SR: Discovery ID
+http://tidotv.com:80/live/miro/mirodrug/1300.ts
+#EXTINF:-1,SR: Discovery
+http://tidotv.com:80/live/miro/mirodrug/907.ts
+#EXTINF:-1,SR: Animal Planet
+http://tidotv.com:80/live/miro/mirodrug/253.ts
+
+
+#EXTINF:-1,**  EX YU KANALI LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28329.ts
 #EXTINF:0,hrt 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
@@ -304,65 +344,7 @@ http://178.132.6.97:8080/RTV1Vojvodina1/playlist.m3u8
 #EXTINF:-1,RTV2 Vojvodina
 http://178.132.6.97:8080/RTV2Vojvodina1/playlist.m3u8
 
-#EXTINF:-1,bein 1 HD
-http://194.99.23.250:8099/2.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 1 SD
-http://194.99.23.250:8099/3.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 2 HD
-http://194.99.23.250:8099/4.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 2 SD
-http://194.99.23.250:8099/5.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 3 HD
-http://194.99.23.250:8099/6.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 3 SD
-http://194.99.23.250:8099/7.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 4 HD
-http://194.99.23.250:8099/8.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 4 SD
-http://194.99.23.250:8099/9.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 5 HD
-http://194.99.23.250:8099/10.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 5 SD
-http://194.99.23.250:8099/11.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 6 HD
-http://194.99.23.250:8099/12.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 6 SD
-http://194.99.23.250:8099/13.ch?u=tvip:p=tvip
-
-
-#EXTINF:0,DE: ORF SPORT
-http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
-
-#EXTINF:0,DE: PL POLSAT SPORT EXTRA
-http://37.59.34.182:8000/live/POLAND/POLAND/2050.m3u8
-
-#EXTINF:0,DE: PL POLSAT SPORT NEWS HD
-http://37.59.34.182:8000/live/POLAND/POLAND/2054.m3u8
-
-#EXTINF:0,Arena 1 HD
-http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 2 HD
-http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 3 HD
-http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 4 HD
-http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 5 HD
-http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 1 | SD (UK)
-http://61.58.60.230:9000/live/75.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 2 | SD (UK)
-http://61.58.60.230:9000/live/102.m3u8
-
-#EXTINF:0 group-title="(US) United States",ESPN | SD (US)
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:0 group-title="(US) United States",ESPN 2 | SD (US)
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-
-#EXTINF:-1,**  EX YU KANALI LISTA 2
+#EXTINF:-1,**  EX YU KANALI LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
 
 #EXTINF:-1,**  EX YU KANALI LISTA 3
