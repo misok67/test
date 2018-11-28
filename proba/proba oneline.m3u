@@ -22,8 +22,6 @@ http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/7333
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/7332
 #EXTINF:-1,EXYU:Arena Sport 5
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/8165
-#EXTINF:-1,EXYU:VIP:ARENA SPORT 1 HD (HR)
-http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/8209
 #EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-name="Arena Sport 1 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 1 Srb ex-Yu
 http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2284
 #EXTINF:-1 tvg-id="Arena Sport 2 ex-Yu" tvg-name="Arena Sport 2 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 2 Srb ex-Yu
@@ -48,6 +46,22 @@ http://iptv-main.safe-media.org:25461/live/mac/mac/2806.ts
 
 #EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://tidotv.com:80/live/miro/mirodrug/1322.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://tidotv.com:80/live/miro/mirodrug/47.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://tidotv.com:80/live/miro/mirodrug/48.ts
+#EXTINF:-1,UK: BT Sport 1
+http://tidotv.com:80/live/miro/mirodrug/137.ts
+#EXTINF:-1,UK: BT Sport 2
+http://tidotv.com:80/live/miro/mirodrug/988.ts
+#EXTINF:-1,UK: BT ESPN
+http://tidotv.com:80/live/miro/mirodrug/1003.ts
+
+
+
+
 #EXTINF:-1,BT Sport 1 FHD UK
 http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
 #EXTINF:-1,BT Sport 1 HD UK
