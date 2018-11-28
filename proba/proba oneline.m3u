@@ -34,6 +34,14 @@ http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2282
 http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2281
 #EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-name="Arena Sport 5 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 5 Srb ex-Yu
 http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2280
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HD HR" tvg-logo="" group-title="SPORT INTERNAT.",ARENA SPORT 1 HD HR
+http://iptv-main.safe-media.org:25461/live/mac/mac/2809.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HD HR" tvg-logo="" group-title="SPORT INTERNAT.",ARENA SPORT 2 HD HR
+http://iptv-main.safe-media.org:25461/live/mac/mac/2808.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HD HR" tvg-logo="" group-title="SPORT INTERNAT.",ARENA SPORT 3 HD HR
+http://iptv-main.safe-media.org:25461/live/mac/mac/2807.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HD HR" tvg-logo="" group-title="SPORT INTERNAT.",ARENA SPORT 4 HD HR
+http://iptv-main.safe-media.org:25461/live/mac/mac/2806.ts
 
 
 
@@ -64,35 +72,19 @@ http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
 http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
 #EXTINF:-1,BT Sport Extra 5 UK
 http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
-#EXTINF:-1 tvg-id="TCSport3.ch" tvg-name="DE: Sky Sports 1 HD" tvg-logo="http://epg4you.com/logos/skysport1.png" group-title="SPORTS",DE: Sky Sports 1 HD
-http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/2811
-#EXTINF:-1 tvg-id="TCSport2.ch" tvg-name="DE: Sky Sports 2 HD" tvg-logo="http://epg4you.com/logos/skysport2.png" group-title="SPORTS",DE: Sky Sports 2 HD
-http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/2813
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="http://newcccam.club/skydazn.jpg" group-title="SPORTS",DE: DAZN 1 Bar HD
-http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/74060
-#EXTINF:-1 tvg-id="" tvg-name="DE:DAZN 2 Bar HD" tvg-logo="http://newcccam.club/skydazn.jpg" group-title="SPORTS",DE:DAZN 2 Bar HD
-http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/74061
+#EXTINF:-1,DE | SKY SPORT1 HD
+http://fiber.goldentv.eu:8899/muslum26/muslum26/4207
+#EXTINF:-1,DE | SKY SPORT2 HD
+http://fiber.goldentv.eu:8899/muslum26/muslum26/4210
+#EXTINF:-1,NL | ZIGGO SPORT SELECT HD
+http://fiber.goldentv.eu:8899/muslum26/muslum26/4315
+#EXTINF:-1,UK | BT Sport 1 HD
+http://fiber.goldentv.eu:8899/muslum26/muslum26/4321
+#EXTINF:-1,UK | BT Sport 2 HD
+http://fiber.goldentv.eu:8899/muslum26/muslum26/4322
+#EXTINF:-1,UK | BT Sport 3 HD
+http://fiber.goldentv.eu:8899/muslum26/muslum26/4323
 
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD" tvg-logo="https://www.optasports.com/media/1728/dazn-logo-resized.png" group-title="GERMANY | OTT",|DE| DAZN 1 FHD
-http://dream-ott.com:25461/Manu/Manu/16320
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 FHD" tvg-logo="https://www.optasports.com/media/1728/dazn-logo-resized.png" group-title="GERMANY | OTT",|DE| DAZN 2 FHD
-http://dream-ott.com:25461/Manu/Manu/16319
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="|DE| SKY SPORT 1 FHD" tvg-logo="http://dream-ott.com:25461/images/picons/fullpicons/skysporthd.png" group-title="GERMANY | OTT",|DE| SKY SPORT 1 FHD
-http://dream-ott.com:25461/Manu/Manu/16360
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="|DE| SKY SPORT 1" tvg-logo="http://dream-ott.com:25461/images/picons/fullpicons/skysporthd.png" group-title="GERMANY | OTT",|DE| SKY SPORT 1
-http://dream-ott.com:25461/Manu/Manu/16361
-#EXTINF:-1,DAZN1
-http://iptv-safe.ddns.net:25461/live/qehvixxp/n5S84tp1Fq/1317.ts
-#EXTINF:-1,DAZN2
-http://iptv-safe.ddns.net:25461/live/qehvixxp/n5S84tp1Fq/1316.ts
-#EXTINF:-1,De | Dazn 1 Hd
-http://formen1.com:8080/live/hdiptv74/7400/15950.ts
-#EXTINF:-1,De | Dazn 2 Hd
-http://formen1.com:8080/live/hdiptv74/7400/15951.ts
-#EXTINF:-1,DE:DAZN BAR 1 HD
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/18756
-#EXTINF:-1,DE:DAZN BAR 2 HD
-http://5.254.66.128:8000/97vwCJK90H/ACYW9gRbzO/18757
 #EXTINF:-1 tvg-id="DAZN1BarHD.de" tvg-name="De- DAZN  1 FHD" tvg-logo="" group-title="Germany",De- DAZN  1 FHD
 http://194.88.107.95:6204/mamadou/123/12339
 #EXTINF:-1 tvg-id="" tvg-name="De- DAZN  2 FHD" tvg-logo="" group-title="Germany",De- DAZN  2 FHD
@@ -119,18 +111,10 @@ http://194.88.107.95:6204/mamadou/123/8579
 http://194.88.107.95:6204/mamadou/123/8578
 #EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="Uk- Uk- Sky BT Sport ESPN HD" tvg-logo="" group-title="UK",Uk- Uk- Sky BT Sport ESPN HD
 http://194.88.107.95:6204/mamadou/123/8577
-#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 1" tvg-logo="" group-title="Germany",De- Sky Sport 1
-http://194.88.107.95:6204/mamadou/123/12335
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="De- Sky Sport 1 FHD" tvg-logo="" group-title="Germany",De- Sky Sport 1 FHD
-http://194.88.107.95:6204/mamadou/123/12337
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="De- Sky Sport 1 HD" tvg-logo="" group-title="Germany",De- Sky Sport 1 HD
 http://194.88.107.95:6204/mamadou/123/12336
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-name="De- Sky Sport 2" tvg-logo="" group-title="Germany",De- Sky Sport 2
 http://194.88.107.95:6204/mamadou/123/12332
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="De- Sky Sport 2 FHD" tvg-logo="" group-title="Germany",De- Sky Sport 2 FHD
-http://194.88.107.95:6204/mamadou/123/12334
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="De- Sky Sport 2 HD" tvg-logo="" group-title="Germany",De- Sky Sport 2 HD
-http://194.88.107.95:6204/mamadou/123/12333
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
