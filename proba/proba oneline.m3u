@@ -24,6 +24,16 @@ http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/7332
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/8165
 #EXTINF:-1,EXYU:VIP:ARENA SPORT 1 HD (HR)
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/8209
+#EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-name="Arena Sport 1 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 1 Srb ex-Yu
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2284
+#EXTINF:-1 tvg-id="Arena Sport 2 ex-Yu" tvg-name="Arena Sport 2 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 2 Srb ex-Yu
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2283
+#EXTINF:-1 tvg-id="Arena Sport 3 ex-Yu" tvg-name="Arena Sport 3 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 3 Srb ex-Yu
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2282
+#EXTINF:-1 tvg-id="Arena Sport 4 ex-Yu" tvg-name="Arena Sport 4 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 4 Srb ex-Yu
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2281
+#EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-name="Arena Sport 5 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 5 Srb ex-Yu
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2280
 
 
 
@@ -62,7 +72,6 @@ http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/2813
 http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/74060
 #EXTINF:-1 tvg-id="" tvg-name="DE:DAZN 2 Bar HD" tvg-logo="http://newcccam.club/skydazn.jpg" group-title="SPORTS",DE:DAZN 2 Bar HD
 http://avatartv.eu:80/0f7g0fNcti/xAgfqft4NO/74061
-
 
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD" tvg-logo="https://www.optasports.com/media/1728/dazn-logo-resized.png" group-title="GERMANY | OTT",|DE| DAZN 1 FHD
 http://dream-ott.com:25461/Manu/Manu/16320
