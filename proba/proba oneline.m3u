@@ -1,35 +1,39 @@
 #EXTM3U
-	
-
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-#EXTINF:-1,SR: Sport Klub 1
-http://tidotv.com:80/live/miro/mirodrug/86.ts
-#EXTINF:-1,SR: Sport Klub 2
-http://tidotv.com:80/live/miro/mirodrug/87.ts
-#EXTINF:-1,SR: Sport Klub 3
-http://tidotv.com:80/live/miro/mirodrug/88.ts
-#EXTINF:-1,HR: Arena Sport 1 HD
-http://tidotv.com:80/live/miro/mirodrug/803.ts
-#EXTINF:-1,HR: Arena Sport 2 HD
-http://tidotv.com:80/live/miro/mirodrug/804.ts
-#EXTINF:-1,HR: Arena Sport 3 HD
-http://tidotv.com:80/live/miro/mirodrug/805.ts
-#EXTINF:-1,HR: Arena Sport 4 HD
-http://tidotv.com:80/live/miro/mirodrug/806.ts
-#EXTINF:-1,HR: Arena Sport 5 HD
-http://tidotv.com:80/live/miro/mirodrug/807.ts
-#EXTINF:-1,SR: Arena Sport 1 HD
-http://tidotv.com:80/live/miro/mirodrug/29.ts
-#EXTINF:-1,SR: Arena Sport 2 HD
-http://tidotv.com:80/live/miro/mirodrug/30.ts
-#EXTINF:-1,SR: Arena Sport 3 HD
-http://tidotv.com:80/live/miro/mirodrug/31.ts
-#EXTINF:-1,SR: Arena Sport 4 HD
-http://tidotv.com:80/live/miro/mirodrug/32.ts
-#EXTINF:-1,SR: Arena Sport 5 HD
-http://tidotv.com:80/live/miro/mirodrug/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 1" tvg-logo="" group-title="EX YU",SPORTKLUB 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8779
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 2" tvg-logo="" group-title="EX YU",SPORTKLUB 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8780
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 3" tvg-logo="" group-title="EX YU",SPORTKLUB 3
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8781
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 4" tvg-logo="" group-title="EX YU",SPORTKLUB 4
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8782
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 5" tvg-logo="" group-title="EX YU",SPORTKLUB 5
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8783
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 6" tvg-logo="" group-title="EX YU",SPORTKLUB 6
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8784
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8787
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 1 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8788
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8789
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 2 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8790
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8791
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 3 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8792
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8793
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 4 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8794
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 5 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8795
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 5 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8796
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
@@ -75,70 +79,78 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
 
 #EXTINF:-1,**  EX YU KANALI LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-#EXTINF:-1,SR: HBO Adria HD
-http://tidotv.com:80/live/miro/mirodrug/254.ts
-#EXTINF:-1,SR: HBO 2 HD
-http://tidotv.com:80/live/miro/mirodrug/794.ts
-#EXTINF:-1,HR: Cinestar Premiere 2
-http://tidotv.com:80/live/miro/mirodrug/260.ts
-#EXTINF:-1,HR: Cinestar Premiere 1
-http://tidotv.com:80/live/miro/mirodrug/259.ts
-#EXTINF:-1,HR: Cinemax 2 HD
-http://tidotv.com:80/live/miro/mirodrug/1095.ts
-#EXTINF:-1,HR: Cinemax 1 HD
-http://tidotv.com:80/live/miro/mirodrug/904.ts
-#EXTINF:-1,SR: Cinestar TV
-http://tidotv.com:80/live/miro/mirodrug/906.ts
-#EXTINF:-1,HR: Klasik TV
-http://tidotv.com:80/live/miro/mirodrug/252.ts
-#EXTINF:-1,SR: Cinemania
-http://tidotv.com:80/live/miro/mirodrug/802.ts
-#EXTINF:-1,SR: TV 1000
-http://tidotv.com:80/live/miro/mirodrug/1293.ts
-#EXTINF:-1,HR: Fox Movies
-http://tidotv.com:80/live/miro/mirodrug/903.ts
-#EXTINF:-1,SR: FOX Life HD
-http://tidotv.com:80/live/miro/mirodrug/256.ts
-#EXTINF:-1,SR: FOX Crime
-http://tidotv.com:80/live/miro/mirodrug/257.ts
-#EXTINF:-1,HR: FOX
-http://tidotv.com:80/live/miro/mirodrug/255.ts
-#EXTINF:-1,HR: HRT 1
-http://tidotv.com:80/live/miro/mirodrug/162.ts
-#EXTINF:-1,HR: HRT 2
-http://tidotv.com:80/live/miro/mirodrug/160.ts
-#EXTINF:-1,HR: HRT 3
-http://tidotv.com:80/live/miro/mirodrug/1096.ts
-#EXTINF:-1,HR: RTL Televizija
-http://tidotv.com:80/live/miro/mirodrug/163.ts
-#EXTINF:-1,HR: RTL Living
-http://tidotv.com:80/live/miro/mirodrug/901.ts
-#EXTINF:-1,HR: RTL Crime
-http://tidotv.com:80/live/miro/mirodrug/1284.ts
-#EXTINF:-1,HR: RTL 2
-http://tidotv.com:80/live/miro/mirodrug/161.ts
-#EXTINF:-1,HR: Nova
-http://tidotv.com:80/live/miro/mirodrug/158.ts
-#EXTINF:-1,HR: Doma TV
-http://tidotv.com:80/live/miro/mirodrug/592.ts
-#EXTINF:-1,SR: RTS 1
-http://tidotv.com:80/live/miro/mirodrug/177.ts
-#EXTINF:-1,SR: RTS 2
-http://tidotv.com:80/live/miro/mirodrug/176.ts
-#EXTINF:-1,SR: RTRS
-http://tidotv.com:80/live/miro/mirodrug/783.ts
-#EXTINF:-1,SR: Prva
-http://tidotv.com:80/live/miro/mirodrug/164.ts
-#EXTINF:-1,SR: Prva Plus
-http://tidotv.com:80/live/miro/mirodrug/597.ts
-#EXTINF:-1,SR: History Channel
-http://tidotv.com:80/live/miro/mirodrug/1297.ts
-#EXTINF:-1,SR: Discovery ID
-http://tidotv.com:80/live/miro/mirodrug/1300.ts
-#EXTINF:-1,SR: Discovery
-http://tidotv.com:80/live/miro/mirodrug/907.ts
-#EXTINF:-1,SR: Animal Planet
-http://tidotv.com:80/live/miro/mirodrug/253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="EX YU",HBO
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8766
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="EX YU",HBO 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8767
+#EXTINF:-1 tvg-ID="" tvg-name="HBO COMEDY" tvg-logo="" group-title="EX YU",HBO COMEDY
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8768
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="" group-title="EX YU",CINEMAX
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4088
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX 2" tvg-logo="" group-title="EX YU",CINEMAX 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4087
+#EXTINF:-1 tvg-ID="" tvg-name="CINESTAR TV 1" tvg-logo="" group-title="EX YU",CINESTAR TV 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4086
+#EXTINF:-1 tvg-ID="" tvg-name="CINESTAR TV 2" tvg-logo="" group-title="EX YU",CINESTAR TV 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4085
+#EXTINF:-1 tvg-ID="" tvg-name="KLASIK TV" tvg-logo="" group-title="EX YU",KLASIK TV
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8797
+#EXTINF:-1 tvg-ID="" tvg-name="PINK FILM" tvg-logo="" group-title="EX YU",PINK FILM
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7937
+#EXTINF:-1 tvg-ID="" tvg-name="FOX TV" tvg-logo="" group-title="EX YU",FOX TV
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8735
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIVE" tvg-logo="" group-title="EX YU",FOX LIVE
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8738
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" tvg-logo="" group-title="EX YU",FOX MOVIES
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8736
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CRIME" tvg-logo="" group-title="EX YU",FOX CRIME
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8737
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 1" tvg-logo="" group-title="EX YU",HRT 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4541
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 2" tvg-logo="" group-title="EX YU",HRT 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4542
+#EXTINF:-1 tvg-ID="" tvg-name="HRT 3" tvg-logo="" group-title="EX YU",HRT 3
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4543
+#EXTINF:-1 tvg-ID="" tvg-name="B92" tvg-logo="" group-title="EX YU",B92
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8804
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA TV" tvg-logo="" group-title="EX YU",NOVA TV
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4130
+#EXTINF:-1 tvg-ID="" tvg-name="RTL" tvg-logo="" group-title="EX YU",RTL
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4129
+#EXTINF:-1 tvg-ID="" tvg-name="RTL 2" tvg-logo="" group-title="EX YU",RTL 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4128
+#EXTINF:-1 tvg-ID="" tvg-name="RTL LIVING" tvg-logo="" group-title="EX YU",RTL LIVING
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4127
+#EXTINF:-1 tvg-ID="" tvg-name="DOMA TV" tvg-logo="" group-title="EX YU",DOMA TV
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4125
+#EXTINF:-1 tvg-ID="" tvg-name="RTRS HQ" tvg-logo="" group-title="EX YU",RTRS HQ
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4570
+#EXTINF:-1 tvg-ID="" tvg-name="RTS 1 HQ" tvg-logo="http://gradina2.info/live/discoveredSKYP/t45tgt4/5.ts" group-title="EX YU",RTS 1 HQ
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4571
+#EXTINF:-1 tvg-ID="" tvg-name="RTS 2 HQ" tvg-logo="" group-title="EX YU",RTS 2 HQ
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4572
+#EXTINF:-1 tvg-ID="" tvg-name="RTRS" tvg-logo="" group-title="EX YU",RTRS
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4120
+#EXTINF:-1 tvg-ID="" tvg-name="RTS 1" tvg-logo="" group-title="EX YU",RTS 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4119
+#EXTINF:-1 tvg-ID="" tvg-name="RTS 2" tvg-logo="" group-title="EX YU",RTS 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4118
+#EXTINF:-1 tvg-ID="" tvg-name="PRVA" tvg-logo="" group-title="EX YU",PRVA
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8734
+#EXTINF:-1 tvg-ID="" tvg-name="PRVA PLUS" tvg-logo="" group-title="EX YU",PRVA PLUS
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4116
+#EXTINF:-1 tvg-ID="" tvg-name="PRVA TV" tvg-logo="" group-title="EX YU",PRVA TV
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4117
+#EXTINF:-1 tvg-ID="" tvg-name="PRVA WORLD" tvg-logo="" group-title="EX YU",PRVA WORLD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4115
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY" tvg-logo="" group-title="EX YU",DISCOVERY
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8764
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="EX YU",NATIONAL GEOGRAPHIC
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8765
+#EXTINF:-1 tvg-ID="" tvg-name="VIASAT NATURE" tvg-logo="" group-title="EX YU",VIASAT NATURE
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8786
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="EX YU",HISTORY CHANNEL
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8769
 
 #EXTINF:-1,**  EX YU KANALI LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28327.ts
