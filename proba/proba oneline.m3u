@@ -37,83 +37,122 @@ http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8796
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 SRB" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA1-big.png" group-title="SPORT",ARENA SPORT 1 SRB
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1562
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 SRB" tvg-logo="https://4.bp.blogspot.com/-MTdM4t8ybyc/WPVCdj87UoI/AAAAAAAAFPU/BoKVZEh4bzEl-_qTVcwLSl2q-8Daw_wGQCLcB/s1600/arena_sport_rs_2.png" group-title="SPORT",ARENA SPORT 2 SRB
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1563
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SRB" tvg-logo="https://4.bp.blogspot.com/-0vVZNo_h5mU/WPVCab0_3BI/AAAAAAAAFPQ/3esrVqVVnpAspLkg7jV3DfeyToVoilcJwCLcB/s1600/arena_sport_rs_3.png" group-title="SPORT",ARENA SPORT 3 SRB
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1564
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 SRB" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA4-big.png" group-title="SPORT",ARENA SPORT 4 SRB
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1565
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 SRB" tvg-logo="https://3.bp.blogspot.com/-PeOPC8TqGkg/WPVCZBeNNWI/AAAAAAAAFPM/GPmErvN4wZw9jXd6iw1HUWO_p-nkMTYUgCLcB/s1600/arena_sport_rs_5.png" group-title="SPORT",ARENA SPORT 5 SRB
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1566
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HR" tvg-logo="http://allfootballvideo.com/images/channel-logo/Arena-Sport-1.png" group-title="SPORT",ARENA SPORT 1 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/199
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HR" tvg-logo="http://2.bp.blogspot.com/-t4zVK3CE_4o/ViT6T967RhI/AAAAAAAAALo/LzMu7Vwx3vg/s1600/Arena%2BSport%2B2%2BHD%2B-%2BAwesome%2BFoot.png" group-title="SPORT",ARENA SPORT 2 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/198
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HR" tvg-logo="https://4.bp.blogspot.com/-0vVZNo_h5mU/WPVCab0_3BI/AAAAAAAAFPQ/3esrVqVVnpAspLkg7jV3DfeyToVoilcJwCLcB/s1600/arena_sport_rs_3.png" group-title="SPORT",ARENA SPORT 3 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/197
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HR" tvg-logo="https://3.bp.blogspot.com/-vS9ltiJ8Qj8/WPVChgieuFI/AAAAAAAAFPc/wkVPaZiKBVEb-MD_hE2wXAzzRz85jeuPACLcB/s1600/arena_sport_hr_4.png" group-title="SPORT",ARENA SPORT 4 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/196
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HR" tvg-logo="https://3.bp.blogspot.com/-PeOPC8TqGkg/WPVCZBeNNWI/AAAAAAAAFPM/GPmErvN4wZw9jXd6iw1HUWO_p-nkMTYUgCLcB/s1600/arena_sport_rs_5.png" group-title="SPORT",ARENA SPORT 5 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/195
+#EXTINF:-1,Sport Klub 1 SRB
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/592
+#EXTINF:-1,Sport Klub HD 1 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2279
+#EXTINF:-1,Sport Klub 2 SRB
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/591
+#EXTINF:-1,Sport Klub HD 2 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2278
+#EXTINF:-1,Sport Klub 3 SRB
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/590
+#EXTINF:-1,Sport Klub HD 3 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2277
+#EXTINF:-1,Sport Klub 4 SR
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/1173
+#EXTINF:-1,Sport Klub 5 SR
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/1172
+#EXTINF:-1,Sport Klub 6 SR
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/1171
+#EXTINF:-1,Arena Sport 1 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2284
+#EXTINF:-1,Arena Sport 2 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2283
+#EXTINF:-1,Arena Sport 3 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2282
+#EXTINF:-1,Arena Sport 4 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2281
+#EXTINF:-1,Arena Sport 5 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2280
+#EXTINF:-1,Arena Sport 1 HR HD
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/589
+#EXTINF:-1,Arena Sport 2 HR HD
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/588
+#EXTINF:-1,Arena Sport 3 HR HD
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/587
+#EXTINF:-1,Arena Sport 4 HR HD
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/586
+#EXTINF:-1,Arena Sport 5 HR HD
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/585
+#EXTINF:-1,HNTV
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/200
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,Sport Klub 1 FHD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10900
-#EXTINF:-1,Sport Klub 1 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/13966
-#EXTINF:-1,Sport Klub 2 FHD SRB/HRV/SLO VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10884
-#EXTINF:-1,Sport Klub 2 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10896
-#EXTINF:-1,Sport Klub 3 FHD SRB/HRV/SLO VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10883
-#EXTINF:-1,Sport Klub 3 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10897
-#EXTINF:-1,Sport Klub 1 SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/592
-#EXTINF:-1,Sport Klub HD 1 Srb
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2279
-#EXTINF:-1,Sport Klub 2 SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/591
-#EXTINF:-1,Sport Klub HD 2 Srb
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2278
-#EXTINF:-1,Sport Klub 3 SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/590
-#EXTINF:-1,Sport Klub HD 3 Srb
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2277
-#EXTINF:-1,Sport Klub 4 SR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1173
-#EXTINF:-1,Sport Klub 5 SR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1172
-#EXTINF:-1,Sport Klub 6 SR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1171
-#EXTINF:-1,Arena Sport 1 Srb
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2284
-#EXTINF:-1,Arena Sport 2 Srb
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2283
-#EXTINF:-1,Arena Sport 3 Srb
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2282
-#EXTINF:-1,Arena Sport 4 Srb
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2281
-#EXTINF:-1,Arena Sport 5 Srb
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2280
-#EXTINF:-1,Arena Sport 1 HR HD
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/589
-#EXTINF:-1,Arena Sport 2 HR HD
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/588
-#EXTINF:-1,Arena Sport 3 HR HD
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/587
-#EXTINF:-1,Arena Sport 4 HR HD
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/586
-#EXTINF:-1,Arena Sport 5 HR HD
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/585
-#EXTINF:-1,HNTV
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/200
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT CLUB 1 HR" tvg-logo="" group-title="BALKAN: SPORTS",SPORT CLUB 1 HR
+http://akincimedia.com:1453/hatice/hatice/79380
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT CLUB 2 HR" tvg-logo="" group-title="BALKAN: SPORTS",SPORT CLUB 2 HR
+http://akincimedia.com:1453/hatice/hatice/79379
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT CLUB 3 HR" tvg-logo="" group-title="BALKAN: SPORTS",SPORT CLUB 3 HR
+http://akincimedia.com:1453/hatice/hatice/79378
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT CLUB 4 HR" tvg-logo="" group-title="BALKAN: SPORTS",SPORT CLUB 4 HR
+http://akincimedia.com:1453/hatice/hatice/79377
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT CLUB 5 HR" tvg-logo="" group-title="BALKAN: SPORTS",SPORT CLUB 5 HR
+http://akincimedia.com:1453/hatice/hatice/79376
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 1 HD srb" tvg-logo="" group-title="BALKAN: SPORTS",SPORT KLUB 1 HD srb
+http://akincimedia.com:1453/hatice/hatice/79368
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 3 HD srb" tvg-logo="" group-title="BALKAN: SPORTS",SPORT KLUB 3 HD srb
+http://akincimedia.com:1453/hatice/hatice/79366
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 4 HD srb" tvg-logo="" group-title="BALKAN: SPORTS",SPORT KLUB 4 HD srb
+http://akincimedia.com:1453/hatice/hatice/79365
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 5 HD srb" tvg-logo="" group-title="BALKAN: SPORTS",SPORT KLUB 5 HD srb
+http://akincimedia.com:1453/hatice/hatice/79364
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 6 HD srb" tvg-logo="" group-title="BALKAN: SPORTS",SPORT KLUB 6 HD srb
+http://akincimedia.com:1453/hatice/hatice/79363
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 HD hr" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 1 HD hr
+http://akincimedia.com:1453/hatice/hatice/79393
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 low" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 2 low
+http://akincimedia.com:1453/hatice/hatice/79362
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 SRB" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 2 SRB
+http://akincimedia.com:1453/hatice/hatice/79386
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3  low" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 3  low
+http://akincimedia.com:1453/hatice/hatice/79359
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 low" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 3 low
+http://akincimedia.com:1453/hatice/hatice/79361
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 SRB" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 3 SRB
+http://akincimedia.com:1453/hatice/hatice/79385
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 HD hr" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 4 HD hr
+http://akincimedia.com:1453/hatice/hatice/79390
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 low" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 4 low
+http://akincimedia.com:1453/hatice/hatice/79360
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 SRB" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 4 SRB
+http://akincimedia.com:1453/hatice/hatice/79384
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 HR" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 5 HR
+http://akincimedia.com:1453/hatice/hatice/79389
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 SRB" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 5 SRB
+http://akincimedia.com:1453/hatice/hatice/79383
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT BIH" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT BIH
+http://akincimedia.com:1453/hatice/hatice/79388
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORT 1 pol" tvg-logo="" group-title="BALKAN: SPORTS",ELEVEN SPORT 1 pol
+http://akincimedia.com:1453/hatice/hatice/79358
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORT 2 pol" tvg-logo="" group-title="BALKAN: SPORTS",ELEVEN SPORT 2 pol
+http://akincimedia.com:1453/hatice/hatice/79357
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORT 3 pol" tvg-logo="" group-title="BALKAN: SPORTS",ELEVEN SPORT 3 pol
+http://akincimedia.com:1453/hatice/hatice/79356
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORT 4 pol" tvg-logo="" group-title="BALKAN: SPORTS",ELEVEN SPORT 4 pol
+http://akincimedia.com:1453/hatice/hatice/79355
+
+
 #EXTINF:-1,*** SPORT EX-YU LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28324.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 1" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 1
+http://formen1.com:8080/arslan/123456/16828
+#EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 2" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 2
+http://formen1.com:8080/arslan/123456/16827
+#EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 3" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 3
+http://formen1.com:8080/arslan/123456/16826
+#EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 4" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 4
+http://formen1.com:8080/arslan/123456/16825
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu | ARENA SPORT 2 SRB" tvg-logo="" group-title="EX-YU",Ex-Yu | ARENA SPORT 2 SRB
+http://formen1.com:8080/arslan/123456/16824
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu | ARENA SPORT 3 SRB" tvg-logo="" group-title="EX-YU",Ex-Yu | ARENA SPORT 3 SRB
+http://formen1.com:8080/arslan/123456/16823
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu | ARENA SPORT 4 SRB" tvg-logo="" group-title="EX-YU",Ex-Yu | ARENA SPORT 4 SRB
+http://formen1.com:8080/arslan/123456/16822
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu | ARENA SPORT 5 SRB" tvg-logo="" group-title="EX-YU",Ex-Yu | ARENA SPORT 5 SRB
+http://formen1.com:8080/arslan/123456/16821
+
 #EXTINF:-1,*** SPORT EX-YU LISTA 5
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
 
@@ -194,240 +233,159 @@ http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8769
 
 #EXTINF:-1,**  EX YU KANALI LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28327.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://logo-logos.com/wp-content/uploads/2017/06/HBO_logo_small.png" group-title="FILMA",HBO
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/454
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="FILMA",HBO 2
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/750
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG" group-title="FILMA",HBO 3
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/219
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR PREMIERE 1" tvg-logo="http://tvprofil.net/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="FILMA",CINESTAR PREMIERE 1
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/460
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR PREMIERE 2" tvg-logo="http://tvprofil.net/img/kanali-logo/CineStar_TV_premiere_2_logo.png" group-title="FILMA",CINESTAR PREMIERE 2
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/459
-#EXTINF:-1 tvg-id="" tvg-name="TV 1000" tvg-logo="https://www.vip.mk/documents/10521/160363/tv1000.png" group-title="FILMA",TV 1000
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/226
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="http://cinemania.com.co/assets/cinemania_logo_mobile.png" group-title="FILMA",CINEMANIA
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/223
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://thevpn.guru/wp-content/uploads/2014/04/fox-watch-outside-usa-vpn-unblock-dns-proxy.png" group-title="FILMA",FOX MOVIES
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/222
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="FILMA",FOX
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1991
-#EXTINF:-1 tvg-id="" tvg-name="Film Box HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/e/ee/Filmbox_HD_Logo.png" group-title="FILMA",Film Box HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/225
-#EXTINF:-1 tvg-id="" tvg-name="Film Box Plus" tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmboxplus-logo.png" group-title="FILMA",Film Box Plus
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/224
-#EXTINF:-1 tvg-id="" tvg-name="Film Box Arthouse" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Filmbox_arthouse_pl.png/640px-Filmbox_arthouse_pl.png" group-title="FILMA",Film Box Arthouse
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/218
-#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="http://thumb.ibb.co/iyOG65/FILM_HITS.png" group-title="FILMA",Film Hits
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/263
-#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="https://lh3.googleusercontent.com/-L3TqzRN9B7s/VJ7r5Dus62I/AAAAAAAABgI/AfKaNdp1oXE/w800-h250-no/digit_alb_thriller.png" group-title="FILMA",Film Thriller
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/262
-#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="https://mobile-api.tvim.tv/images/channels/300x160px/FILMAKSION.png" group-title="FILMA",Film Aksion
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/265
-#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="http://nextgen-iptv.com/Logos/alb/alb_film_komedi.png" group-title="FILMA",Film Komedi
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/259
-#EXTINF:-1 tvg-id="" tvg-name="Film Dramë" tvg-logo="http://lh5.googleusercontent.com/-9onZQrU99oE/VJ7txxqYDII/AAAAAAAABgg/it8z8ZQX460/w800-h200-no/digit_alb_drame.png" group-title="FILMA",Film Dramë
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/260
-#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="http://thumb.ibb.co/cFrp9Q/FILM_AUTOR.png" group-title="FILMA",Film Autor
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/264
-#EXTINF:-1 tvg-id="" tvg-name="HRT 1" tvg-logo="http://fiumanka.com/media/filer_public_thumbnails/filer_public/a4/90/a4909b5e-f73a-4fbd-8a32-6d0bec1fdf5f/hrt.png__800x400_q85_crop_subsampling-2_upscale.png" group-title="INTERNACIONAL",HRT 1
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/126
-#EXTINF:-1 tvg-id="" tvg-name="HRT 2" tvg-logo="http://fiumanka.com/media/filer_public_thumbnails/filer_public/a4/90/a4909b5e-f73a-4fbd-8a32-6d0bec1fdf5f/hrt.png__800x400_q85_crop_subsampling-2_upscale.png" group-title="INTERNACIONAL",HRT 2
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/125
-#EXTINF:-1 tvg-id="" tvg-name="HRT 3" tvg-logo="http://fiumanka.com/media/filer_public_thumbnails/filer_public/a4/90/a4909b5e-f73a-4fbd-8a32-6d0bec1fdf5f/hrt.png__800x400_q85_crop_subsampling-2_upscale.png" group-title="INTERNACIONAL",HRT 3
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/124
-#EXTINF:-1 tvg-id="" tvg-name="RTL HR" tvg-logo="https://tv.iskon.hr/var/ezdemo_site/storage/images/tv-vodic/rtl2/271291-2-cro-HR/RTL.png" group-title="INTERNACIONAL",RTL HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1947
-#EXTINF:-1 tvg-id="" tvg-name="RTL 2 HR" tvg-logo="https://tv.iskon.hr/var/ezdemo_site/storage/images/tv-vodic/rtl-22/271293-2-cro-HR/RTL-2.png" group-title="INTERNACIONAL",RTL 2 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1948
-#EXTINF:-1 tvg-id="" tvg-name="RTL Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL_living_Logo_2015.png" group-title="INTERNACIONAL",RTL Living
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1950
-#EXTINF:-1 tvg-id="" tvg-name="RTV Puls" tvg-logo="https://4.bp.blogspot.com/-mqtwPZ0E450/WhtJ9biD3_I/AAAAAAAAAMY/ncNXpFIPsAw8SRtQ9dQVLSUIV-3QWKv0QCLcBGAs/s1600/rtvpuls.png" group-title="INTERNACIONAL",RTV Puls
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1508
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic AL" tvg-logo="https://www.nationalgeographic.org/static/ngs/home/img/logo.e6616dca24df.png" group-title="DOKUMENTAR",National Geographic AL
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/2032
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://logowow.net/logos/Y8rtqQriW.png" group-title="DOKUMENTAR",Discovery Science
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/127
-#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="DOKUMENTAR",Discovery
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/278
-#EXTINF:-1 tvg-id="" tvg-name="VIASAT NATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="DOKUMENTAR",VIASAT NATURE
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/752
-#EXTINF:-1 tvg-id="" tvg-name="Viasat History" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/Viasat_History.png/revision/latest?cb=20161214183621" group-title="DOKUMENTAR",Viasat History
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1995
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="DOKUMENTAR",Nat Geographic
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/279
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://www.paulickreport.com/wp-content/uploads/2015/09/nat-geo-wild-34d22bd9cfeb208abd0e802c83d08489.png" group-title="DOKUMENTAR",Nat Geo Wild
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/514
-#EXTINF:-1 tvg-id="" tvg-name="Lov i Ribolov" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/lov_i_ribolov/1063-7-cro-HR/lov_i_ribolov_tvchannel_large.png" group-title="DOKUMENTAR",Lov i Ribolov
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/462
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/AP_logo_MAIN_green.png" group-title="DOKUMENTAR",Animal Planet
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/112
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="SPORT",Sky Sport News
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1764
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD" tvg-logo="http://thedantv.co.uk/Channel_Logos/Sky_Sports_1.png" group-title="SPORT",Sky Sport 1 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/189
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 HD" tvg-logo="https://content.invisioncic.com/Msigames/monthly_2016_12/Sky_Sports_2_2010.png.2a8c198b91d1af76cd88577393b5f486.png" group-title="SPORT",Sky Sport 2 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/188
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="SPORT",Sky Bundesliga 1 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/187
-#EXTINF:-1 tvg-id="" tvg-name="ORF 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/ORF_Eins_HD_logo.svg/1280px-ORF_Eins_HD_logo.svg.png" group-title="INTERNACIONAL",ORF 1 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/155
-#EXTINF:-1 tvg-id="" tvg-name="ORF 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ORF_2_HD.svg/2000px-ORF_2_HD.svg.png" group-title="INTERNACIONAL",ORF 2 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/154
-
-#EXTINF:-1,**  EX YU KANALI LISTA 3
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
 #EXTINF:-1,HBO Adria
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2317
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2317
 #EXTINF:-1,HBO Comedy
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2316
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2316
 #EXTINF:-1,HBO 3 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10914
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/10914
 #EXTINF:-1,HRT 5 VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10905
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/10905
 #EXTINF:-1,HBO 1 SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4573
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4573
 #EXTINF:-1,HBO 2 SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4572
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4572
 #EXTINF:-1,HBO 3 SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4571
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4571
 #EXTINF:-1,Cinemax 1
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2315
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2315
 #EXTINF:-1,Cinemax 2
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2314
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2314
 #EXTINF:-1,Cinestar Action SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4028
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4028
 #EXTINF:-1,Cinestar Premiere 1
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2313
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2313
 #EXTINF:-1,Cinestar Premiere 2
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2312
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2312
 #EXTINF:-1,Cinestar TV SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4029
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4029
 #EXTINF:-1,Klasik TV
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2335
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2335
 #EXTINF:-1,Pink Film
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2310
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2310
 #EXTINF:-1,Film Klub
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9066
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/9066
 #EXTINF:-1,Film Klub Extra
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9065
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/9065
 #EXTINF:-1,Filmbox Extra SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4027
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4027
 #EXTINF:-1,Filmbox Plus SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4026
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4026
 #EXTINF:-1,M1 Film
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/227
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/227
 #EXTINF:-1,TV1000 SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4025
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4025
 #EXTINF:-1,Cinemania
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9036
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/9036
 #EXTINF:-1,Fox TV
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2318
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2318
 #EXTINF:-1,Fox Life
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2320
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2320
 #EXTINF:-1,Fox Crime
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2321
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2321
 #EXTINF:-1,Fox Movies
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2319
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2319
 
 #EXTINF:-1,HRT 1
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/201
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/201
 #EXTINF:-1,HRT 2
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/202
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/202
 #EXTINF:-1,HRT 3
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/203
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/203
 #EXTINF:-1,RTL 1 HR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/217
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/217
 #EXTINF:-1,Doma TV
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/195
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/195
 #EXTINF:-1,Nova TV HD
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9039
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/9039
 #EXTINF:-1,Nova World
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9038
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/9038
 #EXTINF:-1,Nova
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/3838
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/3838
 #EXTINF:-1,Diva TV
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9033
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/9033
 #EXTINF:-1,Z1
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/3837
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/3837
 #EXTINF:-1,RTL Living
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/219
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/219
 #EXTINF:-1,RTL Passion
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/185
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/185
 #EXTINF:-1,RTL 2 HR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/216
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/216
 #EXTINF:-1,RTL Crime
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/184
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/184
 
 #EXTINF:-1,RTS 1
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/187
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/187
 #EXTINF:-1,RTS 1 HD
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2346
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2346
 #EXTINF:-1,RTS 2
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/186
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/186
 #EXTINF:-1,RTS 3 SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4024
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4024
 #EXTINF:-1,Prva 1 SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/212
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/212
 #EXTINF:-1,RTV 1
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9062
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/9062
 #EXTINF:-1,RTV 2
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9061
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/9061
 #EXTINF:-1,B 92
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2345
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2345
 #EXTINF:-1,O2.TV
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9067
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/9067
 #EXTINF:-1,Prva Max
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/181
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/181
 #EXTINF:-1,Prva Plus SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/213
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/213
 #EXTINF:-1,Prva World
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/182
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/182
 #EXTINF:-1,Animal Planet
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/190
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/190
 #EXTINF:-1,Crime & Investigation HD
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2322
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2322
 #EXTINF:-1,Discovery Channel
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2325
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2325
 #EXTINF:-1,Discovery ID
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2324
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2324
 #EXTINF:-1,Discovery Science SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4014
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4014
 #EXTINF:-1,History 2 SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/199
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/199
 #EXTINF:-1,History Channel
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/2323
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2323
 #EXTINF:-1,Viasat Explorer
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/224
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/224
 #EXTINF:-1,Viasat History
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/225
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/225
 #EXTINF:-1,Viasat Nature
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/226
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/226
 #EXTINF:-1,Docu Box SRB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4569
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/4569
 #EXTINF:-1,Nat Geo Wild
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/209
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/209
 #EXTINF:-1,Nat Geo
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/208
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/208
 #EXTINF:-1,Viasat Nature / History FHD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10910
-
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/10910
 #EXTINF:-1,Max Select 1 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/12622
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12622
 #EXTINF:-1,Max Select 2 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/12621
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12621
 #EXTINF:-1,Max Select 3 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/12620
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12620
 #EXTINF:-1,Max Select 5 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/12619
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12619
 #EXTINF:-1,Max Select 6 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/12618
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12618
 #EXTINF:-1,Max Select 7 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/12617
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12617
 #EXTINF:-1,Max Select 8 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/12616
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12616
 #EXTINF:-1,Max Select 9 HD VIP
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/12615
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12615
+#EXTINF:-1,**  EX YU KANALI LISTA 3
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
+
 
 #EXTINF:-1,**  EX YU KANALI LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28329.ts
