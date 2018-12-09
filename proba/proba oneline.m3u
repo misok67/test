@@ -2,38 +2,46 @@
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 1" tvg-logo="" group-title="EX YU",SPORTKLUB 1
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8779
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 2" tvg-logo="" group-title="EX YU",SPORTKLUB 2
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8780
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 3" tvg-logo="" group-title="EX YU",SPORTKLUB 3
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8781
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 4" tvg-logo="" group-title="EX YU",SPORTKLUB 4
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8782
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 5" tvg-logo="" group-title="EX YU",SPORTKLUB 5
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8783
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 6" tvg-logo="" group-title="EX YU",SPORTKLUB 6
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8784
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 1 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8787
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 1 SD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8788
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 2 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8789
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 2 SD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8790
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 3 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8791
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 3 SD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8792
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 4 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8793
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 4 SD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8794
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 5 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8795
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 5 SD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8796
+#EXTINF:-1,Sport Klub 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1967
+#EXTINF:-1,Sport Klub 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1968
+#EXTINF:-1,SPORT KLUB 3
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2100
+#EXTINF:-1,SPORT KLUB 4 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3678
+#EXTINF:-1,SPORT KLUB 5 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3679
+#EXTINF:-1,ARENA SPORT 1 HR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1543
+#EXTINF:-1,ARENA SPORT 1 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1548
+#EXTINF:-1,ARENA SPORT 2 HR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1544
+#EXTINF:-1,ARENA SPORT 2 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1549
+#EXTINF:-1,ARENA SPORT 3 HR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1545
+#EXTINF:-1,ARENA SPORT 3 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1550
+#EXTINF:-1,ARENA SPORT 4 HR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1546
+#EXTINF:-1,ARENA SPORT 4 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1551
+#EXTINF:-1,ARENA SPORT 5 HR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1547
+#EXTINF:-1,ARENA SPORT 5 SRB
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3677
+#EXTINF:-1,VIP EX-YOU | Arena Sport1 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18302
+#EXTINF:-1,VIP EX-YOU | Arena Sport2 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18301
+#EXTINF:-1,VIP EX-YOU | Arena Sport3 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18300
+#EXTINF:-1,VIP EX-YOU | Arena Sport4 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18299
+#EXTINF:-1,VIP HNTV
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18194
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
@@ -80,58 +88,38 @@ http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/200
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT CLUB 1 HR" tvg-logo="" group-title="BALKAN: SPORTS",SPORT CLUB 1 HR
-http://akincimedia.com:1453/hatice/hatice/79380
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT CLUB 2 HR" tvg-logo="" group-title="BALKAN: SPORTS",SPORT CLUB 2 HR
-http://akincimedia.com:1453/hatice/hatice/79379
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT CLUB 3 HR" tvg-logo="" group-title="BALKAN: SPORTS",SPORT CLUB 3 HR
-http://akincimedia.com:1453/hatice/hatice/79378
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT CLUB 4 HR" tvg-logo="" group-title="BALKAN: SPORTS",SPORT CLUB 4 HR
-http://akincimedia.com:1453/hatice/hatice/79377
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT CLUB 5 HR" tvg-logo="" group-title="BALKAN: SPORTS",SPORT CLUB 5 HR
-http://akincimedia.com:1453/hatice/hatice/79376
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 1 HD srb" tvg-logo="" group-title="BALKAN: SPORTS",SPORT KLUB 1 HD srb
-http://akincimedia.com:1453/hatice/hatice/79368
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 3 HD srb" tvg-logo="" group-title="BALKAN: SPORTS",SPORT KLUB 3 HD srb
-http://akincimedia.com:1453/hatice/hatice/79366
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 4 HD srb" tvg-logo="" group-title="BALKAN: SPORTS",SPORT KLUB 4 HD srb
-http://akincimedia.com:1453/hatice/hatice/79365
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 5 HD srb" tvg-logo="" group-title="BALKAN: SPORTS",SPORT KLUB 5 HD srb
-http://akincimedia.com:1453/hatice/hatice/79364
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 6 HD srb" tvg-logo="" group-title="BALKAN: SPORTS",SPORT KLUB 6 HD srb
-http://akincimedia.com:1453/hatice/hatice/79363
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 HD hr" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 1 HD hr
-http://akincimedia.com:1453/hatice/hatice/79393
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 low" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 2 low
-http://akincimedia.com:1453/hatice/hatice/79362
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 SRB" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 2 SRB
-http://akincimedia.com:1453/hatice/hatice/79386
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3  low" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 3  low
-http://akincimedia.com:1453/hatice/hatice/79359
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 low" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 3 low
-http://akincimedia.com:1453/hatice/hatice/79361
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 SRB" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 3 SRB
-http://akincimedia.com:1453/hatice/hatice/79385
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 HD hr" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 4 HD hr
-http://akincimedia.com:1453/hatice/hatice/79390
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 low" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 4 low
-http://akincimedia.com:1453/hatice/hatice/79360
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 SRB" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 4 SRB
-http://akincimedia.com:1453/hatice/hatice/79384
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 HR" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 5 HR
-http://akincimedia.com:1453/hatice/hatice/79389
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 SRB" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT 5 SRB
-http://akincimedia.com:1453/hatice/hatice/79383
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT BIH" tvg-logo="" group-title="BALKAN: SPORTS",ARENA SPORT BIH
-http://akincimedia.com:1453/hatice/hatice/79388
-#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORT 1 pol" tvg-logo="" group-title="BALKAN: SPORTS",ELEVEN SPORT 1 pol
-http://akincimedia.com:1453/hatice/hatice/79358
-#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORT 2 pol" tvg-logo="" group-title="BALKAN: SPORTS",ELEVEN SPORT 2 pol
-http://akincimedia.com:1453/hatice/hatice/79357
-#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORT 3 pol" tvg-logo="" group-title="BALKAN: SPORTS",ELEVEN SPORT 3 pol
-http://akincimedia.com:1453/hatice/hatice/79356
-#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORT 4 pol" tvg-logo="" group-title="BALKAN: SPORTS",ELEVEN SPORT 4 pol
-http://akincimedia.com:1453/hatice/hatice/79355
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 1" tvg-logo="" group-title="EX YU",SPORTKLUB 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8779
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 2" tvg-logo="" group-title="EX YU",SPORTKLUB 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8780
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 3" tvg-logo="" group-title="EX YU",SPORTKLUB 3
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8781
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 4" tvg-logo="" group-title="EX YU",SPORTKLUB 4
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8782
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 5" tvg-logo="" group-title="EX YU",SPORTKLUB 5
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8783
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 6" tvg-logo="" group-title="EX YU",SPORTKLUB 6
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8784
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8787
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 1 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8788
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8789
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 2 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8790
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8791
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 3 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8792
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8793
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 4 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8794
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 5 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8795
+#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 5 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8796
 
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 4
@@ -155,6 +143,22 @@ http://formen1.com:8080/arslan/123456/16821
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 5
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
+#EXTINF:-1,SPORT KLUB 1 RS
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/171
+#EXTINF:-1,SPORT KLUB 2 RS
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/170
+#EXTINF:-1,SPORT KLUB 3 RS
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/169
+#EXTINF:-1,ARENA SPORT 1 HR
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/168
+#EXTINF:-1,ARENA SPORT 2 HR
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/167
+#EXTINF:-1,ARENA SPORT 3 HD
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/166
+#EXTINF:-1,ARENA SPORT 4 HD
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/165
+#EXTINF:-1,ARENA SPORT 5 HR
+http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/222
 
 #EXTINF:-1,**  EX YU KANALI LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
@@ -383,9 +387,173 @@ http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12617
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12616
 #EXTINF:-1,Max Select 9 HD VIP
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/12615
+
 #EXTINF:-1,**  EX YU KANALI LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-
+#EXTINF:-1,Ex-Yu: HBO HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7000
+#EXTINF:-1,EX-YU: HBO Comedy
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4693
+#EXTINF:-1,EX-YU: HBO 2 SLO
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/6998
+#EXTINF:-1,EX-YU: HBO 3
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/6999
+#EXTINF:-1,EX-YU: HBO ADRIA
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4692
+#EXTINF:-1,EX-YU: CINEMAX 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1945
+#EXTINF:-1,EX-YU: CINEMAX 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1946
+#EXTINF:-1,EX-YU: CINESTAR ACTION
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1947
+#EXTINF:-1,EX-YU: CineStar Premier 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1948
+#EXTINF:-1,EX-YU: CineStar Premier 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1949
+#EXTINF:-1,EX-YU: CINESTAR TV
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1950
+#EXTINF:-1,EX-YU: Klasik
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4993
+#EXTINF:-1,EX-YU: Fox Crime
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4758
+#EXTINF:-1,EX-YU: Fox HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4757
+#EXTINF:-1,EX-YU: Fox Life
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4689
+#EXTINF:-1,EX-YU: FOX Movies
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4759
+#EXTINF:-1,VIP Ex-Yu: HBO HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18197
+#EXTINF:-1,VIP EX-YU: HBO 2 SLO
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18200
+#EXTINF:-1,VIP EX-YU: HBO 3
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18199
+#EXTINF:-1,VIP Ex-Yu: HBO HD 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18196
+#EXTINF:-1,VIP EX-YU: HBO Comedy
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18198
+#EXTINF:-1,VIP EX-YU: Cinemax HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18236
+#EXTINF:-1,VIP EX-YU: Kino TV
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18185
+#EXTINF:-1,VIP EX-YU: KLASIK TV
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18183
+#EXTINF:-1,VIP EX-YU: TV 1000
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18071
+#EXTINF:-1,VIP EX-YU: MGM
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18180
+#EXTINF:-1,VIP EX-YU: Fox Movies (HR SUB)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18211
+#EXTINF:-1,VIP EX-YU: Fox Life
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18212
+#EXTINF:-1,EX-YU: HRT 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1681
+#EXTINF:-1,EX-YU:  HRT 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1682
+#EXTINF:-1,EX-YU: HRT 3
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1683
+#EXTINF:-1,EX-YU: RTL
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4694
+#EXTINF:-1,EX-YU: Nova HR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2225
+#EXTINF:-1,EX-YU: RTL 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4695
+#EXTINF:-1,EX-YU: Doma TV
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4698
+#EXTINF:-1,EX-YU: RTL pASSION
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7043
+#EXTINF:-1,EX-YU: RTL Living
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4696
+#EXTINF:-1,VIP EX-YOU | HRT 1 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18298
+#EXTINF:-1,VIP EX-YOU | HRT 2 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18297
+#EXTINF:-1,VIP EX-YOU | HRT 3 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18296
+#EXTINF:-1,VIP EX-YOU | HRT 4 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18295
+#EXTINF:-1,VIP EX-YU: RTL
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18101
+#EXTINF:-1,EX-YU: RTRS
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2226
+#EXTINF:-1,EX-YU: RTS 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2227
+#EXTINF:-1,EX-YU: RTS 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2228
+#EXTINF:-1,EX-YU: RTS HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7045
+#EXTINF:-1,EX-YU: Prva
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/4756
+#EXTINF:-1,EX-YU: PRVA PLUS
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2229
+#EXTINF:-1,VIP EX-YU: B92 (local)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18245
+#EXTINF:-1,VIP EX-YU: BHT 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18242
+#EXTINF:-1,VIP EX-YU: RTRS
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18100
+#EXTINF:-1,VIP EX-YU: RTS 1 (local)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18098
+#EXTINF:-1,VIP EX-YU: RTS 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18097
+#EXTINF:-1,VIP EX-YU: RTS HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18093
+#EXTINF:-1,VIP EX-YU: RTS 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18099
+#EXTINF:-1,VIP EX-YU: RTS 2 (local)
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18096
+#EXTINF:-1,VIP EX-YU: RTS 3
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18095
+#EXTINF:-1,VIP EX-YU: RTS Drama
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18094
+#EXTINF:-1,VIP EX-YU: RTS Kolo
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18092
+#EXTINF:-1,VIP EX-YU: RTS Muzika
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18091
+#EXTINF:-1,VIP EX-YU: RTS Trezor
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18089
+#EXTINF:-1,VIP EX-YU: RTS Zivot
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18088
+#EXTINF:-1,VIP EX-YU: Slovenia TV 1 HD
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18082
+#EXTINF:-1,VIP EX-YU: RT Vojvodina 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18107
+#EXTINF:-1,VIP EX-YU: RT Vojvodina 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18105
+#EXTINF:-1,VIP EX-YU: RTCG 1
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18104
+#EXTINF:-1,VIP EX-YU: RTCG 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18103
+#EXTINF:-1,VIP EX-YU: Planet Tv
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18114
+#EXTINF:-1,VIP EX-YU: Pop Brio
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18113
+#EXTINF:-1,VIP EX-YU: Pop Oto
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18112
+#EXTINF:-1,VIP EX-YU: Nat Geo Wild
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18171
+#EXTINF:-1,VIP EX-YU: National Geographic
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18170
+#EXTINF:-1,VIP EX-YU: History 2
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18195
+#EXTINF:-1,VIP EX-YU: Docubox
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18230
+#EXTINF:-1,VIP EX-YU: ANIMAL PLANET
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18249
+#EXTINF:-1,VIP EX-YU: DM Sat
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18231
+#EXTINF:-1,EX-YU: ANIMAL PLANET
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/6980
+#EXTINF:-1,EX-YU: Docubox
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/6992
+#EXTINF:-1,EX-YU: History
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7002
+#EXTINF:-1,EX-YU: ID Discovery
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7003
+#EXTINF:-1,EX-YU: Nat Geo Wild
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7015
+#EXTINF:-1,EX-YU: National Geographic
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/7016
 
 #EXTINF:-1,**  EX YU KANALI LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28329.ts
