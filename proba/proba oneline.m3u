@@ -1,5 +1,77 @@
 #EXTM3U
 
+#EXTINF:-1,*** LIGA PRVAKA EY-YU
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28334.ts
+#EXTINF:-1,ARENA SPORT 1 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1548
+#EXTINF:-1,ARENA SPORT 2 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1549
+#EXTINF:-1,ARENA SPORT 3 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1550
+#EXTINF:-1,ARENA SPORT 4 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1551
+#EXTINF:-1,ARENA SPORT 5 SRB
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3677
+#EXTINF:-1,Arena Sport 1 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2284
+#EXTINF:-1,Arena Sport 2 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2283
+#EXTINF:-1,Arena Sport 3 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2282
+#EXTINF:-1,Arena Sport 4 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2281
+#EXTINF:-1,Arena Sport 5 Srb
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2280
+
+
+#EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
+#EXTINF:-1,BT Sport 1 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
+#EXTINF:-1,BT Sport 1 HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1991.ts
+#EXTINF:-1,BT Sport 2 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14658.ts
+#EXTINF:-1,BT Sport 2 HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1992.ts
+#EXTINF:-1,BT Sport 3 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14659.ts
+#EXTINF:-1,BT Sport 3 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1965.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/2673.ts
+#EXTINF:-1,BT Sport ESPN HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1980.ts
+#EXTINF:-1,BT Sport Extra 1 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14778.ts
+#EXTINF:-1,BT Sport Extra 2 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
+#EXTINF:-1,BT Sport Extra 3 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
+#EXTINF:-1,BT Sport Extra 5 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
+#EXTINF:-1,|DE|Sky_Sport_1_HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4150
+#EXTINF:-1,|DE|Sky_SPort_1_SD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4149
+#EXTINF:-1,|DE|Sky_Sport_2_HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4148
+#EXTINF:-1,|DE|SKY_SPORT_2_SD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4147
+#EXTINF:-1,beIN SPORTS 11 HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/550
+#EXTINF:-1,beIN SPORTS 12 HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/549
+#EXTINF:-1,|NL| Ziggo Sport Select
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/1119
+#EXTINF:-1,|NL| Ziggo Sport VOETBAL
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/1118
+#EXTINF:-1,|IT| Sky Sport Arena
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2861
+#EXTINF:-1,|IT| SKY SPORT Football
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2860
+
+
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 #EXTINF:-1,Sport Klub 1
@@ -32,14 +104,6 @@ http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1551
 http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1547
 #EXTINF:-1,ARENA SPORT 5 SRB
 http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3677
-#EXTINF:-1,VIP EX-YOU | Arena Sport1 HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18302
-#EXTINF:-1,VIP EX-YOU | Arena Sport2 HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18301
-#EXTINF:-1,VIP EX-YOU | Arena Sport3 HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18300
-#EXTINF:-1,VIP EX-YOU | Arena Sport4 HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18299
 #EXTINF:-1,VIP HNTV
 http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18194
 
@@ -88,152 +152,18 @@ http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/200
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 1" tvg-logo="" group-title="EX YU",SPORTKLUB 1
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8779
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 2" tvg-logo="" group-title="EX YU",SPORTKLUB 2
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8780
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 3" tvg-logo="" group-title="EX YU",SPORTKLUB 3
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8781
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 4" tvg-logo="" group-title="EX YU",SPORTKLUB 4
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8782
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 5" tvg-logo="" group-title="EX YU",SPORTKLUB 5
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8783
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTKLUB 6" tvg-logo="" group-title="EX YU",SPORTKLUB 6
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8784
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 1 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8787
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 1 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 1 SD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8788
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 2 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8789
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 2 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 2 SD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8790
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 3 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8791
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 3 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 3 SD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8792
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 4 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8793
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 4 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 4 SD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8794
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 HD" tvg-logo="" group-title="EX YU",ARENA SPORT 5 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8795
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 5 SD" tvg-logo="" group-title="EX YU",ARENA SPORT 5 SD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8796
-
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28324.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 1" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 1
-http://formen1.com:8080/arslan/123456/16828
-#EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 2" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 2
-http://formen1.com:8080/arslan/123456/16827
-#EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 3" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 3
-http://formen1.com:8080/arslan/123456/16826
-#EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 4" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 4
-http://formen1.com:8080/arslan/123456/16825
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu | ARENA SPORT 2 SRB" tvg-logo="" group-title="EX-YU",Ex-Yu | ARENA SPORT 2 SRB
-http://formen1.com:8080/arslan/123456/16824
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu | ARENA SPORT 3 SRB" tvg-logo="" group-title="EX-YU",Ex-Yu | ARENA SPORT 3 SRB
-http://formen1.com:8080/arslan/123456/16823
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu | ARENA SPORT 4 SRB" tvg-logo="" group-title="EX-YU",Ex-Yu | ARENA SPORT 4 SRB
-http://formen1.com:8080/arslan/123456/16822
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu | ARENA SPORT 5 SRB" tvg-logo="" group-title="EX-YU",Ex-Yu | ARENA SPORT 5 SRB
-http://formen1.com:8080/arslan/123456/16821
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 5
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
 #EXTINF:-1,SPORT KLUB 1 RS
 http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/171
-#EXTINF:-1,SPORT KLUB 2 RS
-http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/170
-#EXTINF:-1,SPORT KLUB 3 RS
-http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/169
-#EXTINF:-1,ARENA SPORT 1 HR
-http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/168
-#EXTINF:-1,ARENA SPORT 2 HR
-http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/167
-#EXTINF:-1,ARENA SPORT 3 HD
-http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/166
-#EXTINF:-1,ARENA SPORT 4 HD
-http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/165
-#EXTINF:-1,ARENA SPORT 5 HR
-http://ipx6.streamstorm.to:8005/tmp-test/tmp-test1/222
+
 
 #EXTINF:-1,**  EX YU KANALI LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="EX YU",HBO
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8766
-#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="EX YU",HBO 2
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8767
-#EXTINF:-1 tvg-ID="" tvg-name="HBO COMEDY" tvg-logo="" group-title="EX YU",HBO COMEDY
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8768
-#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="" group-title="EX YU",CINEMAX
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4088
-#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX 2" tvg-logo="" group-title="EX YU",CINEMAX 2
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4087
-#EXTINF:-1 tvg-ID="" tvg-name="CINESTAR TV 1" tvg-logo="" group-title="EX YU",CINESTAR TV 1
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4086
-#EXTINF:-1 tvg-ID="" tvg-name="CINESTAR TV 2" tvg-logo="" group-title="EX YU",CINESTAR TV 2
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4085
-#EXTINF:-1 tvg-ID="" tvg-name="KLASIK TV" tvg-logo="" group-title="EX YU",KLASIK TV
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8797
-#EXTINF:-1 tvg-ID="" tvg-name="PINK FILM" tvg-logo="" group-title="EX YU",PINK FILM
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7937
-#EXTINF:-1 tvg-ID="" tvg-name="FOX TV" tvg-logo="" group-title="EX YU",FOX TV
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8735
-#EXTINF:-1 tvg-ID="" tvg-name="FOX LIVE" tvg-logo="" group-title="EX YU",FOX LIVE
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8738
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" tvg-logo="" group-title="EX YU",FOX MOVIES
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8736
-#EXTINF:-1 tvg-ID="" tvg-name="FOX CRIME" tvg-logo="" group-title="EX YU",FOX CRIME
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8737
-#EXTINF:-1 tvg-ID="" tvg-name="HRT 1" tvg-logo="" group-title="EX YU",HRT 1
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4541
-#EXTINF:-1 tvg-ID="" tvg-name="HRT 2" tvg-logo="" group-title="EX YU",HRT 2
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4542
-#EXTINF:-1 tvg-ID="" tvg-name="HRT 3" tvg-logo="" group-title="EX YU",HRT 3
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4543
-#EXTINF:-1 tvg-ID="" tvg-name="B92" tvg-logo="" group-title="EX YU",B92
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8804
-#EXTINF:-1 tvg-ID="" tvg-name="NOVA TV" tvg-logo="" group-title="EX YU",NOVA TV
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4130
-#EXTINF:-1 tvg-ID="" tvg-name="RTL" tvg-logo="" group-title="EX YU",RTL
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4129
-#EXTINF:-1 tvg-ID="" tvg-name="RTL 2" tvg-logo="" group-title="EX YU",RTL 2
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4128
-#EXTINF:-1 tvg-ID="" tvg-name="RTL LIVING" tvg-logo="" group-title="EX YU",RTL LIVING
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4127
-#EXTINF:-1 tvg-ID="" tvg-name="DOMA TV" tvg-logo="" group-title="EX YU",DOMA TV
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4125
-#EXTINF:-1 tvg-ID="" tvg-name="RTRS HQ" tvg-logo="" group-title="EX YU",RTRS HQ
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4570
-#EXTINF:-1 tvg-ID="" tvg-name="RTS 1 HQ" tvg-logo="http://gradina2.info/live/discoveredSKYP/t45tgt4/5.ts" group-title="EX YU",RTS 1 HQ
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4571
-#EXTINF:-1 tvg-ID="" tvg-name="RTS 2 HQ" tvg-logo="" group-title="EX YU",RTS 2 HQ
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4572
-#EXTINF:-1 tvg-ID="" tvg-name="RTRS" tvg-logo="" group-title="EX YU",RTRS
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4120
-#EXTINF:-1 tvg-ID="" tvg-name="RTS 1" tvg-logo="" group-title="EX YU",RTS 1
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4119
-#EXTINF:-1 tvg-ID="" tvg-name="RTS 2" tvg-logo="" group-title="EX YU",RTS 2
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4118
-#EXTINF:-1 tvg-ID="" tvg-name="PRVA" tvg-logo="" group-title="EX YU",PRVA
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8734
-#EXTINF:-1 tvg-ID="" tvg-name="PRVA PLUS" tvg-logo="" group-title="EX YU",PRVA PLUS
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4116
-#EXTINF:-1 tvg-ID="" tvg-name="PRVA TV" tvg-logo="" group-title="EX YU",PRVA TV
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4117
-#EXTINF:-1 tvg-ID="" tvg-name="PRVA WORLD" tvg-logo="" group-title="EX YU",PRVA WORLD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4115
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY" tvg-logo="" group-title="EX YU",DISCOVERY
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8764
-#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="EX YU",NATIONAL GEOGRAPHIC
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8765
-#EXTINF:-1 tvg-ID="" tvg-name="VIASAT NATURE" tvg-logo="" group-title="EX YU",VIASAT NATURE
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8786
-#EXTINF:-1 tvg-ID="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="EX YU",HISTORY CHANNEL
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8769
 
 #EXTINF:-1,**  EX YU KANALI LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28327.ts
@@ -644,39 +574,3 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 
 #EXTINF:-1,*** LIGA PRVAKA EY-YU test 5
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-
-#EXTINF:-1,*** LIGA PRVAKA EY-YU test 6
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28334.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Adria ex-Yu" tvg-logo="" group-title="ex-Yu",HBO Adria ex-Yu
-http://iptv.neuiptv.live:8080/4UBWoSO5Hj/7wcp9wcgUs/2317
-
-
-#EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
-#EXTINF:-1,BT Sport 1 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
-#EXTINF:-1,BT Sport 1 HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1991.ts
-#EXTINF:-1,BT Sport 2 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14658.ts
-#EXTINF:-1,BT Sport 2 HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1992.ts
-#EXTINF:-1,BT Sport 3 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14659.ts
-#EXTINF:-1,BT Sport 3 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1965.ts
-#EXTINF:-1,BT Sport ESPN UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/2673.ts
-#EXTINF:-1,BT Sport ESPN HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1980.ts
-#EXTINF:-1,BT Sport Extra 1 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14778.ts
-#EXTINF:-1,BT Sport Extra 2 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
-#EXTINF:-1,BT Sport Extra 3 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
-#EXTINF:-1,BT Sport Extra 5 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
-#EXTINF:-1,BT Sport Mosaic 2 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14805.ts
