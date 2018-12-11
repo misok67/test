@@ -2,16 +2,6 @@
 
 #EXTINF:-1,*** LIGA PRVAKA EY-YU
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28334.ts
-#EXTINF:-1,ARENA SPORT 1 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1548
-#EXTINF:-1,ARENA SPORT 2 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1549
-#EXTINF:-1,ARENA SPORT 3 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1550
-#EXTINF:-1,ARENA SPORT 4 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1551
-#EXTINF:-1,ARENA SPORT 5 SRB
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3677
 #EXTINF:-1,Arena Sport 1 Srb
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2284
 #EXTINF:-1,Arena Sport 2 Srb
@@ -23,6 +13,16 @@ http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2281
 #EXTINF:-1,Arena Sport 5 Srb
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2280
 
+#EXTINF:-1,ARENA SPORT 1 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1548
+#EXTINF:-1,ARENA SPORT 2 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1549
+#EXTINF:-1,ARENA SPORT 3 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1550
+#EXTINF:-1,ARENA SPORT 4 SBR
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1551
+#EXTINF:-1,ARENA SPORT 5 SRB
+http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3677
 
 #EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
