@@ -1,158 +1,52 @@
 #EXTM3U
 
-#EXTINF:-1,*** LIGA PRVAKA EY-YU
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28334.ts
-#EXTINF:-1,Arena Sport 1 Srb
-http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2284
-#EXTINF:-1,Arena Sport 2 Srb
-http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2283
-#EXTINF:-1,Arena Sport 3 Srb
-http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2282
-#EXTINF:-1,Arena Sport 4 Srb
-http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2281
-#EXTINF:-1,Arena Sport 5 Srb
-http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/2280
-
-#EXTINF:-1,ARENA SPORT 1 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1548
-#EXTINF:-1,ARENA SPORT 2 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1549
-#EXTINF:-1,ARENA SPORT 3 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1550
-#EXTINF:-1,ARENA SPORT 4 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1551
-#EXTINF:-1,ARENA SPORT 5 SRB
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3677
-
-#EXTINF:-1,*** LIGA PRVAKA STRANI KANALI
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
-#EXTINF:-1,BT Sport 1 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
-#EXTINF:-1,BT Sport 1 HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1991.ts
-#EXTINF:-1,BT Sport 2 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14658.ts
-#EXTINF:-1,BT Sport 2 HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1992.ts
-#EXTINF:-1,BT Sport 3 FHD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14659.ts
-#EXTINF:-1,BT Sport 3 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1965.ts
-#EXTINF:-1,BT Sport ESPN UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/2673.ts
-#EXTINF:-1,BT Sport ESPN HD UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/1980.ts
-#EXTINF:-1,BT Sport Extra 1 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14778.ts
-#EXTINF:-1,BT Sport Extra 2 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
-#EXTINF:-1,BT Sport Extra 3 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
-#EXTINF:-1,BT Sport Extra 5 UK
-http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
-#EXTINF:-1,|DE|Sky_Sport_1_HD
-http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4150
-#EXTINF:-1,|DE|Sky_SPort_1_SD
-http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4149
-#EXTINF:-1,|DE|Sky_Sport_2_HD
-http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4148
-#EXTINF:-1,|DE|SKY_SPORT_2_SD
-http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4147
-#EXTINF:-1,beIN SPORTS 11 HD
-http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/550
-#EXTINF:-1,beIN SPORTS 12 HD
-http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/549
-#EXTINF:-1,|NL| Ziggo Sport Select
-http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/1119
-#EXTINF:-1,|NL| Ziggo Sport VOETBAL
-http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/1118
-#EXTINF:-1,|IT| Sky Sport Arena
-http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2861
-#EXTINF:-1,|IT| SKY SPORT Football
-http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2860
-
-#EXTINF:-1,Uk- Sky BT Sport 2 HD
-http://smart-hdip.com:6204/zamir/zamir/8580
-#EXTINF:-1,Uk- Sky BT Sport 3 HD
-http://smart-hdip.com:6204/zamir/zamir/10166
-#EXTINF:-1,Uk- Sky BT Sports Extra 1
-http://smart-hdip.com:6204/zamir/zamir/8581
-#EXTINF:-1,Uk- Sky BT Sports Extra 2
-http://smart-hdip.com:6204/zamir/zamir/8579
-#EXTINF:-1,Uk- Sky BT Sports Extra 3
-http://smart-hdip.com:6204/zamir/zamir/8578
-#EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
-http://smart-hdip.com:6204/zamir/zamir/8577
-#EXTINF:-1,De- DAZN  1 FHD
-http://smart-hdip.com:6204/zamir/zamir/12339
-#EXTINF:-1,De- DAZN  2 FHD
-http://smart-hdip.com:6204/zamir/zamir/12338
-#EXTINF:-1,De- Sky Sport 1 FHD
-http://smart-hdip.com:6204/zamir/zamir/12337
-#EXTINF:-1,De- Sky Sport 1 HD
-http://smart-hdip.com:6204/zamir/zamir/12336
-#EXTINF:-1,De- Sky Sport 2
-http://smart-hdip.com:6204/zamir/zamir/12332
-#EXTINF:-1,De- Sky Sport 2 FHD
-http://smart-hdip.com:6204/zamir/zamir/12334
-#EXTINF:-1,De- Sky Sport 2 HD
-http://smart-hdip.com:6204/zamir/zamir/12333
-#EXTINF:-1,Bein Sport HD11 EN 1080i
-http://smart-hdip.com:6204/zamir/zamir/188
-#EXTINF:-1,Bein Sport HD12 EN 1080i
-http://smart-hdip.com:6204/zamir/zamir/189
-#EXTINF:-1,NL- EDGE Sport HD NL
-http://smart-hdip.com:6204/zamir/zamir/11062
-#EXTINF:-1,NL- Ziggo Sport Voetbal
-http://smart-hdip.com:6204/zamir/zamir/9517
-#EXTINF:-1,NL- Ziggo Sport Select HD
-http://smart-hdip.com:6204/zamir/zamir/9518
-#EXTINF:-1,NL- Ziggo Sport Golf
-http://smart-hdip.com:6204/zamir/zamir/9520
-#EXTINF:-1,NL- Ziggo Sport Racing
-http://smart-hdip.com:6204/zamir/zamir/9519
-#EXTINF:-1,Tr- Bein Sport 1 HD
-http://smart-hdip.com:6204/zamir/zamir/11182
-#EXTINF:-1,Tr- Bein Sport 2 HD
-http://smart-hdip.com:6204/zamir/zamir/2003
-#EXTINF:-1,Tr- Bein Sport 3 HD
-http://smart-hdip.com:6204/zamir/zamir/11181
-
-
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-#EXTINF:-1,Sport Klub 1
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1967
-#EXTINF:-1,Sport Klub 2
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1968
-#EXTINF:-1,SPORT KLUB 3
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/2100
-#EXTINF:-1,SPORT KLUB 4 HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3678
-#EXTINF:-1,SPORT KLUB 5 HD
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3679
-#EXTINF:-1,ARENA SPORT 1 HR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1543
-#EXTINF:-1,ARENA SPORT 1 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1548
-#EXTINF:-1,ARENA SPORT 2 HR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1544
-#EXTINF:-1,ARENA SPORT 2 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1549
-#EXTINF:-1,ARENA SPORT 3 HR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1545
-#EXTINF:-1,ARENA SPORT 3 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1550
-#EXTINF:-1,ARENA SPORT 4 HR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1546
-#EXTINF:-1,ARENA SPORT 4 SBR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1551
-#EXTINF:-1,ARENA SPORT 5 HR
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/1547
-#EXTINF:-1,ARENA SPORT 5 SRB
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/3677
-#EXTINF:-1,VIP HNTV
-http://orbit-iptv.com:2500/nicole-1200101/nicole-1200101/18194
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB HD" |,SPORT KLUB HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26913.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1 HD" |,SPORT KLUB 1 HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26912.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1 SR" |,SPORT KLUB 1 SR
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26911.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 HD" |,SPORT KLUB 2 HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26910.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 SR" |,SPORT KLUB 2 SR
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26909.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 HD" |,SPORT KLUB 3 HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26908.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 SR" |,SPORT KLUB 3 SR
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26907.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4" |,SPORT KLUB 4
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26906.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5" |,SPORT KLUB 5
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26905.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 6" |,SPORT KLUB 6 
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HD" |,ARENA SPORT 1 HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26929.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 SR" |,ARENA SPORT 1 SR
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26928.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 SR HD" |,ARENA SPORT 1 SR HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26927.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HD" |,ARENA SPORT 2 HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26926.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 SR" |,ARENA SPORT 2 SR
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26925.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 SR HD" |,ARENA SPORT 2 SR HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26924.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HD" |,ARENA SPORT 3 HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26923.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SR" |,ARENA SPORT 3 SR
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26922.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SR HD" |,ARENA SPORT 3 SR HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26921.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HD" |,ARENA SPORT 4 HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26920.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 SR" |,ARENA SPORT 4 SR
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26919.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 SR HD" |,ARENA SPORT 4 SR HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26918.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HD" |,ARENA SPORT 5 HD
+http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26917.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
@@ -616,8 +510,105 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
 #EXTINF:-1,*** EX-YU test 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283121.ts
 
+#EXTINF:-1,*** LIGA PRVAKA EY-YU
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28334.ts
+
 #EXTINF:-1,*** LIGA PRVAKA EY-YU test 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 
 #EXTINF:-1,*** LIGA PRVAKA EY-YU test 5
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
+
+#EXTINF:-1,*** SPORT STRANI
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
+#EXTINF:-1,BT Sport 1 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14657.ts
+#EXTINF:-1,BT Sport 1 HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1991.ts
+#EXTINF:-1,BT Sport 2 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14658.ts
+#EXTINF:-1,BT Sport 2 HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1992.ts
+#EXTINF:-1,BT Sport 3 FHD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14659.ts
+#EXTINF:-1,BT Sport 3 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1965.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/2673.ts
+#EXTINF:-1,BT Sport ESPN HD UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/1980.ts
+#EXTINF:-1,BT Sport Extra 1 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14778.ts
+#EXTINF:-1,BT Sport Extra 2 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14809.ts
+#EXTINF:-1,BT Sport Extra 3 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14808.ts
+#EXTINF:-1,BT Sport Extra 5 UK
+http://clientportal.link:80/live/Nikki/XG1eeu6/14806.ts
+#EXTINF:-1,|DE|Sky_Sport_1_HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4150
+#EXTINF:-1,|DE|Sky_SPort_1_SD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4149
+#EXTINF:-1,|DE|Sky_Sport_2_HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4148
+#EXTINF:-1,|DE|SKY_SPORT_2_SD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/4147
+#EXTINF:-1,beIN SPORTS 11 HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/550
+#EXTINF:-1,beIN SPORTS 12 HD
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/549
+#EXTINF:-1,|NL| Ziggo Sport Select
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/1119
+#EXTINF:-1,|NL| Ziggo Sport VOETBAL
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/1118
+#EXTINF:-1,|IT| Sky Sport Arena
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2861
+#EXTINF:-1,|IT| SKY SPORT Football
+http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2860
+
+#EXTINF:-1,Uk- Sky BT Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/8580
+#EXTINF:-1,Uk- Sky BT Sport 3 HD
+http://smart-hdip.com:6204/zamir/zamir/10166
+#EXTINF:-1,Uk- Sky BT Sports Extra 1
+http://smart-hdip.com:6204/zamir/zamir/8581
+#EXTINF:-1,Uk- Sky BT Sports Extra 2
+http://smart-hdip.com:6204/zamir/zamir/8579
+#EXTINF:-1,Uk- Sky BT Sports Extra 3
+http://smart-hdip.com:6204/zamir/zamir/8578
+#EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
+http://smart-hdip.com:6204/zamir/zamir/8577
+#EXTINF:-1,De- DAZN  1 FHD
+http://smart-hdip.com:6204/zamir/zamir/12339
+#EXTINF:-1,De- DAZN  2 FHD
+http://smart-hdip.com:6204/zamir/zamir/12338
+#EXTINF:-1,De- Sky Sport 1 FHD
+http://smart-hdip.com:6204/zamir/zamir/12337
+#EXTINF:-1,De- Sky Sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/12336
+#EXTINF:-1,De- Sky Sport 2
+http://smart-hdip.com:6204/zamir/zamir/12332
+#EXTINF:-1,De- Sky Sport 2 FHD
+http://smart-hdip.com:6204/zamir/zamir/12334
+#EXTINF:-1,De- Sky Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/12333
+#EXTINF:-1,Bein Sport HD11 EN 1080i
+http://smart-hdip.com:6204/zamir/zamir/188
+#EXTINF:-1,Bein Sport HD12 EN 1080i
+http://smart-hdip.com:6204/zamir/zamir/189
+#EXTINF:-1,NL- EDGE Sport HD NL
+http://smart-hdip.com:6204/zamir/zamir/11062
+#EXTINF:-1,NL- Ziggo Sport Voetbal
+http://smart-hdip.com:6204/zamir/zamir/9517
+#EXTINF:-1,NL- Ziggo Sport Select HD
+http://smart-hdip.com:6204/zamir/zamir/9518
+#EXTINF:-1,NL- Ziggo Sport Golf
+http://smart-hdip.com:6204/zamir/zamir/9520
+#EXTINF:-1,NL- Ziggo Sport Racing
+http://smart-hdip.com:6204/zamir/zamir/9519
+#EXTINF:-1,Tr- Bein Sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/11182
+#EXTINF:-1,Tr- Bein Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/2003
+#EXTINF:-1,Tr- Bein Sport 3 HD
+http://smart-hdip.com:6204/zamir/zamir/11181
