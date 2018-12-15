@@ -42,8 +42,27 @@ http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/586
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/585
 #EXTINF:-1,HNTV
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/200
+
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu | Sport Klub 1" tvg-logo="" group-title="Ex-Yu",Ex Yu | Sport Klub 1
+http://si-red.com:8080/kutay/140918/21311
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu | Sport Klub 2" tvg-logo="" group-title="Ex-Yu",Ex Yu | Sport Klub 2
+http://si-red.com:8080/kutay/140918/21310
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu | Sport Klub 3" tvg-logo="" group-title="Ex-Yu",Ex Yu | Sport Klub 3
+http://si-red.com:8080/kutay/140918/21309
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu | Sport Klub 4" tvg-logo="" group-title="Ex-Yu",Ex Yu | Sport Klub 4
+http://si-red.com:8080/kutay/140918/21308
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu | Arena Sport 1 (SRB)" tvg-logo="" group-title="Ex-Yu",Ex-Yu | Arena Sport 1 (SRB)
+http://si-red.com:8080/kutay/140918/21300
+#EXTINF:-1 tvg-id="" tvg-name="Ex-yu | Arena Sport 2 Srb" tvg-logo="" group-title="Ex-Yu",Ex-yu | Arena Sport 2 Srb
+http://si-red.com:8080/kutay/140918/21307
+#EXTINF:-1 tvg-id="" tvg-name="Ex-yu | Arena Sport 3 Srb" tvg-logo="" group-title="Ex-Yu",Ex-yu | Arena Sport 3 Srb
+http://si-red.com:8080/kutay/140918/21306
+#EXTINF:-1 tvg-id="" tvg-name="Ex-yu | Arena Sport 4 Srb" tvg-logo="" group-title="Ex-Yu",Ex-yu | Arena Sport 4 Srb
+http://si-red.com:8080/kutay/140918/21305
+#EXTINF:-1 tvg-id="" tvg-name="Ex-yu | Arena Sport 5 Srb" tvg-logo="" group-title="Ex-Yu",Ex-yu | Arena Sport 5 Srb
+http://si-red.com:8080/kutay/140918/21304
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
