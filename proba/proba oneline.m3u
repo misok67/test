@@ -2,54 +2,6 @@
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB HD" |,SPORT KLUB HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26913.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1 HD" |,SPORT KLUB 1 HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26912.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1 SR" |,SPORT KLUB 1 SR
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26911.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 HD" |,SPORT KLUB 2 HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26910.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 SR" |,SPORT KLUB 2 SR
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26909.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 HD" |,SPORT KLUB 3 HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26908.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 SR" |,SPORT KLUB 3 SR
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26907.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4" |,SPORT KLUB 4
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26906.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5" |,SPORT KLUB 5
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26905.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 6" |,SPORT KLUB 6 
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HD" |,ARENA SPORT 1 HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26929.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 SR" |,ARENA SPORT 1 SR
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26928.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 SR HD" |,ARENA SPORT 1 SR HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26927.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HD" |,ARENA SPORT 2 HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26926.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 SR" |,ARENA SPORT 2 SR
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26925.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 SR HD" |,ARENA SPORT 2 SR HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26924.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HD" |,ARENA SPORT 3 HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26923.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SR" |,ARENA SPORT 3 SR
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26922.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SR HD" |,ARENA SPORT 3 SR HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26921.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HD" |,ARENA SPORT 4 HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26920.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 SR" |,ARENA SPORT 4 SR
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26919.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 SR HD" |,ARENA SPORT 4 SR HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26918.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HD" |,ARENA SPORT 5 HD
-http://tvservice.pro:80/live/3victor0930magic02/vugQaNWbam/26917.ts
-
-#EXTINF:-1,*** SPORT EX-YU LISTA 2
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
 #EXTINF:-1,Sport Klub 1 SRB
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/592
 #EXTINF:-1,Sport Klub HD 1 Srb
@@ -90,6 +42,8 @@ http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/586
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/585
 #EXTINF:-1,HNTV
 http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/200
+#EXTINF:-1,*** SPORT EX-YU LISTA 2
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
