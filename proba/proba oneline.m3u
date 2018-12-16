@@ -20,49 +20,91 @@ http://formen1.com:8080/turbo123/123turbo/16821
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 1 HD sr" tvg-logo="" ,Sport Klub 1 HD sr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5437
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 2 HD sr" tvg-logo="" ,Sport Klub 2 HD sr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5436
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 3 HD sr" tvg-logo="" ,Sport Klub 3 HD sr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5435
-#EXTINF:-1 tvg-ID="" tvg-name="Sportklub" tvg-logo="" ,Sportklub
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5434
-#EXTINF:-1 tvg-ID="" tvg-name="sportklub1hr" tvg-logo="" ,sportklub1hr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5433
-#EXTINF:-1 tvg-ID="" tvg-name="sportklub2hr" tvg-logo="" ,sportklub2hr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5432
-#EXTINF:-1 tvg-ID="" tvg-name="sportklub3hr" tvg-logo="" ,sportklub3hr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5431
-#EXTINF:-1 tvg-ID="" tvg-name="sportklub4sr" tvg-logo="" ,sportklub4sr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5430
-#EXTINF:-1 tvg-ID="" tvg-name="sportklub5sr" tvg-logo="" ,sportklub5sr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5429
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 HD hr" tvg-logo="" ,Arena Sport 1 HD hr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5576
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 HD sr" tvg-logo="" ,Arena Sport 1 HD sr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5575
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 HD sr" tvg-logo="" ,Arena Sport 2 HD sr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5574
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 hr" tvg-logo="" ,Arena Sport 2 hr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5573
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 HD sr" tvg-logo="" ,Arena Sport 3 HD sr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5572
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 hr" tvg-logo="" ,Arena Sport 3 hr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5571
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 HD sr" tvg-logo="" ,Arena Sport 4 HD sr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5570
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 hr" tvg-logo="" ,Arena Sport 4 hr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5569
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5 HD sr" tvg-logo="" ,Arena Sport 5 HD sr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5568
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5 hr" tvg-logo="" ,Arena Sport 5 hr
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5567
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 6" tvg-logo="" ,Arena Sport 6
-http://francebsatfullhd.dyndns.tv:8000/mazz20252GB6d/x4KbB8aXHE/5566
+#EXTINF:-1 tvg-id="Sport Klub 1 SLO" tvg-name="Sport Klub 1" tvg-logo="http://i.imgur.com/uERspEl.png" group-title="Europe Sports",Sport Klub 1
+http://giantofthefuture.gleeze.com:8880/mariafernanda/mariafernanda/1475
+#EXTINF:-1 tvg-id="Sport Klub 2 HR" tvg-name="Sport Klub 2" tvg-logo="http://i.imgur.com/48Ra4Nz.png" group-title="Europe Sports",Sport Klub 2
+http://giantofthefuture.gleeze.com:8880/mariafernanda/mariafernanda/1473
+#EXTINF:-1 tvg-id="Sport Klub 3 SLO" tvg-name="Sport Klub 3" tvg-logo="http://i.imgur.com/NnKFTlV.png" group-title="Europe Sports",Sport Klub 3
+http://giantofthefuture.gleeze.com:8880/mariafernanda/mariafernanda/1474
+#EXTINF:-1 tvg-id="Sport Klub 4" tvg-name="Sport Klub 4" tvg-logo="http://i.imgur.com/osaygMf.png" group-title="Europe Sports",Sport Klub 4
+http://giantofthefuture.gleeze.com:8880/mariafernanda/mariafernanda/1472
+#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Arena Sport 1" tvg-logo="http://i.imgur.com/SGDjE6s.png" group-title="Europe Sports",Arena Sport 1
+http://giantofthefuture.gleeze.com:8880/mariafernanda/mariafernanda/1453
+#EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="Arena Sport 2" tvg-logo="http://i.imgur.com/UkcNf6I.png" group-title="Europe Sports",Arena Sport 2
+http://giantofthefuture.gleeze.com:8880/mariafernanda/mariafernanda/1454
+#EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="Arena Sport 3" tvg-logo="http://i.imgur.com/2zG2pKX.png" group-title="Europe Sports",Arena Sport 3
+http://giantofthefuture.gleeze.com:8880/mariafernanda/mariafernanda/1455
+#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="Arena Sport 4" tvg-logo="http://i.imgur.com/ziyDCBS.png" group-title="Europe Sports",Arena Sport 4
+http://giantofthefuture.gleeze.com:8880/mariafernanda/mariafernanda/1456
+#EXTINF:-1 tvg-id="Arena Sport 5" tvg-name="Arena Sport 5" tvg-logo="http://i.imgur.com/cG2Vl3v.png" group-title="Europe Sports",Arena Sport 5
+http://giantofthefuture.gleeze.com:8880/mariafernanda/mariafernanda/1457
+
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
+#EXTINF:-1,Sport Klub 1
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13832.ts
+#EXTINF:-1,Sport Klub 2
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13833.ts
+#EXTINF:-1,Sport Klub 3
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13834.ts
+#EXTINF:-1,Sport Klub 4
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13829.ts
+#EXTINF:-1,Sport Klub 5
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13830.ts
+#EXTINF:-1,Sport Klub 6
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13831.ts
+#EXTINF:-1,Sport Klub 1 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1440.ts
+#EXTINF:-1,Sport Klub 2
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1441.ts
+#EXTINF:-1,Sport Klub 3 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1442.ts
+#EXTINF:-1,Sport Klub 1 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17252.ts
+#EXTINF:-1,Sport Klub 2 FHD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17254.ts
+#EXTINF:-1,Sport Klub 4
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17249.ts
+#EXTINF:-1,Sport Klub 5
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17250.ts
+#EXTINF:-1,Sport Klub 6
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17251.ts
+#EXTINF:-1,Sport Klub 2 FHD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17257.ts
+#EXTINF:-1,Sport Klub 3 FHD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17258.ts
+#EXTINF:-1,Arena Sport 1
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1436.ts
+#EXTINF:-1,Arena Sport 2
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1437.ts
+#EXTINF:-1,Arena Sport 3
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1438.ts
+#EXTINF:-1,Arena Sport 4
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1439.ts
+#EXTINF:-1,Arena Sport 4 FHD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17915.ts
+#EXTINF:-1,Arena Sport 5
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13827.ts
+#EXTINF:-1,Arena Sport 6 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13828.ts
+#EXTINF:-1,Arena Sport 2 FHD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17914.ts
+#EXTINF:-1,Arena Sport 3 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17916.ts
+#EXTINF:-1,Arena Sport 1
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3182.ts
+#EXTINF:-1,Arena Sport 2 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3183.ts
+#EXTINF:-1,Arena Sport 3
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3184.ts
+#EXTINF:-1,Arena Sport 4
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3185.ts
+#EXTINF:-1,Arena Sport 5
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3186.ts
+#EXTINF:-1,HNTV
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13771.ts
+
 
 #EXTINF:-1,*** SPORT STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28324.ts
@@ -120,108 +162,180 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
 
 #EXTINF:-1,**  EX YU KANALI LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-#EXTINF:-1,HBO 1 HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10628
-#EXTINF:-1,HBO 2 HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10627
-#EXTINF:-1,HBO 3 HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10626
-#EXTINF:-1,cinemax
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10659
-#EXTINF:-1,CINESTAR TV
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10658
-#EXTINF:-1,Cinestar Action
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10657
-#EXTINF:-1,Cinestar Premiere 1 HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10656
-#EXTINF:-1,Cinestar Premiere 2 HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10655
-#EXTINF:-1,CINESTAR FANTASY
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10654
-#EXTINF:-1,Klasik tv
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10611
-#EXTINF:-1,FilmboxHD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10640
-#EXTINF:-1,Fox Crime HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10639
-#EXTINF:-1,Fox HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10638
-#EXTINF:-1,Fox Life HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10637
-#EXTINF:-1,Fox Movies HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10636
-#EXTINF:-1,M1 Film
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10609
-#EXTINF:-1,M1 Gold
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10608
+#EXTINF:-1,HBO
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1452.ts
+#EXTINF:-1,HBO 2
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1453.ts
+#EXTINF:-1,HBO 3
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13806.ts
+#EXTINF:-1,CineStar TV
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13794.ts
+#EXTINF:-1,CineStar TV Action
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3180.ts
+#EXTINF:-1,CineStar Premiere 1 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1468.ts
+#EXTINF:-1,CineStar Premiere 2 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1469.ts
+#EXTINF:-1,Cinemax HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2022.ts
+#EXTINF:-1,Cinemax 2 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2023.ts
+#EXTINF:-1,FilmBox Plus
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13773.ts
+#EXTINF:-1,FilmBox Extra
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13805.ts
+#EXTINF:-1,FOX
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1448.ts
+#EXTINF:-1,FOX Movies
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1451.ts
+#EXTINF:-1,FOX Life
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1450.ts
+#EXTINF:-1,FOX Crime
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1449.ts
+#EXTINF:-1,Klasik TV
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3194.ts
 #EXTINF:-1,TV 1000
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10524
-#EXTINF:-1,Hrt 1
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10622
-#EXTINF:-1,Hrt 2
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10621
-#EXTINF:-1,Hrt 3
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10620
-#EXTINF:-1,Nova HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10598
-#EXTINF:-1,Nova tv
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10597
-#EXTINF:-1,Nova World
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10596
-#EXTINF:-1,domatv
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10645
-#EXTINF:-1,Domatv HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10644
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/11275.ts
+#EXTINF:-1,Max Select 1 HD HR
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/20146.ts
+#EXTINF:-1,Max Select 2 HD HR
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/20147.ts
+#EXTINF:-1,Max Select 3 HD HR
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/20148.ts
+#EXTINF:-1,Max Select 4 HD HR
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/20149.ts
+#EXTINF:-1,Max Select 5 HD HR
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/20150.ts
+#EXTINF:-1,Max Select 6 HD HR
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/20151.ts
+#EXTINF:-1,Max Select 7 HD HR
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/20152.ts
+#EXTINF:-1,Max Select 8 HD HR
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/20153.ts
+#EXTINF:-1,Max Select 9 HD HR
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/20154.ts
+
+
+#EXTINF:-1,HRT 1
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1455.ts
+#EXTINF:-1,HRT 2
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1456.ts
+#EXTINF:-1,HRT 3
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2027.ts
+#EXTINF:-1,Nova TV
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1457.ts
 #EXTINF:-1,RTL
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10551
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1461.ts
 #EXTINF:-1,RTL 2
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10550
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3166.ts
 #EXTINF:-1,RTL Crime
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10549
-#EXTINF:-1,RTL Living
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10547
-#EXTINF:-1,RTL Pasion
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10546
-#EXTINF:-1,Rts 1
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10545
-#EXTINF:-1,Rts 2
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10544
-#EXTINF:-1,Rts 3
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10543
-#EXTINF:-1,Prva
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10558
-#EXTINF:-1,Prva Max
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10557
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13815.ts
+#EXTINF:-1,RTL Passion
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/11274.ts
+#EXTINF:-1,Doma TV
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1446.ts
+
+#EXTINF:-1,RTS HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2026.ts
+#EXTINF:-1,RTS 1
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1463.ts
+#EXTINF:-1,RTS 2
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1464.ts
+#EXTINF:-1,RTS 3
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13816.ts
+#EXTINF:-1,RTRS
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/6566.ts
+#EXTINF:-1,RTRS Plus
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13790.ts
+#EXTINF:-1,Prva TV
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1460.ts
 #EXTINF:-1,Prva Plus
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10556
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/1459.ts
 #EXTINF:-1,Prva World
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10555
-#EXTINF:-1,RTCG 1
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10554
-#EXTINF:-1,RTCG 2
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10553
-#EXTINF:-1,Animal Planet HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10678
-#EXTINF:-1,DISCOVERY SCIENCE
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10650
-#EXTINF:-1,Discovery Channel
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10649
-#EXTINF:-1,Docu Box
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10646
-#EXTINF:-1,History 2 HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10625
-#EXTINF:-1,History HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10624
-#EXTINF:-1,National Geographic HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10601
-#EXTINF:-1,National Geographic Wild HD
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10600
-#EXTINF:-1,Viasat Explorer  5h-23h
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10521
-#EXTINF:-1,viasathistory
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10520
-#EXTINF:-1,viasatnature
-http://azaad4you.ddns.net:8000/9906824628815/9906824628815/10519
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13798.ts
+#EXTINF:-1,Prva MAX
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17260.ts
+#EXTINF:-1,RTS Svet
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/19812.ts
+#EXTINF:-1,RTV 1
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13762.ts
+#EXTINF:-1,Studio B
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/11287.ts
+#EXTINF:-1,Happy TV
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3192.ts
+
+
+#EXTINF:-1,Pink Action
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2041.ts
+#EXTINF:-1,Pink Comedy
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2045.ts
+#EXTINF:-1,Pink Crime & Mystery
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2039.ts
+#EXTINF:-1,Pink Classic
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/19587.ts
+#EXTINF:-1,Pink Film
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3199.ts
+#EXTINF:-1,Pink World Cinema
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/5602.ts
+#EXTINF:-1,Pink Plus
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3198.ts
+#EXTINF:-1,Pink Premium
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2029.ts
+#EXTINF:-1,Pink Romance
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/3200.ts
+#EXTINF:-1,Pink Sci-fi & Fantasy
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2031.ts
+#EXTINF:-1,Pink Thriller
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2040.ts
+#EXTINF:-1,Pink Western
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/2050.ts
+#EXTINF:-1,Pink Movies
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13758.ts
+#EXTINF:-1,Pop Oto SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/13791.ts
+#EXTINF:-1,FTV BA
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/6087.ts
+#EXTINF:-1,TOP Kanal
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/19166.ts
+
+#EXTINF:-1,N1
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/16818.ts
+#EXTINF:-1,Brio SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/16819.ts
+#EXTINF:-1,Pop TV SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/16820.ts
+#EXTINF:-1,Sport Klub 2 SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/16821.ts
+#EXTINF:-1,Sport Klub 3 SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/16822.ts
+#EXTINF:-1,Sport Klub 1 SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/16823.ts
+#EXTINF:-1,Pink LOL
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/16610.ts
+#EXTINF:-1,Pink HAHA
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/16611.ts
+
+#EXTINF:-1,HBO 2 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17920.ts
+#EXTINF:-1,HBO 3 HD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17918.ts
+#EXTINF:-1,HBO FHD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17919.ts
+#EXTINF:-1,Sport Klub 3 FHD
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/17917.ts
+
+#EXTINF:-1,Kanal A SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/19614.ts
+#EXTINF:-1,Planet TV HD SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/19617.ts
+#EXTINF:-1,Pop Brio SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/19615.ts
+#EXTINF:-1,Pop Kino SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/19616.ts
+#EXTINF:-1,TV Slovenija 1 SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/19611.ts
+#EXTINF:-1,TV Slovenija 2 SI
+http://clientportal.link:80/live/FvdlZAY985/C2pJrV395/19612.ts
 
 
 #EXTINF:-1,**  EX YU KANALI LISTA 2
