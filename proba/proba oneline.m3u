@@ -2,7 +2,7 @@
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 1" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 1
+#EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 1" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 1
 http://formen1.com:8080/turbo123/123turbo/16828
 #EXTINF:-1 tvg-ID="" tvg-name="EX YU: SPORT KLUB 2" tvg-logo="" group-title="EX-YU",EX YU: SPORT KLUB 2
 http://formen1.com:8080/turbo123/123turbo/16827
