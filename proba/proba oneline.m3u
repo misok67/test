@@ -24,80 +24,106 @@ http://formen1.com:8080/turbo123/123turbo/16821
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 1 HD Cro" tvg-logo="" group-title="EX-YU",Ex-Yu: Sport Klub 1 HD Cro
-http://iptvtool.es:9977/alba12/alba12/52859
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 2 HD Cro" tvg-logo="" group-title="EX-YU",Ex-Yu: Sport Klub 2 HD Cro
-http://iptvtool.es:9977/alba12/alba12/52858
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 3 HD Cro" tvg-logo="" group-title="EX-YU",Ex-Yu: Sport Klub 3 HD Cro
-http://iptvtool.es:9977/alba12/alba12/52857
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub HD 1 Srb" tvg-logo="" group-title="EX-YU",Ex-Yu: Sport Klub HD 1 Srb
-http://iptvtool.es:9977/alba12/alba12/52856
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub HD 2 Srb" tvg-logo="" group-title="EX-YU",Ex-Yu: Sport Klub HD 2 Srb
-http://iptvtool.es:9977/alba12/alba12/52855
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub HD 3 Srb" tvg-logo="" group-title="EX-YU",Ex-Yu: Sport Klub HD 3 Srb
-http://iptvtool.es:9977/alba12/alba12/52854
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 1 HD Cro" tvg-logo="" group-title="EX-YU",Ex-Yu: Arena Sport 1 HD Cro
-http://iptvtool.es:9977/alba12/alba12/52980
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 1 Srb" tvg-logo="" group-title="EX-YU",Ex-Yu: Arena Sport 1 Srb
-http://iptvtool.es:9977/alba12/alba12/52979
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 2 HD Cro" tvg-logo="" group-title="EX-YU",Ex-Yu: Arena Sport 2 HD Cro
-http://iptvtool.es:9977/alba12/alba12/52978
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 2 Srb" tvg-logo="" group-title="EX-YU",Ex-Yu: Arena Sport 2 Srb
-http://iptvtool.es:9977/alba12/alba12/52977
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 3 HD Cro" tvg-logo="" group-title="EX-YU",Ex-Yu: Arena Sport 3 HD Cro
-http://iptvtool.es:9977/alba12/alba12/52976
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 3 Srb" tvg-logo="" group-title="EX-YU",Ex-Yu: Arena Sport 3 Srb
-http://iptvtool.es:9977/alba12/alba12/52975
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 4 HD Cro" tvg-logo="" group-title="EX-YU",Ex-Yu: Arena Sport 4 HD Cro
-http://iptvtool.es:9977/alba12/alba12/52974
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 4 Srb" tvg-logo="" group-title="EX-YU",Ex-Yu: Arena Sport 4 Srb
-http://iptvtool.es:9977/alba12/alba12/52973
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 5 HD Cro" tvg-logo="" group-title="EX-YU",Ex-Yu: Arena Sport 5 HD Cro
-http://iptvtool.es:9977/alba12/alba12/52972
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Arena Sport 5 Srb" tvg-logo="" group-title="EX-YU",Ex-Yu: Arena Sport 5 Srb
-http://iptvtool.es:9977/alba12/alba12/52971
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/14113.ts
+#EXTINF:-1,EX-YU: Sport Klub 1 HR
+http://diamond.cybergroup.top:15800/live/Willy/1234/14112.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/14111.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 2 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/14110.ts
+#EXTINF:-1,EX-YU: Sport Klub 2 HR
+http://diamond.cybergroup.top:15800/live/Willy/1234/14109.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 3
+http://diamond.cybergroup.top:15800/live/Willy/1234/14108.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/14107.ts
+#EXTINF:-1,EX-YU: Sport Klub 3 HR
+http://diamond.cybergroup.top:15800/live/Willy/1234/14106.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 4
+http://diamond.cybergroup.top:15800/live/Willy/1234/14105.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 5
+http://diamond.cybergroup.top:15800/live/Willy/1234/14104.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 6
+http://diamond.cybergroup.top:15800/live/Willy/1234/14103.ts
+#EXTINF:-1,EX-YU: SPORT TV 1 HD SLO
+http://diamond.cybergroup.top:15800/live/Willy/1234/14102.ts
+#EXTINF:-1,EX-YU: SPORT TV 2 HD SLO
+http://diamond.cybergroup.top:15800/live/Willy/1234/14101.ts
+#EXTINF:-1,EX-YU: SPORT TV 3 HD SLO
+http://diamond.cybergroup.top:15800/live/Willy/1234/14100.ts
+#EXTINF:-1,EX-YU: Sportal TV HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/14099.ts
+#EXTINF:-1,EX-YU: SPORTKLUB 1 HD SLO
+http://diamond.cybergroup.top:15800/live/Willy/1234/14098.ts
+#EXTINF:-1,EX-YU: SPORTKLUB 2 HD SLO
+http://diamond.cybergroup.top:15800/live/Willy/1234/14097.ts
+#EXTINF:-1,EX-YU: SPORTKLUB 3 HD SLO
+http://diamond.cybergroup.top:15800/live/Willy/1234/14096.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HR
+http://diamond.cybergroup.top:15800/live/Willy/1234/14306.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 SRB
+http://diamond.cybergroup.top:15800/live/Willy/1234/14305.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 1 SRB (local)
+http://diamond.cybergroup.top:15800/live/Willy/1234/14304.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HR
+http://diamond.cybergroup.top:15800/live/Willy/1234/14303.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 SRB
+http://diamond.cybergroup.top:15800/live/Willy/1234/14302.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 2 SRB (local)
+http://diamond.cybergroup.top:15800/live/Willy/1234/14301.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HR
+http://diamond.cybergroup.top:15800/live/Willy/1234/14300.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 SRB
+http://diamond.cybergroup.top:15800/live/Willy/1234/14299.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3 SRB (reserve)
+http://diamond.cybergroup.top:15800/live/Willy/1234/14298.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HR
+http://diamond.cybergroup.top:15800/live/Willy/1234/14297.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 SRB
+http://diamond.cybergroup.top:15800/live/Willy/1234/14296.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 SRB (reserve)
+http://diamond.cybergroup.top:15800/live/Willy/1234/14295.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+http://diamond.cybergroup.top:15800/live/Willy/1234/14294.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 SRB
+http://diamond.cybergroup.top:15800/live/Willy/1234/14293.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 5 SRB (reserve)
+http://diamond.cybergroup.top:15800/live/Willy/1234/14292.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 6 HR
+http://diamond.cybergroup.top:15800/live/Willy/1234/14291.ts
 
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 SRB ex-Yu" tvg-logo="" group-title="ex-Yu",Sport Klub 1 SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/592
-#EXTINF:-1 tvg-id="SportKlub 1 ex-Yu" tvg-name="Sport Klub HD 1 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Sport Klub HD 1 Srb ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2279
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 SRB ex-Yu" tvg-logo="" group-title="ex-Yu",Sport Klub 2 SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/591
-#EXTINF:-1 tvg-id="SportKlub 2 ex-Yu" tvg-name="Sport Klub HD 2 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Sport Klub HD 2 Srb ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2278
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 SRB ex-Yu" tvg-logo="" group-title="ex-Yu",Sport Klub 3 SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/590
-#EXTINF:-1 tvg-id="SportKlub 3 ex-Yu" tvg-name="Sport Klub HD 3 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Sport Klub HD 3 Srb ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2277
-#EXTINF:-1 tvg-id="SportKlub 4 ex-Yu" tvg-name="Sport Klub 4 SR ex-Yu" tvg-logo="" group-title="ex-Yu",Sport Klub 4 SR ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1173
-#EXTINF:-1 tvg-id="SportKlub 5 ex-Yu" tvg-name="Sport Klub 5 SR ex-Yu" tvg-logo="" group-title="ex-Yu",Sport Klub 5 SR ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1172
-#EXTINF:-1 tvg-id="SportKlub 6 ex-Yu" tvg-name="Sport Klub 6 SR ex-Yu" tvg-logo="" group-title="ex-Yu",Sport Klub 6 SR ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/1171
-#EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-name="Arena Sport 1 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 1 Srb ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2284
-#EXTINF:-1 tvg-id="Arena Sport 2 ex-Yu" tvg-name="Arena Sport 2 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 2 Srb ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2283
-#EXTINF:-1 tvg-id="Arena Sport 3 ex-Yu" tvg-name="Arena Sport 3 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 3 Srb ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2282
-#EXTINF:-1 tvg-id="Arena Sport 4 ex-Yu" tvg-name="Arena Sport 4 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 4 Srb ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2281
-#EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-name="Arena Sport 5 Srb ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 5 Srb ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2280
-#EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-name="Arena Sport 1 HR HD ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 1 HR HD ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/589
-#EXTINF:-1 tvg-id="Arena Sport 2 ex-Yu" tvg-name="Arena Sport 2 HR HD ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 2 HR HD ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/588
-#EXTINF:-1 tvg-id="Arena Sport 3 ex-Yu" tvg-name="Arena Sport 3 HR HD ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 3 HR HD ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/587
-#EXTINF:-1 tvg-id="Arena Sport 4 ex-Yu" tvg-name="Arena Sport 4 HR HD ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 4 HR HD ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/586
-#EXTINF:-1 tvg-id="Arena Sport 5 ex-Yu" tvg-name="Arena Sport 5 HR HD ex-Yu" tvg-logo="" group-title="ex-Yu",Arena Sport 5 HR HD ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/585
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HD CRO
+http://server.internext.tv:8080/lahore/lahore/36056
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HD CRO
+http://server.internext.tv:8080/lahore/lahore/36055
+#EXTINF:-1,EX-YU: SPORT KLUB HD 1 SRB
+http://server.internext.tv:8080/lahore/lahore/36058
+#EXTINF:-1,EX-YU: SPORT KLUB HD 3 SRB
+http://server.internext.tv:8080/lahore/lahore/36057
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HD CRO
+http://server.internext.tv:8080/lahore/lahore/36104
+#EXTINF:-1,EX-YU: ARENA SPORT 1 SRB
+http://server.internext.tv:8080/lahore/lahore/36099
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HD CRO
+http://server.internext.tv:8080/lahore/lahore/36103
+#EXTINF:-1,EX-YU: ARENA SPORT 2 SRB
+http://server.internext.tv:8080/lahore/lahore/36098
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HD CRO
+http://server.internext.tv:8080/lahore/lahore/36102
+#EXTINF:-1,EX-YU: ARENA SPORT 3 SRB
+http://server.internext.tv:8080/lahore/lahore/36097
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HD CRO
+http://server.internext.tv:8080/lahore/lahore/36101
+#EXTINF:-1,EX-YU: ARENA SPORT 4 SRB
+http://server.internext.tv:8080/lahore/lahore/36096
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HD CRO
+http://server.internext.tv:8080/lahore/lahore/36100
+#EXTINF:-1,EX-YU: ARENA SPORT 5 SRB
+http://server.internext.tv:8080/lahore/lahore/36095
 
 
 #EXTINF:-1,*** SPORT STRANI
@@ -221,95 +247,39 @@ http://formen1.com:8080/turbo123/123turbo/1882
 
 #EXTINF:-1,**  EX YU KANALI LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28327.ts
-#EXTINF:-1 tvg-id="HBO1 ex-Yu" tvg-name="HBO 1 SRB ex-Yu" tvg-logo="" group-title="ex-Yu",HBO 1 SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/4573
-#EXTINF:-1 tvg-id="HBO2 ex-Yu" tvg-name="HBO 2 SRB ex-Yu" tvg-logo="" group-title="ex-Yu",HBO 2 SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/4572
-#EXTINF:-1 tvg-id="HBO3 ex-Yu" tvg-name="HBO 3 SRB ex-Yu" tvg-logo="" group-title="ex-Yu",HBO 3 SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/4571
-#EXTINF:-1 tvg-id="" tvg-name="HBO Adria ex-Yu" tvg-logo="" group-title="ex-Yu",HBO Adria ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2317
-#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy ex-Yu" tvg-logo="" group-title="ex-Yu",HBO Comedy ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2316
-#EXTINF:-1 tvg-id="TV 1000 ex-Yu" tvg-name="TV1000 SRB ex-Yu" tvg-logo="" group-title="ex-Yu",TV1000 SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/4025
-#EXTINF:-1 tvg-id="Cinemax 1 ex-Yu" tvg-name="Cinemax 1 ex-Yu" tvg-logo="" group-title="ex-Yu",Cinemax 1 ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2315
-#EXTINF:-1 tvg-id="Cinemax 2 ex-Yu" tvg-name="Cinemax 2 ex-Yu" tvg-logo="" group-title="ex-Yu",Cinemax 2 ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2314
-#EXTINF:-1 tvg-id="Cinestar Action and Thriller ex-Yu" tvg-name="Cinestar Action SRB ex-Yu" tvg-logo="" group-title="ex-Yu",Cinestar Action SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/4028
-#EXTINF:-1 tvg-id="Cinestar Premiere 1 ex-Yu" tvg-name="Cinestar Premiere 1 ex-Yu" tvg-logo="" group-title="ex-Yu",Cinestar Premiere 1 ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2313
-#EXTINF:-1 tvg-id="Cinestar Premiere 2 ex-Yu" tvg-name="Cinestar Premiere 2 ex-Yu" tvg-logo="" group-title="ex-Yu",Cinestar Premiere 2 ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2312
-#EXTINF:-1 tvg-id="Cinestar TV ex-Yu" tvg-name="Cinestar TV SRB ex-Yu" tvg-logo="" group-title="ex-Yu",Cinestar TV SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/4029
-#EXTINF:-1 tvg-id="Klasik TV ex-Yu" tvg-name="Klasik TV ex-Yu" tvg-logo="" group-title="ex-Yu",Klasik TV ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2335
-#EXTINF:-1 tvg-id="" tvg-name="Film Klub ex-Yu" tvg-logo="" group-title="ex-Yu",Film Klub ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9066
-#EXTINF:-1 tvg-id="" tvg-name="Film Klub Extra ex-Yu" tvg-logo="" group-title="ex-Yu",Film Klub Extra ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9065
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Extra SRB ex-Yu" tvg-logo="" group-title="ex-Yu",Filmbox Extra SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/4027
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Plus SRB ex-Yu" tvg-logo="" group-title="ex-Yu",Filmbox Plus SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/4026
-#EXTINF:-1 tvg-id="" tvg-name="M1 Film ex-Yu" tvg-logo="" group-title="ex-Yu",M1 Film ex-Yu
-#EXTINF:-1 tvg-id="HRT 1 ex-Yu" tvg-name="HRT 1 ex-Yu" tvg-logo="" group-title="ex-Yu",HRT 1 ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/201
-#EXTINF:-1 tvg-id="HRT 3 ex-Yu" tvg-name="HRT 2 ex-Yu" tvg-logo="" group-title="ex-Yu",HRT 2 ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/202
-#EXTINF:-1 tvg-id="HRT 3 ex-Yu" tvg-name="HRT 3 ex-Yu" tvg-logo="" group-title="ex-Yu",HRT 3 ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/203
-#EXTINF:-1 tvg-id="RTL 1 ex-Yu" tvg-name="RTL 1 HR ex-Yu" tvg-logo="" group-title="ex-Yu",RTL 1 HR ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/217
-#EXTINF:-1 tvg-id="RTL 2 ex-Yu" tvg-name="RTL 2 HR ex-Yu" tvg-logo="" group-title="ex-Yu",RTL 2 HR ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/216
-#EXTINF:-1 tvg-id="RTL Crime ex-Yu" tvg-name="RTL Crime ex-Yu" tvg-logo="" group-title="ex-Yu",RTL Crime ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/184
-#EXTINF:-1 tvg-id="RTL Living ex-Yu" tvg-name="RTL Living ex-Yu" tvg-logo="" group-title="ex-Yu",RTL Living ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/219
-#EXTINF:-1 tvg-id="RTL Passion ex-Yu" tvg-name="RTL Passion ex-Yu" tvg-logo="" group-title="ex-Yu",RTL Passion ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/185
-#EXTINF:-1 tvg-id="Doma TV ex-Yu" tvg-name="Doma TV ex-Yu" tvg-logo="" group-title="ex-Yu",Doma TV ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/195
-#EXTINF:-1 tvg-id="" tvg-name="Nova TV HD ex-Yu" tvg-logo="" group-title="ex-Yu",Nova TV HD ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9039
-#EXTINF:-1 tvg-id="" tvg-name="Nova World ex-Yu" tvg-logo="" group-title="ex-Yu",Nova World ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/9038
-#EXTINF:-1 tvg-id="" tvg-name="Nova ex-Yu" tvg-logo="" group-title="ex-Yu",Nova ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/3838
-#EXTINF:-1 tvg-id="Animal Planet ex-Yu" tvg-name="Animal Planet ex-Yu" tvg-logo="" group-title="ex-Yu",Animal Planet ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/190
-#EXTINF:-1 tvg-id="CrimeandInvestigation ex-Yu" tvg-name="Crime & Investigation HD ex-Yu" tvg-logo="" group-title="ex-Yu",Crime & Investigation HD ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2322
-#EXTINF:-1 tvg-id="Discovery Channel ex-Yu" tvg-name="Discovery Channel ex-Yu" tvg-logo="" group-title="ex-Yu",Discovery Channel ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2325
-#EXTINF:-1 tvg-id="" tvg-name="Discovery ID ex-Yu" tvg-logo="" group-title="ex-Yu",Discovery ID ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2324
-#EXTINF:-1 tvg-id="Discovery Science ex-Yu" tvg-name="Discovery Science SRB ex-Yu" tvg-logo="" group-title="ex-Yu",Discovery Science SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/4014
-#EXTINF:-1 tvg-id="" tvg-name="History 2 SRB ex-Yu" tvg-logo="" group-title="ex-Yu",History 2 SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/199
-#EXTINF:-1 tvg-id="History Channel ex-Yu" tvg-name="History Channel ex-Yu" tvg-logo="" group-title="ex-Yu",History Channel ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/2323
-#EXTINF:-1 tvg-id="Viasat Explore ex-Yu" tvg-name="Viasat Explorer ex-Yu" tvg-logo="" group-title="ex-Yu",Viasat Explorer ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/224
-#EXTINF:-1 tvg-id="Viasat History ex-Yu" tvg-name="Viasat History ex-Yu" tvg-logo="" group-title="ex-Yu",Viasat History ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/225
-#EXTINF:-1 tvg-id="Viasat Nature ex-Yu" tvg-name="Viasat Nature ex-Yu" tvg-logo="" group-title="ex-Yu",Viasat Nature ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/226
-#EXTINF:-1 tvg-id="" tvg-name="Docu Box SRB ex-Yu" tvg-logo="" group-title="ex-Yu",Docu Box SRB ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/4569
-#EXTINF:-1 tvg-id="Nat Geo Wild ex-Yu" tvg-name="Nat Geo Wild ex-Yu" tvg-logo="" group-title="ex-Yu",Nat Geo Wild ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/209
-#EXTINF:-1 tvg-id="National Geographic ex-Yu" tvg-name="Nat Geo ex-Yu" tvg-logo="" group-title="ex-Yu",Nat Geo ex-Yu
-http://portal2.geniptv.com:8080/BLaBkZGB20/Txsf1ZkymH/208
-
+#EXTINF:-1,EX-YU: HBO 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/14239.ts
+#EXTINF:-1,EX-YU: HBO 2 SLO
+http://diamond.cybergroup.top:15800/live/Willy/1234/14238.ts
+#EXTINF:-1,EX-YU: HBO 3
+http://diamond.cybergroup.top:15800/live/Willy/1234/14237.ts
+#EXTINF:-1,EX-YU: HBO ADRIA
+http://diamond.cybergroup.top:15800/live/Willy/1234/14236.ts
+#EXTINF:-1,EX-YU: HBO Comedy
+http://diamond.cybergroup.top:15800/live/Willy/1234/14235.ts
+#EXTINF:-1,Ex-YU: HBO HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/14234.ts
+#EXTINF:-1,Ex-YU: HBO HD 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/14233.ts
+#EXTINF:-1,EX-YU: Cinemax HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/14278.ts
+#EXTINF:-1,EX-YU: Cinestar Action
+http://diamond.cybergroup.top:15800/live/Willy/1234/14277.ts
+#EXTINF:-1,EX-YU: Cinestar Fantasy HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/14276.ts
+#EXTINF:-1,EX-YU: Cinestar Premier 1
+http://diamond.cybergroup.top:15800/live/Willy/1234/14275.ts
+#EXTINF:-1,EX-YU: Cinestar Premier 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/14274.ts
+#EXTINF:-1,EX-YU: Cinestar Premiere 1
+http://diamond.cybergroup.top:15800/live/Willy/1234/14273.ts
+#EXTINF:-1,EX-YU: Cinestar Premiere 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/14272.ts
+	
 
 #EXTINF:-1,**  EX YU KANALI LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
+
 
 
 #EXTINF:-1,**  EX YU KANALI LISTA 4
