@@ -24,25 +24,18 @@ http://formen1.com:8080/turbo123/123turbo/16821
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1,SRB:SPORT KLUB 1
-http://hiptv.ddns.net:8000/pic16f876/fkQszoNZKK/8632
-#EXTINF:-1,SRB:SPORT KLUB 2
-http://hiptv.ddns.net:8000/pic16f876/fkQszoNZKK/8633
-#EXTINF:-1,SRB:SPORT KLUB 3
-http://hiptv.ddns.net:8000/pic16f876/fkQszoNZKK/8634
-#EXTINF:-1,SRB:SPORT KLUB 4
-http://hiptv.ddns.net:8000/pic16f876/fkQszoNZKK/8635
-#EXTINF:-1,SRB:SPORT KLUB 5
-http://hiptv.ddns.net:8000/pic16f876/fkQszoNZKK/8636
-#EXTINF:-1,SRB:SPORT KLUB 6
-http://hiptv.ddns.net:8000/pic16f876/fkQszoNZKK/8637
-#EXTINF:-1,SRB:RTS 1
-http://hiptv.ddns.net:8000/pic16f876/fkQszoNZKK/8601
-#EXTINF:-1,SRB:RTS 2
-http://hiptv.ddns.net:8000/pic16f876/fkQszoNZKK/8602
-#EXTINF:-1,SRB:RTS 3
-http://hiptv.ddns.net:8000/pic16f876/fkQszoNZKK/8603
-
+#EXTINF:-1,WS: Sport Klub 1 HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1135
+#EXTINF:-1,WS: Sport Klub 2 HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1134
+#EXTINF:-1,WS: Sport Klub 3 HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1133
+#EXTINF:-1,WS: Sport Klub 4 HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1132
+#EXTINF:-1,WS: Sport Klub 5 HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1131
+#EXTINF:-1,WS: Sport Klub 6 HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1130
 #EXTINF:-1,ISPT: Arena Sport 1
 http://marveliptv.ddns.net:25461/live/Dan/Dan/183624.ts
 #EXTINF:-1,ISPT: Arena Sport 2
@@ -57,18 +50,6 @@ http://marveliptv.ddns.net:25461/live/Dan/Dan/183620.ts
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
-#EXTINF:-1,EX-YU: Sport Klub 1
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4418
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HD
-http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1120
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HD
-http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1121
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HD
-http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1122
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HD
-http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1123
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HD
-http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1124
 #EXTINF:-1,EX-YU: SPORT KLUB 1 HD
 http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1125
 #EXTINF:-1,EX-YU: SPORT KLUB 2 HD
@@ -81,6 +62,17 @@ http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1128
 http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1129
 #EXTINF:-1,EX-YU: SPORT KLUB 6 HD
 http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1130
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1120
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1121
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1122
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1123
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1124
+
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
@@ -152,101 +144,11 @@ http://formen1.com:8080/turbo123/123turbo/1882
 
 #EXTINF:-1,**  EX YU KANALI LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28327.ts
-#EXTINF:-1,HBO SI
-http://mypanel.tv:80/diti/diti1234/9119
-#EXTINF:-1,HBO 2 SI
-http://mypanel.tv:80/diti/diti1234/9118
-#EXTINF:-1,HBO 3 SI
-http://mypanel.tv:80/diti/diti1234/9117
-#EXTINF:-1,CineStar Premiere 1 HD SI
-http://mypanel.tv:80/diti/diti1234/13309
-#EXTINF:-1,CineStar Premiere 2 HD SI
-http://mypanel.tv:80/diti/diti1234/13308
-#EXTINF:-1,Fox HD SI
-http://mypanel.tv:80/diti/diti1234/9121
-#EXTINF:-1,Fox Crime HD SI
-http://mypanel.tv:80/diti/diti1234/13307
-#EXTINF:-1,Fox Life SI
-http://mypanel.tv:80/diti/diti1234/13306
-#EXTINF:-1,Fox Movies HD SI
-http://mypanel.tv:80/diti/diti1234/9120
-#EXTINF:-1,Pop Brio HD SI
-http://mypanel.tv:80/diti/diti1234/9108
-#EXTINF:-1,Pop Kino HD SI
-http://mypanel.tv:80/diti/diti1234/9107
-#EXTINF:-1,Pop OTO HD SI
-http://mypanel.tv:80/diti/diti1234/9106
-#EXTINF:-1,Pop TV HD SI
-http://mypanel.tv:80/diti/diti1234/9105
-#EXTINF:-1,Kanal A HD SI
-http://mypanel.tv:80/diti/diti1234/9116
-#EXTINF:-1,National Geographic SI
-http://mypanel.tv:80/diti/diti1234/9113
-#EXTINF:-1,National Geographic Wild SI
-http://mypanel.tv:80/diti/diti1234/9114
-#EXTINF:-1,History 2 SI
-http://mypanel.tv:80/diti/diti1234/13305
-#EXTINF:-1,SLO 1 HD SI
-http://mypanel.tv:80/diti/diti1234/9104
-#EXTINF:-1,SLO 2 HD SI
-http://mypanel.tv:80/diti/diti1234/9103
-#EXTINF:-1,SLO 3 SI
-http://mypanel.tv:80/diti/diti1234/9102
+
 
 #EXTINF:-1,**  EX YU KANALI LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-#EXTINF:-1,EX YU: HBO Adria
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4511
-#EXTINF:-1,EX-YU: Cinestar Action
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4479
-#EXTINF:-1,EX-YU: Cinestar Premier 2
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4510
-#EXTINF:-1,EX-YU: Cinestar Premiere 1
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4509
-#EXTINF:-1,EX-YU: FilmBox Extra
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4499
-#EXTINF:-1,EX-YU: FOX
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4503
-#EXTINF:-1,EX-YU: Fox Crime
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4497
-#EXTINF:-1,EX-YU: Fox Life
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4496
-#EXTINF:-1,EX-YU: Fox Movies
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4489
-#EXTINF:-1,EX-YU: KLASIK TV
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4480
-#EXTINF:-1,EX-YU: HRT 1
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4484
-#EXTINF:-1,EX YU: HRT 3
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4506
-#EXTINF:-1,EX-YU: NOVA TV HR
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4465
-#EXTINF:-1,EX YU: RTL
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4500
-#EXTINF:-1,EX-YU: RTS 1 (local)
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4424
-#EXTINF:-1,EX-YU: RTS 2 (local)
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4423
-#EXTINF:-1,EX-YU: RTS 3
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4422
-#EXTINF:-1,EX-YU: RTS HD
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4421
-#EXTINF:-1,EX-YU: OBN
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4464
-#EXTINF:-1,EX-YU: Prva
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4426
-#EXTINF:-1,EX-YU: Prva Plus
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4425
-#EXTINF:-1,EX-YU: BHT
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4514
-#EXTINF:-1,EX-YU: ANIMAL PLANET
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4513
-#EXTINF:-1,EX-YU: Nat Geo Wild
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4411
-#EXTINF:-1,EX-YU: National Geographic
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4468
-#EXTINF:-1,EX-YU: Discovery
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4501
+
 
 
 #EXTINF:-1,**  EX YU KANALI LISTA 4
