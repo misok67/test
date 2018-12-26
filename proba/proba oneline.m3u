@@ -24,60 +24,45 @@ http://formen1.com:8080/turbo123/123turbo/16821
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1,Sport Klub 1 HD SI
-http://mypanel.tv:80/diti/diti1234/9098
-#EXTINF:-1,Sport Klub 2 HD SI
-http://mypanel.tv:80/diti/diti1234/9097
-#EXTINF:-1,Sport Klub 3 HD SI
-http://mypanel.tv:80/diti/diti1234/625228
-#EXTINF:-1,Sport Klub 4 SI
-http://mypanel.tv:80/diti/diti1234/9095
-#EXTINF:-1,Sport TV 1 HD SI
-http://mypanel.tv:80/diti/diti1234/9101
-#EXTINF:-1,Sport TV 2 HD SI
-http://mypanel.tv:80/diti/diti1234/9100
-#EXTINF:-1,Sport TV 3 HD SI
-http://mypanel.tv:80/diti/diti1234/9099
-#EXTINF:-1,Arena Sport 1
-http://marveliptv.ddns.net:25461/live/vale/vale/183624.ts
-#EXTINF:-1,Arena Sport 2
-http://marveliptv.ddns.net:25461/live/vale/vale/183623.ts
-#EXTINF:-1,Arena Sport 3
-http://marveliptv.ddns.net:25461/live/vale/vale/183622.ts
-#EXTINF:-1,Arena Sport 4
-http://marveliptv.ddns.net:25461/live/vale/vale/183621.ts
-#EXTINF:-1,Arena Sport 5
-http://marveliptv.ddns.net:25461/live/vale/vale/183620.ts
+
+#EXTINF:-1,ISPT: Arena Sport 1
+http://marveliptv.ddns.net:25461/live/Dan/Dan/183624.ts
+#EXTINF:-1,ISPT: Arena Sport 2
+http://marveliptv.ddns.net:25461/live/Dan/Dan/183623.ts
+#EXTINF:-1,ISPT: Arena Sport 3
+http://marveliptv.ddns.net:25461/live/Dan/Dan/183622.ts
+#EXTINF:-1,ISPT: Arena Sport 4
+http://marveliptv.ddns.net:25461/live/Dan/Dan/183621.ts
+#EXTINF:-1,ISPT: Arena Sport 5
+http://marveliptv.ddns.net:25461/live/Dan/Dan/183620.ts
+
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
-
 #EXTINF:-1,EX-YU: Sport Klub 1
 http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4418
-#EXTINF:-1,EX-YU: Sport Klub 2
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4417
-#EXTINF:-1,EX-YU: Sport Klub 3
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4416
-#EXTINF:-1,EX-YU: SPORTKLUB 4 SD
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4415
-#EXTINF:-1,EX-YU: SPORTKLUB 5 SD
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4414
-#EXTINF:-1,EX-YU: SPORTKLUB 6 SD
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/4413
-#EXTINF:-1,SPORT KLUB 1 HD
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/2803
-#EXTINF:-1,SPORT KLUB 2 HD
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/2802
-#EXTINF:-1,SPORT KLUB 3 HD
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/2801
-#EXTINF:-1,ARENA SPORT 1 HD HR
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/2809
-#EXTINF:-1,ARENA SPORT 2 HD HR
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/2808
-#EXTINF:-1,ARENA SPORT 3 HD HR
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/2807
-#EXTINF:-1,ARENA SPORT 4 HD HR
-http://62.112.11.66:25461/urjqrxef/wd38WeY0e8/2806
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1120
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1121
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1122
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1123
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1124
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1125
+#EXTINF:-1,EX-YU: SPORT KLUB 2 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1126
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1127
+#EXTINF:-1,EX-YU: SPORT KLUB 4 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1128
+#EXTINF:-1,EX-YU: SPORT KLUB 5
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1129
+#EXTINF:-1,EX-YU: SPORT KLUB 6 HD
+http://panel.globepremium.com:8000/mohamedsaleh/mohamedsaleh/1130
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
