@@ -2,40 +2,51 @@
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-#EXTINF:-1 tvg-ID="" tvg-name=" SPORT KLUB 1" tvg-logo="" group-title="EX-YU", SPORT KLUB 1
-http://formen1.com:8080/turbo123/123turbo/16828
-#EXTINF:-1 tvg-ID="" tvg-name=" SPORT KLUB 2" tvg-logo="" group-title="EX-YU", SPORT KLUB 2
-http://formen1.com:8080/turbo123/123turbo/16827
-#EXTINF:-1 tvg-ID="" tvg-name=" SPORT KLUB 3" tvg-logo="" group-title="EX-YU", SPORT KLUB 3
-http://formen1.com:8080/turbo123/123turbo/16826
-#EXTINF:-1 tvg-ID="" tvg-name=" SPORT KLUB 4" tvg-logo="" group-title="EX-YU", SPORT KLUB 4
-http://formen1.com:8080/turbo123/123turbo/16825
-#EXTINF:-1 tvg-ID="" tvg-name="|ArenaSport1HR"tvg-logo=""group-title="EX-YU",|ArenaSport1HR
-http://formen1.com:8080/turbo123/123turbo/3076
-#EXTINF:-1tvg-ID=""tvg-name="|ARENASPORT2SRB"tvg-logo=""group-title="EX-YU",|ARENASPORT2SRB
-http://formen1.com:8080/turbo123/123turbo/16824
-#EXTINF:-1tvg-ID=""tvg-name="|ARENASPORT3SRB"tvg-logo=""group-title="EX-YU",|ARENASPORT3SRB
-http://formen1.com:8080/turbo123/123turbo/16823
-#EXTINF:-1tvg-ID=""tvg-name="|ARENASPORT4SRB"tvg-logo=""group-title="EX-YU",|ARENASPORT4SRB
-http://formen1.com:8080/turbo123/123turbo/16822
-#EXTINF:-1tvg-ID=""tvg-name="|ARENASPORT5SRB"tvg-logo=""group-title="EX-YU",|ARENASPORT5SRB
-http://formen1.com:8080/turbo123/123turbo/16821
+#EXTINF:-1,Sport_Klub1_HD
+http://best4u.tn:8000/ale9005/sl6492/2127
+#EXTINF:-1,Sport_Klub2_HD
+http://best4u.tn:8000/ale9005/sl6492/1260
+#EXTINF:-1,Sport_Klub3_HD
+http://best4u.tn:8000/ale9005/sl6492/1262
+#EXTINF:-1,Arena Sport 1
+http://best4u.tn:8000/ale9005/sl6492/1275
+#EXTINF:-1,Arena Sport 2
+http://best4u.tn:8000/ale9005/sl6492/2053
+#EXTINF:-1,Arena Sport 3
+http://best4u.tn:8000/ale9005/sl6492/2052
+#EXTINF:-1,Arena Sport 4
+http://best4u.tn:8000/ale9005/sl6492/2051
 
 
 #EXTINF:-1,***SPORTLISTA2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1,SportKlub1HD
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1135
-#EXTINF:-1,SportKlub2HD
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1134
-#EXTINF:-1,SportKlub3HD
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1133
-#EXTINF:-1,SportKlub4HD
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1132
-#EXTINF:-1,SportKlub5HD
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1131
-#EXTINF:-1,SportKlub6HD
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1130
+#EXTINF:-1,AL: SPORT KLUB 1 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3443.ts
+#EXTINF:-1,AL: SPORT KLUB 2
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3442.ts
+#EXTINF:-1,AL: SPORT KLUB 3
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3441.ts
+#EXTINF:-1,RO: Sport Klub 1 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2387.ts
+#EXTINF:-1,RO: Sport Klub 2 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2386.ts
+#EXTINF:-1,RO: Sport Klub 3 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2385.ts
+#EXTINF:-1,EX-YU: Sport Klub 1 HD HR
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2609.ts
+#EXTINF:-1,EX-YU: TV5 Bosna
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2613.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2365.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2364.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2363.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2362.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2361.ts
+
 
 #EXTINF:-1,***SPORTLISTA3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
