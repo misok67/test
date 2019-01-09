@@ -77,124 +77,178 @@ http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2361.ts
 
 #EXTINF:-1,***SPORTLISTA4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,SportKlub1
-http://ip.avov4.us:8000/selami29/29selami/228
-#EXTINF:-1,SportKlub2
-http://ip.avov4.us:8000/selami29/29selami/229
-#EXTINF:-1,SportKlub3
-http://ip.avov4.us:8000/selami29/29selami/230
-#EXTINF:-1,SPORTKLUB4
-http://ip.avov4.us:8000/selami29/29selami/4554
-#EXTINF:-1,SPORTKLUB5
-http://ip.avov4.us:8000/selami29/29selami/4555
-#EXTINF:-1,SPORTKLUB6
-http://ip.avov4.us:8000/selami29/29selami/4556
-#EXTINF:-1,ArenaSport1HD
-http://ip.avov4.us:8000/selami29/29selami/149
-#EXTINF:-1,ArenaSport2HD
-http://ip.avov4.us:8000/selami29/29selami/150
-#EXTINF:-1,ArenaSport3HD
-http://ip.avov4.us:8000/selami29/29selami/151
-#EXTINF:-1,ArenaSport4HD
-http://ip.avov4.us:8000/selami29/29selami/152
+#EXTINF:-1,EX YU: SPORT KLUB 1
+http://formen1.com:8080/kenann/5GzkEpa734/16828
+#EXTINF:-1,EX YU: SPORT KLUB 2
+http://formen1.com:8080/kenann/5GzkEpa734/16827
+#EXTINF:-1,EX YU: SPORT KLUB 3
+http://formen1.com:8080/kenann/5GzkEpa734/16826
+#EXTINF:-1,EX YU: SPORT KLUB 4
+http://formen1.com:8080/kenann/5GzkEpa734/16825
+#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
+http://formen1.com:8080/kenann/5GzkEpa734/16850
+#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
+http://formen1.com:8080/kenann/5GzkEpa734/16824
+#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
+http://formen1.com:8080/kenann/5GzkEpa734/16823
+#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
+http://formen1.com:8080/kenann/5GzkEpa734/16822
+#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
+http://formen1.com:8080/kenann/5GzkEpa734/16821
+#EXTINF:-1,Ex-Yu | Arena Sport 1 HR
+http://formen1.com:8080/kenann/5GzkEpa734/3076
+#EXTINF:-1,Ex-Yu | Arena Sport 2 Hr
+http://formen1.com:8080/kenann/5GzkEpa734/3077
+#EXTINF:-1,Ex-Yu | Arena Sport 3 Hr
+http://formen1.com:8080/kenann/5GzkEpa734/3078
+#EXTINF:-1,Ex-Yu | Arena Sport 4 Hr
+http://formen1.com:8080/kenann/5GzkEpa734/3079
+#EXTINF:-1,Ex-Yu | Arena Sport 6 HR
+http://formen1.com:8080/kenann/5GzkEpa734/16858
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-#EXTINF:-1tvg-ID=""tvg-name="HBO1"tvg-logo=""group-title="EX-YU",HBO1
-http://formen1.com:8080/turbo123/123turbo/16848
-#EXTINF:-1tvg-ID=""tvg-name="HBO2"tvg-logo=""group-title="EX-YU",HBO2
-http://formen1.com:8080/turbo123/123turbo/16847
-#EXTINF:-1tvg-ID=""tvg-name="HBO3"tvg-logo=""group-title="EX-YU",HBO3
-http://formen1.com:8080/turbo123/123turbo/16846
-#EXTINF:-1tvg-ID=""tvg-name="KINOTV"tvg-logo=""group-title="EX-YU",KINOTV
-http://formen1.com:8080/turbo123/123turbo/16845
-#EXTINF:-1tvg-ID=""tvg-name="KLASIKTV"tvg-logo=""group-title="EX-YU",KLASIKTV
-http://formen1.com:8080/turbo123/123turbo/16863
-#EXTINF:-1tvg-ID=""tvg-name="PinkFilm"tvg-logo=""group-title="EX-YU",PinkFilm
-http://formen1.com:8080/turbo123/123turbo/1899
-#EXTINF:-1tvg-ID=""tvg-name="TV1000"tvg-logo=""group-title="EX-YU",TV1000
-http://formen1.com:8080/turbo123/123turbo/16840
-#EXTINF:-1tvg-ID=""tvg-name="FOX"tvg-logo=""group-title="EX-YU",FOX
-http://formen1.com:8080/turbo123/123turbo/16844
-#EXTINF:-1tvg-ID=""tvg-name="FOXCRIME"tvg-logo=""group-title="EX-YU",FOXCRIME
-http://formen1.com:8080/turbo123/123turbo/16843
-#EXTINF:-1tvg-ID=""tvg-name="FOXLIFE"tvg-logo=""group-title="EX-YU",FOXLIFE
-http://formen1.com:8080/turbo123/123turbo/16842
-#EXTINF:-1tvg-ID=""tvg-name="FOXMOVIES"tvg-logo=""group-title="EX-YU",FOXMOVIES
-http://formen1.com:8080/turbo123/123turbo/16841
-#EXTINF:-1tvg-ID=""tvg-name="Hrt1"tvg-logo=""group-title="EX-YU",Hrt1
-http://formen1.com:8080/turbo123/123turbo/1890
-#EXTINF:-1tvg-ID=""tvg-name="Hrt2"tvg-logo=""group-title="EX-YU",Hrt2
-http://formen1.com:8080/turbo123/123turbo/1891
-#EXTINF:-1tvg-ID=""tvg-name="Hrt3"tvg-logo=""group-title="EX-YU",Hrt3
-http://formen1.com:8080/turbo123/123turbo/1892
-#EXTINF:-1tvg-ID=""tvg-name="NOVATV"tvg-logo=""group-title="EX-YU",NOVATV
-http://formen1.com:8080/turbo123/123turbo/16867
-#EXTINF:-1tvg-ID=""tvg-name="Nova"tvg-logo=""group-title="EX-YU",Nova
-http://formen1.com:8080/turbo123/123turbo/1894
-#EXTINF:-1tvg-ID=""tvg-name="DomaTv"tvg-logo=""group-title="EX-YU",DomaTv
-http://formen1.com:8080/turbo123/123turbo/1919
-#EXTINF:-1tvg-ID=""tvg-name="Rtl"tvg-logo=""group-title="EX-YU",Rtl
-http://formen1.com:8080/turbo123/123turbo/1915
-#EXTINF:-1tvg-ID=""tvg-name="Rtl2"tvg-logo=""group-title="EX-YU",Rtl2
-http://formen1.com:8080/turbo123/123turbo/1916
-#EXTINF:-1tvg-ID=""tvg-name="RTLCRIME"tvg-logo=""group-title="EX-YU",RTLCRIME
-http://formen1.com:8080/turbo123/123turbo/16868
-#EXTINF:-1tvg-ID=""tvg-name="RTLLIVING"tvg-logo=""group-title="EX-YU",RTLLIVING
-http://formen1.com:8080/turbo123/123turbo/16870
-#EXTINF:-1tvg-ID=""tvg-name="RTLPASSION"tvg-logo=""group-title="EX-YU",RTLPASSION
-http://formen1.com:8080/turbo123/123turbo/16869
-#EXTINF:-1tvg-ID=""tvg-name="Rts1"tvg-logo=""group-title="EX-YU",Rts1
-http://formen1.com:8080/turbo123/123turbo/1920
-#EXTINF:-1tvg-ID=""tvg-name="Rts2"tvg-logo=""group-title="EX-YU",Rts2
-http://formen1.com:8080/turbo123/123turbo/1921
-#EXTINF:-1tvg-ID=""tvg-name="Prva"tvg-logo=""group-title="EX-YU",Prva
-http://formen1.com:8080/turbo123/123turbo/1884
-#EXTINF:-1tvg-ID=""tvg-name="PRVAMAX"tvg-logo=""group-title="EX-YU",PRVAMAX
-http://formen1.com:8080/turbo123/123turbo/16857
-#EXTINF:-1tvg-ID=""tvg-name="PRVAPLUS"tvg-logo=""group-title="EX-YU",PRVAPLUS
-http://formen1.com:8080/turbo123/123turbo/16856
-#EXTINF:-1tvg-ID=""tvg-name="PRVAWORLD"tvg-logo=""group-title="EX-YU",PRVAWORLD
-http://formen1.com:8080/turbo123/123turbo/16859
-#EXTINF:-1tvg-ID=""tvg-name="Obn"tvg-logo=""group-title="EX-YU",Obn
-http://formen1.com:8080/turbo123/123turbo/1910
-#EXTINF:-1tvg-ID=""tvg-name="RTS2"tvg-logo=""group-title="EX-YU",RTS2
-http://formen1.com:8080/turbo123/123turbo/16860
-#EXTINF:-1tvg-ID=""tvg-name="DiscoveryChannel"tvg-logo=""group-title="EX-YU",DiscoveryChannel
-http://formen1.com:8080/turbo123/123turbo/1882
+#EXTINF:-1,Ex-Yu | HBO 1
+http://formen1.com:8080/kenann/5GzkEpa734/16848
+#EXTINF:-1,Ex-Yu | HBO 2
+http://formen1.com:8080/kenann/5GzkEpa734/16847
+#EXTINF:-1,Ex-Yu | HBO 3
+http://formen1.com:8080/kenann/5GzkEpa734/16846
+#EXTINF:-1,Ex-Yu | KINO TV
+http://formen1.com:8080/kenann/5GzkEpa734/16845
+#EXTINF:-1,Ex-Yu | KLASIK TV
+http://formen1.com:8080/kenann/5GzkEpa734/16863
+#EXTINF:-1,Ex-Yu | FOX
+http://formen1.com:8080/kenann/5GzkEpa734/16844
+#EXTINF:-1,Ex-Yu | FOX CRIME
+http://formen1.com:8080/kenann/5GzkEpa734/16843
+#EXTINF:-1,Ex-Yu | FOX LIFE
+http://formen1.com:8080/kenann/5GzkEpa734/16842
+#EXTINF:-1,Ex-Yu | FOX MOVIES
+http://formen1.com:8080/kenann/5GzkEpa734/16841
+#EXTINF:-1,Ex-Yu | TV 1000
+http://formen1.com:8080/kenann/5GzkEpa734/16840
+#EXTINF:-1,Ex-Yu | Hrt 1
+http://formen1.com:8080/kenann/5GzkEpa734/1890
+#EXTINF:-1,Ex-Yu | Hrt 2
+http://formen1.com:8080/kenann/5GzkEpa734/1891
+#EXTINF:-1,Ex-Yu | Hrt 3
+http://formen1.com:8080/kenann/5GzkEpa734/1892
+#EXTINF:-1,Ex-Yu | Nova
+http://formen1.com:8080/kenann/5GzkEpa734/1894
+#EXTINF:-1,Ex-Yu | NOVA TV
+http://formen1.com:8080/kenann/5GzkEpa734/16867
+#EXTINF:-1,Ex-Yu | NOVA WORLD
+http://formen1.com:8080/kenann/5GzkEpa734/16866
+#EXTINF:-1,Ex-Yu | Doma Tv
+http://formen1.com:8080/kenann/5GzkEpa734/1919
+#EXTINF:-1,Ex-Yu | Rtl
+http://formen1.com:8080/kenann/5GzkEpa734/1915
+#EXTINF:-1,Ex-Yu | Rtl 2
+http://formen1.com:8080/kenann/5GzkEpa734/1916
+#EXTINF:-1,Ex-Yu | RTL CRIME
+http://formen1.com:8080/kenann/5GzkEpa734/16868
+#EXTINF:-1,Ex-Yu | RTL LIVING
+http://formen1.com:8080/kenann/5GzkEpa734/16870
+#EXTINF:-1,Ex-Yu | RTL PASSION
+http://formen1.com:8080/kenann/5GzkEpa734/16869
+#EXTINF:-1,Ex-Yu | Rts1
+http://formen1.com:8080/kenann/5GzkEpa734/1920
+#EXTINF:-1,Ex-Yu | Rts2
+http://formen1.com:8080/kenann/5GzkEpa734/1921
+#EXTINF:-1,Ex-Yu | RTS 2
+http://formen1.com:8080/kenann/5GzkEpa734/16860
+#EXTINF:-1,Ex-Yu | Obn
+http://formen1.com:8080/kenann/5GzkEpa734/1910
+#EXTINF:-1,Ex-Yu | Prva
+http://formen1.com:8080/kenann/5GzkEpa734/1884
+#EXTINF:-1,Ex-Yu | Bht Hd
+http://formen1.com:8080/kenann/5GzkEpa734/1913
+#EXTINF:-1,Ex-Yu | PRVA MAX
+http://formen1.com:8080/kenann/5GzkEpa734/16857
+#EXTINF:-1,Ex-Yu | PRVA PLUS
+http://formen1.com:8080/kenann/5GzkEpa734/16856
+#EXTINF:-1,Ex-Yu | PRVA WORLD
+http://formen1.com:8080/kenann/5GzkEpa734/16859
+#EXTINF:-1,Ex-Yu | Discovery Channel
+http://formen1.com:8080/kenann/5GzkEpa734/1882
+
 
 #EXTINF:-1,**EXYUKANALILISTA2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28327.ts
-#EXTINF:-1,HBO2HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3404.ts
-#EXTINF:-1,HRT1
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3440.ts
-#EXTINF:-1,HRT2
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3439.ts
-#EXTINF:-1,HRT3
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3438.ts
-#EXTINF:-1,NOVA
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3434.ts
-#EXTINF:-1,OBN
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3435.ts
-#EXTINF:-1,RTL2HR
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3431.ts
-#EXTINF:-1,RTLHR
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3432.ts
-#EXTINF:-1,TVDOMA
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3430.ts
-#EXTINF:-1,RTS1
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2624.ts
-#EXTINF:-1,RTS2
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2625.ts
+#EXTINF:-1,EX: HBO 1
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/912
+#EXTINF:-1,EX: HBO 2
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/911
+#EXTINF:-1,EX: HBO HD
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/913
+#EXTINF:-1,EX: Fox Movies
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/907
+#EXTINF:-1,EX: FOX HD
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/909
+#EXTINF:-1,EX: Fox Life CRO
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/908
+#EXTINF:-1,EX: Fox Crime CRO
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/910
+#EXTINF:-1,EX: HRT 1 (HR)
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/932
+#EXTINF:-1,EX: HRT 2 (HR)
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/931
+#EXTINF:-1,EX: HRT 3
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/930
+#EXTINF:-1,EX: Nova TV
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/917
+#EXTINF:-1,EX: NOVA TV HR
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/905
+#EXTINF:-1,EX: RTL
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/928
+#EXTINF:-1,EX: RTL 2
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/927
+#EXTINF:-1,EX: RTL CRIME
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/926
+#EXTINF:-1,EX: RTL LIVING
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/925
+#EXTINF:-1,EX: RTL PASSION HD
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/924
+#EXTINF:-1,EX: Discovery Channel
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/872
+#EXTINF:-1,EX: Nat Geo WILD
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/873
+#EXTINF:-1,EX: National Geographic
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/871
+#EXTINF:-1,EX: Viasat Explorer
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/870
+#EXTINF:-1,EX: Viasat History
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/868
+#EXTINF:-1,EX: Viasat Nature
+http://hd.007iptv.com:2095/mario11/7ULA8op2CK/869
 
 
 #EXTINF:-1,**EXYUKANALILISTA3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-#EXTINF:-1,HBO2
-http://ip.avov4.us:8000/selami29/29selami/3059
-#EXTINF:-1,HBO3
-http://ip.avov4.us:8000/selami29/29selami/3058
+#EXTINF:-1,EX-YU: HBO 2 HD
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3404.ts
+#EXTINF:-1,EX-YU: HRT 1
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3440.ts
+#EXTINF:-1,EX-YU: HRT 2
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3439.ts
+#EXTINF:-1,EX-YU: HRT 3
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3438.ts
+#EXTINF:-1,EX-YU: NOVA
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3434.ts
+#EXTINF:-1,EX-YU: RTL 2 HR
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3431.ts
+#EXTINF:-1,EX-YU: RTL HR
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3432.ts
+#EXTINF:-1,EX-YU: TV DOMA
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3430.ts
+#EXTINF:-1,EX-YU: RTS 1
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2624.ts
+#EXTINF:-1,EX-YU: RTS 2
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2625.ts
+#EXTINF:-1,EX-YU: OBN
+http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3435.ts
+
 
 
 #EXTINF:-1,NovaHD
