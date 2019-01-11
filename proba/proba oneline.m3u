@@ -1,281 +1,270 @@
 #EXTM3U
 
+#EXTINF:-1,*** RUKOMET
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/231120.ts
+#EXTINF:-1,RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8
+#EXTINF:-1,RTL
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74429.ts
+#EXTINF:-1,RTL 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74428.ts
+#EXTINF:-1,Arena Sport 1 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74605.ts
+#EXTINF:-1,Arena Sport 2 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74603.ts
+#EXTINF:-1,RTS 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74419.ts
+#EXTINF:-1,RTS 2 (local)
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74418.ts
+
+
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-#EXTINF:-1,Sport_Klub1_HD
-http://best4u.tn:8000/ale9005/sl6492/2127
-#EXTINF:-1,Sport_Klub2_HD
-http://best4u.tn:8000/ale9005/sl6492/1260
-#EXTINF:-1,Sport_Klub3_HD
-http://best4u.tn:8000/ale9005/sl6492/1262
-#EXTINF:-1,Arena Sport 1
-http://best4u.tn:8000/ale9005/sl6492/1275
-#EXTINF:-1,Arena Sport 2
-http://best4u.tn:8000/ale9005/sl6492/2053
-#EXTINF:-1,Arena Sport 3
-http://best4u.tn:8000/ale9005/sl6492/2052
-#EXTINF:-1,Arena Sport 4
-http://best4u.tn:8000/ale9005/sl6492/2051
-
+#EXTINF:-1,SPORT KLUB 1
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74405.ts
+#EXTINF:-1,Sport Klub 1 HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74404.ts
+#EXTINF:-1,SPORT KLUB 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74403.ts
+#EXTINF:-1,Sport Klub 2 HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74402.ts
+#EXTINF:-1,SPORT KLUB 3
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74401.ts
+#EXTINF:-1,Sport Klub 3 HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74400.ts
+#EXTINF:-1,SPORT KLUB 4
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74399.ts
+#EXTINF:-1,SPORT KLUB 5
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74398.ts
+#EXTINF:-1,SPORT KLUB 6
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74397.ts
+#EXTINF:-1,SPORTKLUB 1 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74391.ts
+#EXTINF:-1,SPORTKLUB 2 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74390.ts
+#EXTINF:-1,SPORTKLUB 3 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74389.ts
+#EXTINF:-1,Arena Sport 1 HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74606.ts
+#EXTINF:-1,Arena Sport 1 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74605.ts
+#EXTINF:-1,Arena Sport 2 HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74604.ts
+#EXTINF:-1,Arena Sport 2 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74603.ts
+#EXTINF:-1,Arena Sport 3 HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74602.ts
+#EXTINF:-1,Arena Sport 3 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74601.ts
+#EXTINF:-1,Arena Sport 4 HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74600.ts
+#EXTINF:-1,Arena Sport 4 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74599.ts
+#EXTINF:-1,Arena Sport 5 HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74598.ts
+#EXTINF:-1,Arena Sport 5 SRB
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74597.ts
+#EXTINF:-1,HNTV
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74533.ts
+#EXTINF:-1,SPORT TV 1 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74394.ts
+#EXTINF:-1,SPORT TV 2 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74393.ts
+#EXTINF:-1,SPORT TV 3 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74392.ts
 
 #EXTINF:-1,***SPORTLISTA2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1,AL: SPORT KLUB 1 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3443.ts
-#EXTINF:-1,AL: SPORT KLUB 2
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3442.ts
-#EXTINF:-1,AL: SPORT KLUB 3
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3441.ts
-#EXTINF:-1,RO: Sport Klub 1 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2387.ts
-#EXTINF:-1,RO: Sport Klub 2 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2386.ts
-#EXTINF:-1,RO: Sport Klub 3 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2385.ts
-#EXTINF:-1,EX-YU: Sport Klub 1 HD HR
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2609.ts
-#EXTINF:-1,EX-YU: TV5 Bosna
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2613.ts
-#EXTINF:-1,EX-YU: Arena Sport 1 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2365.ts
-#EXTINF:-1,EX-YU: Arena Sport 2 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2364.ts
-#EXTINF:-1,EX-YU: Arena Sport 3 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2363.ts
-#EXTINF:-1,EX-YU: Arena Sport 4 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2362.ts
-#EXTINF:-1,EX-YU: Arena Sport 5 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2361.ts
-
 
 #EXTINF:-1,***SPORTLISTA3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
-#EXTINF:-1,SPORTKLUB1HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3443.ts
-#EXTINF:-1,SPORTKLUB2
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3442.ts
-#EXTINF:-1,SPORTKLUB3
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3441.ts
-#EXTINF:-1,SportKlub1HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2387.ts
-#EXTINF:-1,SportKlub2HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2386.ts
-#EXTINF:-1,SportKlub3HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2385.ts
-#EXTINF:-1,SportKlub1HDHR
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2609.ts
-#EXTINF:-1,ArenaSport1HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2365.ts
-#EXTINF:-1,ArenaSport2HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2364.ts
-#EXTINF:-1,ArenaSport3HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2363.ts
-#EXTINF:-1,ArenaSport4HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2362.ts
-#EXTINF:-1,ArenaSport5HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2361.ts
 
 #EXTINF:-1,***SPORTLISTA4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://formen1.com:8080/kenann/5GzkEpa734/16828
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://formen1.com:8080/kenann/5GzkEpa734/16827
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://formen1.com:8080/kenann/5GzkEpa734/16826
-#EXTINF:-1,EX YU: SPORT KLUB 4
-http://formen1.com:8080/kenann/5GzkEpa734/16825
-#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
-http://formen1.com:8080/kenann/5GzkEpa734/16850
-#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
-http://formen1.com:8080/kenann/5GzkEpa734/16824
-#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
-http://formen1.com:8080/kenann/5GzkEpa734/16823
-#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
-http://formen1.com:8080/kenann/5GzkEpa734/16822
-#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
-http://formen1.com:8080/kenann/5GzkEpa734/16821
-#EXTINF:-1,Ex-Yu | Arena Sport 1 HR
-http://formen1.com:8080/kenann/5GzkEpa734/3076
-#EXTINF:-1,Ex-Yu | Arena Sport 2 Hr
-http://formen1.com:8080/kenann/5GzkEpa734/3077
-#EXTINF:-1,Ex-Yu | Arena Sport 3 Hr
-http://formen1.com:8080/kenann/5GzkEpa734/3078
-#EXTINF:-1,Ex-Yu | Arena Sport 4 Hr
-http://formen1.com:8080/kenann/5GzkEpa734/3079
-#EXTINF:-1,Ex-Yu | Arena Sport 6 HR
-http://formen1.com:8080/kenann/5GzkEpa734/16858
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-#EXTINF:-1,Ex-Yu | HBO 1
-http://formen1.com:8080/kenann/5GzkEpa734/16848
-#EXTINF:-1,Ex-Yu | HBO 2
-http://formen1.com:8080/kenann/5GzkEpa734/16847
-#EXTINF:-1,Ex-Yu | HBO 3
-http://formen1.com:8080/kenann/5GzkEpa734/16846
-#EXTINF:-1,Ex-Yu | KINO TV
-http://formen1.com:8080/kenann/5GzkEpa734/16845
-#EXTINF:-1,Ex-Yu | KLASIK TV
-http://formen1.com:8080/kenann/5GzkEpa734/16863
-#EXTINF:-1,Ex-Yu | FOX
-http://formen1.com:8080/kenann/5GzkEpa734/16844
-#EXTINF:-1,Ex-Yu | FOX CRIME
-http://formen1.com:8080/kenann/5GzkEpa734/16843
-#EXTINF:-1,Ex-Yu | FOX LIFE
-http://formen1.com:8080/kenann/5GzkEpa734/16842
-#EXTINF:-1,Ex-Yu | FOX MOVIES
-http://formen1.com:8080/kenann/5GzkEpa734/16841
-#EXTINF:-1,Ex-Yu | TV 1000
-http://formen1.com:8080/kenann/5GzkEpa734/16840
-#EXTINF:-1,Ex-Yu | Hrt 1
-http://formen1.com:8080/kenann/5GzkEpa734/1890
-#EXTINF:-1,Ex-Yu | Hrt 2
-http://formen1.com:8080/kenann/5GzkEpa734/1891
-#EXTINF:-1,Ex-Yu | Hrt 3
-http://formen1.com:8080/kenann/5GzkEpa734/1892
-#EXTINF:-1,Ex-Yu | Nova
-http://formen1.com:8080/kenann/5GzkEpa734/1894
-#EXTINF:-1,Ex-Yu | NOVA TV
-http://formen1.com:8080/kenann/5GzkEpa734/16867
-#EXTINF:-1,Ex-Yu | NOVA WORLD
-http://formen1.com:8080/kenann/5GzkEpa734/16866
-#EXTINF:-1,Ex-Yu | Doma Tv
-http://formen1.com:8080/kenann/5GzkEpa734/1919
-#EXTINF:-1,Ex-Yu | Rtl
-http://formen1.com:8080/kenann/5GzkEpa734/1915
-#EXTINF:-1,Ex-Yu | Rtl 2
-http://formen1.com:8080/kenann/5GzkEpa734/1916
-#EXTINF:-1,Ex-Yu | RTL CRIME
-http://formen1.com:8080/kenann/5GzkEpa734/16868
-#EXTINF:-1,Ex-Yu | RTL LIVING
-http://formen1.com:8080/kenann/5GzkEpa734/16870
-#EXTINF:-1,Ex-Yu | RTL PASSION
-http://formen1.com:8080/kenann/5GzkEpa734/16869
-#EXTINF:-1,Ex-Yu | Rts1
-http://formen1.com:8080/kenann/5GzkEpa734/1920
-#EXTINF:-1,Ex-Yu | Rts2
-http://formen1.com:8080/kenann/5GzkEpa734/1921
-#EXTINF:-1,Ex-Yu | RTS 2
-http://formen1.com:8080/kenann/5GzkEpa734/16860
-#EXTINF:-1,Ex-Yu | Obn
-http://formen1.com:8080/kenann/5GzkEpa734/1910
-#EXTINF:-1,Ex-Yu | Prva
-http://formen1.com:8080/kenann/5GzkEpa734/1884
-#EXTINF:-1,Ex-Yu | Bht Hd
-http://formen1.com:8080/kenann/5GzkEpa734/1913
-#EXTINF:-1,Ex-Yu | PRVA MAX
-http://formen1.com:8080/kenann/5GzkEpa734/16857
-#EXTINF:-1,Ex-Yu | PRVA PLUS
-http://formen1.com:8080/kenann/5GzkEpa734/16856
-#EXTINF:-1,Ex-Yu | PRVA WORLD
-http://formen1.com:8080/kenann/5GzkEpa734/16859
-#EXTINF:-1,Ex-Yu | Discovery Channel
-http://formen1.com:8080/kenann/5GzkEpa734/1882
+#EXTINF:-1,HBO HD
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74537.ts
+#EXTINF:-1,HBO HD 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74536.ts
+#EXTINF:-1,HBO 3
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74540.ts
+#EXTINF:-1,HBO ADRIA
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74539.ts
+#EXTINF:-1,HBO Comedy
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74538.ts
+#EXTINF:-1,HBO 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74542.ts
+#EXTINF:-1,HBO 2 SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74541.ts
+#EXTINF:-1,CinemaHD
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74585.ts
+#EXTINF:-1,CINEMAX-1
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74584.ts
+#EXTINF:-1,CINEMAX-2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74583.ts
+#EXTINF:-1,Cinestar Action
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74582.ts
+#EXTINF:-1,Cinestar FantasHD
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74581.ts
+#EXTINF:-1,Cinestar Premier 1
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74580.ts
+#EXTINF:-1,Cinestar Premier 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74579.ts
+#EXTINF:-1,Cinestar Premier1
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74578.ts
+#EXTINF:-1,Cinestar Premier2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74577.ts
+#EXTINF:-1,KLASIK TV
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74516.ts
+#EXTINF:-1,Pink Film
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74479.ts
+#EXTINF:-1,TV 1000
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74379.ts
+#EXTINF:-1,CINESTAR TV
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74576.ts
+#EXTINF:-1,FILMBOX
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74558.ts
+#EXTINF:-1,FilmBoExtra
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74557.ts
+#EXTINF:-1,FOX
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74556.ts
+#EXTINF:-1,FoCrime
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74555.ts
+#EXTINF:-1,FoLife
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74554.ts
+#EXTINF:-1,FoMovies
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74553.ts
 
+#EXTINF:-1,HRT 1
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74531.ts
+#EXTINF:-1,HRT 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74530.ts
+#EXTINF:-1,HRT 3
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74529.ts
+#EXTINF:-1,RTL
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74429.ts
+#EXTINF:-1,RTL 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74428.ts
+#EXTINF:-1,RTL CRIME
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74427.ts
+#EXTINF:-1,RTL HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74426.ts
+#EXTINF:-1,RTL Living
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74424.ts
+#EXTINF:-1,Nova HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74499.ts
+#EXTINF:-1,NOVA TV HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74497.ts
+#EXTINF:-1,Doma TV
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74568.ts
+#EXTINF:-1,DOMA-TV
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74567.ts
+
+#EXTINF:-1,RTRS
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74423.ts
+#EXTINF:-1,RTS 1
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74422.ts
+#EXTINF:-1,RTS 1 (EST-USA-TIME) -6HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74421.ts
+#EXTINF:-1,RTS 1 (local)
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74420.ts
+#EXTINF:-1,RTS 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74419.ts
+#EXTINF:-1,RTS 2 (local)
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74418.ts
+#EXTINF:-1,RTS 3
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74417.ts
+#EXTINF:-1,RTS HD
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74416.ts
+#EXTINF:-1,B 92
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74595.ts
+#EXTINF:-1,Pop Brio
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74448.ts
+#EXTINF:-1,Pop Oto
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74447.ts
+#EXTINF:-1,Prva
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74445.ts
+#EXTINF:-1,Prva (local)
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74444.ts
+#EXTINF:-1,Prva Plus
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74442.ts
+#EXTINF:-1,PRVA TV (EST-USA-TIME) -6HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74441.ts
+#EXTINF:-1,Prva World TV
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74440.ts
+#EXTINF:-1,OBN
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74496.ts
+#EXTINF:-1,BHT
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74591.ts
+#EXTINF:-1,BHT 1
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74590.ts
+#EXTINF:-1,BN
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74589.ts
+#EXTINF:-1,RT Vojvodina 1
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74436.ts
+#EXTINF:-1,RT Vojvodina 1 (local)
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74435.ts
+#EXTINF:-1,RT Vojvodina 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74434.ts
+#EXTINF:-1,RTCG (EST-USA-TIME) -6HR
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74433.ts
+#EXTINF:-1,RTCG 1
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74432.ts
+#EXTINF:-1,RTCG 2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74431.ts
+#EXTINF:-1,RTCG SAT
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74430.ts
+#EXTINF:-1,Slovenia TV 1 HD
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74408.ts
+
+#EXTINF:-1,ANIMAL PLANET
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74607.ts
+#EXTINF:-1,Nat Geo Wild
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74503.ts
+#EXTINF:-1,National Geographic
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74502.ts
+#EXTINF:-1,ID Discovery
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74527.ts
+#EXTINF:-1,Da Vinci Learning
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74572.ts
+#EXTINF:-1,DiscoverSerbia
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74571.ts
+#EXTINF:-1,Docubox
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74569.ts
+#EXTINF:-1,Histor2
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74535.ts
+#EXTINF:-1,HISTORCHANNEL
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74534.ts
+#EXTINF:-1,Pink Crim& Mystery
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74482.ts
+#EXTINF:-1,Pink Crime&Mystery
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74481.ts
+#EXTINF:-1,Pink Movies
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74470.ts
+#EXTINF:-1,Pink Premium
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74464.ts
+#EXTINF:-1,Pink Romance
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74462.ts
+#EXTINF:-1,Pink Sci-Fi & Fantasy
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74461.ts
+#EXTINF:-1,Pink Sci-Fi&Fantasy
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74460.ts
+#EXTINF:-1,Pink Thriller
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74455.ts
+#EXTINF:-1,Pink Western
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74454.ts
+#EXTINF:-1,Pink World
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/7445
 
 #EXTINF:-1,**EXYUKANALILISTA2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28327.ts
-#EXTINF:-1,EX: HBO 1
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/912
-#EXTINF:-1,EX: HBO 2
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/911
-#EXTINF:-1,EX: HBO HD
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/913
-#EXTINF:-1,EX: Fox Movies
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/907
-#EXTINF:-1,EX: FOX HD
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/909
-#EXTINF:-1,EX: Fox Life CRO
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/908
-#EXTINF:-1,EX: Fox Crime CRO
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/910
-#EXTINF:-1,EX: HRT 1 (HR)
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/932
-#EXTINF:-1,EX: HRT 2 (HR)
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/931
-#EXTINF:-1,EX: HRT 3
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/930
-#EXTINF:-1,EX: Nova TV
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/917
-#EXTINF:-1,EX: NOVA TV HR
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/905
-#EXTINF:-1,EX: RTL
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/928
-#EXTINF:-1,EX: RTL 2
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/927
-#EXTINF:-1,EX: RTL CRIME
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/926
-#EXTINF:-1,EX: RTL LIVING
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/925
-#EXTINF:-1,EX: RTL PASSION HD
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/924
-#EXTINF:-1,EX: Discovery Channel
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/872
-#EXTINF:-1,EX: Nat Geo WILD
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/873
-#EXTINF:-1,EX: National Geographic
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/871
-#EXTINF:-1,EX: Viasat Explorer
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/870
-#EXTINF:-1,EX: Viasat History
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/868
-#EXTINF:-1,EX: Viasat Nature
-http://hd.007iptv.com:2095/mario11/7ULA8op2CK/869
-
 
 #EXTINF:-1,**EXYUKANALILISTA3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-#EXTINF:-1,EX-YU: HBO 2 HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3404.ts
-#EXTINF:-1,EX-YU: HRT 1
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3440.ts
-#EXTINF:-1,EX-YU: HRT 2
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3439.ts
-#EXTINF:-1,EX-YU: HRT 3
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3438.ts
-#EXTINF:-1,EX-YU: NOVA
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3434.ts
-#EXTINF:-1,EX-YU: RTL 2 HR
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3431.ts
-#EXTINF:-1,EX-YU: RTL HR
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3432.ts
-#EXTINF:-1,EX-YU: TV DOMA
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3430.ts
-#EXTINF:-1,EX-YU: RTS 1
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2624.ts
-#EXTINF:-1,EX-YU: RTS 2
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2625.ts
-#EXTINF:-1,EX-YU: OBN
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/3435.ts
-
-
-
-#EXTINF:-1,NovaHD
-http://ip.avov4.us:8000/selami29/29selami/10201
-#EXTINF:-1,Novatv
-http://ip.avov4.us:8000/selami29/29selami/10200
-#EXTINF:-1,NovaWorld
-http://ip.avov4.us:8000/selami29/29selami/10199
-#EXTINF:-1,Rts1
-http://ip.avov4.us:8000/selami29/29selami/10218
-#EXTINF:-1,Rts2
-http://ip.avov4.us:8000/selami29/29selami/10217
-#EXTINF:-1,Rts3
-http://ip.avov4.us:8000/selami29/29selami/10216
-#EXTINF:-1,Prva
-http://ip.avov4.us:8000/selami29/29selami/10196
-#EXTINF:-1,PrvaMax
-http://ip.avov4.us:8000/selami29/29selami/10195
-#EXTINF:-1,PrvaPlus
-http://ip.avov4.us:8000/selami29/29selami/10194
-#EXTINF:-1,PrvaWorld
-http://ip.avov4.us:8000/selami29/29selami/10193
-#EXTINF:-1,RTCG1
-http://ip.avov4.us:8000/selami29/29selami/10214
-#EXTINF:-1,RTCG2
-http://ip.avov4.us:8000/selami29/29selami/10213
-
 
 #EXTINF:-1,**EXYUKANALILISTA4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28329.ts
@@ -289,18 +278,6 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:0,rtl
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,HRT1360pCroatia
-http://195.29.70.67/PLTV/88888888/224/3221226139/02.m3u8
-#EXTINF:-1,HRT1480pCroatia
-http://195.29.70.67/PLTV/88888888/224/3221226139/03.m3u8
-#EXTINF:-1,HRT1Croatia
-http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1,HRT2360pCroatia
-http://195.29.70.67/PLTV/88888888/224/3221226140/02.m3u8
-#EXTINF:-1,HRT2480pCroatia
-http://195.29.70.67/PLTV/88888888/224/3221226140/03.m3u8
-#EXTINF:-1,NewsbarTV480pCroatia
-http://195.29.70.67/PLTV/88888888/224/3221226407/03.m3u8
 #EXTINF:-1,RTLHrvatska480pCroatia
 http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8
 #EXTINF:-1,Filmselect240pCroatia
@@ -630,5 +607,3 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 #EXTINF:-1,***LIGAPRVAKAEY-YUtest5
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
 
-#EXTINF:-1,***SPORTSTRANI
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/283120.ts
