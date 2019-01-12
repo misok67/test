@@ -6,8 +6,6 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/231120.ts
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8
-#EXTINF:-1,RTL
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74429.ts
 #EXTINF:-1,RTL 2
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74428.ts
 #EXTINF:-1,EX-YU: RTL HR
@@ -16,12 +14,13 @@ http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18309
 http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18308
 #EXTINF:-1,Arena Sport 1 SRB
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74605.ts
-#EXTINF:-1,Arena Sport 2 SRB
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74603.ts
-#EXTINF:-1,RTS 2
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74419.ts
-#EXTINF:-1,RTS 2 (local)
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74418.ts
+#EXTINF:-1,SPORT TV 1 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74394.ts
+#EXTINF:-1,SPORT TV 2 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74393.ts
+#EXTINF:-1,SPORT TV 3 HD SLO
+http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74392.ts
 
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
@@ -130,6 +129,43 @@ http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18213
 
 #EXTINF:-1,***SPORTLISTA3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3605
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3604
+#EXTINF:-1,EX-YU: Sport Klub 3
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3603
+#EXTINF:-1,EX-YU: SPORTKLUB 4 SD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3602
+#EXTINF:-1,EX-YU: SPORTKLUB 5 SD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3601
+#EXTINF:-1,EX-YU: SPORTKLUB 6 SD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3600
+#EXTINF:-1,SLO: SPORTKLUB 1 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6845
+#EXTINF:-1,SLO: SPORTKLUB 2 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6846
+#EXTINF:-1,SLO: SPORTKLUB 3 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6847
+#EXTINF:-1,SLO: SPORTKLUB 4
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6848
+#EXTINF:-1,SLO: SPORT TV 1 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6842
+#EXTINF:-1,SLO: SPORT TV 2 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6843
+#EXTINF:-1,SLO: SPORT TV 3 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6844
+#EXTINF:-1,SR: Arenasport 1 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/400
+#EXTINF:-1,EX-YU: Arena sport 2 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/401
+#EXTINF:-1,SR: Arenasport 3 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/402
+#EXTINF:-1,SR: Arenasport 4 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/403
+#EXTINF:-1,SR: Arenasport 5 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/404
+
 
 #EXTINF:-1,***SPORTLISTA4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
@@ -352,9 +388,91 @@ http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18196
 http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18197
 #EXTINF:-1,EX-YU: FOX TV HR
 http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18198
+#EXTINF:-1,SLO: HBO
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6828
+#EXTINF:-1,SLO: HBO 2
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6829
+#EXTINF:-1,SLO: HBO 3
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6816
+#EXTINF:-1,SLO: KANAL A HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6830
+#EXTINF:-1,SLO: POP BRIO HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6835
+#EXTINF:-1,SLO: POP KINO HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6836
+#EXTINF:-1,SLO: POP OTO HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6837
+#EXTINF:-1,SLO: POP TV HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6838
+#EXTINF:-1,SLO: SLO 1 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6839
+#EXTINF:-1,SLO: SLO 2 HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6840
 
 #EXTINF:-1,**EXYUKANALILISTA3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
+
+#EXTINF:-1,EX YU: HBO Adria
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3544
+#EXTINF:-1,EX YU: HBO 2
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3545
+#EXTINF:-1,EX YU: HBO 3
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/4011
+
+#EXTINF:-1,EX YU: CINEMAX 1
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3551
+#EXTINF:-1,EX YU: CINEMAX-2
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3550
+#EXTINF:-1,EX-YU: KLASIK TV
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3589
+#EXTINF:-1,EX-YU: Cinestar Action
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3555
+#EXTINF:-1,EX-YU: Cinestar Premiere 1
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3534
+#EXTINF:-1,EX-YU: Cinestar Premier 2
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3556
+#EXTINF:-1,EX-YU: FilmBox Extra
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3520
+#EXTINF:-1,EX-YU: Fightbox
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3523
+#EXTINF:-1,EX-YU: Fox Crime
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3518
+#EXTINF:-1,EX-YU: Fox Life
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3516
+
+
+#EXTINF:-1,EX-YU: HRT 1
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3542
+
+#EXTINF:-1,EX YU: HRT 2
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3541
+#EXTINF:-1,EX YU: HRT 3
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3540
+#EXTINF:-1,EX YU: RTL 2
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3558
+#EXTINF:-1,EX YU: NOVA TV HR
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3538
+#EXTINF:-1,EX YU: DOMA-TV
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3546
+#EXTINF:-1,EX-YU: Prva
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/4341
+#EXTINF:-1,EX-YU: Prva Plus
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3553
+#EXTINF:-1,EX-YU: RTS 1 (local)
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3599
+#EXTINF:-1,EX-YU: RTS 2 (local)
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3598
+#EXTINF:-1,EX-YU: RTS 3
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3597
+#EXTINF:-1,EX-YU: RTS HD
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3596
+
+
+#EXTINF:-1,EX YU: HISTORY CHANNEL
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3543
+#EXTINF:-1,EX-YU: ANIMAL PLANET
+http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/3593
+
 
 #EXTINF:-1,**EXYUKANALILISTA4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28329.ts
