@@ -113,45 +113,54 @@ http://secure.serkom.eu:80/sarigul/10012019/27071
 
 #EXTINF:-1,***SPORTLISTA3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
-#EXTINF:-1,RS: Sport Klub 1
-http://riztv.sltv.pw:8000/live/omur/rumo/120816.ts
-#EXTINF:-1,RS: Sport Klub 2 HD
-http://riztv.sltv.pw:8000/live/omur/rumo/175714.ts
-#EXTINF:-1,RS: Sport Klub 3 HD
-http://riztv.sltv.pw:8000/live/omur/rumo/175715.ts
-#EXTINF:-1,RS: Sport Klub 4
-http://riztv.sltv.pw:8000/live/omur/rumo/175711.ts
-#EXTINF:-1,RS: Sport Klub 5
-http://riztv.sltv.pw:8000/live/omur/rumo/175712.ts
-#EXTINF:-1,HR: Sport Klub 1
-http://riztv.sltv.pw:8000/live/omur/rumo/3036.ts
-#EXTINF:-1,HR: Sport Klub 2
-http://riztv.sltv.pw:8000/live/omur/rumo/3037.ts
-#EXTINF:-1,HR: Sport Klub 3
-http://riztv.sltv.pw:8000/live/omur/rumo/3038.ts
-#EXTINF:-1,HR: ARENA SPORT 1 HD
-http://riztv.sltv.pw:8000/live/omur/rumo/898.ts
-#EXTINF:-1,HR: ARENA SPORT 2 HD
-http://riztv.sltv.pw:8000/live/omur/rumo/899.ts
-#EXTINF:-1,HR: ARENA SPORT 3 HD
-http://riztv.sltv.pw:8000/live/omur/rumo/900.ts
-#EXTINF:-1,HR: ARENA SPORT 4 HD
-http://riztv.sltv.pw:8000/live/omur/rumo/901.ts
-#EXTINF:-1,HR: ARENA SPORT 5 HD
-http://riztv.sltv.pw:8000/live/omur/rumo/902.ts
-#EXTINF:-1,HR: ARENA SPORT 6 HD
-http://riztv.sltv.pw:8000/live/omur/rumo/175710.ts
-#EXTINF:-1,RS: Arena Sport 1
-http://riztv.sltv.pw:8000/live/omur/rumo/2986.ts
-#EXTINF:-1,RS: Arena Sport 2
-http://riztv.sltv.pw:8000/live/omur/rumo/2987.ts
-#EXTINF:-1,RS: Arena Sport 3
-http://riztv.sltv.pw:8000/live/omur/rumo/2988.ts
-#EXTINF:-1,RS: Arena Sport 4
-http://riztv.sltv.pw:8000/live/omur/rumo/2989.ts
-#EXTINF:-1,RS: Arena Sport 5
-http://riztv.sltv.pw:8000/live/omur/rumo/2990.ts
-
+#EXTINF:-1,SPORTS - SPORT KLUB 1 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39892.ts
+#EXTINF:-1,SPORTS - SPORT KLUB 1 SLO
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39891.ts
+#EXTINF:-1,SPORTS - SPORT KLUB 1 SR
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39890.ts
+#EXTINF:-1,SPORTS - SPORT KLUB 2 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39889.ts
+#EXTINF:-1,SPORTS - SPORT KLUB 2 SR
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39888.ts
+#EXTINF:-1,SPORTS - SPORT KLUB 3 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39887.ts
+#EXTINF:-1,SPORTS - SPORT KLUB 3 SR
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39886.ts
+#EXTINF:-1,SPORTS - SPORT KLUB 4
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39885.ts
+#EXTINF:-1,SPORTS - SPORT KLUB 5
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39884.ts
+#EXTINF:-1,SPORTS - SPORT KLUB 6
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39883.ts
+#EXTINF:-1,SPORTS - SPORT KLUB HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39882.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 1 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39910.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 1 SR
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39909.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 1 SR HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39908.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 2 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39907.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 2 SR
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39906.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 2 SR HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39905.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 3 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39904.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 3 SR
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39903.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 3 SR HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39902.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 4 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39901.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 4 SR
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39900.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 4 SR HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39899.ts
+#EXTINF:-1,SPORTS - ARENA SPORT 5 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39898.ts
 
 #EXTINF:-1,***SPORTLISTA4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
@@ -369,66 +378,108 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/7445
 
 #EXTINF:-1,**EXYUKANALILISTA2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28327.ts
-#EXTINF:-1,HBO 1 HD
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18202
-#EXTINF:-1,HBO 2 HD
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18201
-#EXTINF:-1,HBO 3 HD
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18200
-#EXTINF:-1,KINO TV HD
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18186
-#EXTINF:-1,KLASIK TV
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18207
-#EXTINF:-1,CINEMAX HD
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18206
-#EXTINF:-1,CINEMAX 2 HD
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18205
-#EXTINF:-1,CINESTAR ACTION
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18193
-#EXTINF:-1,CINESTAR FANTASY
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18192
-#EXTINF:-1,CINESTAR PREMIERE 1 HD
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18191
-#EXTINF:-1,CINESTAR PREMIERE 2 HD
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18190
-#EXTINF:-1,CINESTAR TV
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18194
-#EXTINF:-1,CINE SELECT 1
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18204
-#EXTINF:-1,CINE SELECT  2
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18203
-#EXTINF:-1,FILMBOX EXTRA
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18188
-#EXTINF:-1,FILMBOX PLUS
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18189
-#EXTINF:-1,FOX CRIME
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18195
-#EXTINF:-1,FOX LIFE
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18196
-#EXTINF:-1,FOX MOVIES
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18197
-#EXTINF:-1,FOX TV HR
-http://g-tv.us:25461/OfTTWAjEZ3/F1JQV6SgRH/18198
-#EXTINF:-1,SLO: HBO
-http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6828
-#EXTINF:-1,SLO: HBO 2
-http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6829
-#EXTINF:-1,SLO: HBO 3
-http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6816
-#EXTINF:-1,SLO: KANAL A HD
-http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6830
-#EXTINF:-1,SLO: POP BRIO HD
-http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6835
-#EXTINF:-1,SLO: POP KINO HD
-http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6836
-#EXTINF:-1,SLO: POP OTO HD
-http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6837
-#EXTINF:-1,SLO: POP TV HD
-http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6838
-#EXTINF:-1,SLO: SLO 1 HD
-http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6839
-#EXTINF:-1,SLO: SLO 2 HD
-http://premium-iptv.link:6969/buyiptvrestream108/jrl3HWsdddsk/6840
+#EXTINF:-1,EXYU - HBO 1 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39844.ts
+#EXTINF:-1,EXYU - HBO 2 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39843.ts
+#EXTINF:-1,EXYU - HBO 3 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39842.ts
+#EXTINF:-1,EXYU - CINEMAX 1
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39854.ts
+#EXTINF:-1,EXYU - CINEMAX 2
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39853.ts
+#EXTINF:-1,EXYU - KINOTV  HR
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39868.ts
+#EXTINF:-1,EXYU - KLASIK TV
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39829.ts
+#EXTINF:-1,EXYU - CINESTAR ACTION TV
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39852.ts
+#EXTINF:-1,EXYU - CINESTAR FANTASY
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39851.ts
+#EXTINF:-1,EXYU - CINESTAR PREMIERE 1
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39850.ts
+#EXTINF:-1,EXYU - CINESTAR PREMIERE 2
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39849.ts
+#EXTINF:-1,EXYU - FOX HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39848.ts
+#EXTINF:-1,EXYU - FOX CRIME HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39847.ts
+#EXTINF:-1,EXYU - FOX LIFE HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39846.ts
+#EXTINF:-1,EXYU - FOX MOVIES HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39845.ts
+#EXTINF:-1,EXYU - CINESTAR ACTION
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39871.ts
+#EXTINF:-1,EXYU - CINESTAR TV
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39870.ts
+#EXTINF:-1,EXYU - TV 1000
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39822.ts
+#EXTINF:-1,CRO - HRT 1
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39983.ts
+#EXTINF:-1,CRO - HRT 2 HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39982.ts
+#EXTINF:-1,CRO - HRT 3
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39981.ts
+#EXTINF:-1,CRO - NOVA TV
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39977.ts
+#EXTINF:-1,CRO - NOVA TV HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39976.ts
+#EXTINF:-1,CRO - DOMA TV HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39984.ts
+#EXTINF:-1,CRO - RTL
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39974.ts
+#EXTINF:-1,CRO - RTL 2
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39973.ts
+#EXTINF:-1,CRO - RTL CRIME
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39972.ts
+#EXTINF:-1,CRO - RTL LIVING
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39971.ts
+#EXTINF:-1,CRO - RTL PASSION
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39970.ts
+#EXTINF:-1,SRB - RTS 1
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39944.ts
+#EXTINF:-1,SRB - RTS 2
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39943.ts
+#EXTINF:-1,SRB - RTS 3
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39942.ts
+#EXTINF:-1,SRB - RTS HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39941.ts
+#EXTINF:-1,SRB - PRVA
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39948.ts
+#EXTINF:-1,SRB - PRVA MAX
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39947.ts
+#EXTINF:-1,SRB - PRVA PLUS
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39946.ts
+#EXTINF:-1,SRB - PRVA WORLD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39945.ts
+#EXTINF:-1,EXYU - ANIMAL PLANET
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39839.ts
+#EXTINF:-1,EXYU - ANIMAL PLANET HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39838.ts
+#EXTINF:-1,EXYU - DISCOVERY
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39835.ts
+#EXTINF:-1,EXYU - DISCOVERY ID
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39834.ts
+#EXTINF:-1,EXYU - DOCUBOX HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39833.ts
+#EXTINF:-1,EXYU - HISTORY
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39832.ts
+#EXTINF:-1,EXYU - HISTORY 2
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39831.ts
+#EXTINF:-1,EXYU - HISTORY HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39830.ts
+#EXTINF:-1,EXYU - NATIONAL GEOGRAPHIC
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39826.ts
+#EXTINF:-1,EXYU - NATIONAL GEOGRAPHIC HD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39825.ts
+#EXTINF:-1,EXYU - NATIONAL GEOGRAPHIC WILD
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39824.ts
+#EXTINF:-1,EXYU - VIASAT EXPLORER
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39821.ts
+#EXTINF:-1,EXYU - VIASAT HISTORY
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39820.ts
+#EXTINF:-1,EXYU - VIASAT NATURE
+http://tvservice.pro:80/live/btWd2eCGrs/hZWzqRi1Dy/39819.ts
 
 #EXTINF:-1,**EXYUKANALILISTA3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
