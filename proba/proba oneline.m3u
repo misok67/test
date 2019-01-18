@@ -75,71 +75,45 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74392.ts
 
 #EXTINF:-1,***SPORTLISTA2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://formen1.com:8080/enver35/20092018/16828
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://formen1.com:8080/enver35/20092018/16827
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://formen1.com:8080/enver35/20092018/16826
-#EXTINF:-1,EX YU: SPORT KLUB 4
-http://formen1.com:8080/enver35/20092018/16825
-#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
-http://formen1.com:8080/enver35/20092018/16850
-#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
-http://formen1.com:8080/enver35/20092018/16824
-#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
-http://formen1.com:8080/enver35/20092018/16823
-#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
-http://formen1.com:8080/enver35/20092018/16822
-#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
-http://formen1.com:8080/enver35/20092018/16821
-#EXTINF:-1,Ex-Yu | Arena Sport 1 HR
-http://formen1.com:8080/enver35/20092018/3076
-#EXTINF:-1,Ex-Yu | Arena Sport 2 Hr
-http://formen1.com:8080/enver35/20092018/3077
-#EXTINF:-1,Ex-Yu | Arena Sport 3 Hr
-http://formen1.com:8080/enver35/20092018/3078
-#EXTINF:-1,Ex-Yu | Arena Sport 4 Hr
-http://formen1.com:8080/enver35/20092018/3079
-#EXTINF:-1,Ex-Yu | Arena Sport 6 HR
-http://formen1.com:8080/enver35/20092018/16858
+#EXTINF:-1,Sport_Klub1_HD
+http://best4u.tn:8000/ale9005/sl6492/2127
+#EXTINF:-1,Sport_Klub2_HD
+http://best4u.tn:8000/ale9005/sl6492/1260
+#EXTINF:-1,Sport_Klub3_HD
+http://best4u.tn:8000/ale9005/sl6492/1262
+#EXTINF:-1,Arena Sport 1
+http://best4u.tn:8000/ale9005/sl6492/1275
+#EXTINF:-1,Arena Sport 2
+http://best4u.tn:8000/ale9005/sl6492/2053
+#EXTINF:-1,Arena Sport 3
+http://best4u.tn:8000/ale9005/sl6492/2052
+#EXTINF:-1,Arena Sport 4
+http://best4u.tn:8000/ale9005/sl6492/2051
 
 #EXTINF:-1,***SPORTLISTA3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
-#EXTINF:-1,EX-YU: Sport Klub 1
-http://secure.serkom.eu:80/mehmet/08122018/41137
-#EXTINF:-1,EX-YU: Sport Klub 2
-http://secure.serkom.eu:80/mehmet/08122018/41136
-#EXTINF:-1,EX-YU: Sport Klub 3
-http://secure.serkom.eu:80/mehmet/08122018/41135
-#EXTINF:-1,EX-YU: SPORTKLUB 4 SD
-http://secure.serkom.eu:80/mehmet/08122018/41134
-#EXTINF:-1,EX-YU: SPORTKLUB 5 SD
-http://secure.serkom.eu:80/mehmet/08122018/41133
-#EXTINF:-1,EX-YU: SPORTKLUB 6 SD
-http://secure.serkom.eu:80/mehmet/08122018/41132
-#EXTINF:-1,WS=EX-YU: Sport Klub 1
-http://secure.serkom.eu:80/mehmet/08122018/27066
-#EXTINF:-1,WS=EX-YU: Sport Klub 2
-http://secure.serkom.eu:80/mehmet/08122018/27065
-#EXTINF:-1,WS=EX-YU: Sport Klub 3
-http://secure.serkom.eu:80/mehmet/08122018/27064
-#EXTINF:-1,WS=EX-YU: SPORTKLUB 4 SD
-http://secure.serkom.eu:80/mehmet/08122018/27063
-#EXTINF:-1,WS=EX-YU: SPORTKLUB 5 SD
-http://secure.serkom.eu:80/mehmet/08122018/27062
-#EXTINF:-1,WS=EX-YU: SPORTKLUB 6 SD
-http://secure.serkom.eu:80/mehmet/08122018/27061
-#EXTINF:-1,WS=SR: Arenasport 1 HD
-http://secure.serkom.eu:80/mehmet/08122018/27068
-#EXTINF:-1,WS=EX-YU: Arena sport 2 HD
-http://secure.serkom.eu:80/mehmet/08122018/27067
-#EXTINF:-1,WS=SR: Arenasport 3 HD
-http://secure.serkom.eu:80/mehmet/08122018/27069
-#EXTINF:-1,WS=SR: Arenasport 4 HD
-http://secure.serkom.eu:80/mehmet/08122018/27070
-#EXTINF:-1,WS=SR: Arenasport 5 HD
-http://secure.serkom.eu:80/mehmet/08122018/27071
+#EXTINF:-1,Ex-Yu: SPORT_KLUB_1
+http://bizimip.com:8000/haldun/09042018/1361
+#EXTINF:-1,Ex-Yu: SPORT_KLUB_2
+http://bizimip.com:8000/haldun/09042018/1293
+#EXTINF:-1,Ex-Yu: SPORT_KLUB_3
+http://bizimip.com:8000/haldun/09042018/1343
+#EXTINF:-1,Ex-Yu: SPORT_KLUB_4
+http://bizimip.com:8000/haldun/09042018/1342
+#EXTINF:-1,Ex-Yu: SPORT_KLUB_5
+http://bizimip.com:8000/haldun/09042018/850
+
+#EXTINF:-1,HIR: ARENA SPORT 1
+http://bizimip.com:8000/haldun/09042018/472
+#EXTINF:-1,HIR: ARENA SPORT 2
+http://bizimip.com:8000/haldun/09042018/473
+#EXTINF:-1,HIR: ARENA SPORT 3
+http://bizimip.com:8000/haldun/09042018/474
+#EXTINF:-1,HIR: ARENA SPORT 4
+http://bizimip.com:8000/haldun/09042018/475
+#EXTINF:-1,HIR: ARENA SPORT 5
+http://bizimip.com:8000/haldun/09042018/476
+
 
 #EXTINF:-1,***SPORTLISTA4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
@@ -160,8 +134,6 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74538.ts
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74542.ts
 #EXTINF:-1,HBO 2 SLO
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74541.ts
-#EXTINF:-1,CinemaHD
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74585.ts
 #EXTINF:-1,CINEMAX-1
 http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74584.ts
 #EXTINF:-1,CINEMAX-2
