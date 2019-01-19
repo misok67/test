@@ -1,5 +1,46 @@
 #EXTM3U
 
+#EXTINF:-1,*** TENIS
+http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/2311111.ts
+
+#EXTINF:-1,DE: Eurosport 1 HD
+http://dunav007.hopto.org:8000/Dream800se/5zJrAJb6dm/253
+#EXTINF:-1,DE: Eurosport 2 HD
+http://dunav007.hopto.org:8000/Dream800se/5zJrAJb6dm/701
+#EXTINF:-1,Ex-Yu: Eurosport 1
+http://dunav007.hopto.org:8000/Dream800se/5zJrAJb6dm/43
+#EXTINF:-1,Ex-Yu: Eurosport 2
+http://dunav007.hopto.org:8000/Dream800se/5zJrAJb6dm/44
+#EXTINF:-1,UK-Eurosport1_HD
+http://best4u.tn:8000/ale9005/sl6492/3830
+#EXTINF:-1,UK-Eurosport2_HD
+http://best4u.tn:8000/ale9005/sl6492/3829
+#EXTINF:-1,NL:Eurosport 1 HD
+http://best4u.tn:8000/ale9005/sl6492/3821
+#EXTINF:-1,NL:Eurosport 2 HD
+http://best4u.tn:8000/ale9005/sl6492/3820
+#EXTINF:-1,DE-Eurosport 2 HD Xtra
+http://best4u.tn:8000/ale9005/sl6492/5569
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://daddyiptv.com:8000/live/riza1/1234/346.ts
+#EXTINF:-1,DE: EUROSPORT 2 XTRA
+http://daddyiptv.com:8000/live/riza1/1234/344.ts
+#EXTINF:-1,[ DE ] Eurosport 1 HD
+http://ovunque.tv:2300/prekyone@yahoo.it/otmx2Z0B51/74948
+#EXTINF:-1,[ DE ] Eurosport 2 HD
+http://ovunque.tv:2300/prekyone@yahoo.it/otmx2Z0B51/74947
+#EXTINF:-1,[ DE ] Eurosport 2 HD XTRA
+http://ovunque.tv:2300/prekyone@yahoo.it/otmx2Z0B51/74946
+#EXTINF:-1,[ EX-YU ] Eurosport 1
+http://ovunque.tv:2300/prekyone@yahoo.it/otmx2Z0B51/74563
+#EXTINF:-1,[ EX-YU ] Eurosport 2
+http://ovunque.tv:2300/prekyone@yahoo.it/otmx2Z0B51/74562
+#EXTINF:-1,[ UK ] EUROSPORT 1
+http://ovunque.tv:2300/prekyone@yahoo.it/otmx2Z0B51/72699
+#EXTINF:-1,[ UK ] EuroSport 2
+http://ovunque.tv:2300/prekyone@yahoo.it/otmx2Z0B51/72698
+
+
 #EXTINF:-1,*** RUKOMET
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/231120.ts
 #EXTINF:-1,RTL
@@ -117,6 +158,27 @@ http://bizimip.com:8000/haldun/09042018/476
 
 #EXTINF:-1,***SPORTLISTA4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
+#EXTINF:-1,EX-YU: Sport Klub 1 HD HR
+http://daddyiptv.com:8000/live/riza1/1234/2609.ts
+#EXTINF:-1,AL: SPORT KLUB 1 HD
+http://daddyiptv.com:8000/live/riza1/1234/3443.ts
+#EXTINF:-1,AL: SPORT KLUB 2
+http://daddyiptv.com:8000/live/riza1/1234/3442.ts
+#EXTINF:-1,AL: SPORT KLUB 3
+http://daddyiptv.com:8000/live/riza1/1234/3441.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HD
+http://daddyiptv.com:8000/live/riza1/1234/2365.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HD
+http://daddyiptv.com:8000/live/riza1/1234/2364.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HD
+http://daddyiptv.com:8000/live/riza1/1234/2363.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HD
+http://daddyiptv.com:8000/live/riza1/1234/2362.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HD
+http://daddyiptv.com:8000/live/riza1/1234/2361.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+http://daddyiptv.com:8000/live/riza1/1234/2603.ts
+
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
