@@ -1,53 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,*** TENIS
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/2311111.ts
-#EXTINF:-1,DE: EUROSPORT 1 HD
-http://daddyiptv.com:8000/live/riza1/1234/346.ts
-#EXTINF:-1,[ EX-YU ] Eurosport 1
-http://ovunque.tv:2300/prekyone@yahoo.it/otmx2Z0B51/74563
-#EXTINF:-1,FR: EUROSPORT 1
-http://daddyiptv.com:8000/live/riza1/1234/10564.ts
-#EXTINF:-1,UK-Eurosport1_HD
-http://best4u.tn:8000/SFCdtoZXOb/tvZVatJk0L/3830
-#EXTINF:-1,FR-Eurosport-HD
-http://best4u.tn:8000/SFCdtoZXOb/tvZVatJk0L/165
-#EXTINF:-1,NL:Eurosport 1 HD
-http://best4u.tn:8000/SFCdtoZXOb/tvZVatJk0L/3821
-#EXTINF:-1,US-TSN Sport 1
-http://best4u.tn:8000/SFCdtoZXOb/tvZVatJk0L/1257
-#EXTINF:-1,US-TSN 3
-http://best4u.tn:8000/SFCdtoZXOb/tvZVatJk0L/2641
-#EXTINF:-1,AR: beIN_Sport_12_HD
-http://best4u.tn:8000/SFCdtoZXOb/tvZVatJk0L/303
-#EXTINF:-1,[US] TSN 1 HD
-http://stars.managercw.com:8000/live/DanielDjEpic12345/Daniellive.darkside/1753.ts
-#EXTINF:-1,[US] TSN 3 HD
-http://stars.managercw.com:8000/live/DanielDjEpic12345/Daniellive.darkside/1754.ts
-#EXTINF:-1,[US] ESPN USA HD
-http://stars.managercw.com:8000/live/DanielDjEpic12345/Daniellive.darkside/1757.ts
-#EXTINF:-1,[AR] BEIN SPORTS 12 HD
-http://stars.managercw.com:8000/live/DanielDjEpic12345/Daniellive.darkside/1442.ts
-
-
-
-
-#EXTINF:-1,*** RUKOMET
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/231120.ts
-#EXTINF:-1,RTL
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,RTL
-http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8
-#EXTINF:-1,RTL 2
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74428.ts
-#EXTINF:-1,Arena Sport 1 SRB
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74605.ts
-#EXTINF:-1,SPORT TV 1 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74394.ts
-#EXTINF:-1,SPORT TV 2 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74393.ts
-#EXTINF:-1,SPORT TV 3 HD SLO
-http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74392.ts
 
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
@@ -107,32 +59,134 @@ http://ovunque.tv:2300/live/prekyone@yahoo.it/otmx2Z0B51/74392.ts
 
 #EXTINF:-1,***SPORTLISTA2
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
+#EXTINF:-1,SPORT CLUB 1 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29457
+#EXTINF:-1,SPORT CLUB 2 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29456
+#EXTINF:-1,SPORT CLUB 3 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29455
+#EXTINF:-1,SPORT CLUB 4 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29454
+#EXTINF:-1,SPORT CLUB 5 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29453
+#EXTINF:-1,SPORT CLUB 6 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29452
+#EXTINF:-1,Sport Klub 1 (CRO)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29449
+#EXTINF:-1,SPORT KLUB 1 (SRB)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29448
+#EXTINF:-1,SPORT KLUB 1 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29447
+#EXTINF:-1,Sport Klub 2 (CRO)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29446
+#EXTINF:-1,SPORT KLUB 2 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29445
+#EXTINF:-1,Sport Klub 3 (CRO)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29444
+#EXTINF:-1,Sport Klub 3 (SRB)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29443
+#EXTINF:-1,SPORT KLUB 3 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29442
+#EXTINF:-1,SPORT KLUB 4 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29441
+#EXTINF:-1,SPORT KLUB 5 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29440
+#EXTINF:-1,SPORT KLUB 6
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29439
+#EXTINF:-1,SPORT SPORT KLUB 1 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29438
+#EXTINF:-1,SPORT SPORT KLUB 1 SR
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29437
+#EXTINF:-1,SPORT SPORT KLUB 2 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29436
+#EXTINF:-1,SPORT SPORT KLUB 2 SR
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29435
+#EXTINF:-1,SPORT SPORT KLUB 3 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29434
+#EXTINF:-1,SPORT SPORT KLUB 3 SR
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29433
+#EXTINF:-1,SPORT SPORT KLUB 4
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29432
+#EXTINF:-1,SPORT SPORT KLUB 5
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29431
+#EXTINF:-1,SPORT SPORT KLUB 6
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29430
+#EXTINF:-1,SPORT SPORT KLUB HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29429
+#EXTINF:-1,SPORT TV 1 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29428
+#EXTINF:-1,SPORT TV 2 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29427
+#EXTINF:-1,SPORTKLUB 2 HD SLO
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29426
+#EXTINF:-1,SPORT ARENA SPORT 1 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29467
+#EXTINF:-1,SPORT ARENA SPORT 1 SR HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29466
+#EXTINF:-1,SPORT ARENA SPORT 2 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29465
+#EXTINF:-1,SPORT ARENA SPORT 2 SR HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29464
+#EXTINF:-1,SPORT ARENA SPORT 3 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29463
+#EXTINF:-1,SPORT ARENA SPORT 3 SR HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29462
+#EXTINF:-1,SPORT ARENA SPORT 4 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29461
+#EXTINF:-1,SPORT ARENA SPORT 4 SR HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29460
+#EXTINF:-1,SPORT ARENA SPORT 5 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29459
+#EXTINF:-1,Arena Sport 1 (Srb)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29726
+#EXTINF:-1,ARENA SPORT 1 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29725
+#EXTINF:-1,ARENA SPORT 1 HD (SR)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29724
+#EXTINF:-1,Arena Sport 2 (Srb)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29723
+#EXTINF:-1,ARENA SPORT 2 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29722
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29721
+#EXTINF:-1,ARENA SPORT 2 HD (SR)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29720
+#EXTINF:-1,Arena Sport 3 (Srb)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29719
+#EXTINF:-1,Arena Sport 3 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29718
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29717
+#EXTINF:-1,ARENA SPORT 3 HD (SR)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29716
+#EXTINF:-1,Arena Sport 4 (CRO)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29715
+#EXTINF:-1,Arena Sport 4 (SRB)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29714
+#EXTINF:-1,ARENA SPORT 4 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29713
+#EXTINF:-1,ARENA SPORT 4 HD (SR)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29712
+#EXTINF:-1,ARENA SPORT 5 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29711
+#EXTINF:-1,ARENA SPORT 5 HD (SR)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29710
+#EXTINF:-1,Arena Sport 5 HR
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29709
+#EXTINF:-1,Arena Sport 5 SRB
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29708
+#EXTINF:-1,ARENA SPORT 6 HD
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29707
+#EXTINF:-1,ARENA SPORT 6 HD (HR)
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29706
+#EXTINF:-1,HNTV
+http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29617
 
 #EXTINF:-1,***SPORTLISTA3
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28321.ts
 
 #EXTINF:-1,***SPORTLISTA4
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
-#EXTINF:-1,EX-YU: Sport Klub 1 HD HR
-http://daddyiptv.com:8000/live/riza1/1234/2609.ts
-#EXTINF:-1,AL: SPORT KLUB 1 HD
-http://daddyiptv.com:8000/live/riza1/1234/3443.ts
-#EXTINF:-1,AL: SPORT KLUB 2
-http://daddyiptv.com:8000/live/riza1/1234/3442.ts
-#EXTINF:-1,AL: SPORT KLUB 3
-http://daddyiptv.com:8000/live/riza1/1234/3441.ts
-#EXTINF:-1,EX-YU: Arena Sport 1 HD
-http://daddyiptv.com:8000/live/riza1/1234/2365.ts
-#EXTINF:-1,EX-YU: Arena Sport 2 HD
-http://daddyiptv.com:8000/live/riza1/1234/2364.ts
-#EXTINF:-1,EX-YU: Arena Sport 3 HD
-http://daddyiptv.com:8000/live/riza1/1234/2363.ts
-#EXTINF:-1,EX-YU: Arena Sport 4 HD
-http://daddyiptv.com:8000/live/riza1/1234/2362.ts
-#EXTINF:-1,EX-YU: Arena Sport 5 HD
-http://daddyiptv.com:8000/live/riza1/1234/2361.ts
-#EXTINF:-1,EX-YU: Arena Sport 5 HR
-http://daddyiptv.com:8000/live/riza1/1234/2603.ts
 
 
 #EXTINF:-1,**EXYUKANALILISTA1
