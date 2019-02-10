@@ -66,155 +66,168 @@ http://185.180.12.37:80/QStalker/X7EzfYifRp/33
 
 #EXTINF:-1,***SPORTLISTA2 STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1,DAZN 1 FHD
-http://platina-iptv.com:80/sermor/sermor2/24940
-#EXTINF:-1,DAZN 2 FHD
-http://platina-iptv.com:80/sermor/sermor2/24941
-#EXTINF:-1,DE | Sky Bundesliga 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/21273
-#EXTINF:-1,DE | Sport1 HD
-http://platina-iptv.com:80/sermor/sermor2/21284
-#EXTINF:-1,DE|SPORT 1+ HD
-http://platina-iptv.com:80/sermor/sermor2/21289
-#EXTINF:-1,DE | Sky Sport News HD
-http://platina-iptv.com:80/sermor/sermor2/21281
-#EXTINF:-1,DE | Sky Sport1 US HD
-http://platina-iptv.com:80/sermor/sermor2/21285
-#EXTINF:-1,DE | Sport Digital HD
-http://platina-iptv.com:80/sermor/sermor2/21283
-#EXTINF:-1,DE | Sky Sport 1 HD
-http://platina-iptv.com:80/sermor/sermor2/21280
-#EXTINF:-1,DE | Sky Sport 2 HD
-http://platina-iptv.com:80/sermor/sermor2/21279
-#EXTINF:-1,DE | Eurosport 1 HD
-http://platina-iptv.com:80/sermor/sermor2/21286
-#EXTINF:-1,DE | Eurosport 2Xtra HD
-http://platina-iptv.com:80/sermor/sermor2/21287
-#EXTINF:-1,UK: BT Sport 1 HD
-http://platina-iptv.com:80/sermor/sermor2/26128
-#EXTINF:-1,UK: BT Sport 2 HD
-http://platina-iptv.com:80/sermor/sermor2/26127
-#EXTINF:-1,UK: BT Sport 3 HD
-http://platina-iptv.com:80/sermor/sermor2/26126
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://platina-iptv.com:80/sermor/sermor2/26125
-#EXTINF:-1,UK: Premier Sports
-http://platina-iptv.com:80/sermor/sermor2/26124
-#EXTINF:-1,UK: Sky Sport 1
-http://platina-iptv.com:80/sermor/sermor2/26114
-#EXTINF:-1,UK: SKY Sport 2
-http://platina-iptv.com:80/sermor/sermor2/26113
-#EXTINF:-1,UK: Sky Sport 3
-http://platina-iptv.com:80/sermor/sermor2/26112
-#EXTINF:-1,UK: Sky Sport 4
-http://platina-iptv.com:80/sermor/sermor2/26111
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://platina-iptv.com:80/sermor/sermor2/26130
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://platina-iptv.com:80/sermor/sermor2/26129
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL
-http://platina-iptv.com:80/sermor/sermor2/26133
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-http://platina-iptv.com:80/sermor/sermor2/26134
-#EXTINF:-1,UK: SKY SPORTS MIX
-http://platina-iptv.com:80/sermor/sermor2/26135
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-http://platina-iptv.com:80/sermor/sermor2/26132
+#EXTINF:-1,Sky Sport Football HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/7192
+#EXTINF:-1,Sly Sports Main Event HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/7193
+#EXTINF:-1,Sky Sports Premier League HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/7194
+#EXTINF:-1,Sky Sports Action HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/7191
+#EXTINF:-1,UK: Eleven Sports 1 UK HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/15018
+#EXTINF:-1,UK: Eleven Sports 2 UK HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/15017
+#EXTINF:-1,Sky Sports F1 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/7190
+#EXTINF:-1,Sky Sports Golf HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/7188
+#EXTINF:-1,Sky Sports News HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/7187
+#EXTINF:-1,(VM)Sky Sports Mix HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6287
+#EXTINF:-1,(VM) Sky Sports Premier League
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6280
+#EXTINF:-1,(VM) Sky Sports News HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6286
+#EXTINF:-1,(VM) Sky Sports Main Event
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6281
+#EXTINF:-1,(VM) Sky Sports Golf
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6285
+#EXTINF:-1,(VM) Sky Sports Football
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6284
+#EXTINF:-1,(VM) Sky Sports F1 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6282
+#EXTINF:-1,(VM) Sky Sports Cricket HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6279
+#EXTINF:-1,(VM) Sky Sports Action
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6283
+#EXTINF:-1,Sky Sports News HD#
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5902
+#EXTINF:-1,SKY SPORTS FOOTBALL HD#
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5900
+#EXTINF:-1,Sky Sports PREMIER LEAGUE HD#
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5901
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD #
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5908
+#EXTINF:-1,SKY SPORTS ARENA HD#
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5899
+#EXTINF:-1,Sky Sports CRICKET HD#
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5906
+#EXTINF:-1,SKY SPORTS ACTION HD#
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5907
+#EXTINF:-1,Sky Sports Mix HD#
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5903
+#EXTINF:-1,SKY SPORTS GOLF HD#
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5904
+#EXTINF:-1,SKY SPORTS F1 HD#
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5905
+#EXTINF:-1,BT Sport 1
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6890
+#EXTINF:-1,BT Sport 2
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6891
+#EXTINF:-1,BT Sport 3
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6892
+#EXTINF:-1,UK:. EUROSPORT 1 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/4980
+#EXTINF:-1,UK:. EUROSPORT 2 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/4979
+#EXTINF:-1,USA: TSN 1 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6014
+#EXTINF:-1,USA: TSN 2 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6013
+#EXTINF:-1,USA: TSN 3 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6011
+#EXTINF:-1,USA: TSN 4 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6010
+#EXTINF:-1,USA: TSN 5 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6009
+#EXTINF:-1,USA:. FOX Sport 1
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5507
+#EXTINF:-1,USA:. FOX Sport 2
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5506
+#EXTINF:-1,Sportsnet 360 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6673
+#EXTINF:-1,AR: BeIN Sports 11 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6198
+#EXTINF:-1,AR: BeIN Sports 12 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6197
+#EXTINF:-1,USA: FOX SPORTS 1 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6534
+#EXTINF:-1,USA: FOX SPORTS 2 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6533
+#EXTINF:-1,USA I TSN 1
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6669
+#EXTINF:-1,USA I TSN 2
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6668
+#EXTINF:-1,USA I TSN 3
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6667
+#EXTINF:-1,USA I TSN 4
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6666
+#EXTINF:-1,USA I TSN 5
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6665
+#EXTINF:-1,BEIN Sports 11. Eng
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5511
+#EXTINF:-1,BEIN Sports 12. Eng
+http://deadpool.live:8080/Dave/1PTMuLVu6w/5510
+#EXTINF:-1,BEIN SPORT 1 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/2071
+#EXTINF:-1,BEIN SPORT 2 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/2073
+#EXTINF:-1,BEIN SPORT 3 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/2074
+#EXTINF:-1,BEIN SPORT 4 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/2075
+#EXTINF:-1,BEIN SPORT 5 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/2076
+#EXTINF:-1,BEIN SPORT 6 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/2077
+#EXTINF:-1,BEIN SPORT 7 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/2078
+#EXTINF:-1,BEIN SPORT 8 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/2079
+#EXTINF:-1,BEIN SPORT 9 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/2080
+#EXTINF:-1,BEIN SPORT 10 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/2072
+#EXTINF:-1,USA:  Bein Sports       [Main]
+http://deadpool.live:8080/Dave/1PTMuLVu6w/8563
+#EXTINF:-1,USA:  Bein Sports ES      [Main]
+http://deadpool.live:8080/Dave/1PTMuLVu6w/8562
+#EXTINF:-1,USA:  Eleven Sports     [Main]
+http://deadpool.live:8080/Dave/1PTMuLVu6w/8567
+#EXTINF:-1,USA:  ESPN Deportes       [Main]
+http://deadpool.live:8080/Dave/1PTMuLVu6w/8565
+#EXTINF:-1,USA:  NBC Sports Network       [Main]
+http://deadpool.live:8080/Dave/1PTMuLVu6w/8572
+#EXTINF:-1,DE: Sky Sport 1 FHD (Lokal)
+http://deadpool.live:8080/Dave/1PTMuLVu6w/11567
+#EXTINF:-1,DE: Sky Sport 2 FHD (Lokal)
+http://deadpool.live:8080/Dave/1PTMuLVu6w/11565
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 FHD (Lokal)
+http://deadpool.live:8080/Dave/1PTMuLVu6w/11564
+#EXTINF:-1,|AR| BEIN SPORTS 11 UK
+http://premium-play.org:8000/saidclt201/XmQat4ju/9817
+#EXTINF:-1,|AR| BEIN SPORTS 12 UK
+http://premium-play.org:8000/saidclt201/XmQat4ju/9818
+#EXTINF:-1,|AR| BEIN SPORTS 13 UK
+http://premium-play.org:8000/saidclt201/XmQat4ju/9819
 #EXTINF:-1,|FR| BEIN SPORTS 1 HD
-http://platina-iptv.com:80/sermor/sermor2/19981
+http://premium-play.org:8000/saidclt201/XmQat4ju/8952
 #EXTINF:-1,|FR| BEIN SPORTS 2 HD
-http://platina-iptv.com:80/sermor/sermor2/19980
+http://premium-play.org:8000/saidclt201/XmQat4ju/8951
 #EXTINF:-1,|FR| BEIN SPORTS 3 HD
-http://platina-iptv.com:80/sermor/sermor2/19979
-#EXTINF:-1,|FR| CANAL+ SPORT HD
-http://platina-iptv.com:80/sermor/sermor2/20069
-#EXTINF:-1,|FR| BEIN SPORTS MAX 10 HD
-http://platina-iptv.com:80/sermor/sermor2/19959
-#EXTINF:-1,|FR| BEIN SPORTS MAX 4 HD
-http://platina-iptv.com:80/sermor/sermor2/19965
-#EXTINF:-1,|FR| BEIN SPORTS MAX 5 HD
-http://platina-iptv.com:80/sermor/sermor2/19964
-#EXTINF:-1,|FR| BEIN SPORTS MAX 6 HD
-http://platina-iptv.com:80/sermor/sermor2/19963
-#EXTINF:-1,|FR| BEIN SPORTS MAX 7 HD
-http://platina-iptv.com:80/sermor/sermor2/19962
-#EXTINF:-1,|FR| BEIN SPORTS MAX 8 HD
-http://platina-iptv.com:80/sermor/sermor2/19961
-#EXTINF:-1,|FR| BEIN SPORTS MAX 9 HD
-http://platina-iptv.com:80/sermor/sermor2/19960
-#EXTINF:-1,|FR| EUROSPORT 1 HD
-http://platina-iptv.com:80/sermor/sermor2/19977
-#EXTINF:-1,|FR| EUROSPORT 2 HD
-http://platina-iptv.com:80/sermor/sermor2/19976
+http://premium-play.org:8000/saidclt201/XmQat4ju/8950
+#EXTINF:-1,|FR| INFOSPORT+ HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8942
 #EXTINF:-1,|FR| RMC SPORT 1 HD
-http://platina-iptv.com:80/sermor/sermor2/19985
+http://premium-play.org:8000/saidclt201/XmQat4ju/7971
 #EXTINF:-1,|FR| RMC SPORT 2 HD
-http://platina-iptv.com:80/sermor/sermor2/19984
+http://premium-play.org:8000/saidclt201/XmQat4ju/5563
 #EXTINF:-1,|FR| RMC SPORT 3 HD
-http://platina-iptv.com:80/sermor/sermor2/19983
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://platina-iptv.com:80/sermor/sermor2/19982
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://platina-iptv.com:80/sermor/sermor2/18313
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://platina-iptv.com:80/sermor/sermor2/17575
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://platina-iptv.com:80/sermor/sermor2/17574
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://platina-iptv.com:80/sermor/sermor2/17573
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://platina-iptv.com:80/sermor/sermor2/17572
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://platina-iptv.com:80/sermor/sermor2/17571
-#EXTINF:-1,ELEVEN SPORTS 1 HD [720p]
-http://platina-iptv.com:80/sermor/sermor2/25982
-#EXTINF:-1,ELEVEN SPORTS 2 HD [720p]
-http://platina-iptv.com:80/sermor/sermor2/25980
-#EXTINF:-1,ELEVEN SPORTS 3 HD [720p]
-http://platina-iptv.com:80/sermor/sermor2/25979
-#EXTINF:-1,ELEVEN SPORTS 4 HD [720p]
-http://platina-iptv.com:80/sermor/sermor2/25978
-#EXTINF:-1,ELEVEN SPORTS 5 HD [720p]
-http://platina-iptv.com:80/sermor/sermor2/25977
-#EXTINF:-1,ELEVEN SPORTS 6 HD [720p]
-http://platina-iptv.com:80/sermor/sermor2/25976
-#EXTINF:-1,CH: Teleclub Sport 1 HD
-http://platina-iptv.com:80/sermor/sermor2/26221
-#EXTINF:-1,CH: Teleclub Sport 2 HD
-http://platina-iptv.com:80/sermor/sermor2/26214
-#EXTINF:-1,ES: Movistar Deportes 1 HD
-http://platina-iptv.com:80/sermor/sermor2/17084
-#EXTINF:-1,ES: Movistar Deportes 2 HD
-http://platina-iptv.com:80/sermor/sermor2/17083
-#EXTINF:-1,ES: Eurosport 1
-http://platina-iptv.com:80/sermor/sermor2/17087
-#EXTINF:-1,ES: Eurosport 2
-http://platina-iptv.com:80/sermor/sermor2/17086
-#EXTINF:-1,ES: BeIN Sports HD
-http://platina-iptv.com:80/sermor/sermor2/17092
-#EXTINF:-1,ES: Teledeporte HD
-http://platina-iptv.com:80/sermor/sermor2/17085
-#EXTINF:-1,USA: AFN Sports HD
-http://platina-iptv.com:80/sermor/sermor2/26248
-#EXTINF:-1,USA: Tsn-Sport 1 HD
-http://platina-iptv.com:80/sermor/sermor2/26247
-#EXTINF:-1,USA: Tsn-Sport 2 HD
-http://platina-iptv.com:80/sermor/sermor2/26246
-#EXTINF:-1,USA: beIN SPORTS HD
-http://platina-iptv.com:80/sermor/sermor2/26225
-#EXTINF:-1,USA: NBC Sports HD (Premier League)
-http://platina-iptv.com:80/sermor/sermor2/26224
-#EXTINF:-1,BR: Fox Sports HD
-http://platina-iptv.com:80/sermor/sermor2/12062
-#EXTINF:-1,BR: Fox Sports 2 HD
-http://platina-iptv.com:80/sermor/sermor2/12060
-#EXTINF:-1,PL| TVP Sport HD
-http://platina-iptv.com:80/sermor/sermor2/19867
-#EXTINF:-1,PL| Polsat Sport HD
-http://platina-iptv.com:80/sermor/sermor2/19870
-#EXTINF:-1,PL| Polsat Sport Extra HD
-http://platina-iptv.com:80/sermor/sermor2/19871
-
+http://premium-play.org:8000/saidclt201/XmQat4ju/5564
+#EXTINF:-1,|FR| RMC SPORT 3
+http://premium-play.org:8000/saidclt201/XmQat4ju/17720
 
 
 #EXTINF:-1,***SPORTLISTA3
