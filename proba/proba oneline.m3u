@@ -3,52 +3,37 @@
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-#EXTINF:0,Sport Klub 1
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3605
-#EXTINF:0,Sport Klub 2
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3604
-#EXTINF:0,Sport Klub 3
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3603
-#EXTINF:0,SPORTKLUB 4 SD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3602
-#EXTINF:0,SPORTKLUB 5 SD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3601
-#EXTINF:0,SPORTKLUB 6 SD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3600
 
-#EXTINF:-1,SR: Arenasport 1 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/400
-#EXTINF:-1,Arena sport 2 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/401
-#EXTINF:-1,SR: Arenasport 3 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/402
-#EXTINF:-1,SR: Arenasport 4 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/403
-#EXTINF:-1,SR: Arenasport 5 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/404
-#EXTINF:0,Arena sport 2 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/401
-
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://force102.com:8080/cemil2/09032018/20364
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://force102.com:8080/cemil2/09032018/20363
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://force102.com:8080/cemil2/09032018/20362
-#EXTINF:-1,EX YU: SPORT KLUB 4
-http://force102.com:8080/cemil2/09032018/20361
+#EXTINF:-1,Ex Yu | Sport Klub 1
+http://red-vip.com:8080/cafer20/cafer20/21311
+#EXTINF:-1,Ex Yu | Sport Klub 2
+http://red-vip.com:8080/cafer20/cafer20/21310
+#EXTINF:-1,Ex Yu | Sport Klub 3
+http://red-vip.com:8080/cafer20/cafer20/21309
+#EXTINF:-1,Ex Yu | Sport Klub 4
+http://red-vip.com:8080/cafer20/cafer20/21308
 #EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
-http://force102.com:8080/cemil2/09032018/20353
-#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
-http://force102.com:8080/cemil2/09032018/20360
-#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
-http://force102.com:8080/cemil2/09032018/20359
-#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
-http://force102.com:8080/cemil2/09032018/20358
-#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
-http://force102.com:8080/cemil2/09032018/20357
-#EXTINF:-1,Ex-Yu | Arena Sport 6 HR
-http://force102.com:8080/cemil2/09032018/20322
+http://red-vip.com:8080/cafer20/cafer20/21300
+#EXTINF:-1,Ex-yu | Arena Sport 2 Srb
+http://red-vip.com:8080/cafer20/cafer20/21307
+#EXTINF:-1,Ex-yu | Arena Sport 3 Srb
+http://red-vip.com:8080/cafer20/cafer20/21306
+#EXTINF:-1,Ex-yu | Arena Sport 4 Srb
+http://red-vip.com:8080/cafer20/cafer20/21305
+#EXTINF:-1,Ex-yu | Arena Sport 5 Srb
+http://red-vip.com:8080/cafer20/cafer20/21304
+#EXTINF:-1,Ex-Yu | Arena Sport 1 HR
+http://red-vip.com:8080/cafer20/cafer20/21315
+#EXTINF:-1,Ex-Yu | Arena Sport 2 Hr
+http://red-vip.com:8080/cafer20/cafer20/21314
+#EXTINF:-1,Ex-Yu | Arena Sport 3 Hr
+http://red-vip.com:8080/cafer20/cafer20/21313
+#EXTINF:-1,Ex-Yu | Arena Sport 4 Hr
+http://red-vip.com:8080/cafer20/cafer20/21312
+#EXTINF:-1,Ex-yu | Arena Sport 6 Hr
+http://red-vip.com:8080/cafer20/cafer20/21269
+
+
 #EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
 http://stream1.tvit.ba:8088/live?channelId=64&uid=150&deviceMac=00:1A:79:2A:14:71
 #EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
