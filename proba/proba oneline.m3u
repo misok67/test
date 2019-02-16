@@ -4,36 +4,25 @@
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 
-#EXTINF:0,SPORT KLUB 1
-http://formen1.com:8080/nusret07/240218/16828
-#EXTINF:0,SPORT KLUB 2
-http://formen1.com:8080/nusret07/240218/16827
-#EXTINF:0,SPORT KLUB 3
-http://formen1.com:8080/nusret07/240218/16826
-#EXTINF:0,SPORT KLUB 4
-http://formen1.com:8080/nusret07/240218/16825
+#EXTINF:0,ALB: Sport Klub 1hd
+http://iptv-volkan.net:8000/media/media/1180
+#EXTINF:0,ALB: Sport Klub 2hd
+http://iptv-volkan.net:8000/media/media/1181
+#EXTINF:0,ALB: Sport Klub 3hd
+http://iptv-volkan.net:8000/media/media/1182
 
-
-#EXTINF:0, | Arena Sport 1 HR
-http://formen1.com:8080/nusret07/240218/3076
-#EXTINF:0, | Arena Sport 2 Hr
-http://formen1.com:8080/nusret07/240218/3077
-#EXTINF:0, | Arena Sport 3 Hr
-http://formen1.com:8080/nusret07/240218/3078
-#EXTINF:0, | Arena Sport 4 Hr
-http://formen1.com:8080/nusret07/240218/3079
-#EXTINF:0, | Arena Sport 6 HR
-http://formen1.com:8080/nusret07/240218/16858
-#EXTINF:0, | Arena Sport 1 (SRB)
-http://formen1.com:8080/nusret07/240218/16850
-#EXTINF:0, | ARENA SPORT 2 SRB
-http://formen1.com:8080/nusret07/240218/16824
-#EXTINF:0, | ARENA SPORT 3 SRB
-http://formen1.com:8080/nusret07/240218/16823
-#EXTINF:0, | ARENA SPORT 4 SRB
-http://formen1.com:8080/nusret07/240218/16822
-#EXTINF:0, | ARENA SPORT 5 SRB
-http://formen1.com:8080/nusret07/240218/16821
+#EXTINF:0,EX-YOU: Arena Sport 1
+http://iptv-volkan.net:8000/media/media/2151
+#EXTINF:0,EX-YOU: Arena Sport 2
+http://iptv-volkan.net:8000/media/media/2152
+#EXTINF:0,EX-YOU: Arena Sport 3
+http://iptv-volkan.net:8000/media/media/2153
+#EXTINF:0,EX-YOU: Arena Sport 4
+http://iptv-volkan.net:8000/media/media/2154
+#EXTINF:0,EX-YOU: Arena Sport  5
+http://iptv-volkan.net:8000/media/media/2155
+#EXTINF:0,EX-YOU: Arena Sport 6
+http://iptv-volkan.net:8000/media/media/4736
 
 
 #EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
