@@ -4,26 +4,58 @@
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
 
-#EXTINF:0,ALB: Sport Klub 1hd
-http://iptv-volkan.net:8000/media/media/1180
-#EXTINF:0,ALB: Sport Klub 2hd
-http://iptv-volkan.net:8000/media/media/1181
-#EXTINF:0,ALB: Sport Klub 3hd
-http://iptv-volkan.net:8000/media/media/1182
-
-#EXTINF:0,EX-YOU: Arena Sport 1
-http://iptv-volkan.net:8000/media/media/2151
-#EXTINF:0,EX-YOU: Arena Sport 2
-http://iptv-volkan.net:8000/media/media/2152
-#EXTINF:0,EX-YOU: Arena Sport 3
-http://iptv-volkan.net:8000/media/media/2153
-#EXTINF:0,EX-YOU: Arena Sport 4
-http://iptv-volkan.net:8000/media/media/2154
-#EXTINF:0,EX-YOU: Arena Sport  5
-http://iptv-volkan.net:8000/media/media/2155
-#EXTINF:0,EX-YOU: Arena Sport 6
-http://iptv-volkan.net:8000/media/media/4736
-
+#EXTINF:0,Sport Klub 1 HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/53605
+#EXTINF:0,Sport Klub 2 HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9413
+#EXTINF:0,Sport Klub 3 HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/53166
+#EXTINF:0,Sport Klub 4 HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9411
+#EXTINF:0,Sport Klub 5 HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9410
+#EXTINF:0,Sport Klub 6 HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9409
+#EXTINF:0,Sport Klub HD 1 RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/625234
+#EXTINF:0,Sport Klub HD 2 RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9407
+#EXTINF:0,Sport Klub HD 3 RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9406
+#EXTINF:0,Sport Klub HD 4 RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9405
+#EXTINF:0,Sport Klub HD 5 RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9404
+#EXTINF:0,Sport Klub HD 6 RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9403
+#EXTINF:0,Sport Klub HD RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/13337
+#EXTINF:0,Arena Sport 1 BiH
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/23188
+#EXTINF:0,Arena Sport 1 FHD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5464
+#EXTINF:0,Arena Sport 1 HD RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5465
+#EXTINF:0,Arena Sport 2 HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5462
+#EXTINF:0,Arena Sport 2 HD RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5463
+#EXTINF:0,Arena Sport 3 HD  HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5460
+#EXTINF:0,Arena Sport 3 HD FHD RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5461
+#EXTINF:0,Arena Sport 4 HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5458
+#EXTINF:0,Arena Sport 4 HD RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5459
+#EXTINF:0,Arena Sport 5 FHD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/545734
+#EXTINF:0,Arena Sport 5 HD RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5456
+#EXTINF:0,Arena Sport 6 HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9415
+#EXTINF:0,HNTV HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11045
 
 #EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
 http://stream1.tvit.ba:8088/live?channelId=64&uid=150&deviceMac=00:1A:79:2A:14:71
@@ -60,121 +92,6 @@ http://stream2.tvit.ba:80/live?channelId=4&uid=150&deviceMac=00:1A:79:2A:14:71
 
 #EXTINF:-1,***SPORTLISTA2 STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28323.ts
-#EXTINF:-1,BT Sport 1
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6890
-#EXTINF:-1,BT Sport 2
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6891
-#EXTINF:-1,BT Sport 3
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6892
-#EXTINF:-1,Sky Sport Football HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/7192
-#EXTINF:-1,Sly Sports Main Event HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/7193
-#EXTINF:-1,Sky Sports Premier League HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/7194
-#EXTINF:-1,Sky Sports Action HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/7191
-#EXTINF:-1,UK: Eleven Sports 1 UK HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/15018
-#EXTINF:-1,UK: Eleven Sports 2 UK HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/15017
-#EXTINF:-1,Sky Sports F1 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/7190
-#EXTINF:-1,Sky Sports Golf HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/7188
-#EXTINF:-1,Sky Sports News HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/7187
-#EXTINF:-1,(VM)Sky Sports Mix HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6287
-#EXTINF:-1,(VM) Sky Sports Premier League
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6280
-#EXTINF:-1,(VM) Sky Sports News HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6286
-#EXTINF:-1,(VM) Sky Sports Main Event
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6281
-#EXTINF:-1,(VM) Sky Sports Golf
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6285
-#EXTINF:-1,(VM) Sky Sports Football
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6284
-#EXTINF:-1,(VM) Sky Sports F1 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6282
-#EXTINF:-1,(VM) Sky Sports Cricket HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6279
-#EXTINF:-1,(VM) Sky Sports Action
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6283
-#EXTINF:-1,Sky Sports News HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5902
-#EXTINF:-1,SKY SPORTS FOOTBALL HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5900
-#EXTINF:-1,Sky Sports PREMIER LEAGUE HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5901
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD #
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5908
-#EXTINF:-1,SKY SPORTS ARENA HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5899
-#EXTINF:-1,Sky Sports CRICKET HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5906
-#EXTINF:-1,SKY SPORTS ACTION HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5907
-#EXTINF:-1,Sky Sports Mix HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5903
-#EXTINF:-1,SKY SPORTS GOLF HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5904
-#EXTINF:-1,SKY SPORTS F1 HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5905
-#EXTINF:-1,UK:. EUROSPORT 1 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/4980
-#EXTINF:-1,UK:. EUROSPORT 2 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/4979
-#EXTINF:-1,USA: TSN 1 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6014
-#EXTINF:-1,USA: TSN 2 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6013
-#EXTINF:-1,USA: TSN 3 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6011
-#EXTINF:-1,USA: TSN 4 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6010
-#EXTINF:-1,USA: TSN 5 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6009
-#EXTINF:-1,USA:. FOX Sport 1
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5507
-#EXTINF:-1,USA:. FOX Sport 2
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5506
-#EXTINF:-1,Sportsnet 360 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6673
-#EXTINF:-1,AR: BeIN Sports 11 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6198
-#EXTINF:-1,AR: BeIN Sports 12 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6197
-#EXTINF:-1,USA: FOX SPORTS 1 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6534
-#EXTINF:-1,USA: FOX SPORTS 2 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6533
-#EXTINF:-1,BEIN Sports 11. Eng
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5511
-#EXTINF:-1,BEIN Sports 12. Eng
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5510
-#EXTINF:-1,BEIN SPORT 1 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/2071
-#EXTINF:-1,BEIN SPORT 2 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/2073
-#EXTINF:-1,BEIN SPORT 3 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/2074
-#EXTINF:-1,BEIN SPORT 4 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/2075
-#EXTINF:-1,BEIN SPORT 5 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/2076
-#EXTINF:-1,BEIN SPORT 6 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/2077
-#EXTINF:-1,BEIN SPORT 7 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/2078
-#EXTINF:-1,BEIN SPORT 8 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/2079
-#EXTINF:-1,BEIN SPORT 9 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/2080
-#EXTINF:-1,BEIN SPORT 10 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/2072
-
 
 
 #EXTINF:-1,***SPORTLISTA3
@@ -186,62 +103,111 @@ http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28325.ts
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28326.ts
-#EXTINF:0,HBO Adria - HBO Adria
-http://stream4.tvit.ba:8088/live?channelId=84&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HBO Comedy - HBO Comedy
-http://stream1.tvit.ba:8088/live?channelId=85&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HBO 3 - HBO 3
-http://stream4.tvit.ba:8088/live?channelId=292&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinemax HD - Cinemax HD
-http://stream3.tvit.ba:8088/live?channelId=94&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinemax 2 HD - Cinemax 2 HD
-http://stream2.tvit.ba:80/live?channelId=95&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinestar Fantasy - Cinestar Fantasy
-http://stream4.tvit.ba:8088/live?channelId=248&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinestar Premiere - Cinestar Premiere
-http://stream1.tvit.ba:8088/live?channelId=86&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinestar Premiere 2 - Cinestar Premiere 2
-http://stream3.tvit.ba:8088/live?channelId=87&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinestar TV Sat - Cinestar TV Sat
-http://stream4.tvit.ba:8088/live?channelId=144&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,PINK FILM - PINK FILM
-http://stream3.tvit.ba:8088/live?channelId=92&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Fox Movies Sat - Fox Movies Sat
-http://stream4.tvit.ba:8088/live?channelId=153&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,M1 Film - M1 Film
-http://stream4.tvit.ba:8088/live?channelId=272&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,TV 1000 - TV 1000
-http://stream2.tvit.ba:80/live?channelId=61&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HRT 1 - HRT 1
-http://stream4.tvit.ba:8088/live?channelId=67&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HRT 2 - HRT 2
-http://stream4.tvit.ba:8088/live?channelId=68&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HRT 3 - HRT 3
-http://stream4.tvit.ba:8088/live?channelId=69&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HRT 4 - HRT 4
-http://stream1.tvit.ba:8088/live?channelId=70&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Nova TV Sat - Nova TV Sat
-http://stream4.tvit.ba:8088/live?channelId=152&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Doma Sat - Doma Sat
-http://stream4.tvit.ba:8088/live?channelId=150&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTL HR Sat - RTL HR Sat
-http://stream4.tvit.ba:8088/live?channelId=71&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTL 2 HR Sat - RTL 2 HR Sat
-http://stream4.tvit.ba:8088/live?channelId=72&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTL Crime Sat - RTL Crime Sat
-http://stream4.tvit.ba:8088/live?channelId=119&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTL Living Sat - RTL Living Sat
-http://stream4.tvit.ba:8088/live?channelId=166&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTL Television - RTL Television
-http://stream3.tvit.ba:8088/live?channelId=223&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTRS - RTRS
-http://cms.tvit.ba:80/live?channelId=30&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTRS Plus - RTRS Plus
-http://stream1.tvit.ba:8088/live?channelId=204&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,ORF 1 - ORF 1
-http://stream3.tvit.ba:8088/live?channelId=263&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,ORF 2 - ORF 2
-http://stream3.tvit.ba:8088/live?channelId=264&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,HBO HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5041
+#EXTINF:0,HBO 2 FHD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5040
+#EXTINF:0,HBO 3 HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5039
+#EXTINF:0,CineMax 1 HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5067
+#EXTINF:0,Cinemax 2 HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9375
+#EXTINF:0,Kino TV HD RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12396
+#EXTINF:0,Pink Film RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5011
+#EXTINF:0,CineStar Premiere 1 (Backup) HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11490
+#EXTINF:0,CineStar Premiere 1 HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5065
+#EXTINF:0,CineStar Premiere 2 (Backup) HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11489
+#EXTINF:0,CineStar Premiere 2 HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5064
+#EXTINF:0,CineStar TV Action HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5062
+#EXTINF:0,Cinestar Fantasy HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11053
+#EXTINF:0,Cinestar TV HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5063
+#EXTINF:0,TV 1000 HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9372
+#EXTINF:0,Fox Movies HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5047
+
+#EXTINF:0,HRT 1 HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5037
+#EXTINF:0,HRT 2 HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5036
+#EXTINF:0,HRT 3 HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5035
+#EXTINF:0,RTL (Backup) HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10412
+#EXTINF:0,RTL 2 HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4984
+#EXTINF:0,RTL Crime HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4983
+#EXTINF:0,RTL HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4985
+#EXTINF:0,RTL Living HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4982
+#EXTINF:0,RTL Passion HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4981
+#EXTINF:0,Doma TV HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/23193
+#EXTINF:0,Doma TV SD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5057
+#EXTINF:0,Nova TV HD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5027
+#EXTINF:0,Nova TV SD HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10411
+
+#EXTINF:0,RTS 1 (Backup) RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10409
+#EXTINF:0,RTS 1 HD RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11047
+#EXTINF:0,RTS 1 RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4979
+#EXTINF:0,RTS 2 (Backup) RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10408
+#EXTINF:0,RTS 2 RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4978
+#EXTINF:0,RTS 3 (Backup) RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10407
+#EXTINF:0,RTS 3 RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4977
+#EXTINF:0,RTS Drama RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/627838
+#EXTINF:0,RTS Svet RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11046
+#EXTINF:0,RTS Trezor RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/627836
+#EXTINF:0,PRVA Max RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4989
+#EXTINF:0,PRVA Plus RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4990
+#EXTINF:0,PRVA World RS
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4988
+
+#EXTINF:0,Viasat Explorer HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9381
+#EXTINF:0,Viasat History HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9383
+#EXTINF:0,Viasat Nature HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/1642
+#EXTINF:0,Animal Planet HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5077
+#EXTINF:0,History 2 HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11044
+#EXTINF:0,History Channel HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9384
+#EXTINF:0,Nat Geo Wild HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11049
+#EXTINF:0,National Geographic HR
+http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5028
+
+
 
 #EXTINF:-1,**EXYUKANALILISTA5
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28327.ts
