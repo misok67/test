@@ -2,6 +2,10 @@
 
 #EXTINF:-1,***LIGAPRVAKA STRANI
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28334.ts
+#EXTINF:-1 ,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:0,Arena Sport 1
+http://212.200.127.246:4022/udp/239.1.0.23:1234
 #EXTINF:-1,Bein Sport HD11 EN 1080i
 http://linux-app.tv:6204/jabar21/21jabar/188
 #EXTINF:-1,Bein Sport HD12 EN 1080i
@@ -56,6 +60,31 @@ http://lcmn.serveftp.net:8000/carr/carr/2246
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
+#EXTINF:-1,AL: Sport Klub 1 HD
+http://ipsatpro.com:8080/Y/1234/268
+#EXTINF:-1,AL: Sport Klub 2 HD
+http://ipsatpro.com:8080/Y/1234/267
+#EXTINF:-1,AL: Sport Klub 3 HD
+http://ipsatpro.com:8080/Y/1234/266
+#EXTINF:-1,AL: ArenaSport 1 HD Srb
+http://ipsatpro.com:8080/Y/1234/271
+#EXTINF:-1,AL: ArenaSport 2 HD Srb
+http://ipsatpro.com:8080/Y/1234/270
+#EXTINF:-1,AL: ArenaSport 3 HD Srb
+http://ipsatpro.com:8080/Y/1234/269
+#EXTINF:-1,AL: ArenaSport 4 HD Srb
+http://ipsatpro.com:8080/Y/1234/242
+#EXTINF:-1,AL: ArenaSport 5 HD Srb
+http://ipsatpro.com:8080/Y/1234/265
+#EXTINF:-1,AL: ArenaSport 1 HD HR
+http://ipsatpro.com:8080/Y/1234/283 
+#EXTINF:-1,AL: ArenaSport 2 HD HR
+http://ipsatpro.com:8080/Y/1234/282
+#EXTINF:-1,AL: ArenaSport 3 HD HR
+http://ipsatpro.com:8080/Y/1234/281
+#EXTINF:-1,AL: ArenaSport 4 HD HR
+http://ipsatpro.com:8080/Y/1234/280
+
 #EXTINF:-1,WS: Sport Klub 1 HD
 http://130.185.250.190:25461/enigma1/enigma1/1135
 #EXTINF:-1,WS: Sport Klub 2 HD
