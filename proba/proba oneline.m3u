@@ -31,24 +31,6 @@ http://linux-app.tv:6204/jabar21/21jabar/9517
 #EXTINF:-1,NL- Ziggo Sport Select HD
 http://linux-app.tv:6204/jabar21/21jabar/9518
 
-#EXTINF:-1,VIP DE:  Sport 1 HD (1080P)
-http://fonte.iptvmaishd.com:25461/4247/4247/145844
-#EXTINF:-1,VIP DE:  Sport 2 HD (1080P)
-http://fonte.iptvmaishd.com:25461/4247/4247/145841
-#EXTINF:-1,UK: BT Sport 2 HD
-http://fonte.iptvmaishd.com:25461/4247/4247/146539
-#EXTINF:-1,UK: BT Sport 3 HD
-http://fonte.iptvmaishd.com:25461/4247/4247/146667
-#EXTINF:-1,AR: beIN Sports 11 HD
-http://fonte.iptvmaishd.com:25461/4247/4247/142959
-#EXTINF:-1,AR: beIN Sports 12 HD
-http://fonte.iptvmaishd.com:25461/4247/4247/142960
-#EXTINF:-1,AR: beIN Sports 13 HD
-http://fonte.iptvmaishd.com:25461/4247/4247/142961
-#EXTINF:-1,AR VIP: Bein Sport 11 HD (Backup)
-http://fonte.iptvmaishd.com:25461/4247/4247/142453
-#EXTINF:-1,AR VIP: Bein Sport 12 HD (Backup)
-http://fonte.iptvmaishd.com:25461/4247/4247/142452
 #EXTINF:-1,[DE] SKY SPORT 1 Full HD
 http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/348.ts
 #EXTINF:-1,[DE] SKY SPORT 2 Full HD
