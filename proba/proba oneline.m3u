@@ -1,89 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1,***LIGAPRVAKA STRANI
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28334.ts
-#EXTINF:-1 ,HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:0,Arena Sport 1
-http://212.200.127.246:4022/udp/239.1.0.23:1234
-#EXTINF:-1,Bein Sport HD11 EN 1080i
-http://linux-app.tv:6204/jabar21/21jabar/188
-#EXTINF:-1,Bein Sport HD12 EN 1080i
-http://linux-app.tv:6204/jabar21/21jabar/189
-#EXTINF:-1,Uk- Sky BT Sport 2 HD
-http://linux-app.tv:6204/jabar21/21jabar/8580
-#EXTINF:-1,Uk- Sky BT Sport 3 HD
-http://linux-app.tv:6204/jabar21/21jabar/10166
-#EXTINF:-1,De- Sky Sport 1
-http://linux-app.tv:6204/jabar21/21jabar/12335
-#EXTINF:-1,De- Sky Sport 1 FHD
-http://linux-app.tv:6204/jabar21/21jabar/12337
-#EXTINF:-1,De- Sky Sport 1 HD
-http://linux-app.tv:6204/jabar21/21jabar/12336
-#EXTINF:-1,De- Sky Sport 2
-http://linux-app.tv:6204/jabar21/21jabar/12332
-#EXTINF:-1,De- DAZN  1 FHD
-http://linux-app.tv:6204/jabar21/21jabar/12339
-#EXTINF:-1,De- DAZN  2 FHD
-http://linux-app.tv:6204/jabar21/21jabar/12338
-#EXTINF:-1,Fr- SFR SPORT 1 FHD
-http://linux-app.tv:6204/jabar21/21jabar/14046
-#EXTINF:-1,Fr- SFR SPORT 2 FHD
-http://linux-app.tv:6204/jabar21/21jabar/14045
-#EXTINF:-1,NL- Ziggo Sport Voetbal
-http://linux-app.tv:6204/jabar21/21jabar/9517
-#EXTINF:-1,NL- Ziggo Sport Select HD
-http://linux-app.tv:6204/jabar21/21jabar/9518
-
-#EXTINF:-1,[DE] SKY SPORT 1 Full HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/348.ts
-#EXTINF:-1,[DE] SKY SPORT 2 Full HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/350.ts
-#EXTINF:-1,[DE] SKY SPORT 1 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/347.ts
-#EXTINF:-1,[DE] SKY SPORT 2 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/349.ts
-#EXTINF:-1,[AR] BEIN SPORTS 11 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1441.ts
-#EXTINF:-1,[AR] BEIN SPORTS 12 HD
-http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1442.ts
-#EXTINF:-1,FR: RMC SPORT 1
-http://lcmn.serveftp.net:8000/carr/carr/2243
-#EXTINF:-1,FR: RMC SPORT 1 HD
-http://lcmn.serveftp.net:8000/carr/carr/2247
-#EXTINF:-1,FR: RMC SPORT 2
-http://lcmn.serveftp.net:8000/carr/carr/2242
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://lcmn.serveftp.net:8000/carr/carr/2246
-
+#EXTINF:-1,***DINAMO
+http://www.
+#EXTINF:-1,EXYU: ARENA 3 HD
+http://www.sansat.net:25461/bryan/bryan123/26294
+#EXTINF:-1,SPORTS: ARENA SPORT 5 HD
+http://www.sansat.net:25461/bryan/bryan123/26113
+#EXTINF:-1,beiN Sports 12
+http://www.sansat.net:25461/bryan/bryan123/5242
+#EXTINF:-1,beiN Sports 11
+http://www.sansat.net:25461/bryan/bryan123/5241
 
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
-http://telesuper.tv:23000/live/fcf1368a3b50/STHZGMmJZW/28322.ts
-#EXTINF:-1,AL: Sport Klub 1 HD
-http://ipsatpro.com:8080/Y/1234/268
-#EXTINF:-1,AL: Sport Klub 2 HD
-http://ipsatpro.com:8080/Y/1234/267
-#EXTINF:-1,AL: Sport Klub 3 HD
-http://ipsatpro.com:8080/Y/1234/266
-#EXTINF:-1,AL: ArenaSport 1 HD Srb
-http://ipsatpro.com:8080/Y/1234/271
-#EXTINF:-1,AL: ArenaSport 2 HD Srb
-http://ipsatpro.com:8080/Y/1234/270
-#EXTINF:-1,AL: ArenaSport 3 HD Srb
-http://ipsatpro.com:8080/Y/1234/269
-#EXTINF:-1,AL: ArenaSport 4 HD Srb
-http://ipsatpro.com:8080/Y/1234/242
-#EXTINF:-1,AL: ArenaSport 5 HD Srb
-http://ipsatpro.com:8080/Y/1234/265
-#EXTINF:-1,AL: ArenaSport 1 HD HR
-http://ipsatpro.com:8080/Y/1234/283 
-#EXTINF:-1,AL: ArenaSport 2 HD HR
-http://ipsatpro.com:8080/Y/1234/282
-#EXTINF:-1,AL: ArenaSport 3 HD HR
-http://ipsatpro.com:8080/Y/1234/281
-#EXTINF:-1,AL: ArenaSport 4 HD HR
-http://ipsatpro.com:8080/Y/1234/280
+http://www.
+
 
 #EXTINF:-1,WS: Sport Klub 1 HD
 http://130.185.250.190:25461/enigma1/enigma1/1135
@@ -98,6 +29,72 @@ http://130.185.250.190:25461/enigma1/enigma1/1131
 #EXTINF:-1,WS: Sport Klub 6 HD
 http://130.185.250.190:25461/enigma1/enigma1/1130
 
+#EXTINF:-1,EXYU: SPORT KLUB 1 HD
+http://www.sansat.net:25461/bryan/bryan123/26291
+#EXTINF:-1,EXYU: SPORT KLUB 2 HD
+http://www.sansat.net:25461/bryan/bryan123/26290
+#EXTINF:-1,EXYU: SPORT KLUB  3 HD
+http://www.sansat.net:25461/bryan/bryan123/26289
+#EXTINF:-1,SPORTS: SPORT KLUB 1 HD
+http://www.sansat.net:25461/bryan/bryan123/26107
+#EXTINF:-1,SPORTS: SPORT KLUB 1 SLO
+http://www.sansat.net:25461/bryan/bryan123/26106
+#EXTINF:-1,SPORTS: SPORT KLUB 1 SR
+http://www.sansat.net:25461/bryan/bryan123/26105
+#EXTINF:-1,SPORTS: SPORT KLUB 2 HD
+http://www.sansat.net:25461/bryan/bryan123/26104
+#EXTINF:-1,SPORTS: SPORT KLUB 2 SR
+http://www.sansat.net:25461/bryan/bryan123/26103
+#EXTINF:-1,SPORTS: SPORT KLUB 3 HD
+http://www.sansat.net:25461/bryan/bryan123/26102
+#EXTINF:-1,SPORTS: SPORT KLUB 3 SR
+http://www.sansat.net:25461/bryan/bryan123/26101
+#EXTINF:-1,SPORTS: SPORT KLUB 4
+http://www.sansat.net:25461/bryan/bryan123/26100
+#EXTINF:-1,SPORTS: SPORT KLUB 5
+http://www.sansat.net:25461/bryan/bryan123/26099
+#EXTINF:-1,SPORTS: SPORT KLUB 6
+http://www.sansat.net:25461/bryan/bryan123/26098
+#EXTINF:-1,SPORTS: SPORT KLUB HD
+http://www.sansat.net:25461/bryan/bryan123/26097
+#EXTINF:-1,SPORTS: ARENA SPORT 1 HD
+http://www.sansat.net:25461/bryan/bryan123/26125
+#EXTINF:-1,SPORTS: ARENA SPORT 1 SR
+http://www.sansat.net:25461/bryan/bryan123/26124
+#EXTINF:-1,SPORTS: ARENA SPORT 1 SR HD
+http://www.sansat.net:25461/bryan/bryan123/26123
+#EXTINF:-1,SPORTS: ARENA SPORT 2 HD
+http://www.sansat.net:25461/bryan/bryan123/26122
+#EXTINF:-1,SPORTS: ARENA SPORT 2 SR
+http://www.sansat.net:25461/bryan/bryan123/26121
+#EXTINF:-1,SPORTS: ARENA SPORT 2 SR HD
+http://www.sansat.net:25461/bryan/bryan123/26120
+#EXTINF:-1,SPORTS: ARENA SPORT 3 HD
+http://www.sansat.net:25461/bryan/bryan123/26119
+#EXTINF:-1,SPORTS: ARENA SPORT 3 SR
+http://www.sansat.net:25461/bryan/bryan123/26118
+#EXTINF:-1,SPORTS: ARENA SPORT 3 SR HD
+http://www.sansat.net:25461/bryan/bryan123/26117
+#EXTINF:-1,SPORTS: ARENA SPORT 4 HD
+http://www.sansat.net:25461/bryan/bryan123/26116
+#EXTINF:-1,SPORTS: ARENA SPORT 4 SR
+http://www.sansat.net:25461/bryan/bryan123/26115
+#EXTINF:-1,SPORTS: ARENA SPORT 4 SR HD
+http://www.sansat.net:25461/bryan/bryan123/26114
+#EXTINF:-1,SPORTS: ARENA SPORT 5 HD
+http://www.sansat.net:25461/bryan/bryan123/26113
+#EXTINF:-1,SLO: SLO 1 HD
+http://www.sansat.net:25461/bryan/bryan123/26095
+#EXTINF:-1,SLO: SLO 2 HD
+http://www.sansat.net:25461/bryan/bryan123/26094
+#EXTINF:-1,SLO: SLO 3 HD
+http://www.sansat.net:25461/bryan/bryan123/26093
+
+
+#EXTINF:0,Arena Sport 1
+http://212.200.127.246:4022/udp/239.1.0.23:1234
+#EXTINF:0,Arena Sport 2
+http://212.200.127.246:4022/udp/239.1.0.24:1234
 
 #EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
 http://stream1.tvit.ba:8088/live?channelId=64&uid=150&deviceMac=00:1A:79:2A:14:71
