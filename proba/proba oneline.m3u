@@ -1,7 +1,27 @@
 #EXTM3U
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
-http://www
+http://www.
+#EXTINF:-1,SPORT KLUB 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26291
+#EXTINF:-1,SPORT KLUB 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26290
+#EXTINF:-1,SPORT KLUB  3 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26289
+#EXTINF:-1,SPORT KLUB 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26107
+#EXTINF:-1,SPORT KLUB 1 SLO
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26106
+#EXTINF:-1,SPORT KLUB 1 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26105
+#EXTINF:-1,SPORT KLUB 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26104
+#EXTINF:-1,SPORT KLUB 2 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26103
+#EXTINF:-1,SPORT KLUB 3 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26102
+#EXTINF:-1,SPORT KLUB 3 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26101
 #EXTINF:-1,Sport Klub 1
 http://red-vip.com:8080/Volkan41/volkan41/21311
 #EXTINF:-1,Sport Klub 2
@@ -31,34 +51,36 @@ http://red-vip.com:8080/Volkan41/volkan41/21304
 #EXTINF:-1,Arena Sport 6 Hr
 http://red-vip.com:8080/Volkan41/volkan41/21269
 
-#EXTINF:-1,IT | DAZN 1 HD DE
-http://p5.giffy.be:8080/cecilia/cecilia/91991
-#EXTINF:-1,IT | DAZN 2 HD DE
-http://p5.giffy.be:8080/cecilia/cecilia/91990
+#EXTINF:-1,DE,  DAZN 1 HD DE
+http://p4.giffy.be:8080/sandy/1234/91991
+#EXTINF:-1, DE, DAZN 2 HD DE
+http://p4.giffy.be:8080/sandy/1234/91990
 #EXTINF:-1,SKY BUNDESLIGA 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/30055
+http://p4.giffy.be:8080/sandy/1234/30055
 #EXTINF:-1,SKY SPORT 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/30065
+http://p4.giffy.be:8080/sandy/1234/30065
 #EXTINF:-1,IT | DAZN SERIE A 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/92009
+http://p4.giffy.be:8080/sandy/1234/92009
+#EXTINF:-1,AR | BEIN SPORTS 11 HQ
+http://p4.giffy.be:8080/sandy/1234/96435
 #EXTINF:-1,AR | BEIN SPORTS 12 HQ
-http://p5.giffy.be:8080/cecilia/cecilia/96434
+http://p4.giffy.be:8080/sandy/1234/96434
 #EXTINF:-1,FR | BeIN Sport 1 Fr HD
-http://p5.giffy.be:8080/cecilia/cecilia/96619
+http://p4.giffy.be:8080/sandy/1234/96619
 #EXTINF:-1,FR | BeIN Sport 2 Fr HD
-http://p5.giffy.be:8080/cecilia/cecilia/96618
+http://p4.giffy.be:8080/sandy/1234/96618
 #EXTINF:-1,FR | BeIN Sport 3 Fr HD
-http://p5.giffy.be:8080/cecilia/cecilia/96617
+http://p4.giffy.be:8080/sandy/1234/96617
 #EXTINF:-1,UK-S | BT SPORTS 2 HD
-http://p5.giffy.be:8080/cecilia/cecilia/91592
+http://p4.giffy.be:8080/sandy/1234/91592
 #EXTINF:-1,UK-S | BT SPORTS 3 HD
-http://p5.giffy.be:8080/cecilia/cecilia/91593
+http://p4.giffy.be:8080/sandy/1234/91593
 #EXTINF:-1,SP | BEIN SPORTS (CAN)
-http://p5.giffy.be:8080/cecilia/cecilia/13890
+http://p4.giffy.be:8080/sandy/1234/13890
 #EXTINF:-1,USA-S | FOX SPORTS 1
-http://p5.giffy.be:8080/cecilia/cecilia/85613
+http://p4.giffy.be:8080/sandy/1234/85613
 #EXTINF:-1,USA-S | FOX SPORTS 2
-http://p5.giffy.be:8080/cecilia/cecilia/85612
+http://p4.giffy.be:8080/sandy/1234/85612
 #EXTINF:-1,Sport Klub 1 HD
 http://130.185.250.190:25461/enigma1/enigma1/1135
 #EXTINF:-1,Sport Klub 2 HD
@@ -75,10 +97,7 @@ http://130.185.250.190:25461/enigma1/enigma1/1130
 http://212.200.127.246:4022/udp/239.1.0.23:1234
 #EXTINF:0,Arena Sport 2
 http://212.200.127.246:4022/udp/239.1.0.24:1234
-#EXTINF:-1,PT | Eurosport 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/95059
-#EXTINF:-1,PT | Eurosport 2
-http://p5.giffy.be:8080/cecilia/cecilia/95058
+
 
 
 
