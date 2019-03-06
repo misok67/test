@@ -2,6 +2,36 @@
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://www.
+
+#EXTINF:-1,EX-YU: SPORT KLUB HD 1
+http://server.internext.tv:8080/benny/benny/36058
+#EXTINF:-1,EX-YU: SPORT KLUB HD 2
+http://server.internext.tv:8080/benny/benny/36057
+#EXTINF:-1,EX-YU: SPORT KLUB 3
+http://server.internext.tv:8080/benny/benny/36056
+#EXTINF:-1,EX-YU: SPORT KLUB 4
+http://server.internext.tv:8080/benny/benny/36055
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HD SR
+http://server.internext.tv:8080/benny/benny/36104
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
+http://server.internext.tv:8080/benny/benny/36099
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HD SR
+http://server.internext.tv:8080/benny/benny/36103
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
+http://server.internext.tv:8080/benny/benny/36098
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HD SR
+http://server.internext.tv:8080/benny/benny/36102
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
+http://server.internext.tv:8080/benny/benny/36097
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HD SR
+http://server.internext.tv:8080/benny/benny/36101
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
+http://server.internext.tv:8080/benny/benny/36096
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HD SR
+http://server.internext.tv:8080/benny/benny/36100
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
+http://server.internext.tv:8080/benny/benny/36095
+
 #EXTINF:-1,Sport Klub 1
 http://cms.iptvboard.me:89/GB048/V3YgTVrauE/501
 #EXTINF:-1,Sport Klub 2
@@ -36,158 +66,15 @@ http://cms.iptvboard.me:89/GB048/V3YgTVrauE/439
 http://cms.iptvboard.me:89/GB048/V3YgTVrauE/441
 #EXTINF:-1,Arena Sport 5
 http://cms.iptvboard.me:89/GB048/V3YgTVrauE/531
-#EXTINF:0,HR: Sport Klub 1
-http://31.220.1.190:8080/11223344/44332211/156640
-#EXTINF:0,HR: Sport Klub 2
-http://31.220.1.190:8080/11223344/44332211/156641
-#EXTINF:0,HR: Sport Klub 3
-http://31.220.1.190:8080/11223344/44332211/156642
-#EXTINF:0,HR: Sport Klub 4
-http://31.220.1.190:8080/11223344/44332211/156643
-#EXTINF:0,HR: Sport Klub 5
-http://31.220.1.190:8080/11223344/44332211/197688
-#EXTINF:0,HR: Sport Klub 6
-http://31.220.1.190:8080/11223344/44332211/197367
-#EXTINF:0,SRB: SPORT KLUB 1 HD
-http://31.220.1.190:8080/11223344/44332211/133867
-#EXTINF:0,SRB: SPORT KLUB 2 HD
-http://31.220.1.190:8080/11223344/44332211/133868
-#EXTINF:0,SRB: SPORT KLUB 3 HD
-http://31.220.1.190:8080/11223344/44332211/133869
-#EXTINF:0,SRB: SPORT KLUB 4 HD
-http://31.220.1.190:8080/11223344/44332211/133870
-#EXTINF:0,SRB: SPORT KLUB 5 HD
-http://31.220.1.190:8080/11223344/44332211/133871
-#EXTINF:0,SRB: SPORT KLUB 6 HD
-http://31.220.1.190:8080/11223344/44332211/133872
-#EXTINF:0,EX-YU: SPORT KLUB 1 HD
-http://31.220.1.190:8080/11223344/44332211/65342
-#EXTINF:0,EX-YU: SPORT KLUB 2 HD
-http://31.220.1.190:8080/11223344/44332211/65341
-#EXTINF:0,EX-YU: SPORT KLUB 3 HD
-http://31.220.1.190:8080/11223344/44332211/65340
-#EXTINF:0,EX-YU: SPORT KLUB 4
-http://31.220.1.190:8080/11223344/44332211/158290
-#EXTINF:0,EX-YU: SPORT KLUB 5 HD
-http://31.220.1.190:8080/11223344/44332211/65351
-#EXTINF:0,EX-YU: SPORT KLUB 6
-http://31.220.1.190:8080/11223344/44332211/65350
-#EXTINF:0,EX-YU: Sport Klub 1 (CRO)
-http://31.220.1.190:8080/11223344/44332211/89494
-#EXTINF:0,EX-YU: Sport Klub 3 (CRO)
-http://31.220.1.190:8080/11223344/44332211/89496
-#EXTINF:0,EX-YU: Arena Sport 1 HD
-http://31.220.1.190:8080/11223344/44332211/93783
-#EXTINF:0,EX-YU: Arena Sport 2 HD
-http://31.220.1.190:8080/11223344/44332211/65360
-#EXTINF:0,EX-YU: Arena Sport 3 HD
-http://31.220.1.190:8080/11223344/44332211/65365
-#EXTINF:0,EX-YU: Arena Sport 4 HD
-http://31.220.1.190:8080/11223344/44332211/93786
-#EXTINF:0,EX-YU: Arena Sport 5 HD
-http://31.220.1.190:8080/11223344/44332211/65363
-#EXTINF:0,EX-YU: Arena Sport 6 HD
-http://31.220.1.190:8080/11223344/44332211/134396
-#EXTINF:0,HR: Arena Sport 1 HD
-http://31.220.1.190:8080/11223344/44332211/156635
-#EXTINF:0,HR: Arena Sport 2 HD
-http://31.220.1.190:8080/11223344/44332211/156636
-#EXTINF:0,HR: Arena Sport 3
-http://31.220.1.190:8080/11223344/44332211/156637
-#EXTINF:0,HR: Arena Sport 4 HD
-http://31.220.1.190:8080/11223344/44332211/65364
-#EXTINF:0,HR: Arena Sport 5 HD
-http://31.220.1.190:8080/11223344/44332211/156639
-#EXTINF:0,HR: Arena Sport 6 HD
-http://31.220.1.190:8080/11223344/44332211/65362
-#EXTINF:0,SRB: Arena Sport 1 HD
-http://31.220.1.190:8080/11223344/44332211/117279
-#EXTINF:0,SRB: Arena Sport 2 HD
-http://31.220.1.190:8080/11223344/44332211/198482
-#EXTINF:0,SRB: Arena Sport 3
-http://31.220.1.190:8080/11223344/44332211/65359
-#EXTINF:0,SRB: Arena Sport 4
-http://31.220.1.190:8080/11223344/44332211/65358
-#EXTINF:0,SRB: Arena Sport 5 HD
-http://31.220.1.190:8080/11223344/44332211/65357
-#EXTINF:-1,Sport Klub 1 HD Cro
-http://iptvtool.es:9977/joa1/joa1/52859
-#EXTINF:-1,Sport Klub 2 HD Cro
-http://iptvtool.es:9977/joa1/joa1/52858
-#EXTINF:-1,Sport Klub 3 HD Cro
-http://iptvtool.es:9977/joa1/joa1/52857
-#EXTINF:-1,Sport Klub HD 1 Srb
-http://iptvtool.es:9977/joa1/joa1/52856
-#EXTINF:-1,Sport Klub HD 2 Srb
-http://iptvtool.es:9977/joa1/joa1/52855
-#EXTINF:-1,Sport Klub HD 3 Srb
-http://iptvtool.es:9977/joa1/joa1/52854
-#EXTINF:-1,Arena Sport 1 HD Cro
-http://iptvtool.es:9977/joa1/joa1/52980
-#EXTINF:-1,Arena Sport 1 Srb
-http://iptvtool.es:9977/joa1/joa1/52979
-#EXTINF:-1,Arena Sport 2 HD Cro
-http://iptvtool.es:9977/joa1/joa1/52978
-#EXTINF:-1,Arena Sport 2 Srb
-http://iptvtool.es:9977/joa1/joa1/52977
-#EXTINF:-1,Arena Sport 3 HD Cro
-http://iptvtool.es:9977/joa1/joa1/52976
-#EXTINF:-1,Arena Sport 3 Srb
-http://iptvtool.es:9977/joa1/joa1/52975
-#EXTINF:-1,Arena Sport 4 HD Cro
-http://iptvtool.es:9977/joa1/joa1/52974
-#EXTINF:-1,Arena Sport 4 Srb
-http://iptvtool.es:9977/joa1/joa1/52973
-#EXTINF:-1,Arena Sport 5 HD Cro
-http://iptvtool.es:9977/joa1/joa1/52972
-#EXTINF:-1,Arena Sport 5 Srb
-http://iptvtool.es:9977/joa1/joa1/52971
-#EXTINF:-1,SPORT Arena Sport 1 Srb
-http://iptvtool.es:9977/joa1/joa1/73552
-#EXTINF:-1,SPORT Arena Sport 2 Srb
-http://iptvtool.es:9977/joa1/joa1/73551
-#EXTINF:-1,SPORT Arena Sport 3 Srb
-http://iptvtool.es:9977/joa1/joa1/73550
-#EXTINF:-1,SPORT Arena Sport 4 Srb
-http://iptvtool.es:9977/joa1/joa1/73549
-#EXTINF:-1,SPORT Arena Sport 5 Srb
-http://iptvtool.es:9977/joa1/joa1/73548
-#EXTINF:-1,SPORT Arena Sports 1 HD Croatia
-http://iptvtool.es:9977/joa1/joa1/73547
-#EXTINF:-1,SPORT Arena Sports 2 HD Croatia
-http://iptvtool.es:9977/joa1/joa1/73546
-#EXTINF:-1,SPORT Arena Sports 3 HD Croatia
-http://iptvtool.es:9977/joa1/joa1/73545
-#EXTINF:-1,SPORT Arena Sports 4 HD Croatia
-http://iptvtool.es:9977/joa1/joa1/73544
-#EXTINF:-1,SPORT Arena Sports 5 HD Croatia
-http://iptvtool.es:9977/joa1/joa1/73543
-#EXTINF:-1,SPORT Arena Sports 6 HD Croatia
-http://iptvtool.es:9977/joa1/joa1/73542
-#EXTINF:-1,SPORT SPORT KLUB 1 HD HR
-http://iptvtool.es:9977/joa1/joa1/73540
-#EXTINF:-1,SPORT SPORT KLUB 1 SR HD
-http://iptvtool.es:9977/joa1/joa1/73539
-#EXTINF:-1,SPORT SPORT KLUB 2 HD HR
-http://iptvtool.es:9977/joa1/joa1/73538
-#EXTINF:-1,SPORT SPORT KLUB 2 SR HD
-http://iptvtool.es:9977/joa1/joa1/73537
-#EXTINF:-1,SPORT SPORT KLUB 3 HD HR
-http://iptvtool.es:9977/joa1/joa1/73536
-#EXTINF:-1,SPORT SPORT KLUB 3 SR HD
-http://iptvtool.es:9977/joa1/joa1/73535
-#EXTINF:-1,SPORT SPORT KLUB 4
-http://iptvtool.es:9977/joa1/joa1/73534
-#EXTINF:-1,SPORT SPORT KLUB 5
-http://iptvtool.es:9977/joa1/joa1/73533
-#EXTINF:-1,SPORT SPORT KLUB 6
-http://iptvtool.es:9977/joa1/joa1/73532
-#EXTINF:-1,SPORT SPORT KLUB HD
-http://iptvtool.es:9977/joa1/joa1/73541
-#EXTINF:-1,SPORT SLO: SPORT KLUB 1 HD
-http://iptvtool.es:9977/joa1/joa1/73483
-#EXTINF:-1,SPORT SLO: SPORT KLUB 3 HD
-http://iptvtool.es:9977/joa1/joa1/73481
+#EXTINF:-1,SPORTKLUB 1 HD
+http://tv.factoryiptv.com:80/yolanda1/yolanda1/55010
+#EXTINF:-1,SPORTKLUB 2 HD
+http://tv.factoryiptv.com:80/yolanda1/yolanda1/55011
+#EXTINF:-1,SPORTKLUB 3 HD
+http://tv.factoryiptv.com:80/yolanda1/yolanda1/55012
+#EXTINF:-1,SPORTKLUB 4
+http://tv.factoryiptv.com:80/yolanda1/yolanda1/55013
+
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://www.19
