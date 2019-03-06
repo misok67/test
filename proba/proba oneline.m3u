@@ -1,36 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1,*** SPORT EX-YU LISTA 1
-http://www.
+#EXTINF:-1,*** LIGA PRVAKA
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/9999999
 
-#EXTINF:-1,EX-YU: SPORT KLUB HD 1
-http://server.internext.tv:8080/benny/benny/36058
-#EXTINF:-1,EX-YU: SPORT KLUB HD 2
-http://server.internext.tv:8080/benny/benny/36057
-#EXTINF:-1,EX-YU: SPORT KLUB 3
-http://server.internext.tv:8080/benny/benny/36056
-#EXTINF:-1,EX-YU: SPORT KLUB 4
-http://server.internext.tv:8080/benny/benny/36055
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HD SR
-http://server.internext.tv:8080/benny/benny/36104
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
-http://server.internext.tv:8080/benny/benny/36099
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HD SR
-http://server.internext.tv:8080/benny/benny/36103
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
-http://server.internext.tv:8080/benny/benny/36098
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HD SR
-http://server.internext.tv:8080/benny/benny/36102
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
-http://server.internext.tv:8080/benny/benny/36097
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HD SR
-http://server.internext.tv:8080/benny/benny/36101
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
-http://server.internext.tv:8080/benny/benny/36096
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HD SR
-http://server.internext.tv:8080/benny/benny/36100
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
-http://server.internext.tv:8080/benny/benny/36095
+#EXTINF:-1 ,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1,Arena Sport 5
+http://195.154.207.143:89/POr1/mBYFJfzoSy/531
+#EXTINF:-1,SPORTKLUB 1 HD
+http://tv.factoryiptv.com:80/yolanda1/yolanda1/55010
+#EXTINF:-1,UK: BT Sports 2
+http://195.154.207.143:89/POr1/mBYFJfzoSy/6820
+#EXTINF:-1,UK: BT Sport Europe HD
+http://195.154.207.143:89/POr1/mBYFJfzoSy/1057
+#EXTINF:-1,DAZN 1 Bar HD
+http://195.154.207.143:89/POr1/mBYFJfzoSy/7079
+#EXTINF:-1,DAZN 2 Bar HD
+http://195.154.207.143:89/POr1/mBYFJfzoSy/7080
+
+#EXTINF:-1,...BT SPORTS 2 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7974
+#EXTINF:-1,...BT SPORTS 3 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7973
+#EXTINF:-1,...BEIN SPORTS 11_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31022
+#EXTINF:-1,...BEIN SPORTS 12_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31021
+#EXTINF:-1,...ARENA SPORT 5 SR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12310
+
+#EXTINF:-1,*** SPORT EX-YU LISTA 1
+http://www.11
+
 
 #EXTINF:-1,Sport Klub 1
 http://cms.iptvboard.me:89/GB048/V3YgTVrauE/501
