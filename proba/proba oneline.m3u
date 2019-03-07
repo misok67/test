@@ -1,33 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1,*** LIGA PRVAKA
+#EXTINF:-1,*** DINAMO
 http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/9999999
 
-#EXTINF:-1 ,HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1,Arena Sport 5
-http://195.154.207.143:89/POr1/mBYFJfzoSy/531
-#EXTINF:-1,SPORTKLUB 1 HD
-http://tv.factoryiptv.com:80/yolanda1/yolanda1/55010
-#EXTINF:-1,UK: BT Sports 2
-http://195.154.207.143:89/POr1/mBYFJfzoSy/6820
-#EXTINF:-1,UK: BT Sport Europe HD
-http://195.154.207.143:89/POr1/mBYFJfzoSy/1057
-#EXTINF:-1,DAZN 1 Bar HD
-http://195.154.207.143:89/POr1/mBYFJfzoSy/7079
-#EXTINF:-1,DAZN 2 Bar HD
-http://195.154.207.143:89/POr1/mBYFJfzoSy/7080
+#EXTINF:-1,Arena Sport 1 HR
+http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/206.ts
+#EXTINF:-1, ARENA SPORT 1
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2539
+#EXTINF:-1,Arena Sport 1 HR
+http://cms.iptvboard.me:89/GB048/V3YgTVrauE/454
+#EXTINF:-1,ARENA SPORT SR
+http://www.nilsattv.com:8080/bayram1/29032018/1245
+#EXTINF:-1,EX-YU:Arena Sport 1 HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/2025
+#EXTINF:-1,Bein 5 AR
+http://195.154.207.143:89/POr1/mBYFJfzoSy/652
 
-#EXTINF:-1,...BT SPORTS 2 HD
-http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7974
-#EXTINF:-1,...BT SPORTS 3 HD
-http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7973
-#EXTINF:-1,...BEIN SPORTS 11_HD
-http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31022
-#EXTINF:-1,...BEIN SPORTS 12_HD
-http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31021
-#EXTINF:-1,...ARENA SPORT 5 SR
-http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12310
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://www.11
