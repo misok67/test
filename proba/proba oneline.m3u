@@ -1,25 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,*** DINAMO
-http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/9999999
-
-#EXTINF:-1,Arena Sport 1 HR
-http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/206.ts
-#EXTINF:-1, ARENA SPORT 1
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2539
-#EXTINF:-1,Arena Sport 1 HR
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/454
-#EXTINF:-1,ARENA SPORT SR
-http://www.nilsattv.com:8080/bayram1/29032018/1245
-#EXTINF:-1,EX-YU:Arena Sport 1 HD
-http://gold.4khdiptv.com:8080/aydin1234/aydin1234/2025
-#EXTINF:-1,Bein 5 AR
-http://195.154.207.143:89/POr1/mBYFJfzoSy/652
-
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
-http://www.11
-
+http://www.
 
 #EXTINF:-1,Sport Klub 1
 http://cms.iptvboard.me:89/GB048/V3YgTVrauE/501
@@ -55,14 +38,26 @@ http://cms.iptvboard.me:89/GB048/V3YgTVrauE/439
 http://cms.iptvboard.me:89/GB048/V3YgTVrauE/441
 #EXTINF:-1,Arena Sport 5
 http://cms.iptvboard.me:89/GB048/V3YgTVrauE/531
-#EXTINF:-1,SPORTKLUB 1 HD
-http://tv.factoryiptv.com:80/yolanda1/yolanda1/55010
-#EXTINF:-1,SPORTKLUB 2 HD
-http://tv.factoryiptv.com:80/yolanda1/yolanda1/55011
-#EXTINF:-1,SPORTKLUB 3 HD
-http://tv.factoryiptv.com:80/yolanda1/yolanda1/55012
-#EXTINF:-1,SPORTKLUB 4
-http://tv.factoryiptv.com:80/yolanda1/yolanda1/55013
+#EXTINF:-1,SPORT KLUB 1 HD (RS)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5324
+#EXTINF:-1,SPORT KLUB 2 HD (RS)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5323
+#EXTINF:-1,SPORT KLUB 3 (RS)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5325
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2539
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2526
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2537
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2536
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2523
+#EXTINF:-1,EX-YU: ARENA SPORT 6 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2534
+#EXTINF:-1,EX-YU: HNtv
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2528
 
 
 #EXTINF:-1,**EXYUKANALILISTA1
@@ -93,12 +88,7 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1,Nova TV HD
-http://qqtv.nl:80/f2KFRMfrYU/YwJN6WkmQi/14451
-#EXTINF:-1,Doma TV HD
-http://qqtv.nl:80/f2KFRMfrYU/YwJN6WkmQi/14450
-#EXTINF:-1,RTL 2
-http://qqtv.nl:80/f2KFRMfrYU/YwJN6WkmQi/14445
+
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
