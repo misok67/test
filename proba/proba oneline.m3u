@@ -70,20 +70,40 @@ http://tv.hotboxtv.net:8000/12091979/12091979/943
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://www.19
-#EXTINF:-1,HBO
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/436
-#EXTINF:-1,HBO 2
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/437
-#EXTINF:-1,HBO 3
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/821
-#EXTINF:-1,Cinemax 1
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/670
-#EXTINF:-1,Cinemax 2
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/671
-#EXTINF:-1,Cinestar TV
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/457
-
-
+#EXTINF:-1,HBO 1 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4573
+#EXTINF:-1,HBO 2 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4572
+#EXTINF:-1,HBO 3 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4571
+#EXTINF:-1,HBO Adria
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2317
+#EXTINF:-1,HBO Comedy 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2316
+#EXTINF:-1,Cinemax 1 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2315
+#EXTINF:-1,Cinemax 2 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2314
+#EXTINF:-1,Cinestar Action 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4028
+#EXTINF:-1,Cinestar Premiere 1 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2313
+#EXTINF:-1,Cinestar Premiere 2 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2312
+#EXTINF:-1,Cinestar TV 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4029
+#EXTINF:-1,Film Klub 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/9066
+#EXTINF:-1,Film Klub Extra 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/9065
+#EXTINF:-1,Filmbox Extra 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4027
+#EXTINF:-1,Filmbox Plus 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4026
+#EXTINF:-1,M1 Film 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/227
+#EXTINF:-1,TV1000 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4025
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 ,HRT 2
