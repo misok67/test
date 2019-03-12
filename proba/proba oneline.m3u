@@ -1,8 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1,*** LIGA PRVAKA
+http://www.
+#EXTINF:-1,Arena Sport 1 HD (sr)
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206470
+#EXTINF:-1,Arena Sport 2 HD (sr)
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65360
+#EXTINF:-1,UK: BT Sport 2 HD
+http://195.154.207.143:89/POr1/mBYFJfzoSy/1055
+#EXTINF:-1,UK: BT Sport 3
+http://195.154.207.143:89/POr1/mBYFJfzoSy/1057
+#EXTINF:-1,DAZN 1 Bar HD
+http://195.154.207.143:89/POr1/mBYFJfzoSy/7079
+#EXTINF:-1,Sky Sport 1
+http://195.154.207.143:89/POr1/mBYFJfzoSy/518
+#EXTINF:-1,Sky Sport 2
+http://195.154.207.143:89/POr1/mBYFJfzoSy/817
+#EXTINF:-1,SKY Sport 1 HD IT
+http://195.154.207.143:89/POr1/mBYFJfzoSy/1083
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
-http://www.
+http://www.1111
 #EXTINF:-1,Sport Klub 1 HD (hr)
 http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/89494
 #EXTINF:-1,Sport Klub 2 HD (hr)
@@ -46,26 +64,7 @@ http://195.154.207.143:89/POr1/mBYFJfzoSy/531
 #EXTINF:-1,HNTV
 http://195.154.207.143:89/POr1/mBYFJfzoSy/446
 
-#EXTINF:-1,EX-YU: Arena Sport 1 HR
-http://tv.hotboxtv.net:8000/12091979/12091979/934
-#EXTINF:-1,EX-YU: Arena Sport 1 SRB
-http://tv.hotboxtv.net:8000/12091979/12091979/939
-#EXTINF:-1,EX-YU: Arena Sport 2 HR
-http://tv.hotboxtv.net:8000/12091979/12091979/935
-#EXTINF:-1,EX-YU: Arena Sport 2 SRB
-http://tv.hotboxtv.net:8000/12091979/12091979/940
-#EXTINF:-1,EX-YU: Arena Sport 3 HR
-http://tv.hotboxtv.net:8000/12091979/12091979/936
-#EXTINF:-1,EX-YU: Arena Sport 3 SRB
-http://tv.hotboxtv.net:8000/12091979/12091979/941
-#EXTINF:-1,EX-YU: Arena Sport 4 HR
-http://tv.hotboxtv.net:8000/12091979/12091979/937
-#EXTINF:-1,EX-YU: Arena Sport 4 SRB
-http://tv.hotboxtv.net:8000/12091979/12091979/942
-#EXTINF:-1,EX-YU: Arena Sport 5 HR
-http://tv.hotboxtv.net:8000/12091979/12091979/938
-#EXTINF:-1,EX-YU: Arena Sport 5 SRB
-http://tv.hotboxtv.net:8000/12091979/12091979/943
+
 
 
 #EXTINF:-1,**EXYUKANALILISTA1
