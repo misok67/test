@@ -2,10 +2,10 @@
 
 #EXTINF:-1,*** LIGA PRVAKA
 http://www.
+#EXTINF:-1 ,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1,Arena Sport 1 HD (sr)
 http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206470
-#EXTINF:-1,Arena Sport 2 HD (sr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65360
 #EXTINF:-1,UK: BT Sport 2 HD
 http://195.154.207.143:89/POr1/mBYFJfzoSy/1055
 #EXTINF:-1,UK: BT Sport 3
@@ -18,30 +18,11 @@ http://195.154.207.143:89/POr1/mBYFJfzoSy/518
 http://195.154.207.143:89/POr1/mBYFJfzoSy/817
 #EXTINF:-1,SKY Sport 1 HD IT
 http://195.154.207.143:89/POr1/mBYFJfzoSy/1083
-#EXTINF:-1,EX-YOU | Arena Sport1 HD
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/629
-#EXTINF:-1,EX-YOU | Arena Sport2 HD
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/632
-#EXTINF:-1,AR | Bein Sport 11 HD
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/3728
-#EXTINF:-1,AR | Bein Sport 12 HD
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/3729
-#EXTINF:-1,DE | Dazn Sport 1
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/10441
-#EXTINF:-1,DE | Sky Sport 1 HD
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/125
-#EXTINF:-1,DE | Sky Sport 2 FHD
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/7505
-#EXTINF:-1,DE | Sky Sport 2 HD
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/126
-#EXTINF:-1,GB | BT Sport 2 HD
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/173
-#EXTINF:-1,GB | BT Sport 2 SD
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/9763
-#EXTINF:-1,GB | BT Sport 3 HD
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/4295
-#EXTINF:-1,NL | Ziggo Sport Select 4K+
-http://fiber.fibertv.nl:8000/SuleyM@niy3/3iWoNEmcBxSul@/519
+
+#EXTINF:-1,Arena Sport 1 HD (hr)
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44875
+#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
+http://formen1.com:8080/husnu03/13092018/16850
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://www.1111
