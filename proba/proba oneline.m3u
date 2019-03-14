@@ -1,74 +1,92 @@
 #EXTM3U
 
-#EXTINF:-1,*** LIGA PRVAKA
-http://www.
-#EXTINF:-1 ,HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1,Arena Sport 1 HD (sr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206470
-#EXTINF:-1,UK: BT Sport 2 HD
-http://195.154.207.143:89/POr1/mBYFJfzoSy/1055
-#EXTINF:-1,UK: BT Sport 3
-http://195.154.207.143:89/POr1/mBYFJfzoSy/1057
-#EXTINF:-1,DAZN 1 Bar HD
-http://195.154.207.143:89/POr1/mBYFJfzoSy/7079
-#EXTINF:-1,Sky Sport 1
-http://195.154.207.143:89/POr1/mBYFJfzoSy/518
-#EXTINF:-1,Sky Sport 2
-http://195.154.207.143:89/POr1/mBYFJfzoSy/817
-#EXTINF:-1,SKY Sport 1 HD IT
-http://195.154.207.143:89/POr1/mBYFJfzoSy/1083
-
-#EXTINF:-1,Arena Sport 1 HD (hr)
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44875
-#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
-http://formen1.com:8080/husnu03/13092018/16850
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
-http://www.1111
-#EXTINF:-1,Sport Klub 1 HD (hr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/89494
-#EXTINF:-1,Sport Klub 2 HD (hr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/134430
-#EXTINF:-1,Sport Klub 3 HD (hr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/89496
-#EXTINF:-1,Sport Klub 1 (sr) HD
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65342
-#EXTINF:-1,Sport Klub 2 (sr) HD
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/591
-#EXTINF:-1,Sport Klub 3 (sr) HD
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/590
-#EXTINF:-1,Sport Klub 4
-http://195.154.207.143:89/POr1/mBYFJfzoSy/801
-#EXTINF:-1,Sport Klub 5
-http://195.154.207.143:89/POr1/mBYFJfzoSy/802
-#EXTINF:-1,Sport Klub 6
-http://195.154.207.143:89/POr1/mBYFJfzoSy/803
-#EXTINF:-1,Arena Sport 1 HD (hr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/93783
-#EXTINF:-1,Arena Sport 2 HD (hr)
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/588
-#EXTINF:-1,Arena Sport 3 HD (hr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65365
-#EXTINF:-1,Arena Sport 4 HD (hr)
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/586
-#EXTINF:-1,Arena Sport 5 HD (hr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206474
-#EXTINF:-1,Arena Sport 6 HD (hr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/134396
-#EXTINF:-1,Arena Sport 1 HD (sr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206470
-#EXTINF:-1,Arena Sport 2 HD (sr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65360
-#EXTINF:-1,Arena Sport 3 (sr)
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2282
-#EXTINF:-1,Arena Sport 4 (sr)
-http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206475
-#EXTINF:-1,Arena Sport 5 (sr)
-http://195.154.207.143:89/POr1/mBYFJfzoSy/531
-#EXTINF:-1,HNTV
-http://195.154.207.143:89/POr1/mBYFJfzoSy/446
+http://www.
+#EXTINF:-1,SPORT KLUB 1
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/7338
+#EXTINF:-1,SPORT KLUB 2
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/7337
+#EXTINF:-1,SPORT KLUB 3 HD
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/7336
+#EXTINF:-1,Sport Klub 1 HD HR
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17567
+#EXTINF:-1,Sport Klub 2 HD HR
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17566
+#EXTINF:-1,Sport Klub 3 HD HR
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17565
+#EXTINF:-1,Sport Klub 4 HR
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17564
+#EXTINF:-1,Sport Klub 5 HR
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17563
+#EXTINF:-1,Sport Klub 6 HR
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17562
+#EXTINF:-1,ARENA SPORT 1 HD (HR)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17573
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17572
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17571
+#EXTINF:-1,ARENA SPORT 4 HD (HR)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17570
+#EXTINF:-1,ARENA SPORT 5 HD (HR)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17569
+#EXTINF:-1,ARENA SPORT 6 (HR)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/17568
+#EXTINF:-1,ARENA SPORT 1 HD
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/7335
+#EXTINF:-1,Arena Sport 2 HD
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/7334
+#EXTINF:-1,Arena Sport 3 HD
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/7333
+#EXTINF:-1,Arena Sport 4 HD
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/7332
+#EXTINF:-1,EXYU:Arena Sport 5
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/8165
+#EXTINF:-1,EXYU:VIP:ARENA SPORT 1 HD (HR)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/8209
+#EXTINF:-1,EXYU:VIP:ARENA SPORT 2 HD (HR)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/8210
 
+#EXTINF:-1,SPORT TV 1 HD (SLO)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/7911
+#EXTINF:-1,SPORT TV 2 HD (SLO)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/7912
+#EXTINF:-1,SPORT TV 3 HD (SLO)
+http://193.200.164.87:8000/holger/ykqo1dYqRJ/7913
+
+#EXTINF:-1, SPORT KLUB 5
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44747
+#EXTINF:-1, SPORT KLUB 6
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44746
+#EXTINF:-1, SPORT TV 1 HD SLO
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44745
+#EXTINF:-1, SPORT TV 2 HD SLO
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44744
+#EXTINF:-1, SPORT TV 3 HD SLO
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44743
+#EXTINF:-1, ARENA SPORT 1 (SR)
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44874
+#EXTINF:-1, Arena Sport 1 HR
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44875
+#EXTINF:-1, ARENA SPORT 2 (SR)
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44872
+#EXTINF:-1, Arena Sport 2 HR
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44873
+#EXTINF:-1, ARENA SPORT 3 (SR)
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44870
+#EXTINF:-1, Arena Sport 3 HR
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44871
+#EXTINF:-1, ARENA SPORT 4 (SR)
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44868
+#EXTINF:-1, Arena Sport 4 HR
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44869
+#EXTINF:-1, ARENA SPORT 5 (SR)
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44866
+#EXTINF:-1, Arena Sport 5 HR
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44867
+#EXTINF:-1,EX-YU: HNTV
+http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44804
 
 
 
