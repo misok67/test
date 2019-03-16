@@ -2,57 +2,80 @@
 
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
 http://www.
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://formen1.com:8080/burakcelik/14022018/16828
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://formen1.com:8080/burakcelik/14022018/16827
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://formen1.com:8080/burakcelik/14022018/16826
-#EXTINF:-1,EX YU: SPORT KLUB 4
-http://formen1.com:8080/burakcelik/14022018/16825
+#EXTINF:-1,EX-YU: Sport Klub 1 (CRO)
+http://111.90.151.57:8080/liviu/12345/89494
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HD
+http://111.90.151.57:8080/liviu/12345/65342
+#EXTINF:-1,EX-YU: SPORT KLUB 2 HD
+http://111.90.151.57:8080/liviu/12345/65341
+#EXTINF:-1,EX-YU: Sport Klub 3 (CRO)
+http://111.90.151.57:8080/liviu/12345/89496
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HD
+http://111.90.151.57:8080/liviu/12345/65340
+#EXTINF:-1,EX-YU: SPORT KLUB 4
+http://111.90.151.57:8080/liviu/12345/158290
+#EXTINF:-1,EX-YU: SPORT KLUB 5 HD
+http://111.90.151.57:8080/liviu/12345/65351
+#EXTINF:-1,EX-YU: SPORT KLUB 6
+http://111.90.151.57:8080/liviu/12345/65350
+#EXTINF:-1,EX-YU: SPORTKLUB 2 HD SLO
+http://111.90.151.57:8080/liviu/12345/126328
+#EXTINF:-1,SRB: SPORT KLUB 1 HD
+http://111.90.151.57:8080/liviu/12345/133867
+#EXTINF:-1,SRB: SPORT KLUB 2 HD
+http://111.90.151.57:8080/liviu/12345/133868
+#EXTINF:-1,SRB: SPORT KLUB 3 HD
+http://111.90.151.57:8080/liviu/12345/133869
+#EXTINF:-1,SRB: SPORT KLUB 4 HD
+http://111.90.151.57:8080/liviu/12345/133870
+#EXTINF:-1,SRB: SPORT KLUB 5 HD
+http://111.90.151.57:8080/liviu/12345/133871
+#EXTINF:-1,SRB: SPORT KLUB 6 HD
+http://111.90.151.57:8080/liviu/12345/133872
 
-#EXTINF:-1,Ex-Yu | Arena Sport 1 HR
-http://formen1.com:8080/burakcelik/14022018/3076
-#EXTINF:-1,Ex-Yu | Arena Sport 2 Hr
-http://formen1.com:8080/burakcelik/14022018/3077
-#EXTINF:-1,Ex-Yu | Arena Sport 3 Hr
-http://formen1.com:8080/burakcelik/14022018/3078
-#EXTINF:-1,Ex-Yu | Arena Sport 4 Hr
-http://formen1.com:8080/burakcelik/14022018/3079
-#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
-http://formen1.com:8080/burakcelik/14022018/16824
-#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
-http://formen1.com:8080/burakcelik/14022018/16823
-#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
-http://formen1.com:8080/burakcelik/14022018/16822
-#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
-http://formen1.com:8080/burakcelik/14022018/16821
+#EXTINF:-1,HR: Sport Klub 1
+http://111.90.151.57:8080/liviu/12345/156640
+#EXTINF:-1,HR: Sport Klub 2
+http://111.90.151.57:8080/liviu/12345/156641
+#EXTINF:-1,HR: Sport Klub 3
+http://111.90.151.57:8080/liviu/12345/156642
+#EXTINF:-1,HR: Arena Sport 1 HD
+http://111.90.151.57:8080/liviu/12345/156635
+#EXTINF:-1,HR: Arena Sport 2 HD
+http://111.90.151.57:8080/liviu/12345/156636
+#EXTINF:-1,HR: Arena Sport 3
+http://111.90.151.57:8080/liviu/12345/156637
+#EXTINF:-1,HR: Arena Sport 4 HD
+http://111.90.151.57:8080/liviu/12345/65364
+#EXTINF:-1,HR: Arena Sport 6 HD
+http://111.90.151.57:8080/liviu/12345/65362
 
-#EXTINF:-1,AL:Sport Klub 1 HD
-http://tv.teledunet.com:25461/clave/clave/3691
-#EXTINF:-1,AL:Sport Klub 2 HD
-http://tv.teledunet.com:25461/clave/clave/3690
-#EXTINF:-1,AL:Sport Klub 3 HD
-http://tv.teledunet.com:25461/clave/clave/3689
-
-#EXTINF:-1,AL:ArenaSport 1 HD HR
-http://tv.teledunet.com:25461/clave/clave/3676
-#EXTINF:-1,AL:ArenaSport 1 HD Srb
-http://tv.teledunet.com:25461/clave/clave/3684
-#EXTINF:-1,AL:ArenaSport 2 HD HR
-http://tv.teledunet.com:25461/clave/clave/3677
-#EXTINF:-1,AL:ArenaSport 2 HD Srb
-http://tv.teledunet.com:25461/clave/clave/3683
-#EXTINF:-1,AL:ArenaSport 3 HD HR
-http://tv.teledunet.com:25461/clave/clave/3678
-#EXTINF:-1,AL:ArenaSport 3 HD Srb
-http://tv.teledunet.com:25461/clave/clave/3682
-#EXTINF:-1,AL:ArenaSport 4 HD HR
-http://tv.teledunet.com:25461/clave/clave/3679
-#EXTINF:-1,AL:ArenaSport 4 HD Srb
-http://tv.teledunet.com:25461/clave/clave/3681
-#EXTINF:-1,AL:ArenaSport 5 HD Srb
-http://tv.teledunet.com:25461/clave/clave/3680
+#EXTINF:-1,EX-YU: Arena Sport 1 HD
+http://111.90.151.57:8080/liviu/12345/93783
+#EXTINF:-1,EX-YU: Arena Sport 1 SRB
+http://111.90.151.57:8080/liviu/12345/206470
+#EXTINF:-1,EX-YU: Arena Sport 2 HD
+http://111.90.151.57:8080/liviu/12345/65360
+#EXTINF:-1,EX-YU: Arena Sport 2 Srb
+http://111.90.151.57:8080/liviu/12345/206473
+#EXTINF:-1,EX-YU: Arena Sport 3 HD
+http://111.90.151.57:8080/liviu/12345/65365
+#EXTINF:-1,EX-YU: Arena Sport 4 HD
+http://111.90.151.57:8080/liviu/12345/93786
+#EXTINF:-1,EX-YU: Arena Sport 5 HD
+http://111.90.151.57:8080/liviu/12345/65363
+#EXTINF:-1,EX-YU: Arena Sport 6 HD
+http://111.90.151.57:8080/liviu/12345/134396
+#EXTINF:-1,SRB: Arena Sport 1 HD
+http://111.90.151.57:8080/liviu/12345/117279
+#EXTINF:-1,SRB: Arena Sport 2 HD
+http://111.90.151.57:8080/liviu/12345/198482
+#EXTINF:-1,SRB: Arena Sport 3
+http://111.90.151.57:8080/liviu/12345/65359
+#EXTINF:-1,SRB: Arena Sport 4
+http://111.90.151.57:8080/liviu/12345/65358
+#EXTINF:-1,SRB: Arena Sport 5 HD
+http://111.90.151.57:8080/liviu/12345/65357
 
 
 #EXTINF:-1,HR_ARENA-SPORT1
