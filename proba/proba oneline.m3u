@@ -1,87 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1,*** HRVATSKA
-http://www.
-#EXTINF:-1,CRO: NOVA TV
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26192
-#EXTINF:-1,CRO: NOVA TV HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26191
-#EXTINF:-1,Nova TV
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1,SPORTS: SPORT KLUB 1 SLO
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26106
-#EXTINF:-1,SPORTS: SPORT KLUB 1 SR
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26105
-
 #EXTINF:-1,*** SPORT EX-YU LISTA 1
-http://www.111111
-#EXTINF:-1,SPORTS: SPORT KLUB 1 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26107
-#EXTINF:-1,SPORTS: SPORT KLUB 1 SLO
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26106
-#EXTINF:-1,SPORTS: SPORT KLUB 1 SR
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26105
-#EXTINF:-1,SPORTS: SPORT KLUB 2 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26104
-#EXTINF:-1,SPORTS: SPORT KLUB 2 SR
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26103
-#EXTINF:-1,SPORTS: SPORT KLUB 3 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26102
-#EXTINF:-1,SPORTS: SPORT KLUB 3 SR
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26101
-#EXTINF:-1,SPORTS: SPORT KLUB 4
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26100
-#EXTINF:-1,SPORTS: SPORT KLUB 5
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26099
-#EXTINF:-1,SPORTS: SPORT KLUB 6
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26098
-#EXTINF:-1,SPORTS: SPORT KLUB HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26097
-
-#EXTINF:-1,EXYU: SPORT KLUB 1 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26291
-#EXTINF:-1,EXYU: SPORT KLUB 2 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26290
-#EXTINF:-1,EXYU: SPORT KLUB  3 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26289
-#EXTINF:-1,SPORTS: ARENA SPORT 1 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26125
-#EXTINF:-1,SPORTS: ARENA SPORT 1 SR
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26124
-#EXTINF:-1,SPORTS: ARENA SPORT 1 SR HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26123
-#EXTINF:-1,SPORTS: ARENA SPORT 2 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26122
-#EXTINF:-1,SPORTS: ARENA SPORT 2 SR
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26121
-#EXTINF:-1,SPORTS: ARENA SPORT 2 SR HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26120
-#EXTINF:-1,SPORTS: ARENA SPORT 3 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26119
-#EXTINF:-1,SPORTS: ARENA SPORT 3 SR
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26118
-#EXTINF:-1,SPORTS: ARENA SPORT 3 SR HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26117
-#EXTINF:-1,SPORTS: ARENA SPORT 4 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26116
-#EXTINF:-1,SPORTS: ARENA SPORT 4 SR
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26115
-#EXTINF:-1,SPORTS: ARENA SPORT 4 SR HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26114
-#EXTINF:-1,SPORTS: ARENA SPORT 5 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26113
-#EXTINF:-1,EXYU: ARENA 1 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26296
-#EXTINF:-1,EXYU: ARENA 2 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26295
-#EXTINF:-1,EXYU: ARENA 3 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26294
-#EXTINF:-1,EXYU: ARENA 4 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26293
-#EXTINF:-1,EXYU: ARENA 5 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26292
-#EXTINF:-1,EXYU: HNTV SD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26301
+http://www.
+#EXTINF:-1,SPORT KLUB1
+http://premiumtv.eu:8000/burimnamani/eset/2069
+#EXTINF:-1,SPORT KLUB2
+http://premiumtv.eu:8000/burimnamani/eset/2070
+#EXTINF:-1,SPORT KLUB3
+http://premiumtv.eu:8000/burimnamani/eset/2071
+#EXTINF:-1,SPORT KLUB4
+http://premiumtv.eu:8000/burimnamani/eset/2151
+#EXTINF:-1,SPORT KLUB5
+http://premiumtv.eu:8000/burimnamani/eset/2173
+#EXTINF:-1,SPORT KLUB6
+http://premiumtv.eu:8000/burimnamani/eset/2174
+#EXTINF:-1,ARENA 1 SRB
+http://premiumtv.eu:8000/burimnamani/eset/1562
+#EXTINF:-1,ARENA 2 SRB
+http://premiumtv.eu:8000/burimnamani/eset/1563
+#EXTINF:-1,ARENA 3 SRB
+http://premiumtv.eu:8000/burimnamani/eset/1564
+#EXTINF:-1,ARENA 4 SRB
+http://premiumtv.eu:8000/burimnamani/eset/1565
+#EXTINF:-1,ARENA 5 SRB
+http://premiumtv.eu:8000/burimnamani/eset/1566
+#EXTINF:-1,ARENA 1 HR
+http://premiumtv.eu:8000/burimnamani/eset/199
+#EXTINF:-1,ARENA 2 HR
+http://premiumtv.eu:8000/burimnamani/eset/198
+#EXTINF:-1,ARENA 3 HR
+http://premiumtv.eu:8000/burimnamani/eset/197
+#EXTINF:-1,ARENA 4 HR
+http://premiumtv.eu:8000/burimnamani/eset/196
+#EXTINF:-1,ARENA 5 HR
+http://premiumtv.eu:8000/burimnamani/eset/195
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://www.19
