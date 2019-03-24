@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,*** SPORT EX-YU LISTA 1
-http://www.
 #EXTINF:-1,SPORT CLUB 1 HR
 http://jokeriptv.online:1453/Veysel1/Veysel1/100217
 #EXTINF:-1,SPORT CLUB 2 HR
@@ -44,8 +42,97 @@ http://jokeriptv.online:1453/Veysel1/Veysel1/100221
 http://jokeriptv.online:1453/Veysel1/Veysel1/100226
 #EXTINF:-1,ARENA SPORT 5 SRB
 http://jokeriptv.online:1453/Veysel1/Veysel1/100220
+
+#EXTINF:-1,[EX-YU] SPORT KLUB 1 (HR)
+http://dnsdue.xyz:80/Usta/12345/24896
+#EXTINF:-1,[EX-YU] SPORT KLUB 1 (SRB)
+http://dnsdue.xyz:80/Usta/12345/24897
+#EXTINF:-1,[EX-YU] SPORT KLUB 2 (HR)
+http://dnsdue.xyz:80/Usta/12345/24898
+#EXTINF:-1,[EX-YU] SPORT KLUB 2 (SRB)
+http://dnsdue.xyz:80/Usta/12345/24899
+#EXTINF:-1,[EX-YU] SPORT KLUB 3 (HR)
+http://dnsdue.xyz:80/Usta/12345/24900
+#EXTINF:-1,[EX-YU] SPORT KLUB 3 (SRB)
+http://dnsdue.xyz:80/Usta/12345/24901
+#EXTINF:-1,[EX-YU] SPORT KLUB 4 (SRB)
+http://dnsdue.xyz:80/Usta/12345/24902
+#EXTINF:-1,[EX-YU] SPORT KLUB 5 (HR)
+http://dnsdue.xyz:80/Usta/12345/24903
+#EXTINF:-1,[EX-YU] SPORT KLUB 6 (HR)
+http://dnsdue.xyz:80/Usta/12345/24904
+#EXTINF:-1,[EX-YU] ARENA SPORT 1 (HR)
+http://dnsdue.xyz:80/Usta/12345/24815
+#EXTINF:-1,[EX-YU] ARENA SPORT 1 (SRB)
+http://dnsdue.xyz:80/Usta/12345/24816
+#EXTINF:-1,[EX-YU] ARENA SPORT 2 (HR)
+http://dnsdue.xyz:80/Usta/12345/24817
+#EXTINF:-1,[EX-YU] ARENA SPORT 2 (SRB)
+http://dnsdue.xyz:80/Usta/12345/24818
+#EXTINF:-1,[EX-YU] ARENA SPORT 3 (HR)
+http://dnsdue.xyz:80/Usta/12345/24819
+#EXTINF:-1,[EX-YU] ARENA SPORT 3 (SRB)
+http://dnsdue.xyz:80/Usta/12345/24820
+#EXTINF:-1,[EX-YU] ARENA SPORT 4 (HR)
+http://dnsdue.xyz:80/Usta/12345/24821
+#EXTINF:-1,[EX-YU] ARENA SPORT 4 (SRB)
+http://dnsdue.xyz:80/Usta/12345/24822
+#EXTINF:-1,[EX-YU] ARENA SPORT 5 (HR)
+http://dnsdue.xyz:80/Usta/12345/24823
+#EXTINF:-1,[EX-YU] ARENA SPORT 5 (SRB)
+http://dnsdue.xyz:80/Usta/12345/24824
+
+#EXTINF:-1,EX-YU: SPORT KLUB 1
+http://super1.ideaiptv.com:8000/ali/123456/14010
+#EXTINF:-1,EX-YU: SPORT KLUB 2
+http://super1.ideaiptv.com:8000/ali/123456/14009
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HD
+http://super1.ideaiptv.com:8000/ali/123456/14008
+#EXTINF:-1,EX-YU: SPORT TV 1 HD (SLO)
+http://super1.ideaiptv.com:8000/ali/123456/14007
+#EXTINF:-1,EX-YU: SPORT TV 2 HD (SLO)
+http://super1.ideaiptv.com:8000/ali/123456/14006
+#EXTINF:-1,EX-YU: SPORT TV 3 HD (SLO)
+http://super1.ideaiptv.com:8000/ali/123456/14005
+#EXTINF:-1,EX-YU:VIP:ARENA SPORT 1 HD (HR)
+http://super1.ideaiptv.com:8000/ali/123456/14012
+#EXTINF:-1,EX-YU:VIP:ARENA SPORT 2 HD (HR)
+http://super1.ideaiptv.com:8000/ali/123456/14011
+#EXTINF:-1,ARENA SPORT 1
+http://super1.ideaiptv.com:8000/ali/123456/3471
+#EXTINF:-1,ARENA SPORT 2
+http://super1.ideaiptv.com:8000/ali/123456/3472
+#EXTINF:-1,ARENA SPORT 3
+http://super1.ideaiptv.com:8000/ali/123456/3473
+#EXTINF:-1,ARENA SPORT 4
+http://super1.ideaiptv.com:8000/ali/123456/3474
+#EXTINF:-1,ARENA SPORT 5
+http://super1.ideaiptv.com:8000/ali/123456/3475
+#EXTINF:-1,AL: SPORT KLUB 1 HD
+http://super1.ideaiptv.com:8000/ali/123456/4252
+#EXTINF:-1,AL: SPORT KLUB 2 HD
+http://super1.ideaiptv.com:8000/ali/123456/4253
+#EXTINF:-1,AL: SPORT KLUB 3 HD
+http://super1.ideaiptv.com:8000/ali/123456/4254
+
+
 #EXTINF:-1,**EXYUKANALILISTA1
 http://www.19
+
+#EXTINF:-1,[EX-YU] HBO ADRIA
+http://dnsdue.xyz:80/Usta/12345/24851
+#EXTINF:-1,[EX-YU] HBO COMEDY
+http://dnsdue.xyz:80/Usta/12345/24852
+#EXTINF:-1,[EX-YU] CINEMAX 2
+http://dnsdue.xyz:80/Usta/12345/24829
+#EXTINF:-1,[EX-YU] CINEMAX HD
+http://dnsdue.xyz:80/Usta/12345/24830
+#EXTINF:-1,[EX-YU] CINESTAR ACTION
+http://dnsdue.xyz:80/Usta/12345/24831
+#EXTINF:-1,[EX-YU] CINESTAR PREMIERE 1
+http://dnsdue.xyz:80/Usta/12345/24832
+#EXTINF:-1,[EX-YU] CINESTAR PREMIERE 2
+http://dnsdue.xyz:80/Usta/12345/24833
 
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
