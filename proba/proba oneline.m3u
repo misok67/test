@@ -1,5 +1,60 @@
 #EXTM3U
 
+#EXTINF:0,EX-YU: Sport Klub
+http://landiptv.live:8080/marco/polo/65356
+#EXTINF:0,EX-YU: Sport Klub 1 (CRO)
+http://landiptv.live:8080/marco/polo/89494
+#EXTINF:0,EX-YU: SPORT KLUB 1 HD
+http://landiptv.live:8080/marco/polo/65342
+#EXTINF:0,EX-YU: SPORT KLUB 2 HD
+http://landiptv.live:8080/marco/polo/65341
+#EXTINF:0,EX-YU: Sport Klub 3 (CRO)
+http://landiptv.live:8080/marco/polo/89496
+#EXTINF:0,EX-YU: SPORT KLUB 3 HD
+http://landiptv.live:8080/marco/polo/65340
+#EXTINF:0,EX-YU: SPORT KLUB 4
+http://landiptv.live:8080/marco/polo/158290
+#EXTINF:0,EX-YU: SPORT KLUB 5 HD
+http://landiptv.live:8080/marco/polo/65351
+#EXTINF:0,EX-YU: SPORT KLUB 6
+http://landiptv.live:8080/marco/polo/65350
+#EXTINF:0,EX-YU: SPORTKLUB 2 HD SLO
+http://landiptv.live:8080/marco/polo/126328
+#EXTINF:0,EX-YU: SPORT CLUB 1 HD
+http://landiptv.live:8080/marco/polo/134429
+#EXTINF:0,EX-YU: SPORT CLUB 2 HD
+http://landiptv.live:8080/marco/polo/134430
+#EXTINF:0,EX-YU: SPORT CLUB 3
+http://landiptv.live:8080/marco/polo/208011
+#EXTINF:0,EX-YU: SPORT CLUB 4 HD
+http://landiptv.live:8080/marco/polo/134435
+#EXTINF:0,EX-YU: SPORT CLUB 5 HD
+http://landiptv.live:8080/marco/polo/134436
+#EXTINF:0,EX-YU: SPORT CLUB 6
+http://landiptv.live:8080/marco/polo/207921
+#EXTINF:0,EX-YU: SPORT CLUB 7
+http://landiptv.live:8080/marco/polo/208012
+#EXTINF:0,EX-YU: Arena Sport 1 HD
+http://landiptv.live:8080/marco/polo/93783
+#EXTINF:0,EX-YU: Arena Sport 1 SRB
+http://landiptv.live:8080/marco/polo/206470
+#EXTINF:0,EX-YU: Arena Sport 2 HD
+http://landiptv.live:8080/marco/polo/65360
+#EXTINF:0,EX-YU: Arena Sport 2 Srb
+http://landiptv.live:8080/marco/polo/206473
+#EXTINF:0,EX-YU: Arena Sport 3 HD
+http://landiptv.live:8080/marco/polo/65365
+#EXTINF:0,EX-YU: Arena Sport 4 HD
+http://landiptv.live:8080/marco/polo/93786
+#EXTINF:0,EX-YU: Arena Sport 5 HD
+http://landiptv.live:8080/marco/polo/65363
+#EXTINF:0,EX-YU: Arena Sport 6 HD
+http://landiptv.live:8080/marco/polo/134396
+
+
+#EXTINF:0,EX-YU: HNTV
+http://landiptv.live:8080/marco/polo/65272
+
 #EXTINF:-1 tvg-id="20" tvg-name="Sport Klub 1" tvg-logo="http://www.sportklub.rs/img/pssk1.png" group-title="Sport",Sport Klub 1 - Sport Klub 1
 http://dynds.iptvposokuca.info:80/live?channelId=20&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
 #EXTINF:-1 tvg-id="21" tvg-name="Sport Klub 2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sport-Klub-2-Slovenia_o.jpg" group-title="Sport",Sport Klub 2 - Sport Klub 2
@@ -43,42 +98,38 @@ http://tvmaksi.iptvposokuca.info:80/live?channelId=231&uid=81&deviceUser=mirkohr
 #EXTINF:-1 tvg-id="232" tvg-name="Planet Sport 3" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="Sport",Planet Sport 3 - Planet Sport 3
 http://tvmaksi.iptvposokuca.info:80/live?channelId=232&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
 
-#EXTINF:-1,SPORT KLUB 1
-http://super1.ideaiptv.com:8000/ali/123456/14010
-#EXTINF:-1,SPORT KLUB 2
-http://super1.ideaiptv.com:8000/ali/123456/14009
-#EXTINF:-1,SPORT KLUB 3 HD
-http://super1.ideaiptv.com:8000/ali/123456/14008
-#EXTINF:-1,SPORT TV 1 HD (SLO)
-http://super1.ideaiptv.com:8000/ali/123456/14007
-#EXTINF:-1,SPORT TV 2 HD (SLO)
-http://super1.ideaiptv.com:8000/ali/123456/14006
-#EXTINF:-1,SPORT TV 3 HD (SLO)
-http://super1.ideaiptv.com:8000/ali/123456/14005
-#EXTINF:-1,EX-YU:VIP:ARENA SPORT 1 HD (HR)
-http://super1.ideaiptv.com:8000/ali/123456/14012
-#EXTINF:-1,EX-YU:VIP:ARENA SPORT 2 HD (HR)
-http://super1.ideaiptv.com:8000/ali/123456/14011
-#EXTINF:-1,ARENA SPORT 1
-http://super1.ideaiptv.com:8000/ali/123456/3471
-#EXTINF:-1,ARENA SPORT 2
-http://super1.ideaiptv.com:8000/ali/123456/3472
-#EXTINF:-1,ARENA SPORT 3
-http://super1.ideaiptv.com:8000/ali/123456/3473
-#EXTINF:-1,ARENA SPORT 4
-http://super1.ideaiptv.com:8000/ali/123456/3474
-#EXTINF:-1,ARENA SPORT 5
-http://super1.ideaiptv.com:8000/ali/123456/3475
-#EXTINF:-1,AL: SPORT KLUB 1 HD
-http://super1.ideaiptv.com:8000/ali/123456/4252
-#EXTINF:-1,AL: SPORT KLUB 2 HD
-http://super1.ideaiptv.com:8000/ali/123456/4253
-#EXTINF:-1,AL: SPORT KLUB 3 HD
-http://super1.ideaiptv.com:8000/ali/123456/4254
 
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://www.19
+#EXTINF:0,EX-YU: HBO 1 HD
+http://landiptv.live:8080/marco/polo/208445
+#EXTINF:0,EX-YU: HBO 2 HD
+http://landiptv.live:8080/marco/polo/65452
+#EXTINF:0,EX-YU: HBO 3 HD
+http://landiptv.live:8080/marco/polo/65450
+#EXTINF:0,EX-YU: HBO 1+ HD
+http://landiptv.live:8080/marco/polo/207362
+#EXTINF:0,EX-YU: HBO Adria FHD
+http://landiptv.live:8080/marco/polo/184745
+#EXTINF:0,EX-YU: HBO Comedy
+http://landiptv.live:8080/marco/polo/65455
+#EXTINF:0,EX-YU: HBO HD
+http://landiptv.live:8080/marco/polo/65376
+#EXTINF:0,EX-YU: CINEMAX 1
+http://landiptv.live:8080/marco/polo/65462
+#EXTINF:0,EX-YU: CINEMAX 2 HD
+http://landiptv.live:8080/marco/polo/65461
+#EXTINF:0,EX-YU: Cinemax HD
+http://landiptv.live:8080/marco/polo/65463
+#EXTINF:0,EX-YU: CINESTAR ACTION HD
+http://landiptv.live:8080/marco/polo/65459
+#EXTINF:0,EX-YU: Cinestar Fantasy HD
+http://landiptv.live:8080/marco/polo/65298
+#EXTINF:0,EX-YU: Cinestar Premier 1
+http://landiptv.live:8080/marco/polo/155841
+#EXTINF:0,EX-YU: Cinestar Premier 2 HD
+http://landiptv.live:8080/marco/polo/155843
 
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
