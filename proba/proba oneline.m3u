@@ -1,60 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1,** LIGA PRVAKA
-http://www.1
+
+#EXTINF:-1,HR: Sport Klub 1 HD
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13104
+#EXTINF:-1,HR: Sport Klub 2
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/10321
+#EXTINF:-1,HR: Sport Klub 3
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/10322
+#EXTINF:-1,HR: Sport Klub 4
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/10323
+#EXTINF:-1,HR: Sport Klub 5
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/10324
+#EXTINF:-1,HR: Sport Klub 6
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/10325
+
+
+#EXTINF:-1,Ex-Yu: Arena Sport  1 HR HD
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13155
+#EXTINF:-1,Ex-Yu: Arena Sport 1 HR
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/8228
+#EXTINF:-1,Ex-Yu: Arena Sport  2 HR HD
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13156
+#EXTINF:-1,Ex-Yu: Arena Sport  2 HR
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/8229
+#EXTINF:-1,Ex-Yu: Arena Sport  3 HR HD
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13157
+#EXTINF:-1,Ex-Yu: Arena Sport  3 HR
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/8230
+#EXTINF:-1,Ex-Yu: Arena Sport  4 HR HD
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13158
+#EXTINF:-1,Ex-Yu: Arena Sport  4 HR
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/8231
+#EXTINF:-1,Ex-Yu: Arena Sport  5 HR HD
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13159
+#EXTINF:-1,Ex-Yu: Arena Sport 5 HR
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/8232
+#EXTINF:-1,Ex-Yu: Arena Sport  6 HR
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13160
+#EXTINF:-1,Ex-Yu: Arena Sport 1 Sr
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13040
+#EXTINF:-1,Ex-Yu: Arena Sport 2 Sr
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13041
+#EXTINF:-1,Ex-Yu: Arena Sport 3 Sr
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13042
+#EXTINF:-1,Ex-Yu: Arena Sport 4 Sr
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13043
+#EXTINF:-1,Ex-Yu: Arena Sport 5 Sr
+http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13044
+
 #EXTINF:-1 tvg-id="230" tvg-name="Planet Sport 1" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="Sport",Planet Sport 1 - Planet Sport 1
 http://tvmaksi.iptvposokuca.info:80/live?channelId=230&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
 #EXTINF:-1 tvg-id="231" tvg-name="Planet Sport 2" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="Sport",Planet Sport 2 - Planet Sport 2
 http://tvmaksi.iptvposokuca.info:80/live?channelId=231&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:0,EX-YU: PlanetSport 1
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207143
-#EXTINF:0,EX-YU: PlanetSport 2
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207144
-#EXTINF:0,SRB: Arena Sport 1 HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/117279
-#EXTINF:-1,UK: BT Sport 2 FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/92581
-#EXTINF:-1,UK: BT Sport 3 FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/206465
-#EXTINF:-1,AR: beIN Sports 11 FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/208709
-#EXTINF:-1,AR: beIN Sports 12 FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/145599
-#EXTINF:-1,DE: DAZN 1 HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156111
-#EXTINF:-1,DE: DAZN 2 Bar FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/158806
-#EXTINF:-1,DE: Sky Sport 1 FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/129290
-#EXTINF:-1,DE: Sky Sport 2 FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/208352
 
-#EXTINF:0,EX-YU: Sport Klub 1 (CRO)
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/89494
-#EXTINF:0,EX-YU: SPORT KLUB 1 HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65342
-#EXTINF:0,EX-YU: SPORT KLUB 2 HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65341
-#EXTINF:0,EX-YU: Sport Klub 3 (CRO)
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/89496
-#EXTINF:0,EX-YU: SPORT KLUB 3 HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65340
-#EXTINF:0,EX-YU: SPORT KLUB 4
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/158290
-#EXTINF:0,EX-YU: SPORT KLUB 5 HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65351
-#EXTINF:0,EX-YU: SPORT KLUB 6
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65350
 
 #EXTINF:0,EX-YU: Arena Sport 1 HD
 #EXTVLCOPT:network-caching=1000
