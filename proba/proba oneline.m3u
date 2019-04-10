@@ -1,86 +1,80 @@
 #EXTM3U
 
+#EXTINF:-1 ,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1,SRB: Arena Sport 1 HD
+http://185.169.253.172:8080/abed/abed123xx/117279
+#EXTINF:-1,SRB: Arena Sport 2 HD
+http://185.169.253.172:8080/abed/abed123xx/198482
+#EXTINF:-1,HR: PLANET SPORT 1 HD
+http://185.169.253.172:8080/abed/abed123xx/207143
+#EXTINF:-1,HR: PLANET SPORT 2 HD
+http://185.169.253.172:8080/abed/abed123xx/207144
 
-#EXTINF:-1,HR: Sport Klub 1 HD
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13104
-#EXTINF:-1,HR: Sport Klub 2
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/10321
-#EXTINF:-1,HR: Sport Klub 3
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/10322
-#EXTINF:-1,HR: Sport Klub 4
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/10323
-#EXTINF:-1,HR: Sport Klub 5
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/10324
-#EXTINF:-1,HR: Sport Klub 6
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/10325
-
-
-#EXTINF:-1,Ex-Yu: Arena Sport  1 HR HD
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13155
-#EXTINF:-1,Ex-Yu: Arena Sport 1 HR
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/8228
-#EXTINF:-1,Ex-Yu: Arena Sport  2 HR HD
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13156
-#EXTINF:-1,Ex-Yu: Arena Sport  2 HR
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/8229
-#EXTINF:-1,Ex-Yu: Arena Sport  3 HR HD
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13157
-#EXTINF:-1,Ex-Yu: Arena Sport  3 HR
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/8230
-#EXTINF:-1,Ex-Yu: Arena Sport  4 HR HD
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13158
-#EXTINF:-1,Ex-Yu: Arena Sport  4 HR
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/8231
-#EXTINF:-1,Ex-Yu: Arena Sport  5 HR HD
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13159
-#EXTINF:-1,Ex-Yu: Arena Sport 5 HR
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/8232
-#EXTINF:-1,Ex-Yu: Arena Sport  6 HR
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13160
-#EXTINF:-1,Ex-Yu: Arena Sport 1 Sr
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13040
-#EXTINF:-1,Ex-Yu: Arena Sport 2 Sr
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13041
-#EXTINF:-1,Ex-Yu: Arena Sport 3 Sr
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13042
-#EXTINF:-1,Ex-Yu: Arena Sport 4 Sr
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13043
-#EXTINF:-1,Ex-Yu: Arena Sport 5 Sr
-http://tv.iptvsensation.org:6500/bOnF0iIF8B/oZh7QEuIjd/13044
 
 #EXTINF:-1 tvg-id="230" tvg-name="Planet Sport 1" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="Sport",Planet Sport 1 - Planet Sport 1
 http://tvmaksi.iptvposokuca.info:80/live?channelId=230&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
 #EXTINF:-1 tvg-id="231" tvg-name="Planet Sport 2" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="Sport",Planet Sport 2 - Planet Sport 2
 http://tvmaksi.iptvposokuca.info:80/live?channelId=231&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1,HR: Sport Klub
+http://185.169.253.172:8080/abed/abed123xx/156656
+#EXTINF:-1,HR: Sport Klub 1
+http://185.169.253.172:8080/abed/abed123xx/156640
+#EXTINF:-1,HR: Sport Klub 2
+http://185.169.253.172:8080/abed/abed123xx/156641
+#EXTINF:-1,HR: Sport Klub 3
+http://185.169.253.172:8080/abed/abed123xx/156642
+#EXTINF:-1,HR: Sport Klub 5
+http://185.169.253.172:8080/abed/abed123xx/197688
+#EXTINF:-1,HR: Sport Klub 6
+http://185.169.253.172:8080/abed/abed123xx/197367
 
+#EXTINF:-1,SRB: SPORT KLUB 1 HD
+http://185.169.253.172:8080/abed/abed123xx/65342
+#EXTINF:-1,SRB: SPORT KLUB 2 HD
+http://185.169.253.172:8080/abed/abed123xx/65341
+#EXTINF:-1,SRB: SPORT KLUB 3 HD
+http://185.169.253.172:8080/abed/abed123xx/65340
+#EXTINF:-1,SRB: SPORT KLUB 4 HD
+http://185.169.253.172:8080/abed/abed123xx/133870
+#EXTINF:-1,SRB: SPORT KLUB 5 HD
+http://185.169.253.172:8080/abed/abed123xx/65351
+#EXTINF:-1,SRB: SPORT KLUB 6 HD
+http://185.169.253.172:8080/abed/abed123xx/65350
+#EXTINF:-1,SRB: Sport Klub HD
+http://185.169.253.172:8080/abed/abed123xx/209867
+EXTINF:-1,HR: Arena Sport 1 FHD
+http://185.169.253.172:8080/abed/abed123xx/93783
+#EXTINF:-1,HR: Arena Sport 2 FHD
+http://185.169.253.172:8080/abed/abed123xx/65360
+#EXTINF:-1,HR: Arena Sport 3 HD
+http://185.169.253.172:8080/abed/abed123xx/65365
+#EXTINF:-1,HR: Arena Sport 4 HD
+http://185.169.253.172:8080/abed/abed123xx/65364
+#EXTINF:-1,HR: Arena Sport 5 HD
+http://185.169.253.172:8080/abed/abed123xx/156639
+#EXTINF:-1,HR: Arena Sport 6 HD
+http://185.169.253.172:8080/abed/abed123xx/65362
+#EXTINF:-1,HR: Arena Sport 6 HR
+http://185.169.253.172:8080/abed/abed123xx/210877
 
-#EXTINF:0,EX-YU: Arena Sport 1 HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93783
-#EXTINF:0,EX-YU: Arena Sport 1 SRB
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/206470
-#EXTINF:0,EX-YU: Arena Sport 2 HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65360
-#EXTINF:0,EX-YU: Arena Sport 2 Srb
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/206473
-#EXTINF:0,EX-YU: Arena Sport 3 HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65365
-#EXTINF:0,EX-YU: Arena Sport 4 HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93786
-#EXTINF:0,EX-YU: Arena Sport 5 HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65363
-#EXTINF:0,EX-YU: Arena Sport 6 HD
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134396
-#EXTINF:0,EX-YU: HNTV
-#EXTVLCOPT:network-caching=1000
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65272
+#EXTINF:-1,SRB: ARENA 1
+http://185.169.253.172:8080/abed/abed123xx/134444
+#EXTINF:-1,SRB: ARENA 3
+http://185.169.253.172:8080/abed/abed123xx/134445
+#EXTINF:-1,SRB: Arena Sport 1 HD
+http://185.169.253.172:8080/abed/abed123xx/117279
+#EXTINF:-1,SRB: Arena Sport 2 HD
+http://185.169.253.172:8080/abed/abed123xx/198482
+#EXTINF:-1,SRB: Arena Sport 3
+http://185.169.253.172:8080/abed/abed123xx/65359
+#EXTINF:-1,SRB: Arena Sport 4
+http://185.169.253.172:8080/abed/abed123xx/65358
+#EXTINF:-1,SRB: Arena Sport 5 HD
+http://185.169.253.172:8080/abed/abed123xx/65357
+#EXTINF:-1,EX-YU: HNTV
+http://185.169.253.172:8080/abed/abed123xx/65272
+
 
 #EXTINF:-1 tvg-id="20" tvg-name="Sport Klub 1" tvg-logo="http://www.sportklub.rs/img/pssk1.png" group-title="Sport",Sport Klub 1 - Sport Klub 1
 http://dynds.iptvposokuca.info:80/live?channelId=20&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
