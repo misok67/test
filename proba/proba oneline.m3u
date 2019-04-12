@@ -1,21 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 ,HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1,SRB: Arena Sport 1 HD
-http://185.169.253.172:8080/abed/abed123xx/117279
-#EXTINF:-1,SRB: Arena Sport 2 HD
-http://185.169.253.172:8080/abed/abed123xx/198482
-#EXTINF:-1,HR: PLANET SPORT 1 HD
-http://185.169.253.172:8080/abed/abed123xx/207143
-#EXTINF:-1,HR: PLANET SPORT 2 HD
-http://185.169.253.172:8080/abed/abed123xx/207144
-
-
-#EXTINF:-1 tvg-id="230" tvg-name="Planet Sport 1" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="Sport",Planet Sport 1 - Planet Sport 1
-http://tvmaksi.iptvposokuca.info:80/live?channelId=230&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="231" tvg-name="Planet Sport 2" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="Sport",Planet Sport 2 - Planet Sport 2
-http://tvmaksi.iptvposokuca.info:80/live?channelId=231&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
 #EXTINF:-1,HR: Sport Klub
 http://185.169.253.172:8080/abed/abed123xx/156656
 #EXTINF:-1,HR: Sport Klub 1
@@ -60,6 +44,8 @@ http://185.169.253.172:8080/abed/abed123xx/210877
 
 #EXTINF:-1,SRB: ARENA 1
 http://185.169.253.172:8080/abed/abed123xx/134444
+#EXTINF:-1,SRB: Arena Sport 2 HD
+http://185.169.253.172:8080/abed/abed123xx/198482
 #EXTINF:-1,SRB: ARENA 3
 http://185.169.253.172:8080/abed/abed123xx/134445
 #EXTINF:-1,SRB: Arena Sport 1 HD
@@ -112,14 +98,17 @@ http://dynds.iptvposokuca.info:80/live?channelId=95&uid=81&deviceUser=mirkohrraz
 http://maksitv.iptvposokuca.info:80/live?channelId=134&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
 #EXTINF:-1 tvg-id="112" tvg-name="Arena 5 (SR)" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_5_logo.png" group-title="Sport",Arena 5 (SR) - Arena 5 (SR)
 http://maksitv.iptvposokuca.info:80/live?channelId=112&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+
+#EXTINF:-1,HR: PLANET SPORT 1 HD
+http://185.169.253.172:8080/abed/abed123xx/207143
+#EXTINF:-1,HR: PLANET SPORT 2 HD
+http://185.169.253.172:8080/abed/abed123xx/207144
+
+
 #EXTINF:-1 tvg-id="230" tvg-name="Planet Sport 1" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="Sport",Planet Sport 1 - Planet Sport 1
 http://tvmaksi.iptvposokuca.info:80/live?channelId=230&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
 #EXTINF:-1 tvg-id="231" tvg-name="Planet Sport 2" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="Sport",Planet Sport 2 - Planet Sport 2
 http://tvmaksi.iptvposokuca.info:80/live?channelId=231&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="232" tvg-name="Planet Sport 3" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="Sport",Planet Sport 3 - Planet Sport 3
-http://tvmaksi.iptvposokuca.info:80/live?channelId=232&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-
-
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://www.19
