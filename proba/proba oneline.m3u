@@ -1,79 +1,31 @@
 #EXTM3U
 
-#EXTINF:0,SPORT SPORT KLUB 1 HD HR
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79072
-#EXTINF:0,SPORT SPORT KLUB 1 SR HD
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79071
-#EXTINF:0,SPORT SPORT KLUB 2 HD HR
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79070
-#EXTINF:0,SPORT SPORT KLUB 2 SR HD
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79069
-#EXTINF:0,SPORT SPORT KLUB 3 HD HR
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79068
-#EXTINF:0,SPORT SPORT KLUB 3 SR HD
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79067
-#EXTINF:0,SPORT SPORT KLUB 4
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79066
-#EXTINF:0,SPORT SPORT KLUB 5
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79065
-#EXTINF:0,SPORT SPORT KLUB 6
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79064
-#EXTINF:0,SPORT SPORT KLUB HD
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79073
-#EXTINF:0,Sport Klub 1 HD Cro
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52859
-#EXTINF:0,Sport Klub 2 HD Cro
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52858
-#EXTINF:0,Sport Klub 3 HD Cro
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52857
-#EXTINF:0,Sport Klub HD 1 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52856
-#EXTINF:0,Sport Klub HD 2 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52855
-#EXTINF:0,Sport Klub HD 3 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52854
-#EXTINF:0,Arena Sport 1 HD Cro
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52980
-#EXTINF:0,Arena Sport 1 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52979
-#EXTINF:0,Arena Sport 2 HD Cro
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52978
-#EXTINF:0,Arena Sport 2 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52977
-#EXTINF:0,Arena Sport 3 HD Cro
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52976
-#EXTINF:0,Arena Sport 3 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52975
-#EXTINF:0,Arena Sport 4 HD Cro
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52974
-#EXTINF:0,Arena Sport 4 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52973
-#EXTINF:0,Arena Sport 5 HD Cro
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52972
-#EXTINF:0,Arena Sport 5 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52971
-#EXTINF:0,SPORT Arena Sport 1 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79084
-#EXTINF:0,SPORT Arena Sport 2 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79083
-#EXTINF:0,SPORT Arena Sport 3 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79082
-#EXTINF:0,SPORT Arena Sport 4 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79081
-#EXTINF:0,SPORT Arena Sport 5 Srb
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79080
-#EXTINF:0,SPORT Arena Sports 1 HD Croatia
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79079
-#EXTINF:0,SPORT Arena Sports 2 HD Croatia
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79078
-#EXTINF:0,SPORT Arena Sports 3 HD Croatia
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79077
-#EXTINF:0,SPORT Arena Sports 4 HD Croatia
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79076
-#EXTINF:0,SPORT Arena Sports 5 HD Croatia
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79075
-#EXTINF:0,SPORT Arena Sports 6 HD Croatia
-http://bymovistar.es:9977/69210/MOmYl3iRTn/79074
+#EXTINF:-1,Sky Sport Football HD
+http://ares.dominium.tv:6923/adrian/1234/22427
+#EXTINF:-1,Sky Sport Football FULL HD
+http://ares.dominium.tv:6923/adrian/1234/2481
+
+#EXTINF:-1,BEIN SPORTS 1 HD EN
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29389
+#EXTINF:-1,BEIN SPORTS 1 HD FR
+#EXTINF:-1,TSN 4 4K
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29393
+#EXTINF:-1,Canada: TSN HD 4
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/26634
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Main" tvg-logo="" group-title="Sky Sports",Sky Sports Main - Sky Sports Main
+http://62.210.70.209:80/live.ts?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Main HD" tvg-logo="" group-title="Sky Sports",Sky Sports Main HD - Sky Sports Main HD
+http://62.210.70.119:80/live.ts?channelId=130&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports PL" tvg-logo="" group-title="Sky Sports",Sky Sports PL - Sky Sports PL
+http://62.210.70.119:80/live.ts?channelId=133&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports PL HD" tvg-logo="" group-title="Sky Sports",Sky Sports PL HD - Sky Sports PL HD
+http://62.210.70.119:80/live.ts?channelId=134&deviceMac=00:1A:79:BE:2F:F6&uid=161
+
+#EXTINF:-1,Sky Sport Football HD
+http://ares.dominium.tv:6923/adrian/1234/22427
+#EXTINF:-1,Sky Sport Football FULL HD
+http://ares.dominium.tv:6923/adrian/1234/2481
 
 #EXTINF:-1 tvg-id="20" tvg-name="Sport Klub 1" tvg-logo="http://www.sportklub.rs/img/pssk1.png" group-title="Sport",Sport Klub 1 - Sport Klub 1
 http://dynds.iptvposokuca.info:80/live?channelId=20&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
