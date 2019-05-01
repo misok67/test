@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 ,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1,SPORTS: ARENA SPORT 1 SR
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26124
 #EXTINF:-1,SPORTS: ARENA SPORT 1 SR HD
@@ -83,34 +85,6 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26115
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26114
 #EXTINF:-1,SPORTS: ARENA SPORT 5 HD
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26113
-#EXTINF:-1,SPORT: CA - TSN 4 FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198645
-#EXTINF:-1,SPORT: UK - Sky Sports Main Event HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/197960
-#EXTINF:-1,SPORT: UK - Sky Sports Premier League HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/197966
-#EXTINF:-1,BEIN SPORTS 1 HD EN
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29389
-#EXTINF:-1,BEIN SPORTS 1 HD FR
-#EXTINF:-1,TSN 4 4K
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29393
-#EXTINF:-1,Canada: TSN HD 4
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/26634
-
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Main" tvg-logo="" group-title="Sky Sports",Sky Sports Main - Sky Sports Main
-http://62.210.70.209:80/live.ts?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Main HD" tvg-logo="" group-title="Sky Sports",Sky Sports Main HD - Sky Sports Main HD
-http://62.210.70.119:80/live.ts?channelId=130&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports PL" tvg-logo="" group-title="Sky Sports",Sky Sports PL - Sky Sports PL
-http://62.210.70.119:80/live.ts?channelId=133&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports PL HD" tvg-logo="" group-title="Sky Sports",Sky Sports PL HD - Sky Sports PL HD
-http://62.210.70.119:80/live.ts?channelId=134&deviceMac=00:1A:79:BE:2F:F6&uid=161
-
-#EXTINF:-1,Sky Sport Football HD
-http://ares.dominium.tv:6923/adrian/1234/22427
-#EXTINF:-1,Sky Sport Football FULL HD
-http://ares.dominium.tv:6923/adrian/1234/2481
-
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://www.19
