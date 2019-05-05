@@ -1,24 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 ,HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1,SPORTS: ARENA SPORT 1 SR
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26124
-#EXTINF:-1,SPORTS: ARENA SPORT 1 SR HD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26123
-#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 1 BAR FHD" tvg-logo="http://logo.noih.tv/GERMANY/DAZN1BARFHD.png" group-title="EU Germany",DE: DAZN 1 BAR FHD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/22420
-#EXTINF:-1 tvg-ID="" tvg-name="UK HD: BT Sports FHD 2" tvg-logo="" group-title="EU SKY UK HD",UK HD: BT Sports FHD 2
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/8211
-#EXTINF:-1 tvg-ID="" tvg-name="beiN Sports 11" tvg-logo="http://images.noih.tv:25461/images/bein/bein11.png" group-title="AR Bein Sports",beiN Sports 11
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/5241
-#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK HD: BT Sports 2 HD" tvg-logo="http://logo.noih.tv/UK/BTSPORTS2.png" group-title="EU SKY UK HD",UK HD: BT Sports 2 HD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/8221
-#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="http://logo.noih.tv/GERMANY/SKYSPORT1HD.png" group-title="EU Germany",DE: SKY SPORT 1 HD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/22418
-#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE: SKY SPORT 1" tvg-logo="http://logo.noih.tv/GERMANY/SKYSPORT1.png" group-title="EU Germany",DE: SKY SPORT 1
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/22416
-
 #EXTINF:-1,EXYU: SPORT KLUB 1 HD
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26291
 #EXTINF:-1,EXYU: SPORT KLUB 2 HD
@@ -85,6 +66,18 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26115
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26114
 #EXTINF:-1,SPORTS: ARENA SPORT 5 HD
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26113
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 1 BAR FHD" tvg-logo="http://logo.noih.tv/GERMANY/DAZN1BARFHD.png" group-title="EU Germany",DE: DAZN 1 BAR FHD
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/22420
+#EXTINF:-1 tvg-ID="" tvg-name="UK HD: BT Sports FHD 2" tvg-logo="" group-title="EU SKY UK HD",UK HD: BT Sports FHD 2
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/8211
+#EXTINF:-1 tvg-ID="" tvg-name="beiN Sports 11" tvg-logo="http://images.noih.tv:25461/images/bein/bein11.png" group-title="AR Bein Sports",beiN Sports 11
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/5241
+#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK HD: BT Sports 2 HD" tvg-logo="http://logo.noih.tv/UK/BTSPORTS2.png" group-title="EU SKY UK HD",UK HD: BT Sports 2 HD
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/8221
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="http://logo.noih.tv/GERMANY/SKYSPORT1HD.png" group-title="EU Germany",DE: SKY SPORT 1 HD
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/22418
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE: SKY SPORT 1" tvg-logo="http://logo.noih.tv/GERMANY/SKYSPORT1.png" group-title="EU Germany",DE: SKY SPORT 1
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/22416
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://www.19
