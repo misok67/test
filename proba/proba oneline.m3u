@@ -2,8 +2,6 @@
 
 #EXTINF:-1,Arena Sport 1 HR FULL HD
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/863
-#EXTINF:-1,Sport: Arena Sport 1n
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/113
 #EXTINF:-1,Ex-Yu: Arena Sport 1 4K+ (HR)
 http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/10780.m3u8 
 #EXTINF:-1,Arena Sport 1 HR
@@ -20,10 +18,43 @@ http://ksportiptv.com:1557/hassan.madridista/hasani1111/2430
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/2429
 #EXTINF:-1,USA: Tsn-Sport 5 HD
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/2428
-#EXTINF:-1,USA: beIN SPORTS HD
-http://ksportiptv.com:1557/hassan.madridista/hasani1111/4712
 
-
+#EXTINF:-1,SP: Eurosport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/560
+#EXTINF:-1,SP: Eurosport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/561
+#EXTINF:-1,PT: Eurosport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28702
+#EXTINF:-1,PT: Eurosport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28701
+#EXTINF:-1,AR: BeIN Sport 12
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42540
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42538
+#EXTINF:-1,AR: Bein Sport 11
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42539
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42537
+#EXTINF:-1,SP: ESPN 2 UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/533
+#EXTINF:-1,SP: ESPN Deportes HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/534
+#EXTINF:-1,SP: ESPN News HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/558
+#EXTINF:-1,SP: ESPN UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5
+#EXTINF:-1,SP: ESPNU HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/559
+#EXTINF:-1,SP: TSN 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/656
+#EXTINF:-1,SP: TSN 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/655
+#EXTINF:-1,SP: TSN 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/654
+#EXTINF:-1,SP: TSN 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/653
+#EXTINF:-1,SP: TSN 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/652
 #EXTINF:-1,DE: Eurosport 1 HD
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/1498
 #EXTINF:-1,DE: Eurosport 2 HD XTRA
@@ -46,68 +77,6 @@ http://ksportiptv.com:1557/hassan.madridista/hasani1111/3957
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/11286
 #EXTINF:-1,ES: M DEPORTES 2 HD
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/11285
-
-#EXTINF:-1,DE EuroSport 2n
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/23472
-#EXTINF:-1,DE EuroSportn
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/2439
-#EXTINF:-1,Spain: Eurosport 1n
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/25659
-#EXTINF:-1,Spain: Eurosport 2n
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/25660
-#EXTINF:-1,IT: Eurosport 1 HDn
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/24718
-#EXTINF:-1,IT: Eurosport 2 HDn
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/24717
-#EXTINF:-1,IT: Super Tennis HDn
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/24431
-#EXTINF:-1,Russian: Eurosportn
-http://212.8.243.9:80/p8VZ/EMX9JRBuRo/6588
-
-#EXTINF:-1,DE: Eurosport 1 HD
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/8962.m3u8
-#EXTINF:-1,DE: Eurosport 2 HD
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/8963.m3u8
-#EXTINF:-1,DE: Eurosport 2 Xtra 4K+
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/24323.m3u8
-#EXTINF:-1,DE: Eurosport 2 Xtra 4K
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/26699.m3u8
-#EXTINF:-1,ES: Eurosport 1 4K+
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/19305.m3u8
-#EXTINF:-1,ES: Eurosport 1 HD+
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/19306.m3u8
-#EXTINF:-1,ES: Eurosport 1
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/19307.m3u8
-#EXTINF:-1,ES: Eurosport 2
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/19308.m3u8
-#EXTINF:-1,FR: Eurosport 1 HD+
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/9189.m3u8
-#EXTINF:-1,FR: Eurosport 2 HD+
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/9190.m3u8
-#EXTINF:-1,NO: Eurosport Norge Backup
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/29357.m3u8
-#EXTINF:-1,[IT] Eurosport 1 HD
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/8724.m3u8
-#EXTINF:-1,[IT] Eurosport 2 HD
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/8725.m3u8
-#EXTINF:-1,[NL] Eurosport 1 4K
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/24750.m3u8
-#EXTINF:-1,[NL] Eurosport 1 HD
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/24653.m3u8
-#EXTINF:-1,[NL] Eurosport 2 4K
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/24751.m3u8
-#EXTINF:-1,[NL] Eurosport 2 HD
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/24654.m3u8
-#EXTINF:-1,ES: M. Deportes 1 4K+
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/19263.m3u8
-#EXTINF:-1,ES: M. Deportes 1 HD+
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/19264.m3u8
-#EXTINF:-1,ES: M. Deportes 2 4K+
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/19266.m3u8
-#EXTINF:-1,ES: M. Deportes 2 HD+
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/19267.m3u8
-#EXTINF:-1,ES: M. Deportes 2
-http://123iptv.nl:88/live/qqv61L8KEv/gxgG9JBQWk/19268.m3u8 
 
 #EXTINF:-1,Sport: Arena Sport 1n
 http://212.8.243.9:80/p8VZ/EMX9JRBuRo/113
