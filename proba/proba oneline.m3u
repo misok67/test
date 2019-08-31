@@ -17,57 +17,38 @@ http://ksportiptv.com:1557/hassan.madridista/hasani1111/2429
 #EXTINF:-1,USA: Tsn-Sport 5 HD
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/2428
 
-#EXTINF:-1,CA: TSN 1
-http://212.8.243.218:25461/flory/flory/34534
-#EXTINF:-1,CA: TSN 2
-http://212.8.243.218:25461/flory/flory/34533
-#EXTINF:-1,CA: TSN 3
-http://212.8.243.218:25461/flory/flory/34532
-#EXTINF:-1,CA: TSN 4
-http://212.8.243.218:25461/flory/flory/34531
-#EXTINF:-1,CA: TSN 5
-http://212.8.243.218:25461/flory/flory/34530
-#EXTINF:-1,DE: EUROSPORT 1 HD
-http://212.8.243.218:25461/flory/flory/22424
-#EXTINF:-1,DE: EUROSPORT 2  XTRA HD
-http://212.8.243.218:25461/flory/flory/22422
-#EXTINF:-1,DE: EUROSPORT 2 HD
-http://212.8.243.218:25461/flory/flory/22423
-#EXTINF:-1,DK: EUROSPORT 1
-http://212.8.243.218:25461/flory/flory/28911
-#EXTINF:-1,DK: EUROSPORT 2
-http://212.8.243.218:25461/flory/flory/28910
-#EXTINF:-1,EUROSPORT 1
-http://212.8.243.218:25461/flory/flory/5296
-#EXTINF:-1,EUROSPORT_2
-http://212.8.243.218:25461/flory/flory/5297
-#EXTINF:-1,IT: Eurosport 2 HD
-http://212.8.243.218:25461/flory/flory/33324
-#EXTINF:-1,IT: Eurosport HD
-http://212.8.243.218:25461/flory/flory/33325
-#EXTINF:-1,NL : Eurosport 1 HD
-http://212.8.243.218:25461/flory/flory/5184
-#EXTINF:-1,NL : Eurosport 2 HD
-http://212.8.243.218:25461/flory/flory/9306
-#EXTINF:-1,SP: EUROSPORT 1 HD
-http://212.8.243.218:25461/flory/flory/14988
-#EXTINF:-1,SP: EUROSPORT 1
-http://212.8.243.218:25461/flory/flory/14987
-#EXTINF:-1,SP: EUROSPORT 2
-http://212.8.243.218:25461/flory/flory/14986
-#EXTINF:-1,SPORTS: EUROSPORT 1 SR
-http://212.8.243.218:25461/flory/flory/26111
-#EXTINF:-1,SPORTS: EUROSPORT 2 SR
-http://212.8.243.218:25461/flory/flory/26110
-#EXTINF:-1,SW: EUROSPORT 1 UHD
-http://212.8.243.218:25461/flory/flory/28988
-#EXTINF:-1,SW: EUROSPORT 2 UHD
-http://212.8.243.218:25461/flory/flory/28987
-#EXTINF:-1,UK HD: Eurosports HD 2
-http://212.8.243.218:25461/flory/flory/8130
-#EXTINF:-1,UK HD: Eurosports HD
-http://212.8.243.218:25461/flory/flory/8131
-
+#EXTINF:-1,DE:EUROSPORT 1
+http://eurocast1.net:8000/KZbDfZex4O/2Ij64uqFp2/337
+#EXTINF:-1,DE:EUROSPORT 2
+http://eurocast1.net:8000/KZbDfZex4O/2Ij64uqFp2/1865
+#EXTINF:-1,DE:EUROSPORT 2 EXTRA
+http://eurocast1.net:8000/KZbDfZex4O/2Ij64uqFp2/13156
+#EXTINF:-1,NL:EUROSPORT 1
+http://eurocast1.net:8000/KZbDfZex4O/2Ij64uqFp2/433
+#EXTINF:-1,NL:EUROSPORT2
+http://eurocast1.net:8000/KZbDfZex4O/2Ij64uqFp2/53184
+#EXTINF:-1,RO: EuroSport 1
+http://eurocast1.net:8000/KZbDfZex4O/2Ij64uqFp2/48654
+#EXTINF:-1,RO: EuroSport 2
+http://eurocast1.net:8000/KZbDfZex4O/2Ij64uqFp2/48653
+#EXTINF:-1,ES: EUROSPORT 1
+http://eurocast1.net:8000/KZbDfZex4O/2Ij64uqFp2/49824
+#EXTINF:-1,ES: EUROSPORT 2
+http://eurocast1.net:8000/KZbDfZex4O/2Ij64uqFp2/49825
+#EXTINF:-1,EuroSport HD
+http://valecpf.dyndns.tv:8000/live/AYRE175/8OEgyWIsOG/72.m3u8
+#EXTINF:-1,EuroSport 2 HD
+http://valecpf.dyndns.tv:8000/live/AYRE175/8OEgyWIsOG/73.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eurosport
+http://ott.shara.club:80/live/ainar/UQNmliosG1/162.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eurosport 1 HD
+http://ott.shara.club:80/live/ainar/UQNmliosG1/167.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eurosport 2 HD
+http://ott.shara.club:80/live/ainar/UQNmliosG1/161.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eurosport Gold HD
+http://ott.shara.club:80/live/ainar/UQNmliosG1/1584.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eurosport 4K
+http://ott.shara.club:80/live/ainar/UQNmliosG1/2147.m3u8
 
 #EXTINF:-1,SP: Eurosport 1 HD
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/560
@@ -114,54 +95,7 @@ http://ksportiptv.com:1557/hassan.madridista/hasani1111/3956
 #EXTINF:-1,IT: Eurosport 2 HD
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/3957
 
-#EXTINF:-1,SPORT KLUB 1 HD
-http://212.8.243.218:25461/flory/flory/26107
-#EXTINF:-1,SPORT KLUB 1 SLO
-http://212.8.243.218:25461/flory/flory/26106
-#EXTINF:-1,SPORT KLUB 1 SR
-http://212.8.243.218:25461/flory/flory/26105
-#EXTINF:-1,SPORT KLUB 2 HD
-http://212.8.243.218:25461/flory/flory/26104
-#EXTINF:-1,SPORT KLUB 2 SR
-http://212.8.243.218:25461/flory/flory/26103
-#EXTINF:-1,SPORT KLUB 3 HD
-http://212.8.243.218:25461/flory/flory/26102
-#EXTINF:-1,SPORT KLUB 3 SR
-http://212.8.243.218:25461/flory/flory/26101
-#EXTINF:-1,SPORT KLUB 4
-http://212.8.243.218:25461/flory/flory/26100
-#EXTINF:-1,SPORT KLUB 5
-http://212.8.243.218:25461/flory/flory/26099
-#EXTINF:-1,SPORT KLUB 6
-http://212.8.243.218:25461/flory/flory/26098
-#EXTINF:-1,SPORT KLUB HD
-http://212.8.243.218:25461/flory/flory/26097 
-#EXTINF:-1,ARENA SPORT 1 HD
-http://212.8.243.218:25461/flory/flory/26125
-#EXTINF:-1,ARENA SPORT 1 SR
-http://212.8.243.218:25461/flory/flory/26124
-#EXTINF:-1,ARENA SPORT 1 SR HD
-http://212.8.243.218:25461/flory/flory/26123
-#EXTINF:-1,ARENA SPORT 2 HD
-http://212.8.243.218:25461/flory/flory/26122
-#EXTINF:-1,ARENA SPORT 2 SR
-http://212.8.243.218:25461/flory/flory/26121
-#EXTINF:-1,ARENA SPORT 2 SR HD
-http://212.8.243.218:25461/flory/flory/26120
-#EXTINF:-1,ARENA SPORT 3 HD
-http://212.8.243.218:25461/flory/flory/26119
-#EXTINF:-1,ARENA SPORT 3 SR
-http://212.8.243.218:25461/flory/flory/26118
-#EXTINF:-1,ARENA SPORT 3 SR HD
-http://212.8.243.218:25461/flory/flory/26117
-#EXTINF:-1,ARENA SPORT 4 HD
-http://212.8.243.218:25461/flory/flory/26116
-#EXTINF:-1,ARENA SPORT 4 SR
-http://212.8.243.218:25461/flory/flory/26115
-#EXTINF:-1,ARENA SPORT 4 SR HD
-http://212.8.243.218:25461/flory/flory/26114
-#EXTINF:-1,ARENA SPORT 5 HD
-http://212.8.243.218:25461/flory/flory/26113
+
 
 #EXTINF:-1,Sport Klub HD
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/20984
