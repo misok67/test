@@ -1,53 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Arena Sport 1 HR FULL HD
-http://ksportiptv.com:1557/hassan.madridista/hasani1111/863
-#EXTINF:-1,Arena Sport 1 HR
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/12319
-#EXTINF:-1,USA: Tsn-Sport 2 HD
-http://ksportiptv.com:1557/hassan.madridista/hasani1111/2431
-#EXTINF:-1,USA: Tsn-Sport 3 HD
-http://ksportiptv.com:1557/hassan.madridista/hasani1111/2430
-#EXTINF:-1,USA: Tsn-Sport 4 HD
-http://ksportiptv.com:1557/hassan.madridista/hasani1111/2429
-#EXTINF:-1,USA: Tsn-Sport 5 HD
-http://ksportiptv.com:1557/hassan.madridista/hasani1111/2428
-
-#EXTINF:-1,...TSN 1 HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/8007
-#EXTINF:-1,...TSN 2 HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/8006
-#EXTINF:-1,...TSN 3 HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/8005
-#EXTINF:-1,...TSN 4 HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/8004
-#EXTINF:-1,...TSN 5 HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/8003
-#EXTINF:-1,DE: EUROSPORT 1 HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15627
-#EXTINF:-1,DE: EUROSPORT 2 EXT
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15626
-#EXTINF:-1,IT: EUROSPORT 1 HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/12687
-#EXTINF:-1,IT: EUROSPORT 2 HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/12686
-#EXTINF:-1,RO: EUROSPORT 1 HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/14925
-#EXTINF:-1,RO: EUROSPORT 2
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/14936
-#EXTINF:-1,UK: EUROSPORT_1_HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15483
-#EXTINF:-1,UK: EUROSPORT_2_HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15482
-
-#EXTINF:-1,DE: Eurosport 1 HD
-http://ksportiptv.com:1557/hassan.madridista/hasani1111/1498
-#EXTINF:-1,DE: Eurosport 2 HD XTRA
-http://ksportiptv.com:1557/hassan.madridista/hasani1111/10862
-#EXTINF:-1,DK: Eurosport 1
-http://ksportiptv.com:1557/hassan.madridista/hasani1111/8866
-#EXTINF:-1,DK: Eurosport 2 HD
-http://ksportiptv.com:1557/hassan.madridista/hasani1111/10801
+#EXTINF:0,AR:BEINSPORTS-7 HD
+http://iptv-janberyan.com:25461/live/3222212500566/3222212500566/3215.m3iu8
 
 
 #EXTINF:-1,Sport Klub HD
