@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,AR:BEINSPORTS-7 HD
-http://iptv-janberyan.com:25461/live/3222212500566/3222212500566/3215.m3iu8
-
 
 #EXTINF:-1,Sport Klub HD
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/20984
@@ -81,7 +78,22 @@ http://ksportiptv.com:1557/hassan.madridista/hasani1111/2947
 #EXTINF:-1,**EXYUKANALILISTA1
 http://www.19
 
-
+#EXTINF:-1,HBO Adria
+http://ksportiptv.com:1557/hassan.madridista/hasani1111/2879
+#EXTINF:-1,HBO (HD)
+http://ksportiptv.com:1557/hassan.madridista/hasani1111/2743
+#EXTINF:-1,HBO 2 (HD).
+http://ksportiptv.com:1557/hassan.madridista/hasani1111/954
+#EXTINF:-1,HBO 2
+http://ksportiptv.com:1557/hassan.madridista/hasani1111/2880
+#EXTINF:-1,HBO 2 (HD)
+http://ksportiptv.com:1557/hassan.madridista/hasani1111/2744
+#EXTINF:-1,HBO 2 SLO
+http://ksportiptv.com:1557/hassan.madridista/hasani1111/2848
+#EXTINF:-1,HBO 3
+http://ksportiptv.com:1557/hassan.madridista/hasani1111/2881
+#EXTINF:-1,Kino TV
+http://ksportiptv.com:1557/hassan.madridista/hasani1111/21013
 #EXTINF:-1,Cinestar Premiere 1
 http://ksportiptv.com:1557/hassan.madridista/hasani1111/2883
 #EXTINF:-1,Cinestar Premier 1
