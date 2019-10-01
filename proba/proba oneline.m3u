@@ -1,5 +1,71 @@
 #EXTM3U
 
+
+#EXTINF:-1,UK FHD: BT SPORTS1 FHD**
+http://fluence.mypets.ws:25461/live/dEsDLjJkXz/DbE1nCXCH6/2542.ts
+#EXTINF:-1,UK FHD: BT SPORTS 2 FHD**
+http://fluence.mypets.ws:25461/live/dEsDLjJkXz/DbE1nCXCH6/2523.ts
+#EXTINF:-1,UK FHD: BT SPORTS 3 FHD**
+http://fluence.mypets.ws:25461/live/dEsDLjJkXz/DbE1nCXCH6/2557.ts
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2210.ts
+#EXTINF:-1,DE: SKY SPORT 1
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2209.ts
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2212.ts
+#EXTINF:-1,DE: SKY SPORT 2
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2211.ts
+
+
+#EXTINF:-1,SRB: ARENA SPORT 5
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/608.ts
+#EXTINF:-1,SRB: ARENA SPORT 4
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/601.ts
+#EXTINF:-1,SRB: ARENA SPORT 3
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/612.ts
+#EXTINF:-1,SRB: ARENA SPORT 2
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/613.ts
+#EXTINF:-1,SRB: ARENA SPORT 1
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/610.ts
+
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2362.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/305.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/306.ts
+#EXTINF:-1,SPO: BEIN SPORTS 10 UHD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/532.ts
+#EXTINF:-1,SPO: BEIN SPORTS 11 UHD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/533.ts
+#EXTINF:-1,SPO: BEIN SPORTS 12 UHD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/534.ts
+#EXTINF:-1,SPO: BEIN SPORTS 13 UHD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/535.ts
+#EXTINF:-1,SPO: BEIN SPORTS 2 UHD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/524.ts
+#EXTINF:-1,SPO: BEIN SPORTS 3 UHD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/525.ts
+#EXTINF:-1,SPO: BEIN SPORTS 4 UHD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/526.ts
+#EXTINF:-1,SPO: BEIN SPORTS 5 UHD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/527.ts
+#EXTINF:-1,SPO: BEIN SPORTS 6 UHD
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/528.ts
+#EXTINF:-1,TR:  BEIN SPORT 1 UHD (1080P) YEDEK
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2275.ts
+#EXTINF:-1,TR: BEIN SPORTS 2 HD (1280x720)
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/338.ts
+#EXTINF:-1,TR: BEIN SPORTS 3 HD (1280x720)
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/339.ts
+
+#EXTINF:-1,BG: SPORTKLUB 3
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/1892.ts
+#EXTINF:-1,BG: SPORTKLUB 2
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/1893.ts
+#EXTINF:-1,BG: SPORTKLUB 1
+http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/1894.ts
+
 #EXTINF:-1,EX-YU:Sport_Klub3
 http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/1446.m3u8
 #EXTINF:-1,EX-YU:Arena_Sport_2
