@@ -1,15 +1,64 @@
 #EXTM3U
 
+#EXTINF:-1,ARENASPORT 1 EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8023.ts
+#EXTINF:-1,ARENASPORT 2 EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8021.ts
+#EXTINF:-1,ARENASPORT 4 EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8017.ts
+#EXTINF:-1,ARENASPORT 5 EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8645.ts
+#EXTINF:-1,ARENA SPORT 5 HR EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8026.ts
+#EXTINF:-1,SPORT KLUB 1 HD EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8015.ts
+#EXTINF:-1,SPORT KLUB 2 HD EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8014.ts
+#EXTINF:-1,SPORT KLUB 3 HD EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8013.ts
+#EXTINF:-1,SPORT KLUB 5 EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8011.ts
+#EXTINF:-1,SPORT KLUB 6 EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8010.ts
+#EXTINF:-1,SPORTKLUB 1 HD EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8009.ts
+#EXTINF:-1,SPORTKLUB 2 HD EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8008.ts
+#EXTINF:-1,SPORTKLUB 3 HD EX-YU
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/8007.ts
+#EXTINF:-1,BEIN SPORTS 1 HD FR
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/13533.ts
+#EXTINF:-1,BEIN SPORTS 2 HD FR
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/13532.ts
+#EXTINF:-1,BEIN SPORTS 3 HD FR
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/13531.ts
+#EXTINF:-1,BT SPORTS 1 HD UK
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/44266.ts
+#EXTINF:-1,BT SPORTS 3 HD UK
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/44264.ts
+#EXTINF:-1,BT SPORTS ESPN HD UK
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/44263.ts
+#EXTINF:-1,FOX SPORT 1 LATINO
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/9884.ts
+#EXTINF:-1,FOX SPORT 3 LATINO
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/9882.ts
+#EXTINF:-1,FOX SPORTS 6 HD NL
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/21707.ts
+#EXTINF:-1,POLSAT SPORT PL
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/21865.ts
+#EXTINF:-1,SKY SPORT 1 DE
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/9711.ts
+#EXTINF:-1,SKY SPORT 2 DE
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/9709.ts
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/9710.ts
+#EXTINF:-1,SPORTDIGITAL HD DE
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/9665.ts
+#EXTINF:-1,SPORTSNET ONTARIO HD CA
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/21372.ts
+#EXTINF:-1,ZIGGO SPORT VOETBAL NL
+http://ictv.io:80/live/Y4TBQEwqYy/nIeZYkEERs/21700.ts
 
-
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2210.ts
-#EXTINF:-1,DE: SKY SPORT 1
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2209.ts
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2212.ts
-#EXTINF:-1,DE: SKY SPORT 2
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2211.ts
 
 #EXTINF:-1,SPORT KLUB 1  HD (SR)
 http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/5642.ts
@@ -170,91 +219,6 @@ http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/5703.ts
 #EXTINF:-1,TV 1000
 http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/5230.ts
 
-
-#EXTINF:-1,SRB: ARENA SPORT 5
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/608.ts
-#EXTINF:-1,SRB: ARENA SPORT 4
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/601.ts
-#EXTINF:-1,SRB: ARENA SPORT 3
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/612.ts
-#EXTINF:-1,SRB: ARENA SPORT 2
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/613.ts
-#EXTINF:-1,SRB: ARENA SPORT 1
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/610.ts
-
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2362.ts
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/305.ts
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/306.ts
-#EXTINF:-1,SPO: BEIN SPORTS 10 UHD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/532.ts
-#EXTINF:-1,SPO: BEIN SPORTS 11 UHD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/533.ts
-#EXTINF:-1,SPO: BEIN SPORTS 12 UHD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/534.ts
-#EXTINF:-1,SPO: BEIN SPORTS 13 UHD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/535.ts
-#EXTINF:-1,SPO: BEIN SPORTS 2 UHD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/524.ts
-#EXTINF:-1,SPO: BEIN SPORTS 3 UHD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/525.ts
-#EXTINF:-1,SPO: BEIN SPORTS 4 UHD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/526.ts
-#EXTINF:-1,SPO: BEIN SPORTS 5 UHD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/527.ts
-#EXTINF:-1,SPO: BEIN SPORTS 6 UHD
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/528.ts
-#EXTINF:-1,TR:  BEIN SPORT 1 UHD (1080P) YEDEK
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/2275.ts
-#EXTINF:-1,TR: BEIN SPORTS 2 HD (1280x720)
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/338.ts
-#EXTINF:-1,TR: BEIN SPORTS 3 HD (1280x720)
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/339.ts
-
-#EXTINF:-1,BG: SPORTKLUB 3
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/1892.ts
-#EXTINF:-1,BG: SPORTKLUB 2
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/1893.ts
-#EXTINF:-1,BG: SPORTKLUB 1
-http://m4.mio4ever.eu:8000/live/nZxL4pFhPF/FfYvdwSsi7/1894.ts
-
-#EXTINF:-1,EX-YU:Sport_Klub3
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/1446.m3u8
-#EXTINF:-1,EX-YU:Arena_Sport_2
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/583.m3u8
-
-#EXTINF:-1,[FR] beIN SPORT 1HD FR
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/7308.ts
-#EXTINF:-1,[FR] beIN SPORT 1SD FR
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/7307.ts
-#EXTINF:-1,[FR] beIN SPORT 2HD FR
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/7310.ts
-#EXTINF:-1,[FR] beIN SPORT 3HD FR
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/7312.ts
-#EXTINF:-1,[FR] beIN SPORT 3SD FR
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/7311.ts
-#EXTINF:-1,|AR|beIN sPORTS 1FHDï¿½
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/18289.ts
-#EXTINF:-1,|AR|beIN sPORTS 2HD²
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/18267.ts
-#EXTINF:-1,|AR|beIN sPORTS 2SD²
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/18266.ts
-#EXTINF:-1,|AR|beIN sPORTS 3HD²
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/18265.ts
-#EXTINF:-1,|AR|beIN sPORTS 5HD²
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/18261.ts
-#EXTINF:-1,|AR|beIN sPORTS 5SD²
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/18260.ts
-#EXTINF:-1,|AR|beIN sPORTS 6HD²
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/18259.ts
-#EXTINF:-1,|AR|beIN sPORTS 6SD²
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/18258.ts
-#EXTINF:-1,|AR|beIN sPORTS 9HD²
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/18253.ts
-#EXTINF:-1,|AR|beIN sPORTS 9SD²
-http://s1060.world-ipsat.com:1155/live/maroc25511/655666323255666/18252.ts
 
 #EXTINF:-1,**EXYUKANALILISTA1
 http://www.19
