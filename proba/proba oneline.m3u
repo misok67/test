@@ -1,103 +1,60 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1 SRB ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/592
-#EXTINF:-1,Sport Klub 2 SRB ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/591
-#EXTINF:-1,Sport Klub 3 SRB ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/590
-#EXTINF:-1,Sport Klub 4 SR ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1173
-#EXTINF:-1,Sport Klub 5 SR ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1172
-#EXTINF:-1,Sport Klub 6 SR ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/1171
-#EXTINF:-1,Sport Klub HD 1 Srb ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2279
-#EXTINF:-1,Sport Klub HD 2 Srb ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2278
-#EXTINF:-1,Sport Klub HD 3 Srb ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2277
-#EXTINF:-1,Arena Sport 1 HR HD ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/589
-#EXTINF:-1,Arena Sport 1 Srb ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2284
-#EXTINF:-1,Arena Sport 2 HR HD ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/588
-#EXTINF:-1,Arena Sport 2 Srb ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2283
-#EXTINF:-1,Arena Sport 3 HR HD ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/587
-#EXTINF:-1,Arena Sport 3 Srb ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2282
-#EXTINF:-1,Arena Sport 4 HR HD ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/586
-#EXTINF:-1,Arena Sport 4 Srb ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2281
-#EXTINF:-1,Arena Sport 5 HR HD ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/585
-#EXTINF:-1,Arena Sport 5 Srb ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2280
-#EXTINF:-1,Cinemax 1 ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2315
-#EXTINF:-1,Cinemax 2 ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2314
-#EXTINF:-1,Cinestar Action SRB ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4028
-#EXTINF:-1,Cinestar Premiere 1 ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2313
-#EXTINF:-1,Cinestar Premiere 2 ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2312
-#EXTINF:-1,Cinestar TV SRB ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4029
-#EXTINF:-1,Doma TV ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/195
-#EXTINF:-1,Fox Movies ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2319
-#EXTINF:-1,HBO 1 SRB ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4573
-#EXTINF:-1,HBO 2 SRB ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4572
-#EXTINF:-1,HBO 3 SRB ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4571
-#EXTINF:-1,HBO Adria ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2317
-#EXTINF:-1,HBO Comedy ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2316
-#EXTINF:-1,HRT 1 ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/201
-#EXTINF:-1,HRT 2 ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/202
-#EXTINF:-1,HRT 3 ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/203
-#EXTINF:-1,Kino TV ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/9032
-#EXTINF:-1,Klasik TV ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2335
-#EXTINF:-1,Pink Film ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2310
-#EXTINF:-1,RTL 1 HR ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/217
-#EXTINF:-1,RTL 2 HR ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/216
-#EXTINF:-1,RTL Crime ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/184
-#EXTINF:-1,RTL Kockica ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/218
-#EXTINF:-1,RTL Living ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/219
-#EXTINF:-1,RTL Passion ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/185
-#EXTINF:-1,RTS 1 HD ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/2346
-#EXTINF:-1,RTS 1 ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/187
-#EXTINF:-1,RTS 2 ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/186
-#EXTINF:-1,RTS 3 SRB ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4024
-#EXTINF:-1,TV1000 SRB ex-Yu
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/4025
+#EXTM3U
+#EXTINF:-1 ,|ES| M DEPORTES 2 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14062
+#EXTINF:-1 ,|IT| SKY SPORT 2 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23586
+#EXTINF:-1 ,|IT| SKY SPORT 24 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23588
+#EXTINF:-1 ,|IT| SKY SPORT 251 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23564
+#EXTINF:-1 ,|IT| SKY SPORT 252 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23563
+#EXTINF:-1 ,|IT| SKY SPORT 253 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23562
+#EXTINF:-1 ,|IT| SKY SPORT 254 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23561
+#EXTINF:-1 ,|IT| SKY SPORT 255 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23560
+#EXTINF:-1 ,|NL| Fox Sport 1 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42492
+#EXTINF:-1 ,|NL| Fox Sport 2 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42493
+#EXTINF:-1 ,|NL| Fox Sport 3 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42494
+#EXTINF:-1 ,|NL| Fox Sport 5 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42496
+#EXTINF:-1 ,|NL| Fox Sport 6 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42497
+#EXTINF:-1 ,|NL| ZIGGO SPORT SELECT HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42469
+#EXTINF:-1 ,|UK| BT SPORT 1 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23452
+#EXTINF:-1 ,|UK| BT SPORT 2 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23451
+#EXTINF:-1 ,|UK| BT SPORT 3 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23450
+#EXTINF:-1 ,|UK| EUROSPORT 1 hd
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23444
+#EXTINF:-1 ,|UK| EUROSPORT 2 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23443
+#EXTINF:-1 ,|UK| SKY SPORT FOOTBALL HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23453
+#EXTINF:-1 ,|UK| Sky Sports Premier League
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23442
+#EXTINF:-1 ,|DE| EUROSPORT 1 HD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2686
+#EXTINF:-1 ,|DE| EUROSPORT 2 HD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2687
+#EXTINF:-1 ,|DE| SKY BUNDESLIGA 1HD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2753
+#EXTINF:-1 ,|DE| SKY SPORT 1HD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2772
+#EXTINF:-1 ,|DE|SKY SPORT 2
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2773
+#EXTINF:-1 ,|FR| CANAL SPORT |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcpro2/6160321613/3316
 
 ##EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
