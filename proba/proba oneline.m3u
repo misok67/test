@@ -1,62 +1,6 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1 ,|ES| M DEPORTES 2 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/14062
-#EXTINF:-1 ,|IT| SKY SPORT 2 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23586
-#EXTINF:-1 ,|IT| SKY SPORT 24 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23588
-#EXTINF:-1 ,|IT| SKY SPORT 251 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23564
-#EXTINF:-1 ,|IT| SKY SPORT 252 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23563
-#EXTINF:-1 ,|IT| SKY SPORT 253 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23562
-#EXTINF:-1 ,|IT| SKY SPORT 254 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23561
-#EXTINF:-1 ,|IT| SKY SPORT 255 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23560
-#EXTINF:-1 ,|NL| Fox Sport 1 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42492
-#EXTINF:-1 ,|NL| Fox Sport 2 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42493
-#EXTINF:-1 ,|NL| Fox Sport 3 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42494
-#EXTINF:-1 ,|NL| Fox Sport 5 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42496
-#EXTINF:-1 ,|NL| Fox Sport 6 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42497
-#EXTINF:-1 ,|NL| ZIGGO SPORT SELECT HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/42469
-#EXTINF:-1 ,|UK| BT SPORT 1 FHD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23452
-#EXTINF:-1 ,|UK| BT SPORT 2 FHD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23451
-#EXTINF:-1 ,|UK| BT SPORT 3 FHD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23450
-#EXTINF:-1 ,|UK| EUROSPORT 1 hd
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23444
-#EXTINF:-1 ,|UK| EUROSPORT 2 HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23443
-#EXTINF:-1 ,|UK| SKY SPORT FOOTBALL HD
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23453
-#EXTINF:-1 ,|UK| Sky Sports Premier League
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23442
-#EXTINF:-1 ,|DE| EUROSPORT 1 HD
-http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2686
-#EXTINF:-1 ,|DE| EUROSPORT 2 HD
-http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2687
-#EXTINF:-1 ,|DE| SKY BUNDESLIGA 1HD
-http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2753
-#EXTINF:-1 ,|DE| SKY SPORT 1HD
-http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2772
-#EXTINF:-1 ,|DE|SKY SPORT 2
-http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2773
-#EXTINF:-1 ,|FR| CANAL SPORT |HEVC|
-http://iptv6.premium-stv.com:25461/sourcefrhevcpro2/6160321613/3316
-
-##EXTINF:-1 ,HRT 1
+#EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 ,HRT 2
 http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
@@ -66,3 +10,12 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+
+#EXTINF:-1,EUROSPORT 1
+http://89.187.181.171:826/armelb/zQxn5lB3zK/31459
+#EXTINF:-1,EUROSPORT 2
+http://89.187.181.171:826/armelb/zQxn5lB3zK/31460
+#EXTINF:0,EUROSPORT FULL HD
+http://servicioiptv.com:8000/german/123456/206
+#EXTINF:0,Eurosport  2
+http://servicioiptv.com:8000/german/123456/207
