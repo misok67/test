@@ -11,49 +11,117 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,HR- NOVA
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21410
-#EXTINF:-1,YU- RTS 1
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21397
-#EXTINF:-1,YU- RTS 1 HD
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21269
-#EXTINF:-1,YU- RTS 2
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21268
-#EXTINF:-1,YU- NOVA
-http://176.119.28.126:6204/denvanp/New472968WachtWd/28822
-#EXTINF:-1,HR- RTL 2
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21424
-#EXTINF:-1,HR- CINESTAR PREMIERE
-http://176.119.28.126:6204/denvanp/New472968WachtWd/29187
-#EXTINF:-1,HR- CINESTAR PREMIERE 2
-http://176.119.28.126:6204/denvanp/New472968WachtWd/29188
-#EXTINF:-1,HR- FOX MOVIES
-http://176.119.28.126:6204/denvanp/New472968WachtWd/29200
-#EXTINF:-1,HR- HBO ADRIA
-http://176.119.28.126:6204/denvanp/New472968WachtWd/29201
-#EXTINF:-1,YU- CINEMAX 1
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21246
-#EXTINF:-1,YU- CINEMAX 2
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21245
-#EXTINF:-1,YU- CINESTAR PREMIERE 1
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21244
-#EXTINF:-1,YU- CINESTAR PREMIERE 2
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21243
-#EXTINF:-1,YU- HBO ADRIA
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21239
-#EXTINF:-1,YU- HBO COMEDY
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21238
-#EXTINF:-1,YU- M1 FILM
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21237
-#EXTINF:-1,SR- PINK FILM
-http://176.119.28.126:6204/denvanp/New472968WachtWd/14097
-#EXTINF:-1,SR- CINESTAR ACTION
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21257
-#EXTINF:-1,SR- CINESTAR TV
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21256
-#EXTINF:-1,SR- HBO 1 HD
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21253
-#EXTINF:-1,SR- HBO 2 HD
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21252
-#EXTINF:-1,SR- HBO 3 HD
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21251
+#EXTINF:-1,CRO (HD) -NOVA HD  [BACKUP]
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37141
+#EXTINF:-1,CRO (HD) -NOVA TV HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37142
+#EXTINF:-1,|EX-YU.VIP|   NOVA.HR
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34540
+#EXTINF:-1,CRO (HD) -DOMA TV HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37064
+#EXTINF:-1,|EX-YU.VIP|   DOMA TV
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34502
+#EXTINF:-1,CRO (HD) -CINEMAX 1 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37045
+#EXTINF:-1,CRO (HD) -CINEMAX 1
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37046
+#EXTINF:-1,CRO (HD) -CINEMAX 2
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37047
+#EXTINF:-1,CRO (HD) -CINESTAR ACTION & THRILLER HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37048
+#EXTINF:-1,CRO (HD) -CINESTAR COMEDY FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37049
+#EXTINF:-1,CRO (HD) -CINESTAR FANTASY
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37050
+#EXTINF:-1,CRO (HD) -CINESTAR PREMIERE 1 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37051
+#EXTINF:-1,CRO (HD) -CINESTAR PREMIERE 2 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37052
+#EXTINF:-1,CRO (HD) -FOX MOVIES FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37074
+#EXTINF:-1,CRO (HD) -HBO 2 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37077
+#EXTINF:-1,CRO (HD) -HBO 2 FHD  [B]
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37078
+#EXTINF:-1,CRO (HD) -HBO 3 FHD  [B]
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37079
+#EXTINF:-1,CRO (HD) -HBO 3 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37080
+#EXTINF:-1,CRO (HD) -HBO ADRIA FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37081
+#EXTINF:-1,CRO (HD) -HBO ADRIA
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37082
+#EXTINF:-1,CRO (HD) -HBO FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37083
+#EXTINF:-1,CRO (HD) -HBO FHD  [B]
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37084
+#EXTINF:-1,CRO (HD) -KINO TV HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37102
+#EXTINF:-1,CRO (HD) -KLASIK TV
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37104
+#EXTINF:-1,CRO (HD) -M1 FILM
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37108
+#EXTINF:-1,CRO (HD) -RTL 2
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37150
+#EXTINF:-1,CRO (HD) -RTL 2  [B]
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37151
+#EXTINF:-1,CRO (HD) -TV 1000
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/66051
+#EXTINF:-1,|EX-YU.VIP|   CINEMAX HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34496
+#EXTINF:-1,|EX-YU.VIP|   CINESTAR ACTION
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34497
+#EXTINF:-1,|EX-YU.VIP|   CINESTAR FANTASY
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34498
+#EXTINF:-1,|EX-YU.VIP|   CINESTAR PREMIERE 1
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34499
+#EXTINF:-1,|EX-YU.VIP|   CINESTAR PREMIERE 2
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34500
+#EXTINF:-1,|EX-YU.VIP|   FOX MOVIES
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34511
+#EXTINF:-1,|EX-YU.VIP|   HBO
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34520
+#EXTINF:-1,|EX-YU.VIP|   HBO 2
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34521
+#EXTINF:-1,|EX-YU.VIP|   HBO 3
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34522
+#EXTINF:-1,|EX-YU.VIP|   PINK FILM
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34552
+#EXTINF:-1,|EX-YU.VIP|   RTL 2
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34577
+#EXTINF:-1,|EX-YU.VIP|   RTS 1
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34579
+#EXTINF:-1,|EX-YU.VIP|   RTS 2
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34580
+#EXTINF:-1,||EXYU||RTS 2 (RS)
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34600
+#EXTINF:-1,||EXYU||RTS 1 (RS)
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34601
+#EXTINF:-1,|EXYU| -PINK FILM
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/53428
+#EXTINF:-1,RS (HD) -HBO 2 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36814
+#EXTINF:-1,RS (HD) -HBO 2
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36815
+#EXTINF:-1,RS (HD) -HBO 3 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36816
+#EXTINF:-1,RS (HD) -HBO 3 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36817
+#EXTINF:-1,RS (HD) -HBO FAMILY FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36818
+#EXTINF:-1,RS (HD) -HBO GO FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36819
+#EXTINF:-1,RS (HD) -HBO HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36820
+#EXTINF:-1,RS (HD) -PINK FILM
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36851
+#EXTINF:-1,RS (HD) -RTS 1 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36889
+#EXTINF:-1,RS (HD) -RTS 1
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36890
+#EXTINF:-1,RS (HD) -RTS 2 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36891
+#EXTINF:-1,RS (HD) -RTS 2 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36892
+#EXTINF:-1,BA (HD) -M1 FILM
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36980
